@@ -1,0 +1,159 @@
+Exhibit 10.14
+
+ADVISORY AGREEMENT
+
+This Advisory Agreement is made and entered into, as of November 8, 2019 (“Effective Date”), by and between PEDEVCO Corp., a Texas corporation (“Company”), having a principal place of business at 575 N. Dairy Ashford, Energy Center II, Suite 210, Houston, Texas 77079 and Viktor Tkachev, a(n) X individual, ☐ partnership, ☐ limited liability partnership, ☐ corporation, ☐ limited liability company (check the appropriate box), having a principal place of business at Arhitektora Vlasova street, 22, apt. 93, Moscow 117393, Russia (“Advisor”).
+
+1. Engagement of Services
+
+. Company engages Advisor to provide the services set forth on Schedule A attached hereto. Schedule A can be amended from time to time should the scope of services change at any time.
+
+2. Compensation; Timing
+
+. Company will pay Advisor the fee set forth on Schedule A. Company will reimburse Advisor’s expenses which have been approved beforehand in writing by Company (email acceptable) no later than thirty (30) days after Company’s receipt of Advisor’s invoice, provided that reimbursement for expenses may be delayed until such time as Advisor has furnished reasonable documentation for authorized expenses as Company may reasonably request. Upon termination of this Agreement for any reason, Advisor will be (a) paid fees on the basis stated on Schedule A and (b) reimbursed only for expenses that are incurred pursuant to this Section 2 prior to termination of this Agreement.
+
+3. Independent Contractor Relationship
+
+(a) Advisor’s relationship with Company is that of an independent contractor, and nothing in this Agreement is intended to, or shall be construed to, create a partnership, agency, joint venture, employment or similar relationship. Advisor will not be entitled to any of the benefits that Company may make available to its employees, including, but not limited to, group health or life insurance, profit-sharing or retirement benefits, vacation days, sick days, or holidays. Advisor is not authorized to make any representation, contract or commitment on behalf of Company unless specifically requested or authorized in writing to do so by a Company manager. Advisor is solely responsible for, and will file, on a timely basis, all tax returns and payments required to be filed with, or made to, any federal, state or local tax authority with respect to the performance of services and receipt of fees under this Agreement. Advisor is solely responsible for, and must maintain adequate records of, expenses incurred in the course of performing services under this Agreement. No part of Advisor’s compensation will be subject to withholding by Company for the payment of any social security, federal, state or any other employee payroll taxes. Advisor is solely responsible for and assumes full responsibility for (as applicable) the payment of FICA, FUTA and income taxes and compliance with any other international, federal, state, or local laws, rules and regulations. Company will regularly report amounts paid to Advisor by filing Form 1099-MISC with the Internal Revenue Service as required by law.
+
+(b) Company understands and agrees that Advisor shall render services in whatever manner deemed appropriate by Advisor. During the term of this Agreement, Advisor agrees to perform the services on a professional best-efforts basis, in accordance with all applicable laws and regulations and in accordance with the highest applicable industry standards.
+
+(c) Company shall not control or direct, nor shall the Company have any right to control or direct, the result of or the details, methods, manner or means by which Advisor performs his or her business or services, except that Advisor shall coordinate services with the Company, shall provide services in accordance with generally accepted industry standards and in compliance with all international, federal, state, and local laws.
+
+(d) Advisor has and will at all times retain the exclusive right to control and direct the method, details, and means of performing the services under this Agreement. Company shall not specify the amount of time required to perform individual aspects of the services. Advisor’s services are not exclusive to the Company, and Advisor may render services for other business entities.
+
+4. Reserved
+
+1
+
+5. Confidentiality
+
+(a) Definition of Confidential Information
+
+. “Confidential Information” means (a) any technical and non-technical information related to Company’s business and current, future and proposed products and services of Company, including for example and without limitation, Company Property (as defined in Section 5(d)), and Company’s information concerning research, development, design details and specifications, financial information, procurement requirements, engineering and manufacturing information, customer lists, business forecasts, sales information and marketing plans and (b) any information that may be made known to Advisor and that Company has received from others that Company is obligated to treat as confidential or proprietary.
+
+(b) Non-Disclosure and Nonuse Obligations
+
+. During Advisor's independent contractor relationship under this Agreement, Company shall provide to Advisor Confidential Information. In exchange for the Company's promise to provide Advisor with Confidential Information, and except as permitted in this Section 5(b), Advisor shall not use, disseminate or in any way disclose the Confidential Information. Advisor may use the Confidential Information solely to perform services pursuant to this Agreement for the benefit of Company. Advisor shall treat all Confidential Information with the same degree of care as Advisor accords to Advisor’s own confidential information, but in no case shall Advisor use less than reasonable care. If Advisor is not an individual, Advisor shall disclose Confidential Information only to those of Advisor’s employees who have a need to know such information. Advisor certifies that each such employee will have agreed, either as a condition of employment or in order to obtain the Confidential Information, to be bound by terms and conditions at least as protective as those terms and conditions applicable to Advisor under this Agreement. Advisor shall immediately give notice to Company of any unauthorized use or disclosure of the Confidential Information. Advisor shall assist Company in remedying any such unauthorized use or disclosure of the Confidential Information. Advisor agrees not to communicate any information to Company in violation of the proprietary rights of any third party.
+
+(c) Exclusions from Non-Disclosure and Nonuse Obligations
+
+. Advisor’s obligations under Section (b) shall not apply to any Confidential Information that Advisor can demonstrate (a) was in the public domain at or subsequent to the time such Confidential Information was communicated to Advisor by Company through no fault of Advisor; (b) was rightfully in Advisor’s possession free of any obligation of confidence at or subsequent to the time such Confidential Information was communicated to Advisor by Company; or (c) was developed by employees of Advisor independently of and without reference to any Confidential Information communicated to Advisor by Company. A disclosure of any Confidential Information by Advisor (a) in response to a valid order by a court or other governmental body or (b) as otherwise required by law shall not be considered to be a breach of this Agreement or a waiver of confidentiality for other purposes; provided, however, that Advisor shall provide prompt prior written notice thereof to Company to enable Company to seek a protective order or otherwise prevent such disclosure.
+
+(d) Ownership and Return of Confidential Information and Company Property
+
+. All Confidential Information and any materials (including, without limitation, documents, drawings, papers, diskettes, tapes, models, apparatus, sketches, designs and lists) furnished to Advisor by Company, whether delivered to Advisor by Company or made by Advisor in the performance of services under this Agreement and whether or not they contain or disclose Confidential Information (collectively, the “Company Property”), are the sole and exclusive property of Company or Company’s suppliers or customers. Advisor agrees to keep all Company Property at Advisor’s premises unless otherwise permitted in writing by Company. Within five (5) days after any request by Company, Advisor shall destroy or deliver to Company, at Company’s option, (a) all Company Property and (b) all materials in Advisor’s possession or control that contain or disclose any Confidential Information. Advisor will provide Company a written certification of Advisor’s compliance with Advisor’s obligations under this Section 5(d).
+
+6. Indemnification
+
+. Advisor will indemnify and hold harmless Company from and against any and all third party claims, suits, actions, demands and proceedings against Company and all losses, costs and liabilities related thereto arising out of or related to (i) an allegation that any item, material and other deliverable delivered by Advisor under this Agreement infringes any intellectual property rights or publicity rights of a third party or (ii) any negligence by Advisor or any other act or omission of Advisor, including without limitation any breach of this Agreement by Advisor.
+
+7. Observance of Company Rules
+
+. At all times while on Company’s premises, Advisor will observe Company’s rules and regulations with respect to conduct, health, safety and protection of persons and property.
+
+8. No Conflict of Interest
+
+. During the term of this Agreement, Advisor will not accept work, enter into a contract or accept an obligation inconsistent or incompatible with Advisor’s obligations, or the scope of services to be rendered for Company, under this Agreement. Advisor warrants that, to the best of Advisor’s knowledge, there is no other existing contract or duty on Advisor’s part that conflicts with or is inconsistent with this Agreement. Advisor agrees to indemnify Company from any and all loss or liability incurred by reason of the alleged breach by Advisor of any services agreement with any third party.
+
+2
+
+9. Reserved.
+
+10. Term and Termination
+
+(a) Term
+
+. This Agreement is effective as of the Effective Date set forth above and shall continue indefinitely unless and until terminated by either party as set forth below.
+
+(b) Termination by Company
+
+. Company may terminate this Agreement without cause at any time, with termination effective fifteen (15) days after Company’s delivery to Advisor of written notice of termination (email acceptable). Company also may terminate this Agreement immediately for a material breach by Advisor if Advisor’s material breach of any provision of this Agreement is not cured within ten (10) days after the date of Company’s written notice of breach (email acceptable).
+
+(c) Termination by Advisor
+
+. Advisor may terminate this Agreement without cause at any time, with termination effective fifteen (15) days after Advisor’s delivery to Company of written notice of termination (email acceptable). Advisor also may terminate this Agreement immediately for a material breach by Company if Company’s material breach of any provision of this Agreement is not cured within ten (10) days after the date of Advisor’s written notice of breach (email acceptable).
+
+(d) Effect of Expiration or Termination
+
+. Upon expiration or termination of this Agreement, Company shall pay Advisor for services performed under this Agreement as set forth on Schedule A. The definitions contained in this Agreement and the rights and obligations contained in this Section 10(d) and Sections 5 and 11 will survive any termination or expiration of this Agreement.
+
+11. General Provisions
+
+(a) Successors and Assigns
+
+. Advisor may not subcontract or otherwise delegate Advisor’s obligations under this Agreement without Company’s prior written consent. Subject to the foregoing, this Agreement will be for the benefit of Company’s successors and assigns, and will be binding on Advisor’s assignees.
+
+(b) Injunctive Relief
+
+. Advisor’s obligations under this Agreement are of a unique character that gives them particular value; Advisor’s breach of any of such obligations will result in irreparable and continuing damage to Company for which money damages are insufficient, and Company shall be entitled to injunctive relief and/or a decree for specific performance, and such other relief as may be proper (including money damages if appropriate).
+
+(c) Notices
+
+. Any and all notices, requests, demands, or other communications provided for hereunder, shall be given in writing by personal service, by registered or certified mail, postage prepaid, overnight delivery service, delivery charges prepaid, or by email, facsimile or other electronic means addressed to the intended recipients. A notice shall be deemed to have been received when personally served or delivered or five (5) days after being mailed, or one (1) day after being sent by overnight delivery service or by email, facsimile or other electronic means.
+
+3
+
+(d) Governing Law; Forum
+
+. This Agreement shall be governed in all respects by the laws of the United States of America and by the laws of the State of Texas, as such laws are applied to agreements entered into and to be performed entirely within Texas between Texas residents. Each of the parties irrevocably consents to the exclusive personal jurisdiction of the federal and state courts located in Texas, as applicable, for any matter arising out of or relating to this Agreement, except that in actions seeking to enforce any order or any judgment of such federal or state courts located in Texas, such personal jurisdiction shall be nonexclusive. Additionally, notwithstanding anything in the foregoing to the contrary, a claim for equitable relief arising out of or related to this Agreement may be brought in any court of competent jurisdiction.
+
+(e) Severability
+
+. If a court of law holds any provision of this Agreement to be illegal, invalid or unenforceable, (a) that provision shall be deemed amended to achieve an economic effect that is as near as possible to that provided by the original provision and (b) the legality, validity and enforceability of the remaining provisions of this Agreement shall not be affected thereby.
+
+(f) Waiver; Modification
+
+. If Company waives any term, provision or Advisor’s breach of this Agreement, such waiver shall not be effective unless it is in writing and signed by Company. No waiver by a party of a breach of this Agreement shall constitute a waiver of any other or subsequent breach by Advisor. This Agreement may be modified only by mutual written agreement of authorized representatives of the parties.
+
+(g) Entire Agreement
+
+. This Agreement constitutes the entire agreement between the parties relating to this subject matter and supersedes all prior or contemporaneous agreements concerning such subject matter, written or oral.
+
+[SIGNATURE PAGE FOLLOWS]
+
+4
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+COMPANY
+
+PEDEVCO CORP.
+
+By: /s/ Clark R. Moore
+
+Name: Clark R. Moore
+
+Title: EVP and General Counsel
+
+ADVISOR
+
+VIKTOR TKACHEV
+
+By: /s/ Viktor Tkachev
+
+SSN: On File
+
+Address: Arhitektora Vlasova street, 22, apt. 93, Moscow 117393, Russia
+
+5
+
+SCHEDULE A
+
+SERVICES
+
+Advisory services related to strategic planning and business development.
+
+FEES
+
+The Company shall provide the following compensation to Advisor under this Agreement:
+
+a.
+
+Grant of 100,000 shares of Company restricted common stock under the Company’s 2012 Equity Incentive Plan, as amended, vesting on the date six (6) months following the date of grant, subject to continued service of Advisor to the Company.
+
+b.
+
+Such other compensation as agreed upon from time to time between the Company and Advisor.
+
+6

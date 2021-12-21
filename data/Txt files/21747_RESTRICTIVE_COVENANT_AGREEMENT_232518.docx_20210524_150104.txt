@@ -1,0 +1,211 @@
+Exhibit 10.1
+
+RESTRICTIVE COVENANT AGREEMENT
+
+THIS RESTRICTIVE COVENANT AGREEMENT (the “Restrictive Agreement”) is made and entered into as of September 12, 2005 (“Effective Date”), by and between TurboChef Technologies, Inc., a Delaware corporation (“Buyer”), and David H. McFadden (“Executive”).
+
+W I T N E S S E T H:
+
+WHEREAS, Buyer, Global Appliance Technologies, Inc., a Delaware corporation (“Seller”), and all of the stockholders of Seller, have entered into an Asset Purchase Agreement, dated the Effective Date (the “Definitive Agreement”), providing for the acquisition by Buyer of substantially all of the assets and the assumption of certain liabilities of Seller (the “Transaction”);
+
+WHEREAS, Executive is a major stockholder, director and key executive of Seller and has been one of the primary individuals involved in developing certain proprietary technology associated with Seller’s business (the “Purchased Technology”), which, along with the goodwill associated with Seller’s business, is one of the most valuable assets being acquired by Buyer in the Transaction;
+
+WHEREAS, in light of the foregoing, Executive has extensive and detailed knowledge of the Purchased Technology, and of Seller’s other intellectual property and confidential and proprietary information;
+
+WHEREAS, Seller’s business of researching, designing, developing and licensing various heat transfer technologies and cooking methods and services for use by manufacturers of commercial and residential foodservice equipment is highly competitive; and
+
+WHEREAS, as a condition of, and in order to induce Buyer to consummate, the Transaction, Executive has agreed to enter into this Restrictive Agreement.
+
+NOW, THEREFORE, for and in consideration of the rights and benefits that they will each derive from this Restrictive Agreement and the Definitive Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are acknowledged conclusively, Buyer and Executive (the “Parties”), intending to be legally bound, agree as follows:
+
+ARTICLE 1
+
+DEFINED TERMS; ACKNOWLEDGMENTS;
+
+REPRESENTATIONS AND WARRANTIES
+
+1.1          Defined Terms. For purposes of this Restrictive Agreement, the following capitalized terms shall have the following meanings:
+
+(a)          “Affiliate” shall mean, as to any specified Person, any other Person that, directly or indirectly through one or more intermediaries or otherwise, controls, is controlled by, or is under common control with the specified Person. As used in this definition, “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a Person (whether through ownership of securities of that Person, by contract, or otherwise).
+
+1
+
+(b)          “Business” shall mean the business of inventing, researching, designing, developing, licensing, marketing and selling various heat transfer technologies and cooking methods, products and services for use by manufacturers of commercial and residential foodservice equipment.
+
+(c)          “Buyer Indemnified Party” shall mean Buyer and its Affiliates, and each of Buyer’s officers, directors, employees, representatives and agents.
+
+(d)          “Competitive Position” shall mean (i) Executive’s direct or indirect equity ownership or control of any Competitor, or (ii) an employment, consulting, partnership, advisory, directorship, agency, promotional or independent contractor relationship between Executive and a Competitor, where Executive is to provide employment, consulting, contractual, advisory or other services similar in nature to some or all of the services that Executive provided to Seller. Notwithstanding the foregoing: (x) Executive’s direct or indirect ownership, solely as a passive investment, of equity securities of any entity that is required to file periodic reports with the U.S. Securities and Exchange Commission under Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the securities of which corporation are listed on any securities exchange, quoted on the National Association of Securities Dealers Automated Quotation System or traded in the over-the-counter market shall not constitute a “Competitive Position” if Executive is not a controlling person of, or a member of a group that controls, the entity and Executive does not, directly or indirectly, own one percent (1%) or more of any class of securities of the entity; and (y) a relationship between Executive and a subsidiary, division or Affiliate of a Competitor with annual revenues in excess of $1 billion, which subsidiary, division or Affiliate is not engaged, in whole or in part, in the Business, shall not constitute a “Competitive Position” if such relationship does not involve the provision of employment, consulting, contractual, advisory or other services within the Business.
+
+(e)          “Competitor” when referring to the Seller, shall mean any Person that is engaged, wholly or in material part, in the Business, or that develops, manufactures, sells, resells or distributes commercial or residential foodservice equipment that are within the Business.
+
+(f)          “Confidential Information” shall mean all Non-Public (as defined below) information or data of or about Seller, its business, clients and customers, including, but not limited to, information or data about its products, manufacturing processes, intellectual property, know-how, Trade Secrets (as defined below), designs, formulas, developmental or experimental work, computer programs (whether in object or source code), databases, other original works of authorship, customer lists, marketing methods, business plans, and financial information; provided, however, that Confidential Information shall not include information (i) that is or becomes generally available to the public other than as a result of a disclosure by Executive that was not previously authorized by Buyer, or (ii) that becomes available to Executive on a non-confidential basis from a third-party source unaffiliated with Buyer or Seller, provided that such source is not actually known by Executive to be bound by a confidentiality agreement with or other obligation of secrecy to Buyer or Seller. For purposes of the foregoing definition, “Non-Public” information is information that is not legally available to or legally accessible by the public.
+
+(g)          “Person” shall mean any individual, corporation, partnership, limited liability company, association, trust, governmental authority or other entity or organization.
+
+(h)          “Restricted Period” shall mean the period from and after the consummation of the Transaction on the Effective Date until the tenth (10th) anniversary of the Effective Date.
+
+(i)          “Trade Secrets” shall mean information that constitutes a trade secret under applicable law.
+
+2
+
+1.2          Acknowledgements by Executive. Executive acknowledges that by virtue of his ownership of and senior position with Seller, and his critical role in developing the Purchased Technology he has developed substantial expertise in the business operations of Seller and has had extensive access to Trade Secrets and other Confidential Information of Seller. Executive also acknowledges that while Seller’s principal place of business is currently located in Tarrant County, Texas, Seller has conducted business activities throughout the United States and the world, that the relevant market for the Business of Seller is national, international and worldwide in scope, and that there exists intense national, international and worldwide competition for the Purchased Technology and the other products and services of the Business of Seller. Executive also acknowledges that, as an owner of Seller and as one of Seller’s senior most executive officers, his duties for the Seller effectively extended throughout all areas where the Seller conducted business. Executive acknowledges that he will receive significant value and benefit in conjunction with the Transaction as a result of being a major stockholder of Seller, and that he is receiving and will receive substantial financial benefits hereunder. Executive recognizes that Buyer would be irreparably damaged, and its substantial investment in the assets of Seller materially impaired, if Executive were to enter into an activity competing with the Business of Seller in violation of the terms of this Restrictive Agreement or if Executive were to disclose or make unauthorized use of any Confidential Information. Executive expressly acknowledges that he is voluntarily entering into this Restrictive Agreement.
+
+1.3          Representations and Warranties. Executive represents and warrants, to and for the benefit of the Buyer Indemnified Parties, that: (a) he has full power and capacity to execute and deliver, and to perform all of Executive’s obligations under, this Restrictive Agreement; (b) neither the execution and delivery of this Restrictive Agreement nor the performance of this Restrictive Agreement will result directly or indirectly in a violation or breach of (i) any agreement or obligation by which he is or may be bound, or (ii) any law, rule or regulation of which Executive has knowledge; (c) Executive has carefully read this Restrictive Agreement; (d) Executive executes this Restrictive Agreement with full knowledge of the contents of this Restrictive Agreement, the legal consequences thereof, and any and all rights which each Party may have with respect to one another; (e) Executive has had the opportunity to receive, and has received, independent legal advice with respect to the matters set forth in this Restrictive Agreement and with respect to the rights and asserted rights arising out of such matters; and (f) Executive is entering into this Restrictive Agreement of Executive’s own free will. Executive’s representations and warranties shall survive until the expiration of the Restricted Period.
+
+ARTICLE 2
+
+LIMITATION ON COMPETITION
+
+Executive agrees that during the Restricted Period, Executive shall not, anywhere in the restricted territory described on Exhibit A to this Restrictive Agreement (the “Restricted Territory”), directly or indirectly, alone or in conjunction with any other person or entity, without the express prior written consent of Buyer, seek, accept, or take active steps to prepare for a Competitive Position (it being understood that any continuing education or attending any industry conference or trade show shall not be deemed to be taking “active steps” to prepare for a Competitive Position).
+
+ARTICLE 3
+
+NON-SOLICITATION AND NON-INTERFERENCE COVENANTS
+
+3.1          Clients, Customers, Suppliers and Agents. Executive shall not, directly or indirectly, during the Restricted Period: (a) solicit, or assist with the solicitation of, any Person to whom Seller actually provided services or products (or any Person to whom Seller had actively and directly sought to provide services or products) at any time after November 15, 2002 until the Effective Date
+
+3
+
+(“Customers”), for purposes of providing products or services that are in competition with those offered by Seller in conduct of the Business, except on behalf of Buyer or its controlled Affiliates; or (b) induce Customers, suppliers, agents or other Persons under contract or otherwise associated or doing business with Seller at any time after November 15, 2002 until the Effective Date, to reduce, alter or sever any such association or business with Buyer and/or its controlled Affiliates.
+
+3.2          Personnel. Executive agrees that during the Restricted Period, at any time or for any reason, Executive shall not, directly or indirectly, knowingly solicit any Person employed or retained by Buyer or its Affiliates to: (a) terminate such employment or engagement; or (b) accept employment, or enter into any consulting arrangement, with any Person other than Buyer and/or its Affiliates.
+
+3.3          Non-Disparagement. During the Restricted Period, neither Party will publicly and knowingly disparage the other Party or its business, executives, employees or advisors, whether in writing or orally or on any web page.
+
+ARTICLE 4
+
+NON-DISCLOSURE
+
+4.1          Non-Disclosure and Non-Use. Except as and to the extent required by law, Executive shall not, directly or indirectly, alone or in conjunction with any other Person: (a) disclose, publish, disseminate or otherwise communicate, in oral, written, electronic or other format, any Confidential Information to any Person unaffiliated with Seller or Buyer; or (b) use, copy or reproduce any Confidential Information, except for the sole benefit of Buyer. The foregoing restrictions shall terminate with respect to any Confidential Information that does not constitute a Trade Secret upon the conclusion of the Restricted Period. Executive agrees that if he is required (by law, regulation or court or judicial order) to disclose any Confidential Information, Executive will give Buyer prompt notice of such requirement so that Buyer may seek an appropriate protective order. If a protective order or similar order is not obtained by the date that Executive must comply with the request, Executive will disclose what he believes in his reasonable judgment to be the minimal amount of Confidential Information necessary to comply with the request.
+
+4.2          Return of Confidential Information. Executive shall, promptly after receipt of a written request of Buyer, return to Buyer, at Buyer’s expense, or destroy all documents or other materials or things in his possession that contain or embody the Confidential Information or any portion of the Confidential Information.
+
+ARTICLE 5
+
+CONSIDERATION
+
+5.1          Payments. As consideration for Executive’s covenants and agreements in Article 2, Article 3 and Article 4 hereof, subject to the provisions of Section 5.2 and Section 5.3 hereof, Buyer will pay, or cause to be paid, to Executive a total of Three Million Dollars ($3,000,000), payable as follows:
+
+(a)          One Million Dollars ($1,000,000) has been paid to Executive on the Effective Date in connection with the execution and delivery hereof.
+
+(b)          The remaining Two Million Dollars ($2,000,000) shall be paid to Executive in three (3) annual installments of (i) Six Hundred Sixty-Seven Thousand Five Hundred Dollars ($667,500), (ii) Six Hundred Sixty-Seven Thousand Five Hundred Dollars ($667,500) and (iii) Six Hundred Sixty-Five Thousand Dollars ($665,000), each without interest, with the first such payment being due on the
+
+4
+
+first anniversary of the Effective Date, the second such payment being due on the second anniversary of the Effective Date, and the third and final payment being due on the third anniversary of the Effective Date.
+
+5.2          Forfeiture Upon Breach. Without limiting the generality of Section 6.9 or any other provision hereof, upon (a) any breach by Executive of any of the covenants set forth in Article 2 or Article 3 hereof, or (b) any material breach by Executive of any of the covenants set forth in Article 4 hereof or of any other provision hereof, Executive shall be deemed to have irrevocably forfeited, and shall have no further right to receive, any remaining payments pursuant to Section 5.1 (b) hereof. Such forfeiture of payments is not exclusive of, is not limited by and shall not limit any other rights or remedies which Buyer may have, whether at law, in equity, by contract or otherwise, all of which shall be cumulative (and not alternative).
+
+5.3          Right to Terminate for Failure to Pay. If Buyer shall not pay, when due, any amount owing under Sections 5.1(a) or (b) hereof, and Buyer shall fail to cure such failure to pay within thirty (30) days after it receives written notice thereof from Executive, Executive may, at its election and upon written notice to Buyer, declare this Restrictive Agreement to be terminated and of no further force or effect and void ab initio.
+
+5.4          Manner of Payment. Each payment to be made by Buyer hereunder shall be made by wire transfer of immediately available funds to an account designated by Executive at least three (3) business days prior to the due date of such payment.
+
+ARTICLE 6
+
+MISCELLANEOUS
+
+6.1          Material Breach. Any violation by Executive of his covenants in Article 2 or Article 3 shall be deemed to be a material breach of this Restrictive Agreement and the covenants and agreements of Executive herein. Executive acknowledges that the covenants in Article 2, Article 3 and Article 4 are a material and essential part of the sale of Seller’s Business to Buyer, without which Buyer would not have consummated the Transaction.
+
+6.2          Entire Agreement; Amendments and Waivers. This Restrictive Agreement contains the entire agreement of the parties with respect to the subject matter hereof and supersedes all prior agreements, written or oral, with respect thereto. This Restrictive Agreement may be amended or modified and the terms and conditions hereof may be waived, only by a written instrument signed by each of the parties or, in the case of waiver, by the party waiving compliance. No delay on the part of either party in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any waiver on the part of either party of any right, power or privilege hereunder, nor any single or partial exercise of any right, power or privilege hereunder, preclude any other or further exercise thereof or the exercise of any other right, power or privilege hereunder. The rights and remedies provided herein are cumulative and are not exclusive of any rights or remedies that either party may otherwise have at law or in equity.
+
+6.3          Notices. All notices, objections, requests, claims, demands, and other communications required or permitted hereunder shall be in writing, and shall be deemed to be delivered and received (i) if personally delivered or, if delivered by courier service, when actually received by the party to whom notice is sent (or upon confirmation of receipt received by the sender), or (ii) if delivered by mail (whether actually received or not), at the close of business on the third business day next following the day when placed in the mail, postage prepaid, certified or registered, return receipt requested addressed to
+
+5
+
+the appropriate party or parties, at the address of such party set forth below such party’s signature on the signature page to this Restrictive Agreement (as such may be amended by notice from time to time).
+
+6.4          Governing Law. This Restrictive Agreement shall be construed in accordance, and governed in all respects by, the internal laws of the Commonwealth of Massachusetts (without giving effect to principles of conflicts of laws).
+
+6.5          Dispute Resolution.
+
+(a)          Except as specifically provided in Section 6.5(d), any dispute, claim, question, or disagreement arising out of or relating to this Restrictive Agreement or the breach by Executive of any provision hereof, shall be solely and finally settled by binding arbitration in accordance with the provisions of the Commercial Arbitration Rules (the “Arbitration Rules”) of the American Arbitration Association (“AAA”) by a panel of three arbitrators selected in accordance with the Arbitration Rules (which arbitrators shall be knowledgeable in labor and employment law, intellectual property law and the protection of intellectual property).
+
+(b)          The parties agree that, unless otherwise selected by mutual agreement, any arbitration proceeding hereunder shall be brought in Chicago, Illinois.
+
+(c)          Judgment on the award of the arbitrators may be entered in any court having jurisdiction over the party against which enforcement of the award is being sought.
+
+(d)          Each party may, without inconsistency with this Agreement (including this Section 6.5), seek from a court any interim or provisional relief, including injunctive or other equitable relief, that may be necessary to protect the rights or property of that party pending the selection of the arbitrators or pending the arbitrators’ determination of the merits of the controversy, or to otherwise enforce the provisions of this Agreement, without first seeking or obtaining any decision of arbitrators under this Section 6.5, even if a similar or related matter has already been referred to arbitration in accordance with the terms of this Section 6.5.
+
+6.6          Transaction. In the event the Transaction is not consummated and the Definitive Agreement is terminated for any reason in accordance with its terms, this Restrictive Agreement shall be null and void ab initio without any provisions herein surviving.
+
+6.7          Severability.
+
+(a)          If any provision of this Restrictive Agreement shall be held by an arbitrator or a court of competent jurisdiction to be excessively broad as to duration, activity or subject, it shall be deemed to extend only over the maximum duration, activity and subject as to which such provision shall be valid and enforceable under applicable law. In the event that any provision of this Restrictive Agreement, or the application of any such provision to any Person or set of circumstances, shall be determined to be invalid, unlawful, void or unenforceable to any extent, the remainder of this Restrictive Agreement, and the application of such provision to Persons or circumstances other than those as to which it is determined to be invalid, unlawful, void or unenforceable, shall not be impaired or otherwise affected and shall continue to be valid and enforceable to the fullest extent permitted by law.
+
+(b)          The parties intend that the covenant contained in Article 2 above shall be construed as a series of separate covenants, one for each geographical unit specified. Except for geographical coverage, each such separate covenant shall be deemed identical in terms to the covenant contained in Article 2 above.
+
+6
+
+(c)          If, in any arbitration or in any judicial proceeding under Section 6.5(d) hereof, an arbitrator or a court, as applicable, shall refuse to enforce any of the separate covenants deemed included in this Restrictive Agreement, then the unenforceable covenant shall be deemed eliminated from these provisions for the purpose of those proceedings to the extent necessary to permit the remaining separate covenants to be enforced.
+
+6.8          Successors and Assigns. This Restrictive Agreement shall be binding upon and inure to the benefit of the parties hereto, the heirs and legal representatives of Executive and the successors and assigns of Buyer. Executive shall not be entitled to assign his obligations hereunder. Buyer may assign its rights under this Restrictive Agreement to any successor in interest to all or part of the business or assets of Buyer in connection with any merger, consolidation or other business combination involving it or the sale of all or substantially all of its assets or the assets of the Business. Executive agrees that, upon request therefor, he will, in writing, acknowledge and consent to any such assignment of this Restrictive Agreement.
+
+6.9          Several Agreements. In addition to this Restrictive Agreement between Buyer and the Executive, Buyer has entered into a similar agreement with one other key employee of Seller. It is expressly agreed that this Restrictive Agreement and the obligations of the parties hereunder are to be construed separately from any similar agreement with the other key employee of Seller and a breach of a similar agreement by the other key employee of Seller shall not constitute a breach of this Restrictive Agreement.
+
+6.10         Independence of Obligations. The covenants of Executive set forth in this Restrictive Agreement shall be construed as independent of any other agreement or arrangement between Executive, on the one hand, and Buyer or any of their Affiliates or subsidiaries, on the other hand, and except as set forth in Section 5.3 hereof , or except with respect to any claim by Executive for failure of Buyer to make any payments under Section 3 of that certain Services Agreement, of even date herewith, between Executive and Buyer or Section 3.3 of the Definitive Agreement, the existence of any claim or cause of action by Executive against Seller or Buyer or any of their Affiliates or subsidiaries shall not constitute a defense to the enforcement of such covenants against Executive.
+
+6.11         Remedies. Executive expressly acknowledges that damages alone will not be an adequate remedy for any breach by Executive of any of the covenants set forth in this Restrictive Agreement and that Buyer, in addition to any other remedies which it may have, shall be entitled, as a matter of right, to injunctive relief, including, without limitation, specific performance (if an applicable form of relief for such breach). The rights and remedies of Buyer and the other Buyer Indemnified Parties under this Restrictive Agreement are not exclusive of or limited by any other rights or remedies which they may have, whether at law, in equity, by contract or otherwise, all of which shall be cumulative (and not alternative). Without limiting the generality of the foregoing, the rights, remedies, obligations and liabilities of Buyer and the other Buyer Indemnified Parties under this Restrictive Agreement, and the rights, remedies, obligations and liabilities of Executive under this Restrictive Agreement, are in addition to their respective rights, remedies, obligations and liabilities under the law of unfair competition, under laws relating to misappropriation of trade secrets, under other laws and common law requirements and under all applicable rules and regulations. Executive’s and Buyer’s obligations under this Restrictive Agreement are absolute and nothing in this Restrictive Agreement shall limit any of Executive’s or Buyer’s obligations, or the rights or remedies of Executive, Buyer or any of the other Buyer Indemnified Parties, under the Definitive Agreement; and nothing in the Definitive Agreement shall limit any of Buyer’s or Executive’s obligations, or any of the rights or remedies of Executive, Buyer or any of the other Buyer Indemnified Parties, under this Restrictive Agreement. No breach on the part of Executive, Buyer or any other party of any covenant or obligation contained in the Definitive Agreement or any other agreement (except as otherwise set forth in this Restrictive Agreement) or by virtue of any failure to
+
+7
+
+perform or other breach of any obligation of Executive, Buyer, any other Buyer Indemnified Party or any other Person shall limit or otherwise affect any right or remedy of Executive, Buyer or any of the other Buyer Indemnified Parties under this Restrictive Agreement.
+
+6.12        Further Assurances. Executive shall (at Buyer’s sole expense) execute and/or cause to be delivered to Buyer (and each Buyer Indemnified Party, if applicable) such instruments and other documents, and shall (at Buyer’s sole expense) take such other actions, as Buyer and such Buyer Indemnified Party may reasonably request at any time (whether during or after the Restricted Period) for the purpose of carrying out or evidencing any of the provisions of this Restrictive Agreement.
+
+6.13        Construction.
+
+(a)          For purposes of this Restrictive Agreement, whenever the context requires: the singular number shall include the plural, and vice versa; the masculine gender shall include the feminine and neuter genders; the feminine gender shall include the masculine and neuter genders; and the neuter gender shall include the masculine and feminine genders.
+
+(b)          The parties hereto agree that any rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be applied in the construction or interpretation of this Restrictive Agreement.
+
+(c)          As used in this Restrictive Agreement, the words “include” and “including,” and variations thereof, shall not be deemed to be terms of limitation, but rather shall be deemed to be followed by the words “without limitation.”
+
+(d)          Except as otherwise indicated, all references in this Restrictive Agreement to “Sections” and “Articles” are intended to refer to Sections of this Restrictive Agreement and Articles of this Restrictive Agreement.
+
+6.14        Headings. The headings contained in this Restrictive Agreement are for convenience of reference only, shall not be deemed to be a part of this Restrictive Agreement and shall not be referred to in connection with the construction or interpretation of this Restrictive Agreement.
+
+6.15        Dispute Resolution Fees. If any action or proceeding relating to this Restrictive Agreement or the enforcement of any provision of this Restrictive Agreement is brought against any party hereto, the prevailing party shall be entitled to recover reasonable attorneys’ fees, costs and disbursements, as well as all expenses, fees and costs associated with the action or proceeding, including fees and expenses of the arbitrator selected under Section 6.5 hereof (in addition to any other relief to which the prevailing party may be entitled).
+
+[signatures on following page]
+
+8
+
+IN WITNESS WHEREOF, Buyer and Executive have executed this Restrictive Agreement as of the Effective Date.
+
+EXECUTIVE:
+
+/s/ David H. McFadden
+
+David H. McFadden
+
+Address:
+
+9 Pine Knoll Road
+
+Lexington, MA 02420
+
+BUYER:
+
+TurboChef Technologies, Inc.
+
+By: /s/ Richard E. Perlman
+
+Richard E. Perlman
+
+Chairman
+
+Address:
+
+Six Concourse Parkway
+
+Suite 1900
+
+Atlanta, GA 30328
+
+9
+
+EXHIBIT A
+
+Restricted Territory
+
+The “Restricted Territory” shall mean the continents of North America, South America, Europe, Asia and Australia.

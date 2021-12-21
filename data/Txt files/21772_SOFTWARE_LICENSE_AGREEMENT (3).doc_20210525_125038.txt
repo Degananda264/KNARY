@@ -1,0 +1,647 @@
+Exhibit 10.1
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (“Agreement”) is entered into this 27th day of September, 2005 (the “Effective Date”) by and between Innerwall, Inc., (“Innerwall”) a Delaware corporation with principal offices at 4945 North 30th Street, Colorado Springs, CO 80919 and Catcher, Inc., a Delaware corporation with principal offices at 39526 Charlestown Pike, Hamilton, VA 20158 (“Catcher”). Catcher and Innerwall are sometimes collectively referred to herein as the “parties.”
+
+RECITALS:
+
+WHEREAS, Catcher desires to purchase licenses to Innerwall’s ENCLAVE™ software product, and Innerwall desires to sell such licenses to Catcher in accordance with the terms of this Agreement; and
+
+WHEREAS, Innerwall desires to grant to Catcher, and Catcher desires to receive from Innerwall, a non-exclusive license to bundle and distribute the ENCLAVE™ software product, in object code or executable (machine readable) format only, with Catcher’s Catcher Device in accordance with the terms of this Agreement;
+
+NOW, THEREFORE, based upon the foregoing premises and the mutual covenants set forth herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, intending to be legally bound, the parties hereby agree as follows:
+
+1. Definitions. The following terms, when used with initial capital letters will have the meaning set forth below unless the clearly context requires otherwise:
+
+(a) “Agent Module” means the module incorporated in the Enclave software that drives the Catcher Device acting as an agent.
+
+(b) “Applicable Patent Rights” means the claims in Innerwall’s U.S. patents now issued or issued during the term of this Agreement relating to Enclave, including without limitation, U.S. Pat. No. 6,889,168, and U.S. Patent Applications Ser. No.’s 10/758,852, 10/687,320 and 11/100,714.
+
+(c) “Bundled Catcher Device” means the Catcher Device loaded with an embedded Agent Module.
+
+(d) “Catcher Marks” means Catcher’s trademarks and proprietary names used to market the Catcher Device.
+
+(e) “Catcher Software” means Catcher’s proprietary software included in the Catcher Device.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+1
+
+(f) “Catcher Distributor Partners” means resellers, distributors, value-added resellers, systems integrators and OEM licensees or other entities, each of which purchase Bundled Catcher Devices from Catcher for resale to End Users.
+
+(g) “Catcher Third Party Software” means software that Catcher installs on the Catcher Device licensed from a third party.
+
+(h) “Catcher Device” means Catcher’s CATCHER™ portable command and control hardware component together with all Catcher Software and Catcher Third Party Software other than the Agent Module.
+
+(i) “Console Module” means the Innerwall module used with the Enclave software that resides in a server or other computer that manages the Realm Controller Modules as well as the Agent Module that reside in the Bundled Catcher Device.
+
+(j) “Documentation” means textual materials, including without limitation, operating instructions, related technical information, and user documentation relating to a party’s software.
+
+(k) “Enclave” means the ENCLAVE™ computer programming code in object or executable (machine-readable) code form comprised of the following software modules: (1) two or more Agent Modules, (2) one or more Realm Controller Modules, and (3) one or more Console Modules, together with the hardware upon which the Realm Controller Module is installed, together with Documentation.
+
+(l) “End User” means an entity that has acquired a license to use Enclave with one or more Bundled Catcher Devices for its own internal business purposes under an End User Agreement.
+
+(m) “End User Agreement” means the agreement between Innerwall and an End User concerning the End User’s use of Enclave together with one or more Bundled Catcher Devices, such Agreement to be entered into at the time the End User activates the Agent Module.
+
+(n) “First Line Support” means the support that Catcher may provide End Users, as set forth herein.
+
+(o) “Innerwall Marks” means the trademarks and proprietary product names of Innerwall used to market the ENCLAVE™ software product.
+
+(p) “Marks” means collectively, the Innerwall Marks and the Catcher Marks.
+
+(q) “Network Security Products” means software products that are used in the analysis, management, monitoring, response, and restoration of business computer networks. Software products that are not competitive with Enclave, under the current release or any future release, are not included in the definition of Network Security Products.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+2
+
+(r) “Order” means a document substantially in the form of the attached Exhibit A for use by Catcher to order Support Services as well as orders for Enclave submitted to Innerwall from End Users. Each Support Services Order must reference and be solely governed by this Agreement.
+
+(s) “Proprietary Data” means any proprietary “know-how” which a disclosing party discloses to a recipient relating to the development or use of the disclosing party’s design, structure, configuration, programming, and protocol of the disclosing party’s software. “Know-how” may include computer program designs, algorithms, subroutines, system specifications, programming logic, manufacturing techniques, and program architecture.
+
+(t) “Realm Controller Module” means the module incorporated in the Enclave software that coordinates the Agent Modules in the Catcher Device and communicates with the Console Module.
+
+(u) “Support Services” means Innerwall’s technical support for the Agent Module as Catcher may order under Innerwall’s Support Services Agreement as set forth in Exhibit B.
+
+(v) “Term” means the Initial Term (as defined in Section 7) and any Renewal Term (as defined in Section 7).
+
+(w) “Utilization Report” means Catcher’s quarterly report identifying End Users, if any, to which Catcher sells Bundled Catcher Devices, the names of Catcher Distributor Partners to which Catcher has sold the Bundled Catcher Device, the and the fees due hereunder for any of the foregoing from the previous quarter. Catcher will require its Catcher Distributor Partners to submit to Innerwall the name of End Users to which they sell Bundled Catcher Devices if such Catcher Distributor Partners are permitted to do so.
+
+2. License Grants.
+
+Each of the license grants below are subject to this Agreement, including the payment of all associated fees and the following limitations: (i) Catcher may not copy Enclave, except as explicitly authorized below or for archival or disaster recovery purposes, and if Catcher does copy Enclave for these purposes, Catcher must preserve any patent markings and other proprietary rights notices in Enclave and place the notices on any and all copies Catcher has made or makes; (ii) Catcher will not reverse engineer, decompile, disassemble, or otherwise attempt to determine Enclave’s source code; (iii) Catcher may modify Enclave in accordance with the Documentation solely to allow for interoperability between Enclave and the Catcher Device; and (iv) the licenses Catcher receives below are granted solely to the extent of the Applicable Patent Rights and only to the extent Catcher must have a license under Innerwall’s other intellectual property rights to avoid infringement of the same and to have the benefit of the rights granted to it under this Agreement. Catcher may not create or attempt to create any derivative works from Enclave. Except for the licenses granted under this Agreement, ownership rights and, all intellectual property rights in and to Enclave remains the sole and exclusive property of Innerwall. Innerwall retains all rights not expressly granted to Catcher in this Agreement. Catcher’s agreements with Catcher Distributor Partners may not be inconsistent with or less protective of, Innerwall’s proprietary and intellectual property rights in Enclave than the protections and restrictions set forth in this Agreement.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+3
+
+(a) Development Use License. Innerwall grants Catcher a non-exclusive, non-transferable license to use Enclave to (i) design, develop and test the Bundled Catcher Device, and (ii) provide training for resellers and End User concerning use of Enclave in respect of the Catcher Devices (collectively, a “Development Use License”).
+
+(b) Embedded Shipping Use License. Innerwall grants Catcher a non-exclusive, non-transferable license to (i) integrate and embed the Agent Module of Enclave in the Catcher Device; (ii) to reproduce the Agent Module of Enclave as it will be integrated into the Catcher Device; and (iii) to sell, transfer, distribute and sublicense the Agent Module of Enclave embedded in one or more Catcher Devices to intermediaries for resale to End Users or sale directly to End Users (collectively, an “Embedded Shipping Use License”).
+
+(c) Evaluation Use. Catcher may grant intermediaries that may resell the Bundled Catcher Device and End Users the right to evaluate the Bundled Catcher Device without any additional license or the payment of any fees, including without limitation, Support Services fees, it being understood that if an End User activates the Agent Module, Catcher will owe Innerwall the fees required by this Agreement. Catcher will condition all such evaluations on compliance on the evaluator’s agreement that it will not reverse engineer, decompile, disassemble, or otherwise attempt to determine the source code of the Agent Module.
+
+(d) Restrictions.
+
+(i) Catcher may not reproduce Enclave in an amount exceeding the number of units to be sold to intermediaries for resale to End Users or to End Users actually receiving one or more Bundled Catcher Devices.
+
+(ii) Catcher may not integrate or bundle the Agent Module with any products or services other than the Catcher Device without first obtaining Innerwall’s prior written consent.
+
+(iii) Innerwall will enter into an End User Agreement with each End User that activates the Agent Module. Catcher understands that such agreement will contain terms and conditions that are no less restrictive than those contained in this Agreement.
+
+(e) Open Source License. One Enclave component interfaces with an executable file (the “Snort executable”) that communicates with the Snort 1.8 - 2.x Host IDS Library software program (“Snort”). Snort is subject to the GNU General Public License. The source code for Innerwall’s Snort executable is available for download at www.innerwall.com/                    . Innerwall grants Catcher a non-exclusive, non-transferable license with respect to Innerwall’s Snort executable that is coextensive with the other licenses granted by Innerwall under this Agreement. The GNU General Public License is available for download at www.opensource.org.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+4
+
+3. Reciprocal License to Use Marks.
+
+(a) Catcher may use the Innerwall Marks in connection with its marketing and distribution of the Bundled Catcher Device. Catcher’s use of the Innerwall Marks must strictly adhere to Innerwall’s most recent written guidelines on use of the Innerwall Marks PROVIDED THAT, a copy of such guidelines are delivered to Catcher. If Catcher wishes to deviate from the written guidelines from Innerwall, Catcher will submit the proposed use of any Innerwall Mark to Innerwall for Innerwall’s written approval before the use. Innerwall will not unreasonably withhold, delay or condition approval. Catcher’s use of the Innerwall Marks will inure to the benefit of Innerwall.
+
+(b) Innerwall may use the Catcher Marks in connection with its marketing of the Bundled Catcher Device subject to the parties agreeing on the terms and conditions of such distribution. Innerwall’s use of the Catcher Marks will strictly adhere to Catcher’s most recent written guidelines provided that, a copy of such guidelines is delivered to Innerwall. If Innerwall wishes to deviate from the written guidelines from Catcher, Innerwall will submit the proposed use of any Catcher Mark to Catcher for Catcher’s written approval before the use. Catcher will not unreasonably withhold, delay or condition approval. Innerwall’s use of the Catcher Marks will inure to the benefit of Catcher.
+
+4. Exclusive Bundling.
+
+For a period of 2 year(s) from August 1, 2005, except as noted in this Section 4, Catcher will not pre-load the Catcher Device with any other Network Security Product other than that embedded in the operating system software from Microsoft or any other operating system software company and will promote Enclave as the preferred mobility management Network Security Product for the Catcher Device. Notwithstanding the foregoing, any Catcher Distributor Partners and any End User may utilize a Network Security Product other than Enclave without limitation. Except as stated in the first sentence of this Section 4, nothing in this Agreement creates any exclusive arrangement between Catcher and Innerwall. Either party may distribute their respective products directly or indirectly through their respective distribution channels. It is specifically understood that Catcher may remove Enclave from the Catcher device pursuant to a directive from any government customers and utilize any competing Network Security Product.
+
+5. Fees.
+
+(a) Payment Terms. Enclave license fees are set out on Schedule A. The license and Support Services fees for each Order are due and payable upon submission of Utilization Reports or the activation of Agent Modules, as applicable. Innerwall may assess interest charges of one percent (1%) per month for late payments. Catcher will reimburse Innerwall for any costs incurred (including reasonable attorneys’ fees) in the collection of Catcher’s past due accounts if Innerwall is successful in such efforts. There is no license or other fee of any nature whatsoever for the license grants under this Agreement or the obligations of Innerwall under this Agreement, except as set forth in Schedule A and in the Support Services Agreement between the parties.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+5
+
+(b) Quarterly Utilization Report. Except for Bundled Shipping Use Licenses, Catcher agrees to provide Innerwall with a Utilization Report within 30 days after the end of each calendar quarter. The information contained in each Utilization Report will be based upon the activity in the previous calendar quarter. Each Utilization Report will also include a calculation of commissions due to Innerwall under Section 6.
+
+(c) Audit. Innerwall may, at its sole cost and expense and at any reasonable time during the term of this Agreement but no more than once each fiscal quarter during the Term and with no less than seven (7) days prior written notice, request and gain access to Catcher’s premises subject to Catcher’s security procedures, for the limited purpose of conducting an audit to determine and verify that Catcher is in compliance with these terms and conditions. Catcher will promptly grant the access and cooperate with Innerwall in the audit. The audit will be restricted in scope, manner and duration to that reasonably necessary to achieve its purpose and may not disrupt Catcher’s operations. Catcher will promptly contest (in accordance with Section 15 of this Agreement) any findings of the audit that it believes are not grounded in verifiable fact and will promptly pay all other underpayments revealed by the audit. If the audit reveals an uncontested discrepancy in excess of five per cent (5%), Catcher will also be liable for the costs of the audit.
+
+(d) Taxes. Catcher will pay all sales, use, VAT, and other consumption taxes, personal property taxes and other taxes associated with the licenses granted hereunder (other than those based on Innerwall’s net income) unless Catcher furnishes satisfactory proof of exemption from such taxes.
+
+6. Mutual Commission on Innerwall’s Sale of Bundled Catcher Devices and Catcher’s Sale of Innerwall’s Enclave. [To be the subject of additional agreements between the parties.]
+
+7. Term, Termination.
+
+(a) Term. Unless earlier terminated, the initial term of this Agreement is 2 year(s) from the Effective Date (the “Initial Term”). The Initial Term will automatically renew for an unlimited number of successive one-year terms (each a “Renewal Term”), provided, however, that in any Renewal Term, either party may terminate this Agreement by giving at least 60 days’ advance written notice of termination.
+
+(b) Termination. Either party may terminate this Agreement at any time immediately upon written notice to the other party if the other party is in material default of this Agreement. A party is in material default of this Agreement if it (i) files or has filed against it a petition in bankruptcy, makes a general assignment for the benefit of its creditors, has a receiver or trustee appointed for its business, properties or assets, or ceases to do business in the ordinary course or (ii) fails to perform in a material way any of its material duties or obligations, and does not undertake an effort to substantially cure and substantially cure the default within 30 days after written notice is given to the defaulting party. In addition, a party may immediately terminate this Agreement with out opportunity for cure upon a breach of Section 14. Upon termination of this Agreement, all licenses granted under this Agreement will automatically terminate.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+6
+
+(c) Effect of Termination. Notwithstanding the foregoing, any Development Use Licenses, and Embedded Shipping Use Licenses with respect to Catcher’s inventory (including work-in-process) of Catcher Devices and Bundled Catcher Devices sold prior to such termination, will remain in effect and not be affected by such termination so long as such licenses are used in accordance with their respective license grants contained herein. Each recipient of Confidential Information must return to the disclosing party such Confidential Information except as needed for continued support under this Agreement.
+
+8. Software Support.
+
+(a) Catcher’s Support to End Users. Catcher Distributor Partners are responsible for providing, directly or indirectly, First Line Support to each End User.
+
+(b) Innerwall’s Support to Catcher. Support Services ordered by Catcher will be provided under the then current version of Innerwall’s Support Agreement in effect on the date Support Services are ordered. A form of Innerwall’s Support Agreement as of the Effective Date is attached to this Agreement as Exhibit B. In no event will the fees associated with the Support Agreement increase during the Term without Catcher’s prior written consent.
+
+(c) Training. Within 90 days of the execution of this Agreement, Innerwall will provide 5 days of free training for employees of Catcher designated by Catcher. Catcher is responsible for travel and expense costs of Catcher personnel to Innerwall facilities in Colorado. If Catcher requests that training take place at Catcher’s facilities and Innerwall agrees, then Catcher will be charged for the time of Innerwall’s personnel, travel, hotels, and other associated costs for Innerwall’s personnel, as well as training facilities and associated costs, provided that all such costs and expenses are first consented to in writing by Catcher. Innerwall will provide Catcher with a training manual that both parties agree is sufficient for Catcher’s internal use within 20 days of the signing of this agreement.
+
+9. Protection of Intellectual Property.
+
+(a) Use of Marks. Catcher will use its commercially reasonable efforts to protect Innerwall’s, its licensors’ and suppliers’ intellectual property and proprietary rights in the Innerwall software, Proprietary Data, Innerwall Marks, and other intellectual property of Innerwall. Innerwall will use its commercially reasonable efforts to protect Catcher’s, its licensors’, and suppliers’ intellectual property and proprietary rights in the Catcher Software, Proprietary Data, Catcher Marks, and Catcher’s other intellectual property. If the management of Catcher becomes aware of the unauthorized use, copying, or disclosure of the Innerwall Software, Innerwall Marks, or Innerwall’s Proprietary Data, Catcher will notify an Innerwall representative in writing. Catcher will assist Innerwall, at Innerwall’s request and expense, in the investigation and prosecution of the unauthorized use, copying, or disclosure. If the management of Innerwall becomes aware of the unauthorized use, copying, or disclosure of Catcher Software, Catcher Marks, or Catcher’s Proprietary Data, Innerwall will notify a Catcher’s Chief Executive Officer in writing. Innerwall will assist Catcher, at Catcher’s request and expense, in the investigation and prosecution of the unauthorized use, copying, or disclosure.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+7
+
+(b) Patent Marking. The Agent Module, its Documentation, or other Enclave materials supplied by Catcher with the Bundled Catcher Device (and not provided by Innerwall) should be marked with the patent numbers and patent application numbers included in the definition of Applicable Patent Rights to the extent necessary to protect Innerwall’s patent rights in Enclave but only to the extent Enclave materials are so marked by Innerwall. Catcher will ensure that Innerwall’s patent marking is maintained within Enclave and its Documentation in the same form and location as supplied by Innerwall.
+
+10. Warranties, Disclaimer.
+
+(a) Authority. Each party represents and warrants to the other party that it has the full right, power and authority to enter into this Agreement and to carry out its obligations under this Agreement.
+
+(b) No Third-Party Warranty. NEITHER PARTY MAKES ANY WARRANTIES CONCERNING ANY THIRD PARTY SOFTWARE AND HAS NO OBLIGATION TO INDEMNIFY, DEFEND OR HOLD HARMLESS THE OTHER PARTY WITH RESPECT TO THIRD PARTY SOFTWARE.
+
+11. Indemnification.
+
+(a) Indemnity by Catcher. Subject to the liability, remedy and damage limitations set forth in this Agreement, Catcher will indemnify and hold harmless Innerwall and its parent and affiliates, its and their successors and assigns and its and their shareholders, officers, directors, agents, employees and contractors, (collectively, the “Innerwall Indemnitees”) from and against any and all loss or liability of any nature whatsoever cognizable at law (collectively, “Losses”) resulting from third-party claims (including governmental entities) against a Innerwall Indemnitee, that may be asserted against the Innerwall Indemnitee by such third party, arising out of the breach by Catcher of its obligations under this Agreement or any wrongful act of Catcher in connection with any sale by Catcher of ENCLAVE™.
+
+(b) Indemnity by Innerwall. Subject to the liability, remedy and damage limitations set forth in this Agreement, Innerwall will indemnify and hold harmless Catcher and its parent and affiliates, its and their successors and assigns and its and their shareholders, officers, directors, agents, employees and contractors, (collectively, the “Catcher Indemnitees”) from and against any and all loss or liability of any nature whatsoever cognizable at law (collectively, “Losses”) resulting from third-party claims (including governmental entities) against a Catcher Indemnitee, that may be asserted against the Catcher Indemnitee by such third party, arising out of: (i) the breach by Innerwall of its obligations under this Agreement and (ii) without limiting Innerwall’s obligations under Section 12, below, Innerwall IP Claims.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+8
+
+(c) Processing Indemnity Claims. Whenever a third party makes a claim indemnified hereunder against a Catcher Indemnitee or Innerwall Indemnitee (the “Indemnified Party,” as the case may be), upon receipt of such claim, the Indemnified Party will promptly give to the other party (the “Indemnifying Party”) notice thereof and will, at no out-of-pocket expense to the Indemnified Party, cooperate with the Indemnifying Party with respect to the investigation and defense or settlement of such matter. The Indemnifying Party will, at it’s expense, including reasonable attorneys’ fees, defend an Indemnified Party against claims for Losses, whether or not frivolous, that may be asserted against an Indemnified Party by such third party, The Indemnified Party shall have the right, without affecting its indemnity hereunder, to participate in the administration, defense and settlement of such matter at its own cost and expense and with counsel of its own choosing, but the Indemnifying Party will have the right in its sole, absolute, discretion to control such administration, defense and settlement in all aspects. The Indemnifying Party will have the sole, absolute right to settle the indemnified claim solely for money to be paid wholly by the Indemnifying Party. Any other settlement may be offered or made only with the prior written consent of the Indemnified Party, and the indemnified claim may, in all events, be settled only upon obtaining a full and unconditional release of the Indemnified Party.
+
+12. Third Party Claims of Infringement.
+
+If Catcher receives notice of any claim that Enclave, or any module thereof, infringes a third party’s United States patent or copyright or other intellectual property rights (an “Innerwall IP Claim”), Catcher will promptly give written notice of the Innerwall IP Claim to Innerwall in accordance with this Agreement. Innerwall, at its sole cost and expense, shall promptly investigate all such Innerwall IP claims. If Innerwall determines that the Innerwall IP Claim has merit, Innerwall may in its discretion instruct Catcher to cease the sale of Bundled Catcher Devices. Innerwall has no obligation to indemnify Catcher for any sales that occur after Innerwall has instructed Catcher to cease selling Bundled Catcher Devices, except for sales that are required by prior contractual commitments. Thereafter, Innerwall shall either procure Catcher the right to continue using Enclave, and any module thereof, and all rights and licenses necessary for Catcher to continue selling Bundled Catcher Devices; or modify or replace all or part of Enclave, or any module thereof, to avoid infringement. If Innerwall determines that it is not commercially reasonable to do either of the foregoing, as determined by Innerwall in its sole discretion, Innerwall may terminate Catcher’s licenses and Catcher may terminate all future obligations of the parties under this Agreement. In the case of such termination, Innerwall shall refund to Catcher the all fees, including without limitation, Service Agreement fees paid to Innerwall in connection with the infringing product.
+
+13. Limitation of Liability.
+
+NO PARTY IS LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING WITHOUT LIMITATION LOST PROFITS, RELATING TO THIS AGREEMENT OR RESULTING FROM A USE OR INABILITY TO USE THE BUNDLED CATCHER DEVICE, HOWEVER CAUSED, ARISING UNDER ANY CAUSE OF ACTION, INCLUDING WITHOUT
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.
+
+9
+
+LIMITATION, BREACH OF CONTRACT, WARRANTY, STRICT LIABILITY, NEGLIGENCE OR OTHERWISE, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF THE DAMAGES. THE ESSENTIAL PURPOSE OF THIS SECTION 13 IS TO LIMIT THE POTENTIAL LIABILITY OF INNERWALL AND CATCHER ARISING OUT OF THIS AGREEMENT. Notwithstanding the foregoing, the limitation of liability under this Section 13 does not apply to liabilities resulting from actions that infringe a party’s intellectual property or violate a party’s Confidential Information responsibilities under this Agreement.
+
+14. Confidentiality.
+
+Innerwall and Catcher agree that each of them will, during the term of this Agreement and for so long thereafter as the information remains confidential, take all reasonable steps to safeguard the confidentiality of, and proprietary rights to, the confidential information (“Confidential Information”) of the other party (each, a “disclosing party”) which may be disclosed to a party (each, a “recipient”) under this Agreement (including, but not limited to, product plans, designs, business plans, technical specifications, research, and customer or financial data, Proprietary Data, the Utilization Reports, and the terms and pricing under this Agreement). Without the prior written consent of the disclosing party, no recipient may (a) use the Confidential Information for its own benefit or the benefit of any third party except for purposes expressly provided for in this Agreement, or (b) disclose the Confidential Information to any third party. This Section 14 will not be construed to restrict, and Confidential Information does not include, information that (a) is publicly known at the time of its disclosure to the recipient, (b) is lawfully received by the recipient from a third party not bound in a confidential relationship to the disclosing party, (c) was already known by the recipient prior to disclosure by the disclosing party, or (d) is independently developed or created by the receiving party without use of the Confidential Information from the disclosing party. If a recipient is issued a subpoena or court order requiring disclosure of Confidential Information, it will provide the disclosing party notice and an opportunity to contest the subpoena or court order. Innerwall acknowledges that Catcher may disclose the terms of this Agreement to the extent Catcher determines that it is required by law to be disclosed under applicable securities laws.
+
+15. Mandatory Binding Arbitration.
+
+Except as provided in the last sentence of this Section 15, any and all claims and controversies arising out of or relating to this Agreement, including the scope of this Section 15, or the breach or enforcement of this Agreement, or any aspect of the relationship between the parties, whether such claims are common law or statutory, including claims asserting violations of the antitrust or racketeering laws, will be settled by final, binding arbitration exclusively in, the state of Virginia. The arbitration will be heard before one arbitrator to be chosen in accordance with the commercial rules of the American Arbitration Association. As an exception to the foregoing, legal actions may be commenced for injunctive relief of any nature as required to enforce a party’s rights under Section 14.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+10
+
+(a) Governing Law. Except as set forth in the following sentence of this Section 15(a), the execution, interpretation and performance of this Agreement will be governed by the internal laws of the State of Virginia, without regard to that State’s conflict-of-laws principles. Notwithstanding the foregoing, in respect of claims for indemnification of third-party claims: (i) the rights and obligations of the parties will be governed by the same body of law as applies to the determination of the principal claim for which indemnification is sought; and (ii) the parties hereby irrevocably consent to the personal jurisdiction of any court in which any such third-party claim is commenced or pending. The purpose of this provision is to avoid inconsistent adjudications. The arbitrator will not have the power to alter, modify, amend, add to or subtract from any term or provision of this Agreement, or to award damages or other remedies expressly prohibited or limited by this Agreement, or punitive damages of any nature, or to grant injunctive relief, including interim relief, of any nature. In all other respects, the commercial rules of the American Arbitration Association will govern the arbitration. The decision of the arbitrator will be final and binding.
+
+(b) Decision. The arbitrators’ decision will be in writing and must provide a reasoned basis for the resolution of each dispute and for any award. The arbitrators will not have power to award damages in connection with any dispute in excess of actual compensatory damages and will not multiply actual damages or award consequential or punitive damages or award any other damages that are excluded under this Agreement.
+
+(c) Expenses. Each party will bear its own fees and expenses with respect to the arbitration and any related proceeding, and the parties will share equally the fees and expenses of the American Arbitration Association and the arbitrators.
+
+(d) Jurisdiction. Judgment on the award of the arbitrators may be entered and enforced by any court having jurisdiction to do so. The parties hereby irrevocably consent to the personal jurisdiction of any court in which: (i) this arbitration provision is not enforceable as a matter of law as to a particular claim brought by one party against the other; (ii) an action to enter judgment and to enforce the award of the arbitrator is commenced or pending; (iii) a third-party claim pursuant to Section 11 is commenced or pending; and (iv) an application for injunctive relief permitted by Section 15 is commenced or pending.
+
+16. Miscellaneous.
+
+(a) Assignment. Neither party may assign this Agreement or any rights, licenses or obligations hereunder without the prior written approval of the non-assigning party. Notwithstanding the foregoing, a party may assign this Agreement to any acquirer of all or of substantially all of the party’s equity securities, assets, or business relating to the subject matter of this Agreement, except to a direct competitor of the other party. As a condition to the purported assignment, the purported assignor will provide to the other party written confirmation prior to the assignment of the successor’s assumption of this Agreement. Any attempted assignment in violation of this Section will be void and without effect. Subject to the foregoing, this Agreement will benefit and bind the parties’ successors and assigns.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+11
+
+(b) Notices. All notices between the parties will be in writing and will be deemed to have been given if personally delivered or sent by certified or registered mail (return receipt) or telecopy to the addresses first set out above, or the other address as is provided by notice as set forth herein. Within 10 days after the execution of this Agreement, each party will provide to the other party the name of its authorized representative to receive notices under this Agreement. Notices will be deemed effective upon receipt or, if delivery is not affected by reason of some fault of the addressee, when tendered.
+
+(c) Relationship of the Parties. Each party is an independent contractor in the performance of this Agreement, is solely responsible for all of its employees and agents and its labor costs and expenses arising in connection therewith. Neither party nor its agents or employees are the representatives of the other party for any purpose and neither party has the power or authority as agent, employee or any other capacity to represent, act for, bind or otherwise create or assume any obligation on behalf of the other party for any purpose whatsoever.
+
+(d) Governing Law. This Agreement will be governed by the laws of the State of Virginia, without reference to its conflict of laws principles.
+
+(e) Severability. Any term or provision of this Agreement held to be illegal or unenforceable will, if possible, be interpreted to be construed as valid, but in any event the validity or enforceability of the remainder hereof will not be affected.
+
+(f) Export Regulations. Each party may be subject to regulation by agencies of the U.S. government, including the U.S. Department of Commerce, which prohibit export or diversion of certain technical products to certain countries. Each party warrants that it will comply in all respects with the export and re-export restrictions applicable to the technology and documentation licensed hereunder.
+
+(g) Counterparts. This Agreement may be executed in several counterparts, all of which taken together will constitute one single instrument.
+
+(h) Section Headings; Schedules. The section and subsection headings used in this Agreement are for reference and convenience only. The exhibits and schedules referred to and attached to this Agreement, or that are to be attached to this Agreement, are incorporated into this Agreement by this reference to the same extent as if set forth in full in this Agreement.
+
+(i) No Waiver. No delay or omission by a party to exercise any right or power occurring upon any noncompliance or default by the other party with respect to any of the terms of this Agreement impairs any the right or power or will be construed to be a waiver of any the right or power. A waiver by a party of any of the covenants, conditions, or agreements to be performed by the other will not be construed to be a waiver of any succeeding breach or of any covenant, condition, or agreement contained in this Agreement. Unless stated otherwise, all remedies provided for in this Agreement are cumulative and in addition to and not in lieu of any other remedies available to either party at law, in equity, or otherwise.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+12
+
+(j) Entire Agreement. This Agreement, along with the exhibits and schedules, sets forth the entire Agreement between the parties and supersedes all prior proposals, agreements, and representations between them, whether written or oral. This Agreement may be changed only by mutual agreement of the parties in writing.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be signed and delivered by their duly authorized officers, all as of the Effective Date.
+
+Innerwall, Inc.
+
+Catcher Inc.
+
+By:
+
+By:
+
+Title:
+
+Title:
+
+Date:
+
+Date
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+13
+
+EXHIBIT A
+
+PURCHASE ORDER NO.
+
+For Production License Agreement (“License Agreement”) entered into between:
+
+Innerwall, Inc.
+
+2060 Briargate Pkwy, Suite 339
+
+Colorado Springs, CO 80920
+
+AND
+
+Licensee
+
+________________________________________
+
+________________________________________
+
+________________________________________
+
+________________________________________
+
+This Purchase Order shall be governed by the terms and conditions of the License Agreement entered into by and between the parties dated                                 ,             , and shall constitute Exhibit A to the License Agreement.
+
+A.
+
+LICENSED SOFTWARE
+
+The Software licensed to Licensee is as follows:
+
+Base Package
+
+Add-Ons
+
+B.
+
+DESIGNATED CENTERS
+
+The Designated Centers where Licensee is permitted to use the licensed Software are set forth below. Designated Centers may include an enterprise, and/or specific sites and facilities or equipment, as specifically described below.
+
+Enterprise/Facility/Sits Description
+
+Location
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+14
+
+Further description of scope of the Designated Centers under this License (as may be necessary):
+
+.
+
+C.
+
+HARDWARE
+
+Hardware to be supplied by Innerwall and charges for such hardware, including applicable taxes:                                                                                                                                                                                                                                                              .
+
+D.
+
+LICENSE FEES
+
+The License Fees payable for a license to use the Software described in this Purchase Order in the Designated Centers according to the terms of the License Agreement, including applicable taxes, are as follows: _______________________________________
+
+______________________________________________________________________________________
+
+______________________________________________________________________________________
+
+___________________.
+
+D.
+
+INSTALLATION, CONSULTING AND TRAINING SERVICES
+
+Upon request, Innerwall shall provide to Licensee installation, consulting and/or training services for the Licensed Software on a time and materials (“T&M”) basis; that is, (i) Licensee shall pay Innerwall for all the time spent performing such services, plus materials, taxes, and reimbursable expenses; and (ii) the rates for such services shall be Innerwall’s then-current standard rates when such services are provided. Any monetary limit stated in an estimate for T&M services shall be an estimate only for Licensee’s budgeting and Innerwall’s resource scheduling purposes. If the limit is exceeded, Innerwall will cooperate with Licensee to provide continuing services on a T&M basis. Innerwall shall invoice Licensee upon completion of specific services or projects for T&M services. Charges shall be payable thirty (30) days from receipt of invoice. Such services requested by Licensee at the time of this Purchase Order include:
+
+E.
+
+MAINTENANCE AND MONITORING AND RESPONSE SERVICES
+
+Innerwall provides only limited maintenance service to licensees according to the License Agreement. Licensee may receive additional maintenance services and monitoring and response services by entering into Innerwall’s current and available Maintenance and Service Agreement.
+
+F.
+
+PAYMENT TERMS
+
+All License Fees and other charges due under this Agreement are due and payable as follows:
+
+.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+15
+
+By their signatures below, the parties have agreed to the terms of this Purchase Order, and further acknowledge that this Purchase Order is effective only as a part of and on execution of the License Agreement referenced above.
+
+Innerwall, Inc.
+
+Licensee
+
+By:
+
+By:
+
+Name:
+
+Name:
+
+Title:
+
+Title:
+
+Date:
+
+Date:
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+16
+
+EXHIBIT B
+
+INNERWALL, INC.
+
+MAINTENANCE AND SERVICE AGREEMENT
+
+THIS MAINTENANCE AND SERVICE AGREEMENT (“Service Agreement”) is made by and between INNERWALL, INC., a Colorado corporation having a principal place of business at 2060 Briargate Pkwy, Suite 339, Colorado Springs, CO 80920 (“Innerwall”) and                                          (“Client”), a                                          corporation having a principal place of business at                                                              . The effective date of this Service Agreement is                     , 2003 (the “Effective Date”).
+
+1. DEFINITIONS
+
+(a) “Designated Center” shall mean the computer hardware, operating system, Client-specific application and geographic location designated pursuant to the Production License Agreement.
+
+(b) “Designated Interface” shall mean the contact person or group designated by Client and agreed to by Innerwall who will coordinate all requests for assistance and Incident contacts with Innerwall.
+
+(c) “Documentation” shall mean the user guides and manuals for installation and use of the Software. Documentation is provided in CD ROM or bound form, whichever is generally available.
+
+(d) “Incident” shall mean a security incident detected by Innerwall through the Software, and affecting the Clients Designated Center.
+
+(e) “Incident Response” shall mean a repair or recommendation for repair or other corrective action provided by Innerwall intended to resolve or mitigate an Incident.
+
+(f) “Error” shall mean a reproducible defect in the Serviced Program or Documentation when operated on a Serviced Environment which causes the Serviced Program not to operate substantially in accordance with the Documentation.
+
+(g) “Resolution” shall mean a modification or workaround to the Serviced Program and/or Documentation and/or other information provided by Innerwall to Client intended to resolve an Error.
+
+(h) “Software” means the software in object code form distributed by Innerwall for which Client is granted a license pursuant to a Production License Agreement (the “License Agreement’, and the media, Documentation and arty Updates thereto.
+
+(i) “Service” shall mean ongoing maintenance support and Incident Response services provided by Innerwall pursuant to the terms of this Service Agreement.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+17
+
+(j) “Service Hours” shall mean the timeframe during which Innerwall staff are available to respond to requests for maintenance support made by the Designated Interface and to implement Incident Response Services, which shall be 9:00 a.m. to 5:00 p.m. (Pacific time), Monday through Friday, for Standard Service; twenty four (24) hours a day, Monday through Friday, for Extended Service; and twenty four (24) hours a day, seven (‘n days a week, for Premier Service.
+
+(k) “Service Period” shall mean the period during which Client is entitled to receive Service on a particular Serviced Program, which shall be a period of twelve (12) months beginning from the Effective Date of this Agreement, from the date Innerwall receives payment of Service Fees for subsequent Serviced Programs, or from the expiration of the preceding Service Period.
+
+(l) “Serviced Environment” shall mean any hardware and operating system platform which Innerwall services for use with the Serviced Program.
+
+(m) “Serviced Program” shall mean the current version of the Software in use at the Designated Center, for which Client has signed a Service Agreement and paid the then-current service fee (“Service Fee”).
+
+(n) “Update” means a subsequent release of the Software which Innerwall generally makes available for Software licenses at no additional license fee other than shipping and handling charges, provided Client has signed a Service Agreement and paid the Service Fees for such licenses for the relevant time period. Update shall not include any release, option or future product which Innerwall licenses separately.
+
+2. TERM AND TERMINATION.
+
+(a) Term. The term of this Service Agreement with respect to a particular Serviced Program shall be the Service Period. Upon expiration of an existing Service Period for a particular Serviced Program, provided Service has not been terminated prior to expiration pursuant to Section 2(b) (“Termination Without cause) or Section 2(c) (“Termination With Cause”) hereof, a new Service Period shall automatically begin for a consecutive twelve (12) month term (“Renewal Period”) so long as (a) Client pays the Service Fee within thirty (30) days of invoice by Innerwall; and (b) Innerwall is still offering Service on such Serviced Program. This Service Agreement shall terminate upon the termination of Service for all Serviced Programs. The termination of this Service Agreement shall not terminate the Production License Agreement.
+
+(b) Termination Without Cause. Either party shall have the right to terminate the Service Period without cause upon sixty (60) days written notice prior to the end of each Service Period for such Serviced Program.
+
+(c) Termination With Cause. Either party may terminate the Service Period upon thirty (30) days written notice to the other party of a material breach by the other party of its obligations set forth in this Service Agreement if such breach is not cured within such thirty (30) day period. Upon such termination of the Service Period for cause by Innerwall, Innerwall shall retain any paid-up Service Fees for said Serviced Program. Upon such termination for cause by Client, Innerwall’s sole and exclusive obligation shall be to promptly refund that portion of the Service Fee for said Serviced Program proportional to the percentage of the Service Period remaining at the time termination is effective.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+18
+
+(d) Reinstatement. Once the Service Period has been terminated by Client or Innerwall for a particular Serviced Program, it can be reinstated only if Innerwall is still offering Service for such Serviced Program and Client pays a fee equal to the Service Fees that would have been payable for the period of time during which Service was terminated for such Serviced Program.
+
+(e) Survival. The provisions of Section 9 (“Miscellaneous”) shall survive the expiration or termination of this Agreement by. either parry for any reason.
+
+3. SERVICES PROVIDED.
+
+(a) System Management and Incident Response. Innerwall will provide remote 2d-hour monitoring of the Serviced Program for purposes of detecting Incidents and [Please add to this](?). Innerwall will also report Incidents detected and provide Incident Response during the Service Hours, that Innerwall determines is technically and commercially reasonable in view of the severity and nature of the Incident during the Service Hours.
+
+(b) Telephone Support. Innerwall will provide telephone Service to the Designated Interface during the Service Hours. Telephone Service will include the following:
+
+(i) Clarification of functions and features of the Serviced Program;
+
+(ii) Clarification of the Documentation;
+
+(iii) Guidance in operation of the Serviced Program;
+
+(iv) Assistance in identifying and verifying the causes of suspected Errors in the Serviced Program; and
+
+(v) Advice on bypassing identified Errors in the Serviced Program, if reasonably possible.
+
+(c) Resolution of Errors. Innerwall will provide an initial response acknowledging Errors reported by Client in accordance with the severity levels and response tunes identified in Exhibit A (“Service Fees, Incident and Error Severity Levels and Response Times”) hereto. Thereafter, Innerwall shall use commercially reasonable efforts to provide a Resolution to the Serviced Program. Innerwall will acknowledge each Client report of an Error by written acknowledgment setting forth a Software Problem Report number (SPR#) for use by Client and Innerwall in all correspondence relating to such Error to track the Error until it is resolved, and setting forth the severity of the Error and acknowledging of the urgency of a response to the Error in accordance with the severity identification levels and response times set forth in Exhibit A (“Service Fees, Incident and Error Severity Levels and Response Times”) hereto.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+19
+
+(d) Travel Expenses. Maintenance and services provided hereunder shall be provided at Innerwall’s principal place of business, or at the Designated Center at Innerwall’s expense, as determined in Innerwall’s sole discretion. Should Client request that Innerwall send personnel to the Designated Center to resolve any Error, Client shall pay Innerwall’s reasonable travel, meals and lodging expenses.
+
+(e) Exceptions. In view of the evolving and often unpredictable nature of viruses, hacker-initiated attacks, and other security breaches, Innerwall shall have no responsibility to anticipate, prevent, and repair every Incident that might occur. Innerwall shall have no responsibility under this Agreement to fix any Errors or Incidents arising out of or related to the following causes: (a) Client’s modification or combination of the Serviced Program (in whole or in part), including without limitation any Customer Specific Objects (as defined in the Production License Agreement) for which Innerwall has not received the source code, (b) use of the Serviced Program in an environment other than a Serviced Environment; or (c) accident; unusual physical, electrical or electromagnetic stress; neglect; misuse; failure or fluctuation of electric power, air conditioning or humidity control; failure of media not furnished by Innerwall; excessive heating; fire and smoke damage; operation of the Serviced Program with other media and hardware, software or telecommunication interfaces not meeting or not maintained in accordance with the manufacturer’s specifications; or causes other than ordinary use. Any corrections performed by Innerwall for such Incidents and Errors shall be made, in Innerwall’s reasonable discretion, at Innerwall’s then current time and material charges.
+
+4. UPDATES.
+
+Innerwall will provide Updates for the Serviced Programs as and when developed for general release in Innerwall’s sole discretion. Innerwall shall Service the most current Update and the immediately preceding release for a period of twelve (12) months. Each Update will consist of a set of programs and files made available on machine-readable media and will be accompanied by Documentation adequate to inform Client of the problems resolved and any significant operational differences resulting therefrom.
+
+5. CLIENT RESPONSIBILITIES.
+
+(a) Supervision and Management. Client is responsible for undertaking the proper supervision, control and management of its use of the Serviced Programs, including, but not limited to: (a) assuring proper Serviced Environment configuration, Serviced Programs installation and operating methods; and (b) following industry standard procedures for the security of data, accuracy of input and output, and back up plans, including restart and recovery in the event of hardware or software error or malfunction.
+
+(b) Training. Client is responsible for proper training of alt appropriate personnel in the operation and use of the Serviced Programs and associated equipment.
+
+(c) Designated Interface. Client shall designate the following individual or group to serve as the Designated Interface with Innerwall for the maintenance services provided hereunder.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+20
+
+(d) Access to Personnel and Equipment. Client shall provide Innerwall with access to Client’s personnel and its equipment during Service Hours. This access must include the ability to dial-in to the equipment on which the Serviced Programs are operating and to obtain the same access to the equipment as those of Client’s employees having the highest privilege or clearance level. Innerwall will inform Client of the specifications of the modem equipment and associated software needed, and Client will be responsible for the costs and use of said equipment.
+
+6. SERVICE FEES.
+
+(a) Annual Service Fees. Annual Service Fees shall be at Innerwall’s then-current rates. Client shall pay Service Fees within thirty (30) days of receipt of an invoice.
+
+(b) Payments. Any amounts due hereunder shall be converted into U.S. Dollars at a rate equal to the average of the exchange rates for the appropriate currency quoted in the Wall Street Journal at the end of the first and last days of the relevant accounting period (or on the first business day thereafter if such day is a Sunday or other nonbusiness day) and directed to:
+
+Innerwall
+
+Attn: Accounts Receivable.
+
+(c) Overdue Amounts. Any amounts not paid within thirty (30) days will be subject to interest of the lower of the legal merest rate or one percent (1%) per month, which interest will be immediately due and payable.
+
+(d) Taxes. In addition to any other payments due under this Agreement, Client agrees to pay, indemnify and hold Innerwall harmless from, any sales, use, excise, import or export, value added or similar tax or duty, and any other tax not based on Innerwall’s net income, including penalties and interest and all government permit fees, license fees, customs fees and similar fees levied upon the delivery of the Software or other deliverables which Innerwall may incur in respect of this Agreement, and any costs associated with the collection or withholding of au}r of the foregoing items (the “Taxes”).
+
+(e) Expenses. If Client requires onsite service, Client agrees m pay actual costs for travel, lodging and meals reasonably incurred by Innerwall in addition to the then-current Service fees. Under such circumstances, Client shall also pay actual costs for supplies and other expenses reasonably incurred by Innerwall, which are not of the sort which would normally be provided or covered by Innerwall, provided that Client has approved in advance the purchase of such supplies and other expenses. If Client so requires, Innerwall shat! submit written evidence of each expenditure to Client prior to receiving reimbursement of any costs and expenses.
+
+7. LIMITED WARRANTY FOR SERVICES.
+
+(a) Warranty. Innerwall warrants that it will perform its services in a professional and workmanlike manner in accordance with generally acceptable industry practices; however, Innerwall does not represent or warrant that any and/or all Errors will be corrected and that any and/or all Incidents will be prevented or corrected. Innerwall’s sole and exclusive obligation pursuant to this warranty shall be to reperform any work not in compliance with this warranty which is brought to the attention of Innerwall by written notice within thirty (30) days after such services were performed.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+21
+
+(b) Limitations On Warranty.
+
+EXCEPT AS SPECIFICALLY PROVIDED HEREIN AND TO THE ~Z EXTENT PERMITTED BY APPLICABLE LAW, INNERWALL DISCLAIMS ALL WARRANTIES OR CONDITIONS EXPRESSED OR IMPLIED WITH REGARD TO SERVICES PROVIDED UNDER THIS AGREEMENT, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. THIS LIMITED WARRANTY GIVES CLIENT SPECIFIC LEGAL RIGHTS. CLIENT MAY HAVE OTHERS WHICH VARY FROM JURISDICTION TO JURISDICTION. THIS AGREEMENT DOES NOT EXCLUDE, RESTRICT OR MODIFY ANY LIABILITY IMPOSED OTHERWISE UNDER TILE LAW THAT CANNOT, BY SUCH LAW, BE EXCLUDED, RESTRICTED OR MODIFIED.
+
+8. LIMITATION OF LIABILITY.
+
+INNERWALL’S AGGREGATE CUMULATIVE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT (WHETHER ARISING FROM CONTRACT, TORT OR OTHERWISE) IS LIMITED TO THE TOTAL AMOUNT OF FEES PAID BY CLIENT UNDER THIS AGREEMENT. INNERWALL SHALL NOT HE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHETHER BASED UPON CONTRACT, TORT OR ANY OTHER LEGAL THEORY, ARISING FROM ITS PERFORMANCE OR NONPERFORMANCE UNDER THIS AGREEMENT.
+
+NOTWITHSTANDING THIS SECTION, INNERWALL DOES NOT EXCLUDE OR LIMIT LIABILITY IN RESPECT OF PERSONAL INJURY OR DEATH TO THE EXTENT SUCH LIABILITY CANNOT HE EXCLUDED OR LIMITED UNDER APPLICABLE LAW. THE PARTIES NAVE ADDRESSED AND NEGOTIATED THE LIMITATIONS AND EXCLUSIONS SET FORTH IN THIS AGREEMENT AND AGREE THAT THE RELEVANT PROVISIONS ARE FAIR IN RELATION TO THE BENEFITS RECEIVED BY EACH PARTY.
+
+9. MISCELLANEOUS
+
+(a) Notices. All notices or reports permitted or required under this Agreement shall be in writing and shall be by personal delivery, telegram, telex, telecopier, facsimile transmission, or by certified or registered mail, return receipt requested, and shall be deemed given upon personal delivery, five (5) days after deposit in the mail, or upon acknowledgment of receipt of electronic transmission. Notices shall be sent to the addresses set forth at the beginning of this Agreement or such other address as either party may specify in writing. If notice is sent to Innerwall, it shall be sent to the person bearing the title set forth below Innerwall’s signature to this Agreement.
+
+(b) Force Majeure. Neither party shall be liable hereunder by reason of any failure or delay in the performance of its obligations hereunder (except for the payment of money) on account of strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, governmental action, labor conditions, earthquakes, material shortages or any other cause which is beyond the reasonable control of such party.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+22
+
+(c) Assignment. Neither this Agreement nor any rights or obligations of Client hereunder may be assigned by Client in whole or in part without the prior written approval of Innerwall. Any assignment in violation of this Section 9(c) (“Assignment”) shall be void and of no effect Innerwall’s rights and obligations, in whole or in part, under this Agreement may be assigned by Innerwall.
+
+(d) Waiver. The failure of either parry to require performance by the other party of any provision hereof shall not affect the full right to require such performance at air time thereafter; nor shall the waiver by either party of a breach of any provision hereof be taken or held to be a waiver of the provision itself.
+
+(e) Severability. In the event that any provision of this Agreement shall be unenforceable or invalid under any applicable law or be so held by applicable court decision, such unenforceability or invalidity shall not render this Agreement unenforceable or invalid as a whole and, in such event, any such provision shall be changed and interpreted so as to best accomplish the objectives of such unenforceable or intended provision within the limits of applicable law or applicable court decisions.
+
+(f) Injunctive Relief. It is understood and agreed that notwithstanding any other provisions of this Agreement, a breach by Client of this Agreement will cause Innerwall irreparable damage for which recovery of money damages would be inadequate, and that, in addition to any and all remedies available at law, Innerwall shall be entitled to seek timely injunctive relief to protect Innerwall’s rights under this Agreement.
+
+(g) Attorneys’ Fees. In the event any proceeding or lawsuit is brought by Innerwall, its suppliers or Client in connection with this Agreement, the prevailing party in such proceeding shall be entitled to receive its costs, expert witness fees and reasonable attorneys fees, including costs and fees on appeal.
+
+(h) Controlling Law. This Agreement shall be governed in all respects by the laws of the United States of America and the State of Colorado as such laws are applied to agreements entered into and to be performed entirely within Colorado between Colorado residents. The parties agree that the United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to this Agreement.
+
+(i) No Agency. Nothing contained herein shall be construed as creating any agency, partnership or other form of joint enterprise between the parties.
+
+(j) Headings. The section headings appearing in this Agreement are inserted only as a matter of convenience and in no way define, limit, construe or describe the scope or extent of such section or in any way affect such section.
+
+(k) Warranty. Each party warrants that it has full power and authority to enter into and perform this agreement, and the person signing this agreement on such party’s behalf has been duly authorized and empowered to enter into this agreement. Each party further acknowledges that it has read this Agreement, understands it and agues to be bound by it.
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+23
+
+(l) Choice of Forum and Venue. All disputes arising under this Agreement may be brought in state or federal courts of Colorado as permitted by law. The District Court of El Paso County, Colorado, and the United States District Court for the District of Colorado shall together have non-exclusive jurisdiction over disputes under this Agreement. Client consents to personal jurisdiction of the above courts.
+
+(m) Confidentiality of Agreement. Neither party will disclose any terms of this Agreement, except pursuant to a mutually agreeable press release or as otherwise required by law.
+
+(n) Counterparts. This Agreement may be executed simultaneously in two or more counterparts, each of which will be considered an original, but all of which together will constitute one and the same instrument.
+
+(o) Disclaimer. The Software is not specifically developed or licensed for use in any nuclear, aviation, mass transit or medical application or in any other inherently dangerous applications. Client agrees that Innerwall and its suppliers shall not be liable for any claims or damages arising from Client’s use of the Software for such applications. Client agrees to indemnify and hold Innerwall harmless from any claims for losses, costs, damages or liability arising out of or in connection with the use of the Software in such applications.
+
+(p) Entire Agreement. This Agreement, together with any exhibits and Attachments, completely and exclusively states the agreement of the parties regarding Client’s right to receive Service from Innerwall. This Agreement supersedes, and its tenors govern, all prior proposals, agreements or other communications between the parties, oral or written, regarding the subject matter of this Agreement. This Agreement shall not be modified except by a subsequently dated written amendment signed on behalf of Innerwall and Client by their duly authorized representatives, and any Purchase Order or other document purporting to supplement the provisions hereof shall be void.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives.
+
+INNERWALL, INC.:
+
+CLIENT:
+
+Authorized Signature
+
+Authorized Signature
+
+Print Name
+
+Print Name
+
+Title
+
+Title
+
+Date
+
+Date
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+24
+
+SCHEDULE A
+
+LICENSE FEES*
+
+Innerwall Agent Module for Windows XP Pro.
+
+[
+
+* ]
+
+*
+
+Portions of this exhibit have been omitted and filed separately pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities and Exchange Act of 1934, as amended.
+
+25

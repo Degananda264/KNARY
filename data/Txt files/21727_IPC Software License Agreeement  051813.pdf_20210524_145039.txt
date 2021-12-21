@@ -1,0 +1,871 @@
+
+BB matrix
+
+CLM Matrix
+Software License Agreement (SLA)
+
+IPC The Hospitalist Company, Inc. (“Licensee”) have licensed software (“Licensed Software”) or acquired a device
+(“Hardware”) incorporating software developed by CLM Matrix (“CLM Matrix”). These products, as well as associated
+media, printed materials and “online” or electronic documentation are protected by international intellectual property
+laws and treaties. The Licensed Software is licensed, not sold. All rights reserved.
+
+If you have employed/contracted a third party (“Third-Party Services Provider”) and/or individual to install and configure
+the Hardware and/or Licensed Software, then you hereby authorize the Third-Party Services Provider to accept this SLA
+on your behalf. Such acceptance occurs upon the installation and/or configuration of the Hardware and/or Licensed
+
+Software.
+
+INTERPRETATION
+
+In this SLA, except where the context otherwise requires, the
+following words and phrases shall have the following
+meanings:
+
+"Agreement" this SLA together with any Purchase Order or
+other order form that specifies the prices for and use of the
+Hardware and the Licensed Software.
+
+“CLM Matrix Configuration Center’ that part of the
+“Licensed Software” which is installed on computers and
+which is used to configure the “Licensed Software” residing
+upon the “Hardware.”
+
+“CLM Matrix Technology" one unit of the Hardware and/or
+the Licensed Software which may be sold as a single product
+unit.
+
+“Documentation” any documentation supplied to Licensee
+by CLM Matrix from time to time during the term of this SLA
+and which relates to the Hardware or Licensed Software.
+
+“Intellectual Property Rights" patents, trademarks, service
+marks, registered designs and applications for any of the
+foregoing, copyright, know-how confidential information,
+trade or business names, design rights and any other similar
+rights protected in any country.
+
+"Object Code" the directly executable computer software
+program in binary code derived from Source Code using a
+compiler or otherwise.
+
+"Source Code" all material necessary to enable a
+programmer of reasonable skill and experience to maintain
+and enhance software, including but not limited to, logic,
+logic diagrams, flow charts, orthographic representations,
+algorithms, routines, sub-routines, utilities, modules, file
+structures, coding sheets, specifications and the program
+instructions.
+
+1. LICENSE
+
+1.1 License Grant. CLM Matrix hereby grants to Licensee a
+perpetual, non-transferable, non-exclusive limited license to
+install and use the Licensed Software in object code form
+
+CLM Matrix Software License Agreement. Rev. 021512
+Copyright © 2012 CLM Matrix. Ail rights reserved
+
+provided you comply with all the terms and conditions as set
+forth in this Agreement. CLM Matrix reserves all other
+rights. Use of the Licensed Software is solely for Licensee's
+internal business purposes at a site owned or leased by
+Licensee and specified on the Schedule of the Software
+License Agreement. (each “Site”). Documentation may be
+copied and used at a Site as reasonably necessary in
+connection with Licensee’s authorized use of the respective
+CLM Matrix Technology.
+
+1.2 License Scope. This Agreement only gives you some
+rights to use the Licensed Software. CLM Matrix reserves all
+other rights. Unless applicable law gives you more rights
+despite this limitation, you may use the Licensed Software
+only as expressly permitted in this Agreement. In doing so,
+you must comply with any technical limitations in the
+Licensed Software that only allow you to use it in certain
+ways.
+
+1.3 Third-Party Software. Licensee is responsible for any
+additional third-party software licenses that may be required
+including but not limited to: Microsoft Office, SharePoint
+Server, SQL Server, Windows Server.
+
+1.4 License Restrictions. Licensee may not: (a) modify,
+adapt, decompile, disassemble, reverse engineer, any CLM
+Matrix Technology; (b) create derivative works based on any
+CLM Matrix Technology; (c) make copies of any CLM Matrix
+Technology, except for one copy of the machine readable
+code of the Licensed Software for a pre-production
+environment and one copy solely for backup or archival
+purpose; (d) allow any third party (excluding independent
+contractors of Licensee on a need to know basis) to use or
+have access to any CLM Matrix Technology or
+Documentation; (e) transfer, convey, CLM Matrix
+Technology to any other location not specified in this
+Agreement, or license or sublicense to any third party, any
+CLM Matrix Technology or Documentation, or any part
+thereof; (f) use any CLM Matrix Technology to perform Value
+Added Services (as defined below) without prior written
+permission from CLM Matrix. Any copy of any CLM Matrix
+Technology or Documentation made by Licensee, including
+
+Page 1 of 8
+
+any partial copy, is the property of CLM Matrix. Licensee will
+include on each such copy all copyright, trademark and
+other proprietary rights notices included by CLM Matrix on
+the originals. As used in this Agreement, “Value Added
+Services” means using the CLM Matrix Technology in
+connection with providing consulting or commercial hosting
+or other similar services to any third party .
+
+1.5 Licensee may only use the “CLM Matrix Configuration
+Center” to modify the CLM Matrix Technology.
+
+2. PROPERTY RIGHTS
+
+2.1 Ownership. Licensee acknowledges and agrees that: (a)
+the Licensed Software and Documentation are the property
+of CLM Matrix or its licensors, and not Licensee, and
+(b) Licensee will use the CLM Matrix Technology and
+Documentation only under the terms and conditions
+described herein.
+
+2.2 No Publication. The grant of the licenses hereunder and
+the carrying out of the transactions contemplated hereby
+shall not be deemed publication by either party of all or any
+portion of the CLM Matrix Technology.
+
+2.3 Confidentiality. Licensee acknowledges that the CLM
+Matrix Technology and Documentation contain valuable
+proprietary information and trade secrets of CLM Matrix and
+that it shall take reasonable measures to protect the secrecy
+of, and avoid disclosure and unauthorized use of, the CLM
+Matrix Technology and Documentation. Without limiting
+the foregoing, Licensee agrees: (a) to take with respect to
+the CLM Matrix Technology and Documentation at least
+those measures that it takes to protect its own confidential
+information; and (b) that the CLM Matrix Technology and
+Documentation may not be disclosed, reproduced,
+summarized, distributed or used except as necessary to
+exercise the license granted hereunder.
+
+2.4 Trademarks.
+
+(a) Licensee acknowledges CLM Matrix ownership of
+the trademark "CLM Matrix" the CLM Matrix Technology
+names, and all related trademarks and service marks.
+Licensee further acknowledges that it will acquire no interest
+in such trademarks and service marks by virtue of this
+Agreement or the performance by Licensee of its duties and
+obligations under this Agreement. Licensee agrees not to
+use the name "CLM Matrix" or any of the CLM Matrix
+Technology names or marks (or any confusingly similar name
+or symbol), in whole or in part, as part of Licensee's business
+or trade name.
+
+(b) CLM Matrix grants to Licensee the non-exclusive,
+limited right to use the CLM Matrix Technology names and
+marks solely in connection with the license, granted to
+Licensee under this Agreement. CLM Matrix makes no
+warranty, express or implied, to Licensee concerning the use
+or validity of such names and marks.
+
+CLM Matrix Software License Agreement. Rev. 021512
+Copyright © 2012 CLM Matrix. All rights reserved.
+
+BB matrix
+
+(c) Upon termination of this Agreement, Licensee
+agrees not to use CLM Matrix proprietary names and marks
+or any names or marks similar in sound or appearance.
+
+3. TERM AND TERMINATION
+
+3.1 Term. This Agreement shall commence on the date last
+signed by either party (“Effective Date”)and shall remain in
+effect unless terminated as provided herein. Termination of
+this Agreement, unless terminated for cause under
+Subsection 3.2 below, shall not affect any perpetual licenses.
+Such perpetual licenses shall continue in effect and the
+terms and conditions contained in Subsection 3.3, Survival of
+Obligations, shall govern such CLM Matrix Technology and
+Documentation.
+
+3.2 Termination for Cause. This Agreement shall terminate
+immediately if Licensee attempts to reverse engineer the
+CLM Matrix Technology. Otherwise, this Agreement may be
+terminated by either party for a breach of any of its material
+terms, provided the non-breaching party provides to the
+breaching party 30 days written notice describing such
+breach and offering the breaching party an opportunity to
+cure. Failure to cure a material breach within the notice
+period shall result in automatic termination of this
+Agreement.
+
+3.3 Survival of Obligations. The obligations of the parties
+under this Agreement, which by their nature would continue
+beyond the termination, cancellation or expiration of this
+Agreement, shall survive termination, cancellation or
+expiration of this Agreement.
+
+3.4 Effect_of Termination. Upon the termination of this
+Agreement:
+
+(a) All fees incurred by Licensee as of the date of
+termination will be immediately due and payable to CLM
+Matrix, provided that the Agreement has not been
+terminated for cause by Licensee arising from the material
+default of CLM Matrix;
+
+(b) All rights and licenses granted by CLM Matrix to
+Licensee under this Agreement will terminate;
+
+(c) Licensee must immediately cease use of the CLM
+Matrix Technology, remove the Licensed Software from alt
+computers, servers and appliances, and return all copies of
+the Licensed Software and Documentation to CLM Matrix,
+or, at CLM Matrix option, destroy all copies of the Licensed
+Software and Documentation in any form;
+
+(d) Within fifteen (15) business days of such
+termination, Licensee must certify to CLM Matrix in writing
+that Licensee has complied with Section 3.4(c) above.
+
+4. INTELLECTUAL PROPERTY INDEMNITY
+
+4.1 Indemnity. Subject to the limitations of Sections 4.2 and
+6.1, CLM Matrix will defend, at its own expense, any claim,
+suit or proceeding brought against Licensee to the extent it
+
+Page 2 of 8
+
+is based upon a claim that any Licensed Software licensed
+pursuant to this Agreement infringes upon any patent or any
+copyright or trade secret of any third party. Licensee agrees
+that it shall promptly notify CLM Matrix in writing of any
+such claim or action and give CLM Matrix full information
+and assistance in connection therewith. CLM Matrix shall
+have the sole right to control the defense of any such claim
+or action and the sole right to settle or compromise any such
+claim or action. If Licensee complies with the provisions
+hereof, CLM Matrix will pay damages, costs and expenses
+finally awarded to third parties against Licensee in such
+action (except as limited by Sections 4.2 and 6.1). If the CLM
+Matrix Technology is, or in CLM Matrix opinion might be,
+held to infringe as set forth above, CLM Matrix may, at its
+option replace or modify such CLM Matrix Technology so as
+to avoid infringement, or procure the right for Licensee to
+continue the use of such CLM Matrix Technology. If neither
+of such alternatives is, in CLM Matrix opinion, commercially
+reasonable, such CLM Matrix Technology shall be returned
+to CLM Matrix and CLM Matrix shall refund the License Fee
+paid by Licensee to CLM Matrix for such CLM Matrix
+Technology.
+
+4.2 Limitations. CLM Matrix will have no liability for, and no
+obligation to defend Licensee against, any claim of
+infringement to the extent such claim is based on (a) use of a
+CLM Matrix Technology outside the scope of this
+Agreement; (b) use of a superseded or altered release of a
+CLM Matrix Technology if the infringement would have been
+avoided by the use of a current unaltered release of the CLM
+Matrix Technology, provided that CLM Matrix has provided
+customer with the current unaltered release at no additional
+cost; (c) the combination, operation, or use of a CLM Matrix
+Technology with other software, hardware or other
+materials if such infringement would have been avoided by
+avoiding the use of the CLM Matrix Technology with such
+software, hardware or other materials; (d) any modification
+of the CLM Matrix Technology not made by CLM Matrix or
+an approved vendor; or (e) Licensee’s use of the CLM Matrix
+Technology after CLM Matrix notice that Licensee shall cease
+use of the CLM Matrix Technology due to such claim.
+
+4.3 Entire Liability. TO THE FULL EXTENT PERMITTED BY
+LAW, THE FOREGOING STATES THE ENTIRE LIABILITY OF CLM
+MATRIX TO LICENSEE CONCERNING INFRINGEMENT OF
+INTELLECTUAL PROPERTY RIGHTS, INCLUDING BUT NOT
+LIMITED TO PATENT, COPYRIGHT AND TRADE SECRET
+RIGHTS.
+
+5. WARRANTY
+
+5.1 Licensed Software Warranty. CLM Matrix warrants that
+for a period of ninety (90) days from the date of delivery at
+all (the “Warranty Period”), the Licensed Software will
+operate substantially in accordance with the applicable
+Documentation. CLM Matrix does not warrant that the
+functions contained in the CLM Matrix Technology will meet
+Licensee’s requirements or that the operation of the CLM
+
+CLM Matrix Software License Agreement. Rev. 021512
+Copyright © 2012 CLM Matrix. All rights reserved.
+
+BB matrix
+
+Matrix Technology will be uninterrupted or error free. If,
+during the Warranty Period, the Licensed Software does not
+operate substantially in accordance with such
+Documentation, Licensee may so inform CLM Matrix in
+writing and provide to it such information and materials as
+CLM Matrix may reasonably request to document and
+reproduce such problem and to verify whether any proposed
+solution corrects such problem. Such information may
+include a written explanation of such problem, a written
+description of the operating environment, and (if permitted)
+a copy of any software program used with the CLM Matrix
+Technology. Following the receipt of such information and
+materials, if CLM Matrix determines that the Licensed
+Software does not aperate substantially in accordance with
+such Documentation, then CLM Matrix will at its election, (a)
+modify the CLM Matrix Technology so that it does operate
+substantially in accordance with such Documentation, (b)
+replace the Licensed Software with other CLM Matrix
+products offering substantially similar functionality or, (c) if
+{a) or (b) is not commercially feasible, refund the License Fee
+paid by Licensee to CLM Matrix for such Licensed Software.
+In the event CLM Matrix furnishes a correction or cure
+pursuant to clause (a), CLM Matrix shall warrant such
+correction or cure for the remainder of the original Warranty
+Period or thirty (30) days, whichever is longer. This
+Warranty shall not apply to Licensed Software that has been
+modified, used improperly or on an operating environment
+inconsistent with recommendations by CLM Matrix.
+
+5.2 If an implied warranty or condition is created by your
+state/jurisdiction and federal or state/provincial law
+prohibits disclaimer of it, you also have an implied warranty
+or condition, BUT ONLY AS TO DEFECTS DISCOVERED
+DURING THE PERIOD OF THIS LIMITED WARRANTY. AS TO
+ANY DEFECTS DISCOVERED AFTER THE NINETY (90) DAY
+WARRANTY PERIOD, THERE IS NO WARRANTY OR
+CONDITION OF ANY KIND. Some states/jurisdictions do not
+allow limitations on how long an implied warranty or
+condition lasts, so the above limitation may not apply to
+you. Any supplements or updates to the Licensed Software,
+including without limitation, any (if any) service packs or hot
+fixes provided to you after the expiration of the sixty day
+limited Warranty Period are not covered by any warranty or
+condition, express, implied or statutory.
+
+5.3 Anti-Virus and Disabling Code Warranty. CLM Matrix
+warrants that it shall use reasonable technical means, in
+accordance with industry standards, to ensure against
+computer viruses in the [Licensed Software, or CLM Matrix
+Technology]. CLM Matrix further warrants that there are no
+time bombs or other undocumented features in any of the
+Programs which access and monitor or disable the Program
+or System, and the Programs, as delivered by CLM Matrix, do
+not contain any virus or computer software code, routines or
+devices (other than as set forth in the Documentation)
+designed to disable, damage, impair, erase, deactivate,
+monitor, or electronically repossess the Programs or other
+Page 3 of 8
+
+software or data. (If any viruses or other undocumented
+features occur in the [Licensed Software or CLM Matrix
+Technology], CLM Matrix shall (a) make the necessary
+repairs to remove the viruses or other documented features,
+or (b) replace the [Licensed Software or CLM Matrix
+Technology] with substantially the same Licensed Software
+or CLM Matrix Technology]. If the aforementioned issues
+are irreparable and impede the substantial operation of the
+License Software, CLM Matrix shail refund the license fee.
+
+5.4 The foregoing is CLM Matrix and its licensors’ entire
+liability to Licensee, and Licensee’s exclusive remedy for
+defects in any Licensed Software.
+
+5.5 Exclusions. CLM Matrix will have no responsibility,
+warranty or other obligations whatsoever with respect to:
+(a) the use of CLM Matrix Technology in a manner materially
+inconsistent with the respective Documentation or this
+Agreement, (b) any CLM Matrix Technology which has been
+modified by anyone other than CLM Matrix or an approved
+vendor, (c) failure of a CLM Matrix Technology as a result of
+negligence, accident, abuse or misapplication, or computer
+equipment malfunction.
+
+5.6 Limited Media Warranty. CLM Matrix represents and
+warrants that the media, if any, on which the Licensed
+Software is furnished will be free from defects in material
+and workmanship.
+
+5.7 Licensed Hardware Warranty. CLM Matrix warrants that
+during the Warranty Period, the Licensed Hardware (if
+applicable) licensed hereunder as part of the CLM Matrix
+Technology will operate substantially in accordance with the
+respective Documentation, subject to the restrictions of
+Clauses 5.2 and 5.3.
+
+5.8 No Other Warranties. Except for the remedies
+otherwise stated herein, THE EXPRESS WARRANTIES IN THIS
+SECTION 5 ARE JN LIEU OF ALL LIABILITIES OF CLM MATRIX
+FOR DAMAGES, ARISING OUT OF OR IN CONNECTION WITH
+THE DELIVERY, USE OR PERFORMANCE OF THE LICENSED
+TECHNOLOGY OR DOCUMENTATION. CLM MATRIX
+EXPRESSLY DISCLAIMS, TO THE FULL EXTENT PERMITTED BY
+LAW, ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, WITH
+REGARD TO THE CLM MATRIX TECHNOLOGY OR
+DOCUMENTATION, INCLUDING ALL IMPLIED WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE OR ARISING FROM THE COURSE OF DEALING
+BETWEEN THE PARTIES OR USAGE OF TRADE. THESE
+DISCLAIMERS OF WARRANTY AND LIMITATIONS OF LIABILITY
+CONSTITUTE AN ESSENTIAL PART OF THIS AGREEMENT.
+
+6. LIMITATION OF LIABILITY
+
+6.1 EXCEPT FOR CLM MATRIX OBLIGATIONS UNDER
+SECTION 5 ABOVE, LICENSEE AGREES THAT CLM MATRIX
+LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE
+LICENSE FEE PAID BY LICENSEE TO CLM MATRIX FOR THE
+PARTICULAR LICENSED TECHNOLOGY INVOLVED. IN NO
+
+CLM Matrix Software License Agreement. Rev. 021512
+Copyright © 2012 CLM Matrix. All rights reserved.
+
+BB matrix
+
+EVENT WILL CLM MATRIX BE LIABLE FOR COSTS OF
+PROCUREMENT OF SUBSTITUTE PRODUCTS OR SERVICES,
+LOST PROFITS, LOSS OF DATA OR ANY OTHER SPECIAL,
+INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF
+WHATEVER NATURE ARISING OUT OF OR RELATING TO THIS
+AGREEMENT, THE CLM MATRIX TECHNOLOGY OR THE
+DOCUMENTATION, EVEN IF CLM MATRIX HAS BEEN
+NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES AND
+NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE
+OF ANY LIMITED WARRANTY.
+
+7. GENERAL
+
+7.1 Notices. All notices under this Agreement shall be sent
+to a party at the respective address indicated in the
+introductory paragraph hereof, or to such other address as
+such party shall have notified the other. All such notices so
+addressed shall be deemed duly given (a) upon delivery, if
+delivered by courier or by hand (against receipt); or (b) three
+days after posting, if sent by certified or registered mail,
+return receipt requested.
+
+7.2 Dispute Resolution. If a dispute arises out of this
+Agreement, the Parties will try to resolve it promptly by
+negotiation between executives. If the dispute has not been
+resolved by negotiation within thirty (30) days, the parties
+will try to settle the dispute through mediation.
+
+7.3 This Agreement shall be construed and controlled by the
+laws of the State of Texas, without reference to conflicts of
+law principles.
+
+7.4 Export Controls. Licensee specifically acknowledges that
+the CLM Matrix Technology and Documentation may be
+subject to United States and other country export control
+laws. Licensee shall comply strictly with all requirements of
+all applicable export control laws and regulations with
+respect to all such software and materials.
+
+7.5 Restricted Rights. If Licensee is an agency, agent, unit,
+or instrumentality of the United States Government then
+use, duplication or disclosure of the CLM Matrix Technology
+is subject to the restrictions set forth in subparagraphs (a)
+through (d) of the Commercial Computer-Restricted Rights
+clause at FAR 52.227-19 when applicable, or in subparagraph
+(c)(I)(ii) of the Rights in Technical Data and Computer
+Software clause at DFARS 252.227-7013, or at 252.211-7015,
+or to CLM Matrix standard commercial license, as applicable,
+and in similar clauses in the NASA FAR Supplement.
+Contractor/manufacturer is CLM Matrix, Dallas, Texas.
+
+7.6 Severability. If any provision in this Agreement is found
+or held to be invalid or unenforceable, then the meaning of
+such provision shall be construed, to the extent feasible, so
+as to render the provision enforceable, and if no feasible
+interpretation would save such provision, it shall be severed
+from the remainder of this Agreement which shalt remain in
+full force and effect unless the severed provision is essential
+and material to the rights or benefits received by either
+
+Page 4 of 8
+
+party. In such event, the parties shall use their best efforts
+to negotiate, in good faith, a substitute, valid and
+enforceable provision or agreement that most nearly affects
+their intent in entering into this Agreement.
+
+7.7 No Waiver. A waiver of a breach or default under this
+Agreement shall not be a waiver of any other breach or
+default. Failure of either party to enforce compliance with
+any term or condition of this Agreement shail not constitute
+a waiver of such term or condition unless accompanied by a
+clear written statement that such term or condition is
+waived.
+
+7.8 No Assignment. This Agreement and the rights
+hereunder are not transferable or assignable without the
+prior written consent of the parties hereto.
+
+7.9 Force Majeure. Except for payments due under this
+Agreement, neither party will be responsible for any failure
+to perform due to causes beyond its reasonable control
+(each a "Force Majeure"), including, but not limited to, acts
+of God, war, riot, embargoes, acts of civil or military
+authorities, denial of or delays in processing of export
+license applications, fire, floods, earthquakes, accidents,
+strikes, or fuel crises.
+
+7.10 Entire Agreement; Modifications. This Agreement
+contains the entire understanding of the parties with respect
+
+to the matters contained herein. Any deviations from or
+additions to the terms of this Agreement must be in writing
+and will not be valid unless confirmed in writing by duly
+authorized officers of CLM Matrix and Licensee.
+
+CLM Matrix Software License Agreement. Rev. 021512
+Copyright © 2012 CLM Matrix. All rights reserved.
+
+EB matrix
+
+With its signature below customer acknowledges
+agreement with the terms and conditions included in the
+Software License Agreement and Schedules A and B.
+
+Agreed:
+
+cum Matrix Fimothy B.  ssbseztonye cn
+k oe oot ‘i us
+
+By: Sparks
+
+Printed Name: imothy B Sparks
+
+Date: 2013.05.19 11:17:14-05100
+Title: CEO
+
+Date: __5/18/13
+
+  
+
+Printed Name:
+
+ms
+Title: Cty
+
+Date: 5/18/13
+
+Page 5 of 8
+
+EB matrix
+
+CLM Matrix SLA
+Schedule A
+
+Schedule A is attached to and becomes, upon execution by both parties below, a part of the CLM Matrix Software License Agreement
+between such parties and sets forth the specific terms and conditions relating to the Licensed Software listed below:
+
+ 
+
+Effective License Date
+
+Date of signature below
+
+ 
+
+ 
+
+ 
+
+Licensed Software Matrix Enterprise v10.3
+Software Format Object
+Operating Platform Microsoft
+
+ 
+
+License Type
+
+Single Production Server
+
+ 
+
+Number of Copies of Licensed Material
+
+One (1) Installation for production use only. Customer is also entitled to install the
+licensed CLM Matrix software in up to 4 additional non-production environments in
+support of the single production environment. Non-production environments can be
+any combination of development, test, backup/recovery, etc.
+
+ 
+
+License Term
+
+Perpetual
+
+ 
+
+License Fee
+
+$100,000
+
+ 
+
+User Counts
+
+Contract Administrator: 5
+Contract Contributor: 150
+Contract Consumer: 25
+CRM User: 5
+
+CRM Connector: 0
+
+ 
+
+Payment Term
+
+Software license fee and first year software maintenance due prior to software
+download and project initiation. Upon receipt of customer payment CLM Matrix will
+provide an FTP address with log-in credentials for software download.
+
+ 
+
+Additional Users
+
+Additional users can be added as needed in the future for the prices below plus annual
+maintenance.
+
+Matrix Enterprise
+$1,749/Contract Administrator
+$249/Contract Contributor
+$149/Contract Consumer $149/Contract Consumer
+$49/CRM User $49/CRM User
+
+Matrix Fast Track
+$799/Contract Administrator
+$249/Contract Contributor
+
+ 
+
+Additional Matrix Add-On Components
+(Identify optional Add-ons requested below,
+additional fees may apply)
+
+0 -—ARX/CoSign Digital Signature
+
+0 - Graphical Reporting
+
+0- Historical Contract Data Migration Wizard
+
+O=- Historical Contract Document Migration Wizard
+0 - Multi-Language Wizard
+
+O—MS Dynamics CRM Connector
+
+Q- Report Center
+
+0—-SalesForce CRM Connector
+
+0 - Web Services Wizard
+
+Report Center - Price included with Matrix software license
+
+Professional services required installation, testing and configuration.
+
+Graphical Reporting - Price included with Matrix software license
+
+Professional services required for installation, set-up, testing and configuration.
+Historical Contract Data Migration Wizard — $3,500
+
+Professional services required for installation, set-up, testing and configuration.
+Historical Contract Document Migration Wizard - $3,500
+
+Professional services required for installation, set-up, testing and configuration.
+Multi-Language Wizard - $5,000
+
+Professional services required for installation, set-up, testing and configuration.
+Web Services Wizard - $5,000
+
+Professional services required for installation, set-up and configuration.
+
+ 
+
+Training Services
+
+Not included with license, priced separately
+
+ 
+
+Acceptance Testing Period
+
+90 days from date of license
+
+ 
+
+Initial Annual Maintenance Fee
+
+20% of full license fee ($20,000)
+
+ 
+
+Term of Annual Maintenance
+
+Commences upon software license date and annually thereafter.
+
+ 
+
+Export Control Restrictions
+
+US Only
+
+ 
+
+ 
+
+To Be Delivered To
+
+ 
+
+IPC The Hospitalist Company, Inc.
+
+ 
+
+CLM Matnx Software License Agreement. Rev. 021512
+
+Copyright © 2012 CLM Matrix. All rights reserved.
+
+Page 6 of 8
+
+ 
+
+BB matrix
+
+ 
+
+4605 Lankershim Blvd., Suite 617
+North Hollywood, CA 91602
+
+ 
+
+ 
+
+Send Invoices To {PC The Hospitalist Company, Inc.
+4605 Lankershim Blvd., Suite 617
+North Hollywood, CA 91602
+
+ 
+
+ 
+
+ 
+
+CLM Matrix SLA
+Schedule B
+Software Maintenance and Support
+
+Maintenance Fee:
+
+The annual maintenance fee for the CLM solution covered by this SLA will be 20% of the list price for the software.
+Maintenance will be invoiced annually approximately 45 days prior to the expiration of the current term.
+
+Maintenance Coverage:
+
+Under this Maintenance program customers whose annual software maintenance is fully paid will receive, and CLM
+Matrix is required to provide in a timely manner, the following product coverage:
+
+a. Access to all new functionality releases for the product licensed typically published as point releases (e.g. v10.x)
+Access to all bug fix releases for the product licensed typically published as point releases (e.g. 10.x)
+
+c. Access to all new major releases for the product licensed typically published as with major version number change
+(e.g., 10.x.x to 11.x.x)
+
+d. Problem reporting and response times are defined below in the Service Level table below.
+
+Customers who have elected to let lapse their annual software maintenance agreement will be required to become
+current with all past due maintenance fees prior to being provided access to newer licensed product software versions
+and point releases and/or documentation.
+
+Customer Support Overview:
+
+e 24x7 Web-based support that offers access to software and utility upgrades, documentation,
+release notes and technical FAQ
+
+e Email and telephone support
+
+e On-site support services (additional charges apply)
+
+As part of its annual software maintenance agreement, the customer will receive online, email and telephone software
+support for the licensed product as defined in the table below. Software support is defined as those issues whose root
+cause is CLM Matrix source code related (software bugs, bug fixes, patches, etc.). Issues involving conflicts with third
+party software/hardware, system or network related issues, Windows/SharePoint/SQL installation or troubleshooting,
+Matrix wizard configuration, Matrix application settings or Matrix software installations post initial installation of the
+software are defined as professional services and will be invoiced at the agreed upon professional services hourly rate.
+
+CLM Matrix Software License Agreement. Rev. 021512 Page 7 of 8
+Copyright © 2012 CLM Matrix. All rights reserved.
+
+STANDARD SERVICE LEVELS FOR SOFTWARE SUPPORT
+
+Severity Level
+A- Critical
+
+B — Serious
+
+C- Important
+
+D- Minor
+
+E-Monitor
+
+HB matrix
+
+ 
+
+Definition
+
+First Response
+
+ 
+
+Product down
+
+Development down or production impacted but
+not down
+
+Important problem that does not have significant
+current productivity impact
+
+Minor problem that does not have impact on
+current development or productivity
+
+Issues requiring no further action beyond
+monitoring for follow-up as needed
+
+Immediate upon email notification
+
+Immediate upon email notification
+Within 4 hours or less upon email
+notification
+
+Within 6 hours or less
+
+Within 8 hours or less
+
+ 
+
+POST IMPLEMENTATION SOFTWARE SUPPORT
+
+ 
+
+ 
+
+Off-Site Support Software Support Availability Pricing
+
+Online/Email/Telephone/Support 8AM — 5PM CST 3 hrs./month software support included with
+Monday - Friday Maintenance Agreement $225/hour thereafter
+
+After hours support As requested $250/hour
+
+CLM Matrix Software License Agreement. Rev. 021512 Page 8 of 8
+
+Copyright © 2012 CLM Matrix. All rights reserved.
+

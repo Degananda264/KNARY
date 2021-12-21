@@ -1,0 +1,213 @@
+Exhibit 10.3
+
+CONFIDENTIAL MATERIAL APPEARING IN THIS DOCUMENT IS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION IN ACCORDANCE WITH RULE 24b-2, PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. OMITTED INFORMATION IS REPLACED WITH ASTERISKS.
+
+PROCESSOR AGREEMENT
+
+This PROCESSOR AGREEMENT (this “Agreement”) is made this 23rd day of August, 2004, by and between Golden Retriever Systems, 7030 West Oakland Street, Chandler, AZ, 85226, a Delaware limited liability corporation (the “Processor”) and Rewards Network Inc., Two North Riverside Plaza, Suite 950, Chicago, Illinois 60606 (“RN”), a Delaware corporation (each a “Party” and collectively, the “Parties”). This Agreement supercedes all previous Agreements and Addendums.
+
+RECITALS
+
+A. Processor, directly or indirectly through Affiliates, has the ability to receive card transaction information and to filter such information upon certain search parameters;
+
+B. RN operates and manages a merchant-sponsored rewards program for itself and others (the “IRN Program”) whereby Participating Cardholders (as such term is defined herein) receive cash back rebates, air miles, or other rewards on their purchases at Participating Merchants (as such term is defined herein) locations when Participating Cardholders pay for such purchases by using Cards that have been registered with RN; and
+
+C. RN desires to have Processor (i) assist RN with identifying Participating Cardholders’ RN Program qualifying transactions at Participating Merchant locations, and (ii) provide net settlement of amounts owed to RN by Participating Merchants under the RN Program.
+
+AGREEMENT
+
+In consideration of the mutual promises, agreements, and covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+I. DEFINITIONS
+
+1.1 “Affiliate” means, when used with reference to a specific Person, any Person that, directly or indirectly, or through one or more intermediaries, owns or controls, is owned or controlled by, or is under common ownership or common control with, such specific Person. As used herein, “control” means the power to direct the management or affairs of a Person and “ownership” means the beneficial ownership of more than 50% of the equity securities of the Person.
+
+1.2 “Card” whether capitalized or not, means any credit or debit card that the Processor or its Affiliates can transmit to RN, including, without limitation, Visa, MasterCard, American Express, Discover, Maestro, Interlink, JCB and Diners Club, as well as “smart cards,” stored value cards, and other cards used for purchase of goods or services as long as the information is passed from the Networks.
+
+1.3 “Cardholder” whether capitalized or not means any individual who has been issued a Card by a card issuer.
+
+1.4 “Card Transaction” whether capitalized or not, means a Cardholder’s purchase of a product or service from a Participating Merchant in which a Cardholder uses a Card to effect payment to a Participating Merchant.
+
+1
+
+CONFIDENTIAL MATERIAL APPEARING IN THIS DOCUMENT IS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION IN ACCORDANCE WITH RULE 24b-2, PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. OMITTED INFORMATION IS REPLACED WITH ASTERISKS.
+
+1.5 “Participating Cardholders” means Cardholders that are enrolled in the RN Program by RN through direct marketing, internet enrollment sites, or other Cardholder opt-in methods of enrollment.
+
+1.6 “Participating Merchants” shall mean those merchants who, by agreement with RN, provide for qualified charges to RN Members (described below).
+
+1.7 “Person” means any general partnership, limited partnership, corporation, limited liability company, joint venture, trust, business trust, governmental agency, cooperative, association, individual or other entity, and the heirs, executors, administrators, legal representatives, successors and assigns of such Person as the context may require.
+
+1.8 “Processor” shall mean Golden Retriever Systems, 7030 West Oakland Street, Chandler, AZ, 85226, its successors, assigns, and Affiliates.
+
+1.9 “Programs” shall mean loyalty rewards programs operated by RN where RN’s members (“Members”) receive reimbursement of a portion of a qualified charge made at a Participating Merchant.
+
+1.10 “RN” shall mean Rewards Network Inc., its successors, assigns, and Affiliates.
+
+1.11 “Service” shall mean the services provided by Processor pursuant to its contracts through merchants, including restaurant and hotel merchants, to process and collect electronic Transaction Data representing transactions conducted through the use of Cards at retail merchants and present such sales and credits for settlement with the credit card issuer’s settlement networks.
+
+1.12 “Transaction” whether capitalized or not, means a Cardholder’s purchase of a product or service from a merchant in which a Cardholder uses a Card to effect payment to a merchant, including any reversal, chargeback, or other adjustment to the initial payment transaction.
+
+1.13 “Transaction Data” means the data that is captured in the ordinary course of Card payment authorization, processing, settlement and any adjustments in connection with a Transaction (by way of example but not limitation, the credit card number, amount of purchase, date of purchase, and other information related to a specific Transaction) related to a Cardholder.
+
+1.14 “Network” means the entity which sends the transactional level data to the Processor.
+
+II. REPRESENTATIONS AND WARRANTIES
+
+2.1 Processor represents, warrants, and covenants to RN on the date of this Agreement that:
+
+A. It is duly organized and validly existing and in good standing under the laws of its state of incorporation and that it has the requisite corporate power and authority to carry on its business as it is currently being conducted;
+
+B. It is qualified or licensed as a foreign corporation, where by the nature of its operations qualification or licensure is necessary, in all jurisdictions where it operates, or intends to operate; and
+
+C. There are no actions, suits, claims, proceedings, or governmental investigations or inquiries pending, or threatened against it seeking to prevent it or that, if successful, would prevent it from complying with the terms of this Agreement.
+
+2
+
+CONFIDENTIAL MATERIAL APPEARING IN THIS DOCUMENT IS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION IN ACCORDANCE WITH RULE 24b-2, PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. OMITTED INFORMATION IS REPLACED WITH ASTERISKS.
+
+D. It has and shall maintain adequate insurance to fully protect it and RN against any and all claims by third parties that may arise out of this Agreement.
+
+III. TERM AND TERMINATION
+
+3.1 This Agreement shall be effective as of the date first written above and shall remain in full force and effect for three (3) years, unless sooner terminated or extended in accordance with this Article 3. This Agreement shall automatically renew for successive one-year periods (each a “Renewal Term”) unless the Party not desiring to extend the term of this Agreement notifies the other Party in writing at least ninety (90) calendar days prior to the end of a Renewal Term.:
+
+3.2 In the event of a breach of this Agreement, either Party may terminate the Agreement, provided that:
+
+A. the Party seeking to terminate the Agreement notifies the other Party of the alleged breach;
+
+B. the Party who allegedly breached the Agreement shall have fifteen (15) calendar days from receipt of the notice of breach to cure such breach (the “cure period”); and
+
+C. if the breach is not cured within the cure period, the non-breaching Party shall have the right to terminate this Agreement.
+
+IV. PROCESSOR’S OBLIGATIONS
+
+4.1 Processor will continue to support a system, on RN’s behalf, which will electronically transmit the Transaction Data, in a form and format which is mutually agreeable to the Parties, from all Processor’s networks, on a daily basis from Participating Merchants identified by RN, to an entity selected by RN (the “Nominee”). The file transmission fees are set forth in Exhibit A.
+
+4.2 Within a commercially reasonable time after notification, by Nominee of the list of Participating Merchants, Processor will thereafter present to the Nominee, on a daily basis, Card Transactions from the Participating Merchants in the current format utilized today. To protect Participating and non-Participating Cardholders’ personally identifiable financial information, Processor shall use a mutually agreeable encryption methodology, whereby only Transaction Data that has been encrypted will be passed from Processor to RN over secure lines for processing.
+
+4.3 Processor agrees to provide or appoint a contact person to act as a liaison with RN’s and Nominee’s personnel, employees, subcontractors, agents, or anyone acting on their behalf.
+
+4.4 In addition, Processor will provide to RN, for the fees set forth in Exhibit A, daily merchant transactions for days requested by RN via the online reporting tool or via email.
+
+V. CONFIDENTIALITY AND INDEMNIFICATION
+
+5.1 Confidential Information Defined. A Party’s “Confidential Information” is defined as any confidential or proprietary information of a Party which is disclosed to the other Party in a writing marked confidential or, if disclosed orally, is identified as confidential at the time of disclosure and is
+
+3
+
+CONFIDENTIAL MATERIAL APPEARING IN THIS DOCUMENT IS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION IN ACCORDANCE WITH RULE 24b-2, PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. OMITTED INFORMATION IS REPLACED WITH ASTERISKS.
+
+subsequently reduced to a writing marked confidential and delivered to the other Party within ten (10) days of disclosure. The terms of this Agreement shall be deemed the Confidential Information of each Party.
+
+5.2 Mutual Obligations. Each Party will hold the other Party’s Confidential Information in confidence and will not disclose such Confidential Information to third parties except to those directors, officers, employees, Affiliates or attorneys of such Party who have a need to know the same in furtherance of this Agreement nor use the other Party’s Confidential Information for any purpose other than as required to perform under this Agreement. Such restrictions will not apply to Confidential Information which (a) is already known by the recipient, (b) becomes publicly known through no act or fault of the recipient, (c) is received by recipient from a third party without a restriction on disclosure or use, or (d) is independently developed by recipient without reference to the Confidential Information. The restriction on disclosure will not apply to Confidential Information which is required to be disclosed by a court, government agency, regulatory requirement, or similar disclosure requirement, provided, that recipient will first notify the disclosing party of such disclosure requirement or order and use reasonable efforts to obtain confidential treatment or a protective order.
+
+5.3 Transaction Data. Notwithstanding anything to the contrary contained herein, RN shall be entitled to (a) disclose the Transaction Data to the Participating Merchant who initiated the Card transaction, and (b) share the Transaction Data in the aggregate with other Participating Merchants.
+
+5.4 Indemnification.
+
+5.4.1
+
+Processor hereby agrees to indemnify and hold RN, its subsidiaries, Affiliates and controlling companies and all of their respective directors, officers, agents, and employees harmless from and against any and all liability, loss, damage, cost, tax, penalty, fine, and expense (including, without limitation, reasonable attorneys’ fees and expenses) which a RN may incur, suffer or be required to pay resulting from or arising in connection with (a) the breach by Processor of any covenant, representation, or warranty contained in this Agreement, or (b) any negligent or wrongful act or omission of Processor (including, without limitation, fraud) in the performance of its obligations hereunder.
+
+5.4.2
+
+RN hereby agrees to indemnify and hold Processor, its subsidiaries, Affiliates and controlling companies and all of their respective directors, officers, agents, and employees harmless from and against any and all liability, loss, damage, cost, tax, penalty, fine, and expense (including, without limitation, reasonable attorneys’ fees and expenses) which a Processor may incur, suffer or be required to pay resulting from or arising in connection with (a) the breach by RN of any covenant, representation, or warranty contained in this Agreement, or (b) any negligent or wrongful act or omission of RN (including, without limitation, fraud) in the performance of its obligations hereunder.
+
+5.5 Limitation of Liability. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, NEITHER PARTY SHALL, UNDER ANY CIRCUMSTANCES, BE LIABLE TO THE OTHER PARTY FOR LOST PROFITS, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, OR INDIRECT DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREUNDER, EVEN IF THE PARTY HAS BEEN APPRISED OF THE LIKELIHOOD OF SUCH DAMAGES. IN NO EVENT SHALL EITHER PARTY’S LIABILITY EXCEED *** PRECEEDING THE EVENT GIVING RISE TO THE CLAIM OF LIABILITY, WHICHEVER IS GREATER.
+
+4
+
+CONFIDENTIAL MATERIAL APPEARING IN THIS DOCUMENT IS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION IN ACCORDANCE WITH RULE 24b-2, PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. OMITTED INFORMATION IS REPLACED WITH ASTERISKS.
+
+5.6 The provisions of this Article V shall survive expiration or early termination of this Agreement.
+
+VI. STANDARD TERMS AND CONDITIONS
+
+6.1 Notice. Any notice required or permitted to be given under this Agreement shall be delivered in person or sent by courier service, charges pre-paid, or by facsimile transmission, to the address or facsimile number specified below:
+
+If to Rewards Network:
+
+If to Golden Retriever Systems:
+
+Rewards Network Inc.
+
+Golden Retriever Systems
+
+11900 Biscayne Blvd., Suite 460
+
+7030 West Oakland Street
+
+North Miami, Florida 33181
+
+Chandler, AZ, 85226
+
+With a copy to:
+
+Rewards Network Inc.
+
+Two North Riverside Plaza, Suite 950
+
+Chicago, Illinois 60606
+
+Or to such other address or facsimile number as may be specified in a notice duly given by the sender as provided herein. A notice shall be deemed to have been given when received.
+
+6.2 Entire Agreement. This Agreement, including Exhibit A, contains the entire understanding between the Parties hereto with regard to the subject matter contained herein and supercedes all prior written or oral agreements or understandings between the Parties hereto.
+
+6.3 Joint Drafting. This Agreement is deemed to have been jointly drafted by the Parties, and any uncertainty or ambiguity shall not be construed for or against either Party as an attribution by either Party.
+
+6.4 Amendment. This Agreement shall not be modified, amended or supplemented except by written instrument signed by each of the parties hereto.
+
+6.5 Waiver. The failure of either Party to enforce at any time any provision of this Agreement shall not be construed to be a waiver of such provision, nor in any way to affect the validity of this Agreement or any part hereof or a Party’s right thereafter to enforce each and every provision. No waiver of any breach of this Agreement shall be held to constitute a waiver of any other or subsequent breach.
+
+6.6 Severability. In the event that any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, it shall be separated from the others and shall not affect the validity of the other provisions so long as the general intent of this Agreement can be fulfilled.
+
+6.7 Assignment. This Agreement and the rights and obligations of the Parties hereto and their respective interests hereunder are not assignable (other than by operation of law) without the prior written consent of the other Party; provided, that Rewards Network may assign any or all of its rights and obligations under this Agreement to any one or more of its Affiliates without the prior written consent of Processor, in which event the relevant rights and obligations of Rewards Network and remedies available to it hereunder shall extend to and be enforceable by such Affiliate.
+
+5
+
+CONFIDENTIAL MATERIAL APPEARING IN THIS DOCUMENT IS OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION IN ACCORDANCE WITH RULE 24b-2, PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. OMITTED INFORMATION IS REPLACED WITH ASTERISKS.
+
+6.8 No Agent. It is understood and agreed that each Party shall have the status of an independent contractor under this Agreement and that nothing in this Agreement shall be construed as authorization for either Party to act as agent for the other. The relationship between the Parties as set forth herein shall not be construed as a partnership or joint venture and neither Party shall have fiduciary duties to the other.
+
+6.9 Governing Law. This Agreement shall be governed by and construed in accordance with the internal laws of the State of Delaware without giving effect to the principles of conflicts of law thereof.
+
+6.10 Injunctive Relief. The Parties acknowledge that damages at law may be an inadequate remedy for the breach of any of the covenants and obligations of the Parties contained in this Agreement, accordingly, each Party shall be entitled, without the need of establishing actual damages, to such injunctive relief as may be necessary to prevent, or to enjoin the continuation of, any such breach.
+
+6.11 Headings. All Article headings contained in this Agreement are inserted for convenience only and shall not affect in any way the meaning or interpretation of this Agreement.
+
+6.12 Recitals. The recitals set forth above are incorporated herein and are acknowledged by the parties to be true and correct and are made a part hereof.
+
+6.13 Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which shall constitute the same instrument.
+
+IN WITNESS WHEREOF, the Parties, through their authorized officers, have duly executed and delivered this Agreement intending it to be effective and binding as of the date first written above.
+
+REWARDS NETWORK INC.
+
+GOLDEN RETRIEVER SYSTEMS
+
+By:
+
+/s/ George S. Wiedemann
+
+By:
+
+/s/ Harry E. Hasselman
+
+Name:
+
+George S. Wiedemann
+
+Name:
+
+Harry E. Hasselman
+
+Title:
+
+President and Chief Executive Officer
+
+Title:
+
+Member - Secretary
+
+6

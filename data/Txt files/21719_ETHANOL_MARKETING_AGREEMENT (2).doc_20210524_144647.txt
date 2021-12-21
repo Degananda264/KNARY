@@ -1,0 +1,619 @@
+QuickLinks -- Click here to rapidly navigate through this document
+
+[*] CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+
+CONFIDENTIAL
+
+EXHIBIT 10.10
+
+ETHANOL MARKETING AGREEMENT
+
+This Ethanol Marketing Agreement ("Agreement") is made and entered into as of the 14th day of October 2002 by and between VeraSun Energy Corporation, a South Dakota corporation ("VERASUN") and Williams Ethanol Services, Inc., a Delaware Corporation DBA Williams Bio-Energy ("WES").
+
+In consideration of the mutual terms and conditions contained herein, the Parties agree as follows:
+
+1.
+
+Terms and Termination
+
+A.
+
+The term of this Agreement shall commence on the first day of ethanol sales and continue for a primary term of two (2) years and thereafter, renewing for consecutive two (2) year terms, unless terminated by either party with at least six (6) months prior written notice without cause.
+
+B.
+
+In addition, this Agreement may be terminated under the circumstances set out below.
+
+(1)
+
+Termination for Intentional Misconduct.    If either party engages in intentional misconduct reasonably likely to result in significant adverse consequences to the other party, the party harmed or likely to be harmed by the intentional misconduct may terminate this Agreement immediately, upon written notice to the party engaging in the intentional misconduct.
+
+(2)
+
+Termination for Uncured Breach.    If one of the parties breaches the terms of this Agreement, the other party may give the breaching party a notice in writing which specifically sets out the nature and extent of the breach, and the steps that must be taken to cure the breach. After receiving the written notice, the breaching party will then have thirty (30) days to cure the breach, if the breach does not involve a failure to make any payments which are required by this Agreement.
+
+If breach involves lack of payment beyond the established delinquency period, as specified in this Agreement, VERASUN may terminate this Agreement immediately and without prior written notice.
+
+(3)
+
+Change of Control.    Based on a change of majority interest in WES, VERASUN shall have six (6) months to terminate this agreement following the receipt of written notice regarding such change of ownership. WES must notify VERASUN of said event in writing within two (2) weeks of event. VERASUN may terminate agreement with (30) days written notice within said six (6) month period.
+
+(4)
+
+Termination by Mutual Written Agreement.    This Agreement may also be terminated upon any terms and under any condition, which are mutually agreed upon in writing by WES and VERASUN.
+
+(5)
+
+Termination by Bankruptcy, Etc.    This Agreement may also be terminated immediately and without prior notice by a party as a result of the other party's bankruptcy, assignment for the benefit of creditors, admission in writing of its inability to pay debts generally, or its liquidation, insolvency or dissolution.
+
+1
+
+2.
+
+Quantity and Quality
+
+A.
+
+VERASUN shall sell to WES the total output of fuel grade ethanol ("Ethanol") produced at the VERASUN Aurora, South Dakota, facility ("Plant"), currently anticipated to be one hundred (100) million gallons per year. Ethanol shall be delivered FOB the Plant, and title shall pass as the Ethanol is loaded into transport vessels.
+
+B.
+
+Such Ethanol shall meet or exceed all industry standards, including but not limited to ASTM D.4806 specifications and Williams Pipeline Company specifications for E-Grade Denatured Fuel Ethanol.
+
+3.
+
+WES shall:
+
+A.
+
+Purchase all of the Ethanol produced by VERASUN, at the price outlined in Section 5;
+
+B.
+
+Remit payment to VERASUN for the Ethanol as provided in Section 5; and
+
+C.
+
+Schedule all loads with VERASUN.
+
+D.
+
+Extend any alliance volume buying power of discounting to VERASUN.
+
+E.
+
+Extend railcar freight rates negotiated by WES to VERASUN.
+
+F.
+
+Participate with VERASUN in a monthly sales strategy call.
+
+4.
+
+VERASUN shall:
+
+A.
+
+Provide to WES quarterly production forecasts, monthly updates, daily plant inventory balances and shipment information;
+
+B.
+
+Provide to WES specifications and certificates of analysis of the Ethanol produced;
+
+C.
+
+Provide for a minimum of eight days storage on the VERASUN premises;
+
+E.
+
+Have meters that provide both gross and net 60° Fahrenheit temperature compensated gallons; and
+
+F.
+
+Establish and participate in monthly sales strategy meetings with WES.
+
+5.
+
+Pricing and Commission
+
+A.
+
+Sale Price.    The price VERASUN shall receive for its Ethanol shall be based upon the actual market price received by WES for the sale of the Ethanol as set forth below.
+
+B.
+
+Costs.    WES shall deduct all direct costs incurred by WES relating exclusively to marketing the Ethanol purchased from VERASUN, including, but not limited to, terminal lease charges, throughput charges, terminal shrinkage costs (not to exceed .5%), freight charges, tariffs, costs of leasing railcars and trucks, government taxes and assessments, inspection fees, and other similar costs. These costs shall be passed directly to VERASUN without WES markup. WES shall not deduct any general or administrative costs incurred in marketing the Ethanol. WES shall use commercially reasonable efforts to contain costs so as to maximize the net price payable to VERASUN for its Ethanol. In the event that VERASUN presents WES with alternatives that will reduce such costs, WES shall implement the alternatives where commercially reasonable.
+
+C.
+
+Net Price.    Net price is defined as sales price referred in Section 5(A) less direct costs referred in Section 5(B) ("Net Price"). WES shall use commercially reasonable efforts to maximize the Net Price, commensurate with prevailing market conditions.
+
+D.
+
+Establishing Minimum Net Price.    VERASUN and WES agree to participate in monthly sales strategy meetings at which time VERASUN will establish a monthly minimum net price target.
+
+2
+
+WES agrees to make best effort to meet or exceed minimum net price targets. If net price targets are not attainable:
+
+(1)
+
+WES must obtain written authorization from VERASUN prior to selling below net price target;
+
+(2)
+
+At VERASUN's request and expense, WES agrees to place VERASUN's ethanol in storage until pricing condition can be met
+
+E.
+
+Commission.    WES shall be paid a commission equal to [*] percent [*] of the Net Price, as defined in Section 5(C). [*]
+
+G.
+
+Contract Authorization. WES must obtain written authorization from VERASUN for all contract sales:
+
+(1)
+
+Equal to or greater than one (1) million gallons;
+
+(2)
+
+Where contract length is equal to or greater than six (6) months.
+
+H.
+
+Payment.    For all quantities of ethanol purchased by WES from VERASUN during a one-week period beginning on Monday and ending on the following Sunday, WES shall pay the Net Price referred to in Section 5(C) less commissions referred to in Section 5(D), to VERASUN by ACH or wire [*].
+
+I.
+
+Supporting Records.    WES shall keep a permanent, accurate set of books and records in accordance with generally accepting accounting principals with respect to all sales of Ethanol hereunder and all costs and commissions associated therewith, and shall make such books and records available to VERASUN at WES's office at any time by appointment during normal business hours upon at least three (3) business days prior written notice. In addition, WES shall provide VERASUN by e-mail or fax with supporting documentation regarding the calculation of the net sale price with each weekly payment for Ethanol.
+
+6.
+
+Indemnity:    WES shall indemnify, defend, and hold VERASUN and its affiliates, subsidiaries, parents, directors, officers, employees, customers, contractors, subcontractors and agents harmless from and against any and all claims, losses, awards, judgments, settlements, fines, penalties, liabilities, damages, costs or expenses (including reasonable Attorney's fees) alleged or incurred on account of any injury to or death of persons or damages to property or any other claim to the extent caused by or arising out of the negligence or willful misconduct of WES, its officers, employees, customers, contractors, subcontractors or agents.
+
+VERASUN shall indemnify, defend, and hold WES and its affiliates, subsidiaries, parents, directors, officers, employees, and agents harmless from and against any and all claims, losses, awards, judgments, settlements, fines, penalties, liabilities, damages, costs or expenses (including reasonable Attorney's fees) alleged or incurred on account of any injury to or death of persons or damages to property or any other claim to the extent caused by or arising out of the negligence or willful misconduct of VERASUN, its officers, employees, customers, agents, or contractors. VERASUN shall indemnify and hold WES and its affiliates, subsidiaries, parents, directors, officers, employees, customers and agents harmless from and against any and all claims, losses, awards, judgments, settlements, fines, penalties, liabilities, damages, costs or expenses (including reasonable Attorney's fees) from any defects in the Ethanol caused by VERASUN.
+
+7.
+
+Independent Contractor:    It is expressly understood that the relationship of WES to VERASUN is that of an independent contractor and nothing contained herein shall be construed to create any partnership, agency, or employer/employee relationship. WES may freely choose the customers from whom business shall be solicited and the time and place for solicitation, except as otherwise provided in this Agreement.
+
+[*] CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+
+3
+
+8.
+
+Notices:    Any notices required to be given under this Agreement shall be in writing and shall be deemed given upon personal delivery to the party to be notified; on the third day after deposit with the United States Postal Service, by registered or certified mail, postage prepaid; or upon confirmation if sent by telex, facsimile machine or other means of telecommunication that transmits or produces a written record of the message so sent. Notices shall be sent addressed as follows:
+
+VERASUN:
+
+VERASUN Energy Corporation
+
+100 22nd Avenue
+
+Suite # 103
+
+Brookings, SD 57006
+
+Attn: Donald Endres, CEO
+
+Telephone: 605-696-7200
+
+Fax: 605-696-7250
+
+WES:
+
+Williams Bio-Energy
+
+P. O. Box 10
+
+Pekin, IL 61555
+
+Attn: Ronald Miller
+
+Telephone: 309-347-9388
+
+Fax: 309-347-8541
+
+9.
+
+Insurance:    The Parties shall maintain, at all times while this Agreement is in effect, and each at its own sole cost and expense, comprehensive general liability insurance with a combined single limit for bodily injury and property damage of not less than $1,000,000 for any one occurrence. Each party shall promptly after execution of this Agreement furnish the other party a Certificate of Insurance evidencing the foregoing insurance coverage, and containing a clause specifying that no reduction, cancellation or expiration of the policies shall become effective until thirty (30) days from the date written notice is provided to the other Party. The insurance requirements set forth herein are minimum coverage requirements and are not to be constructed in any way as a limitation on liability under this Agreement.
+
+10.
+
+Entire Agreement:    This Agreement contains the entire agreement between the Parties and supersedes all previous agreements, either oral or written, between the Parties. No modifications hereof shall be valid unless made in writing and signed by both Parties.
+
+11.
+
+Waiver:    The failure of either Party to enforce any of its rights hereunder on any particular occasion shall not constitute a waiver of such rights on any subsequent occasion.
+
+12.
+
+Assignment:    This Agreement may not be assigned by either party without the prior written consent of the other party, which consent shall not be unreasonably withheld.
+
+13.
+
+Headings:    Any paragraph headings are used for convenience only and are not intended and shall not be used in interpreting any provisions of this Agreement.
+
+14.
+
+No Third Party Beneficiary:    Except as otherwise provided herein, nothing contained in this Agreement shall be considered or construed as conferring any right or benefit on a person not a party to this Agreement and neither this Agreement nor the performance hereunder shall be deemed to have created a joint venture or partnership between the Parties.
+
+15.
+
+Governing Law:    This Agreement shall be governed by the laws of the State of Illinois, without regard to the conflict of laws provisions thereof.
+
+In WITNESS WHEREOF, the Parties hereto have caused this Agreement to be duly executed as of the date first written above.
+
+WILLIAMS BIO-ENERGY
+
+VERASUN ENERGY CORPORATION
+
+By:
+
+/s/  RONALD H. MILLER
+
+By:
+
+/s/  DONALD ENDRES
+
+Ronald H. Miller, President
+
+Donald Endres, CEO
+
+Date:
+
+10/11/02
+
+Date:
+
+10/15/02
+
+4
+
+CONFIDENTIAL
+
+EXHIBIT "A"
+
+1.
+
+Commercial Objective:    To the extent commercially feasible as determined in AREI's good faith judgment in accordance with the provisions of this Exhibit "A", AREI will not disadvantage the Pooled Net Price to be paid VERASUN under the Agreement, as a result of its Purchase/Resale Program.
+
+2.
+
+Defined Terms
+
+"Alliance Partners"—shall mean the group of ethanol producers that have agreed to exclusively commit substantially all of their ethanol production to AREI for purposes of AREI marketing their ethanol.
+
+"Purchase/Resale Program"—shall mean the program administrated by AREI, independent of VERASUN or other Alliance Partners, whereby AREI purchases ethanol from non-Alliance Partners for the purpose of selling to customers, independent of the Pooled Market Alliance Volume.
+
+"Contract Segment"—shall mean the type of ethanol contract used in selling ethanol. Contracts are segmented into the following categories:
+
+Fixed Contracts—whereby a buyer agrees to purchase a volume of ethanol from AREI at a particular time, over a period of time, for a fixed price;
+
+Spot—whereby a buyer agrees to buy a volume of ethanol from AREI at a specific time, or over a period of time, for a price that varies over the term of the contract and is based on a mutually agreed upon market index;
+
+Gas Plus—whereby a buyer agrees to buy a volume of ethanol from AREI at a particular time, or over a period of time, for a price that is determined by the sum of: a gasoline market index (e.g. NYMEX, CARB), plus a fixed amount. The gas plus segment is further segmented by the gasoline market index used in determining the price.
+
+3.
+
+Business Rules
+
+The following describes the business rules AREI will follow and the methodology AREI will employ to measure its performance against the commercial objective set forth above with contracts beginning effective October 1, 2003.
+
+A.
+
+To the extent commercially feasible, AREI will attempt to maintain its total mix of Alliance Partner sales contracts, as follows:
+
+Contract Segment
+
+Low
+
+Target % of
+
+Total Gallons
+
+Sold
+
+High
+
+Fixed Price
+
+20%
+
+33%
+
+45%
+
+Gas Plus
+
+20%
+
+33%
+
+45%
+
+Spot
+
+20%
+
+33%
+
+45%
+
+B.
+
+Prior to entering into a contract for the sale of ethanol of a Contract Segment type specified in 3.A. above originating from the Purchase/Resale Program (a "New Resale Contract") AREI will compare the average netback price (on a cents per gallon basis) being realized from the sale of that portion of the Pooled Market Alliance Volumes being sold under then existing contracts of the same Contract Segment (with such average netback price to be calculated on the same basis as the Net Pooled Price, except limited to the specific Contract Segment type at issue) (herein the "Alliance Contract Segment Net Pooled Price") against the average net back price (on a cents per gallon basis before purchase/resale margin) being realized from the sale of that portion of the quantities of ethanol being purchased under the Purchase/Resale
+
+Program and being sold under then existing contracts of the same Contract Segment under the Purchase/Resale Program (with such average netback price to be calculated on a basis similar to that used in calculating the Net Pooled Price except using Purchase/Resale Program volumes rather than Pooled Market Alliance Volumes). Where a New Resale Contract will be a Gas Plus Contract Segment type, only contracts having the same gasoline index will be used in making the above comparison. Whenever possible and to the extent commercially feasible, AREI will only enter into a New Resale Contract of a particular Contract Segment type when the then existing Purchase/Resale Contract Segment Net Pooled Price before purchase/resale margin (after including such New Resale Contract) will be less than or equal to the then existing Alliance Contract Segment Net Pooled Price, both as determined on the basis of then existing contracts of the same Contract Segment type.
+
+C.
+
+AREI may still enter into Purchase/Resale Program contracts for good commercial reasons.
+
+4.
+
+Reporting
+
+AREI will monitor the activities set forth in 3. above and report monthly by Contract Segment to VERASUN on:
+
+•
+
+Alliance Ethanol Average Market Price
+
+•
+
+Breakdown of Pooled Costs
+
+•
+
+Pooled Net Price
+
+•
+
+Pooled Market Alliance Volumes
+
+•
+
+Average Purchase/Resale Market Price
+
+•
+
+Breakdown of Purchase/Resale Costs
+
+•
+
+Average Purchase/Resale Net Price Before Margin
+
+•
+
+Purchase/Resale Volume
+
+•
+
+Differences by Contract Segment of Alliance Ethanol Average Market Price and Pooled Net Price compared to Average Purchase/Resale Market Price and Average Purchase/Resale Net Price
+
+5.
+
+Revisions
+
+—AREI shall have the right to amend or eliminate this Exhibit "A" (a "Contract Change") subject to the following:
+
+A.    Any such Contract Change shall require VERASUN's written consent, with such consent not to be unreasonably withheld. For purposes of the foregoing, VERASUN shall not withhold its consent to any amendment to this Exhibit "A" as long as such amendment will not have, in VERASUN's reasonable judgment, an adverse economic effect on VERASUN under the Agreement.
+
+B.    VERASUN shall have thirty (30) days from receipt of AREI's written notice of a proposed Contract Change to notify AREI in writing of whether or not VERASUN consents to such Contract Change. If VERASUN notifies AREI in writing within such thirty (30) day period of its consent to such Contract Change or fails to provide written notice to AREI within such thirty (30) day period of its non-consent to such Contract Change then such Contract Change shall be effective as of the date set forth in AREI's written notice; provided, however, if such Contract Change will not have an adverse economic effect on VERASUN under the Agreement it shall also be effective as of the date set forth in AREI's written notice, whether or not such consent is given by VERASUN.
+
+C.    Subject to B. above, if VERASUN provides written notice of its non-consent to the Contract Change within thirty (30) days of its receipt of AREI's written notice of such Contract Change, then the Contract Change shall not be effective.
+
+CONFIDENTIAL
+
+Aventine Renewable Energy Inc.
+
+1300 South 2nd Street
+
+Pekin, Illinois 61554
+
+309.347.9200
+
+www.aventinerei.com
+
+Ronald H. Miller
+
+President & CEO
+
+309.347.9388
+
+309.347.8541 fax
+
+ron.miller@aventinerei.com
+
+December 8, 2003
+
+VeraSun Energy Corporation
+
+100 22nd Avenue
+
+Suite # 103
+
+Brookings, SD 57006
+
+Attn: Don Endres, CEO
+
+Re:
+
+Amendment of Ethanol Marketing Agreement
+
+Dear Don:
+
+AREI and VeraSun Energy Corporation ("VERASUN") hereby amend that Ethanol Marketing Agreement dated on or about October 14, 2002 (the "Agreement") in order to modify the method of calculating the price paid by AREI to VERASUN for VeraSun's fuel grade ethanol produced at VeraSun's Aurora, SD facility ("Ethanol"). Subsections 2(C) is added and subsections 5 (A), (B), (C), (D), (E), (G), (H) and (I) of the Agreement are deleted and replaced with the following language:
+
+2.C.    Ethanol produced at the Plant and marketed by VERASUN, directly or indirectly, to the E-85 fuel market is excluded from this Agreement.
+
+5.A.    Sales Price.    The sale price VERASUN shall receive for its Ethanol shall be the Pooled Net Price, as defined below.
+
+"Pooled Net Price" shall mean the net sales price per gallon calculated by subtracting the Pooled Costs on a per gallon basis from the Alliance Ethanol Average Market Price.
+
+"Alliance Ethanol Average Market Price" shall mean the monthly average price received by AREI for Pooled Market Alliance Volumes sold during such month on a per gallon basis.
+
+qc:
+
+Lisa Ferraro
+
+Omer Sagheer
+
+Keith Bruinsma
+
+Bill Honnef
+
+"Pooled Market Alliance Volumes" shall mean, with respect to any given period, aggregate fuel grade ethanol volumes purchased by AREI from all sellers who have agreed to receive the Pooled Net Price and aggregate fuel grade ethanol volumes produced by AREI during such period.
+
+"Pooled Costs" shall mean, with respect to any given period, all direct costs incurred by AREI in handling Pooled Market Alliance Volumes during such period, including by not limited to terminal lease charges, throughput charges, terminal shrinkage costs, freight charges, tariffs, costs of leasing railcars and trucks, government taxes and assessments, insurance, inspection fees, inventory carrying costs, purchased ethanol cost incurred due to lost production and other such costs, but excluding direct costs incurred in marketing such ethanol. AREI shall use commercially
+
+reasonable efforts to contain Pooled Costs so as to maximize the ultimate net price payable to VERASUN for its Ethanol.
+
+5.B.    Commission.    AREI shall deduct from the Pooled Net Price a commission equal to [*] percent [*] of the Pooled Net Price. [*]
+
+5.C.    Payment.    For all quantities of ethanol purchased by AREI from VERASUN during a one-week period beginning on Monday and ending on the following Sunday, AREI shall pay the estimated Pooled Net Price referred to in Section 5.A. less commissions referred to in Section 5.B., to VERASUN by ACH or wire [*].
+
+5.D    Intentionally Omitted.
+
+5.E    Intentionally Omitted
+
+5.G    Intentionally Omitted
+
+5.H.    Intentionally Omitted
+
+5.I.    Supporting Records.    AREI shall keep a set of accurate and complete books and records in accordance with generally accepting accounting principles with respect to all ethanol purchased and sold by AREI, including ethanol sold under AREI's Purchase and Resale business, and all costs and commissions associated therewith, and shall make such books and records reasonably available to mutually agreeable independent outside accounting representatives at AREI's office at any time by appointment during normal business hours upon at least five (5) business days prior written notice; provided, however, there shall be no more than two such review of AREI's books and records in any twelve (12) month period and prior to such review the independent outside accounting representatives shall execute a mutually agreeable confidentiality agreement with AREI. AREI agrees to pay fifty percent (50%) of the expenses of such independent outside accounting representatives in conducting such review, provided that AREI's share of such expenses shall not exceed $15,000. All other costs and expenses of such review are the sole responsibility of VeraSun. In addition, AREI shall provide VERASUN, by e-mail or fax, a monthly report regarding Pooled Market Alliance Volumes, Alliance Ethanol Average Market Price, and a breakdown of Pooled Costs in sufficient detail to arrive at calculated Pooled Net Price.
+
+In addition to the foregoing, set forth on Exhibit "A" attached hereto and incorporated herein by reference, are the business rules and related obligations AREI agrees to follow in managing its Purchase/Resale Program (as defined in Exhibit "A") in conjunction with the Agreement.
+
+Except as provided above, all other terms of Agreement shall remain unaltered and in full force and effect.
+
+Please indicate your agreement with the modifications to the Agreement set forth in this letter amendment by an authorized signature for VERASUN below.
+
+Sincerely,
+
+/s/ Ronald H. Miller
+
+Ronald H. Miller
+
+Aventine Renewable Energy, Inc.
+
+ACCEPTED AND AGREED this 8th day of December 2003.
+
+VERASUN Energy Corporation
+
+By:
+
+/s/  DONALD L. ENDRES
+
+Name: Donald L. Endres
+
+Title: CEO
+
+[*] CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+
+February 22, 2005
+
+VeraSun Energy Corporation
+
+1 VeraSun Place
+
+Aurora, South Dakota 57002
+
+Attention: Bruce Jamerson, President & CFO
+
+RE:
+
+Amendment of Ethanol Marketing Agreement
+
+Dear Don:
+
+Aventine Renewable Energy, Inc. ("AREI") and VeraSun Energy Corporation ("VERASUN") are parties to that certain Ethanol Marketing Agreement dated October 14, 2002, as amended by that certain letter amendment dated December 8, 2003 (the "Agreement"). AREI and VERASUN have discussed certain amendments to the Agreement as hereinafter set forth. This letter agreement is intended to memorialize such discussions.
+
+Accordingly, for and in consideration of the mutual covenants contained herein, AREI and VERASUN hereby agree as follows:
+
+1.
+
+Subsection 1.A. of the Agreement is deleted in its entirety and the following new subsection 1.A. is inserted in lieu thereof:
+
+"1.A. The term of this Agreement shall commence on the first day of ethanol sales and continue for a primary term ending on March 31, 2007 and thereafter, renewing for consecutive two (2) year terms, unless terminated by either party at the end of the primary term or any subsequent two (2) year anniversary thereof with at least six (6) months prior written notice."
+
+2.     Subsection 5.B. Commission of the Agreement is deleted in its entirety and the following new subsection 5.B. is inserted in lieu thereof:
+
+"5.B. Commission. AREI shall deduct from the Pooled Net Price a commission equal to [*] percent [*] of the Pooled Net Price. [*]
+
+3.     Subsection 5.D. of the Agreement which currently states "Intentionally Omitted" is deleted in its entirety and the following new subsection 5.D. is inserted in lieu thereof:
+
+"5.D.    Quarterly Meetings.    VERASUN and AREI agree to hold quarterly meetings (by telephone or in person) to formulate a market outlook and perspective for the purpose of establishing pricing parameters and sales strategy for a given period (the "Guidelines"). For any period to which such Guidelines are agreed upon and apply, AREI agrees to use its commercially reasonable efforts to execute deals consistent with these guidelines and when possible AREI will solicit feedback from VERASUN before executing deals outside such Guidelines. AREI will, to the extent it deems it necessary or appropriate, utilize VERASUN to participate on customers calls."
+
+4.     Subsection 3.A. the chart in Exhibit "A" is deleted in its entirety and the following new chart in subsection 3.A.is inserted in lieu thereof:
+
+Contract Segment
+
+Low
+
+Target % of
+
+Total Gallons
+
+Sold
+
+High
+
+Fixed Price
+
+20%
+
+33%
+
+55%
+
+Gas Plus
+
+20%
+
+33%
+
+45%
+
+Spot
+
+20%
+
+33%
+
+45%
+
+5.     Except as provided above, all other terms of the Agreement shall remain unaltered and in full force and effect.
+
+Please indicate your agreement with the modifications to the Agreement set forth in this letter amendment by an authorized signature for VERASUN in the space provided below.
+
+Sincerely,
+
+By:
+
+/s/  RONALD H. MILLER
+
+Ronald H. Miller, President & CEO
+
+VeraSun Energy Corporation
+
+By:
+
+/s/  BRUCE A. JAMERSON
+
+Bruce A. Jamerson, President & CFO
+
+Accepted and Agreed to
+
+this 11th day of March     , 2005
+
+[*] CERTAIN INFORMATION ON THIS PAGE HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+
+QuickLinks
+
+ETHANOL MARKETING AGREEMENT
+
+EXHIBIT "A"

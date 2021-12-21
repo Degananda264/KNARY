@@ -1,0 +1,363 @@
+
+MASTER PROFESSIONAL SERVICES AGREEMENT
+
+This Master Professional Services Agreement (“Agreement”) is effective as of the date of the later signature below
+(“Effective Date”) between QVC, Inc., a Delaware corporation located at 1200 Wilson Drive, West Chester,
+Pennsylvania 19380 (“QVC”), and Datacert, Inc., a Delaware corporation located at 3009 Post Oak Blvd., Suite
+1100, Houston, TX 77056 (“Consultant”). QVC and Consultant (each a “Party” and together, the “Parties’),
+intending to be legally bound, agree as follows:
+
+1. Services. Consultant shall provide to QVC services (“Services”) set forth in statements of work that refer to
+this Agreement and are signed by each Party (each, a “SOW”). Each SOW is part of this Agreement. “Agreement”
+means collectively this Agreement, the SOWs, the Confidentiality Agreement, and any exhibit, schedule or other
+document attached or incorporated by reference into this Agreement or a SOW. If this Agreement and a SOW
+conflict, the SOW shall control as to the SOW’s scope of Services.
+
+1.1 Schedule. Consultant shall complete the Services pursuant to any schedule in a SOW. Time is of the
+essence in performing this Agreement. Consultant shall perform all obligations in this Agreement and any SOW
+and provide any equipment, material or resource necessary to perform such obligations, except to the extent a SOW
+specifically requires QVC to perform an obligation or to provide equipment, materials or resources.
+
+1.2 Acceptance. Consultant shall provide QVC copies of all Work (as defined below) that Consultant develops
+for, or provides to, QVC pursuant to this Agreement. Unless otherwise set forth in the applicable SOW, QVC shall
+have the right to review and accept any Technical Work (as defined below) and associated deliverables, if any,
+within 20 days of QVC’s receipt thereof. If QVC fails to provide notice of acceptance or rejection for such
+Technical Work and related deliverables within 15 days of receipt thereof, Datacert shall provide QVC written
+notice (for the avoidance of doubt, an email constitutes written notice under this Section 1.2) that QVC must reject
+or accept such within 5 days. If QVC fails to provide notice of acceptance or rejection in such 5 day period, the
+Technical Work and related deliverables will be deemed accepted by QVC. If any Technical Work or related
+deliverable is rejected by QVC, Datacert must re-perform the technical Services and resubmit the Technical Work
+and related deliverables at no additional cost to QVC. For purposes of this Section 1.2 and as otherwise used in
+this Agreement, the term “Technical Work” shall mean any and all means any and all tangible technical work
+product or other technical deliverables to be provided to QVC by Consultant as set forth in the applicable SOW.
+For the avoidance of doubt, Technical Work shall not include Work that is the direct result of consulting Services.
+
+1.3 Affiliates. Any QVC Affiliate may (a) enter into SOWs with Consultant, and the Affiliate’s obligations
+will be the obligations of such Affiliate alone and not of QVC or any other Affiliate, but if any such entity ceases to
+be an Affiliate, it shall retain the benefit of this Agreement in connection with any SOWs entered into by such
+Affiliate but it shall not be entitled to enter into further SOWs under this Agreement; and (b) use Services and
+Work to the same extent as QVC at no additional expense to QVC, and such Affiliate shall be entitled to QVC’s
+rights and interests under this Agreement and to enforce this Agreement in its own name. “Affiliate” means QVC’s
+parent or an entity of which QVC or its parent owns presently or in the future, directly or indirectly, greater than
+50% of such entity’s capital stock or other voting interests.
+
+1.4 Staffing and Personnel.
+
+1.4.1. Consultant shall perform Services using as resources its employees having positions, titles, skills,
+education, experience, licenses and qualifications necessary to perform Services. Consultant shall assign a qualified
+project manager to supervise the Services and render decisions for Consultant. QVC or its agents may perform, at
+their expense, background checks on or interview Consultant resources, and Consultant will cooperate reasonably
+with QVC to obtain from each resource any consent or authorization necessary to perform a background check, to
+provide such consent and authorization to QVC, and to complete such background checks. Consultant shall notify
+QVC in writing 15 days before a Consultant resource will have provided Services for more than a cumulative total
+of 9 months in any rolling 12-month period. QVC may, in its sole discretion, either permit such resource to
+continue performing Services (in which event Consultant shall be responsible to pay any additional tax arising
+therefrom) or direct Consultant to terminate the resource’s assignment to QVC effective upon reaching such 9-
+month milestone. Subject to the foregoing, Consultant shall maintain the continuity of resources assigned to QVC
+and shall use its best efforts to keep turnover of resources to a minimum. Subject to the previous sentence, if a
+Consultant resource is specified to provide Services under a SOW, Consultant shall not remove such resource
+without first obtaining QVC’s written consent to such removal and to the resource’s replacement. Consultant shall
+
+discontinue the assignment of any resource to QVC at any time if QVC determines that such resource does not
+work well with QVC for any reason.
+
+1.4.2. For Consultant’s resources, Consultant shall be solely responsible for (a) paying such resources;
+(b) paying and reporting any tax withholding (including federal, state and local income taxes), workers’
+compensation payments, social security taxes, and unemployment insurance; and (c) any health or disability
+insurance, retirement benefits, or other welfare or pension benefits.
+
+1.4.3. Consultant shall provide QVC with time sheets for the Services with detail reasonably acceptable
+to QVC on a weekly basis or any other schedule determined by QVC. At QVC’s direction, Consultant shal! make
+time and task entries into systems designated by QVC. Unless authorized in writing by QVC, Consultant shall not
+invoice QVC, and QVC is not obligated to pay, for time worked by a Consultant resource in excess of 8 hours per
+day.
+
+1.5 Compliance with Laws and Workplace Rules. Consultant shall secure work permits, licenses, or other
+documents required by a governmental authority for Consultant to perform the Services. Consultant’s resources
+who work at or have access to QVC facilities or systems shall comply with QVC’s security, workplace safety, and
+log-in, system-use policies and procedures, and other policies and procedures. Consultant and its resources have no
+expectation of privacy when using QVC’s telephones, computers, communications systems and other systems, and
+QVC has the right to monitor such use. Consultant shall notify its resources in writing of the previous sentence.
+
+2. Compensation.
+
+2.1 Invoices. Consultant shall issue a monthly invoice for fees for Services and Permitted Expenses. Each
+invoice shall set forth (a) the project name for which the invoice is submitted, (b) QVC’s project manager, (c)
+QVC’s purchase order number for which the invoice is submitted, and (d) in separate line items any sales or use tax
+or Permitted Expense that QVC agreed to pay under this Agreement. QVC is not obligated to pay Consultant for an
+invoice received more than 90 days after the date of delivery of the Services or Work for which the invoice is
+provided. Each invoice shall be sent to QVC: (1) by email to AP209@gqvc.com; (2) by confirmed facsimile to
+484.701.1236; or (3) by mail to QVC at QVC Accounts Payable, 1200 Wilson Drive, West Chester, PA, 19380.
+QVC may change such email address, facsimile number or mail address by written notice to Consultant. If QVC
+permits Consultant to use a third party to which QVC is responsible for payment, Consultant shall cause such third
+party to provide invoices that comply with this Agreement. QVC may reject an invoice that does not comply with
+this Agreement. QVC shall pay the amount of a properly completed invoice not disputed by QVC in good faith the
+later of 45 days after QVC’s receipt of the invoice or 45 days after QVC’s acceptance of the Services or Work that
+is the subject of the invoice, in accordance with the applicable SOW. Consultant will maintain records to
+substantiate each invoice for 18 months after the invoice date, and QVC and its representatives have the right to
+audit such records upon reasonable prior notice to Consultant. If an audit reveals an overpayment by QVC,
+Consultant shall reimburse the overpayment amount to QVC within 45 days after Consultant receives notice of
+such overpayment.
+
+2.2 Permitted Expenses. “Permitted Expenses” means Consultant’s travel expenses that comply with QVC’s
+travel expense policy in effect from time to time and are incurred in connection with Services. QVC will reimburse
+Permitted Expenses that do not exceed SOW limits that cap Permitted Expenses either as a percentage of fees for
+Services or as an aggregate amount so long as QVC receives Consultant’s invoice for the Permitted Expenses
+within 90 days after the Permitted Expenses were incurred. Other than Permitted Expenses, Consultant shall be
+responsible to pay all expenses incident to performing the Services. Consultant shall not charge QVC, and QVC is
+not obligated to pay, for travel time of Consultant’s resources; provided that, to the extent the Services set forth in
+the applicable SOW are being charged on a time and materials basis, Consultant may bill for any actual Services
+performed during such travel time. Consultant acknowledges receipt of QVC’s travel expense policy.
+
+2.3 Taxes. QVC shall be responsible for sales or use taxes levied in connection with the Services. QVC shall
+not be responsible for taxes imposed on Consultant’s income or property. Consultant shall (a) provide to QVC
+prompt notice of the levy of taxes for which QVC is responsible, (b) permit QVC to challenge such taxes, and (c)
+reasonably cooperate with QVC at QVC's expense in connection with any such challenge.
+
+2.4 Change of Scope. The Parties may agree in writing to change the scope of Services, fees or the time for
+performing Services, but neither Party will have any liability or obligation with respect to any such change until an
+
+2
+
+amendment to this Agreement setting forth such change has been executed by the Parties.
+
+3. Insurance. During the Term of this Agreement, Consultant will maintain, at its own expense, the following
+insurance policies with insurers having a rating of A- or better from S&P or Best, subject to the terms and
+conditions of each policy:
+
+TYPE OF COVERAGE COVERAGE AMOUNTS
+
+US Workers Compensation Statutory Limits
+
+US Employer’s Liability $1,000,000 each accident/disease/employee
+
+US Automobile Liability $1,000,000
+
+Comprehensive General Liability $1,000,000 combined single limit per occurrence
+$2,000,000, general aggregate
+
+Umbrella/Excess Liability $4,000,000 each occurrence/general aggregate
+
+Professional Media Liability $1,000,000 per claim made
+
+(aka Errors & Omissions) $2,000,000 general aggregate
+
+Property Damage/Business Interruption $1,000,000 per claim made
+(“All Risks” at full replacement value with
+
+respect to Consultant property and third-
+
+party property in Consultant care, custody,
+
+control)
+
+Crime/Fraud $1,000,000 per crime
+
+At QVC’s request, Consultant shall provide QVC a certificate of insurance evidencing such coverage. For clarity,
+the requirements set forth above as to types, limits and approval of insurance coverage to be maintained by
+Consultant will not in any manner be construed as either a limitation of the liability of Consultant to QVC,
+indemnification obligations or the right of Consultant to obtain additional coverages and higher liability limits as it
+deems necessary or desirable.
+
+Except in the case of routine renewal cycles, Consultant shall provide QVC with at least thirty (30) calendar days
+prior written notice of cancellation or nonrenewal of the policies.
+
+4. Confidentiality. Each Party’s use or disclosure of information provided by or on behalf of the other Party shall
+be governed by the Mutual Confidentiality Agreement between Consultant and QVC dated on or about the date
+hereof (“Confidentiality Agreement”). This Agreement, Work (excluding any Background Materials) shall be
+treated as the Confidential Information of both Parties and QVC Materials are QVC’s Confidential Information, all
+as defined in the Confidentiality Agreement.
+
+5. Work.
+
+5.1 “Work” means any and all tangible work product or other deliverables to be provided to QVC by
+Consultant as set forth in the applicable SOW. Consultant shall deliver any Work in progress at any time at QVC’s
+request.
+
+§.2 Ownership. Each party retains sole and exclusive ownership of all intellectual property, inventions,
+discoveries, developments, and works (including but not limited to any artwork), software, products, modules,
+utilities, drivers, facilities, routines, user-interface conventions and other development tools, in machine-readable
+object code form and human readable source code form and any associated documentation, which each such
+respective party developed or lawfully acquired prior to the Effective Date or independent of the Services
+performed by Consultant under this Agreement (with respect to each party, “Background Materials”). Except as
+expressly set forth in any applicable SOW, and except for any QVC Background Materials, as between QVC and
+Consultant, all Work and any and all derivatives, enhancements, improvements, configurations or modifications
+thereof or thereto, shall be exclusively owned by Consultant including without limitation, the intellectual property
+rights therein and thereto. Consultant hereby grants to QVC a non-transferable (except as expressly set forth
+
+3
+
+herein or otherwise set forth in the applicable SOW), non-sub-licensable (except as expressly set forth herein or
+otherwise set forth in the applicable SOW), fully paid-up, royalty free, irrevocable (except for termination in
+accordance with the this Agreement), worldwide (excepted as prohibited under U.S. export Law), non-exclusive,
+license to use, reproduce, copy, display, modify, extend and/or create derivative works from, the Work during the
+term of this Agreement, solely in connection with QVC’s business purposes, and in connection with use of the
+Software (as defined in the Master License Contract of even date herewith by and between the Parties (the “Master
+License Contract”). In addition to any of QVC’s Background Materials, QVC shall exclusively have and retain all
+right, title and interest, including all associated intellectual property rights, in and to QVC’s data and intellectual
+property supplied by QVC for purposes of the Services, and all such data and intellectual property shall remain the
+sole property of QVC. Nothing in this Agreement shall alter or amend the licenses provided under the Master
+License Contract.
+
+5.3 Licensed Work. Consultant will not combine, incorporate, link or embed Licensed Work into Work except
+for Licensed Work specifically identified in an SOW. “Licensed Work” means Consultant’s Background Materials
+and Third Party Work. “Third Party Work” means technology, intellectual property, materials or other products
+created, developed or authored by any person other than Consultant independent of Services or Work. Consultant
+grants QVC a non-transferrable (except as expressly set forth herein or otherwise set forth in the applicable SOW),
+non-sub-licensable (except as expressly set forth herein or otherwise set forth in the applicable SOW), fully paid-
+up, royalty free, irrevocable, worldwide, non-exclusive, license to use, reproduce, copy, display, modify, extend
+and/or create derivative works from, the Work during the term of this Agreement, solely in connection with QVC’s
+business purposes and in connection with use of the Software as defined in the Master License Contract.
+
+5.4 Section 365(n) of Title 11, United States Code (the “Bankruptcy Code”) governs this Agreement. If (1)
+Consultant as a debtor in possession or a trustee in Bankruptcy in a case under the Bankruptcy Code rejects this
+Agreement, QVC may elect to retain its rights to licenses granted herein as provided in Section 365(n) of the
+Bankruptcy Code; and (2) a petition for relief is filed by or against QVC under the Bankruptcy Code, Consultant
+hereby consents to this Agreement’s assumption or assumption and assignment pursuant to the Bankruptcy Code.
+
+5.5 Further Assistance. Consultant shall take such commercially reasonable actions as QVC deems necessary
+or desirable, including executing and delivering instruments of conveyance or other documents, to vest in QVC the
+rights and interests granted in this Agreement, and to assist QVC to obtain, register, maintain and enforce such
+rights and interests.
+
+6. Representations, Warranties and Covenants. Consultant represents, warrants and covenants that so long as
+this Agreement has not been terminated:
+
+6.1 Consultant has full power and authority to enter into and perform its obligations under this Agreement;
+
+6.2 entering into and performing its obligations under this Agreement (a) will not violate or breach any
+agreement binding on Consultant; and (b) does not result in a conflict of interest between the work to be provided
+under this Agreement and Consultant’s other activities. Consultant shall advise QVC of any conflict of interest that
+arises during the performance of this Agreement.
+
+6.3 the Services and Work: (a) will be created and originated by Consultant and may be conveyed to QVC
+under this Agreement free and clear of claim of ownership by others; (b) will not violate or infringe any proprietary
+information, non-disclosure, copyright, patent or other intellectual property or contractual right; (e) will not violate
+any applicable law, rule or regulation; (d) will conform with this Agreement, be performed in a workmanlike and
+professional manner, be of high quality, and in no event, be of a quality less than the quality of services performed
+and work product created by a skilled consultant with expertise in the area for which Consultant is providing the
+Services; (e) (including the Technical Work and any related deliverables) will, in the aggregate, unless otherwise
+set forth in the applicable SOW, for a period of 60 days after first used by QVC in a production environment, (the
+“Warranty Period”),conform in all material respects to the specifications contained in the applicable SOW or in an
+ancillary written requirements document executed by the Parties, be free of errors and that all failures of the
+Services or Work furnished hereunder will be corrected to conform with this Agreement, provided that QVC
+notifies Consultant of such failures within the Warranty Period.
+
+7. Indemnification by Consultant. Consultant shall indemnify, defend and hold QVC and its Affiliates harmless
+from and against any damage, loss, liability, obligation, claim, litigation, demand, suit, judgment, cost or expense
+
+4
+
+including, without limitation, reasonable attorneys’ fees (“Claims”) that may be made: (a) for bodily injury, death,
+or damage to real or tangible personal property, including theft, resulting from the acts or omissions of Consultant,
+its employees or agents; (b) in connection with Consultant’s breach of its obligations under Section 1.4.2; (c) by
+any third party alleging that Services or Work violates any proprietary information, non-disclosure, copyright,
+patent or other intellectual property or contractual rights; (d) requiring, pursuant to subpoena, court order or similar
+process, of the production of documents, the disclosure of information or the provision of testimony related to
+Services or Work; and (e) in connection with Consultant’s recklessness, gross negligence, willful misconduct, or
+violation of applicable law. QVC may participate at its expense in any Claim, and QVC’s prior written consent is
+required for settlement of any Claim.
+
+8. Exclusion of Certain Damages. Neither Party shall be liable to the other Party for indirect, special,
+consequential or punitive damages, loss of goodwill or business profits, regardless of the nature of the claim, even
+if such Party knew, or should have known, of the possibility of such damages or claims. The previous sentence does
+not apply to a Party’s indemnification obligations, breach of its confidentiality or security obligations, gross
+negligence, intentional misconduct, recklessness or violation of applicable law. With respect to all other damages,
+the total liability of either Party for tort, contract and other damages shall not exceed the greater of (a) $250,000
+(Two Hundred and Fifty Thousand Dollars) or (b) two (2) times the total amount of all fees paid or payable to
+Consultant by QVC under this Agreement during the 12 (twelve) months preceding written notice by QVC to
+Consultant of such claim. Notwithstanding the foregoing, if the fees due hereunder are prepaid by QVC, the total
+liability of either party for tort, contract and other damages shall not exceed the greater of (x) $250,000 (Two
+Hundred Fifty Thousand Dollars) or (y) 2 (two) times the total amount of all fees allocable to the 12 (twelve)
+months preceding written notice by QVC to Consultant of such claim. These limitations of liability shall apply to
+all claims in the aggregate (not per incident) and together with the disclaimer of warranties above shall survive
+failure of any exclusive remedies provided in this Agreement.
+
+9. Term. This Agreement will continue in effect until the Agreement is terminated as provided herein.
+
+9.1 Termination for Breach. If a Party (“Breaching Party’) is in breach in any material respect under this
+Agreement and fails to cure such breach (if such breach is susceptible to cure) within 30 days of receipt of written
+notice from the other Party, the other Party may (at its election), without further notice and without limiting its
+other rights, terminate this Agreement by notice to the Breaching Party without further obligation or liability
+hereunder, other than the obligations that survive this Agreement’s termination.
+
+9.2 Termination for Convenience. QVC may terminate a SOW or this Agreement at any time by notice to
+Consultant, and upon such termination, QVC shall pay Consultant the amount due for Services provided before
+termination together with Consultant’s actual costs from changes to travel as a result of QVC’s termination.
+
+9.3 Return of Materials. QVC retains the entire right, title and interest in any materials provided to Consultant
+by or for QVC (“QVC Materials”) and QVC Materials shall be considered QVC’s Confidential Information.
+
+9.4 Survival. If this Agreement terminates or expires for any reason, (a) each party shall retain all of its
+respective rights set forth in Section 5 of this Agreement; and (b) the following Agreement sections shall survive:
+1.2, 2, 4, 5, 7, 8, 9, 10.
+
+10. General Provisions.
+
+10.1. Independent Contractor. The Parties intend that Consultant shall be an independent contractor and
+not an employee, agent, joint venturer, or partner of QVC. Nothing in this Agreement shall be interpreted or
+construed as creating or establishing the relationship of employer and employee between the Parties.
+
+10.2. Notice. Except with respect to invoices as set forth in Section 2.1, any communication required or
+otherwise made under this Agreement (“Notice”) shall be made to a Party at its address in the first paragraph of this
+Agreement by either personal delivery, certified mail, or commercial overnight delivery. A copy of any Notice
+addressed to QVC shall also be delivered to the attention of QVC’s General Counsel at QVC’s address. Notice
+made pursuant to this Section 10.2 shall be deemed to have been given when such Notice is actually received. A
+party may change its address for receipt of Notice pursuant to this Section 10.2.
+
+10.3. Assignment. Consultant may not assign all or any part of this Agreement or any rights hereunder to
+any third party without the express written consent of QVC, which shall not be unreasonably withheld, conditioned
+
+5
+
+or delayed; provided Consultant may assign this Agreement as part of a corporate reorganization, consolidation,
+merger, or sale of substantially all of its assets or capital stock. QVC may assign all or any part of this Agreement
+or any rights hereunder to any third party; provide that such third party’s financial stability is equal to or greater
+than QVC’s. Any assignment, delegation or subcontracting of this Agreement in violation of this Section shall be
+void ab initio.
+
+10.4 Entire Agreement. This, Agreement is the entire agreement between the Parties with respect to the
+subject matter hereof and supersedes all oral or written agreements between the Parties hereto with respect to the
+subject matter hereof. Any change to this Agreement will be effective only if it is in writing signed by the Parties.
+No “shrink-wrap”, “click-wrap”, “click-agree” or other licenses or agreements (collectively, “Other Terms”) shall
+apply to Services or Work, and if any Other Terms are provided or otherwise made available to QVC, the terms and
+conditions of this Agreement shall prevail and such Other Terms shall have no force or effect.
+
+10.5 Partial Invalidity, Waivers. If a court of competent jurisdiction holds any part of this Agreement to be
+unenforceable, the remaining parts will continue in full force and effect without being impaired or invalidated. A
+delay or forbearance by a Party in exercising any right hereunder shall not be deemed a waiver of that right.
+
+10.6 Law; Jurisdiction. This Agreement is governed by and shall be construed in accordance with the laws
+of the Commonwealth of Delaware, without regard to conflicts of law principles. The United States District Court
+for the District of Delaware and the state courts situated in New Castle County, Delaware have exclusive
+jurisdiction over, and are the exclusive venue for, any matter arising out of or related to this Agreement.
+
+10.7 No Publicity. Consultant shall not use QVC as a reference or refer to QVC in any marketing materials
+or make any public announcements relating to this Agreement without QVC’s prior written consent.
+
+10.8 Binding Effect. This Agreement binds and benefits the Parties, their successors, and permitted assigns.
+
+10.9 Counterparts. This Agreement may be executed in counterparts and delivered by facsimile or other
+electronic means, each of which when so executed and delivered shall be deemed to be an original and both of
+which when taken together shall constitute one agreement.
+
+10.10 Gifts. Consultant shall not offer or pay to QVC, QVC employees or officers, or third parties serving as
+references for Consultant any (a) gift, gratuity, or other consideration that may be construed to influence this
+Agreement’s negotiation, award, interpretation, or implementation; or (b) commission or fee or grant any rebate to
+any QVC employee or officer, or enter into any business arrangements with QVC employees or officers without
+QVC’s prior written approval.
+
+6
+
+Datacert, Inc.
+
+QVC, Inc.
+
+By: A Vallman
+Name: ames A Tallman
+Title:__General Manager
+
+Date:__9/10/2014
+
+ 
+

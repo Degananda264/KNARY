@@ -1,0 +1,277 @@
+Exhibit 10.2
+
+AMENDED AND RESTATED CONFIDENTIALITY, NON-COMPETITION, AND
+
+NON-SOLICITATION AGREEMENT
+
+This Amended and Restated Confidentiality, Non-Competition, and Non-Solicitation Agreement (“Agreement”) is made and entered into this 25th day of January 2019 by and between Sound Community Bank, a Washington corporation (the “Company”), and Laura Lee Stewart (the “Employee”). This Agreement amends and restates the Confidentiality, Non-Competition, and Non-Solicitation Agreement between the Company and the Executive as originally adopted effective December 30, 2011, as amended and restated on November 23, 2015 (the “Prior Agreement”).
+
+WHEREAS the Employee is a key member of the management of the Company and has provided guidance, leadership, and direction in the growth, management, and development of the Company and has learned trade secrets, confidential procedures and information, and sensitive business plans of the Company;
+
+WHEREAS the Company desires to continue to employ the Employee, and the Employee desires to continue employment with the Company;
+
+WHEREAS the Company desires to restrict, after the Employee’s Separation from Service with the Company, the Employee’s availability to other companies or entities that compete with the Company;
+
+WHEREAS the Employee agrees to undertake such post-employment restrictions in exchange for the severance payments described herein;
+
+NOW THEREFORE, in consideration of these premises, the mutual promises and undertakings set forth in this Agreement, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Employee and the Company hereby agree as follows.
+
+1.          DEFINITIONS.  As used in this Agreement, certain terms shall have the following meanings:
+
+a.
+
+Affiliate shall mean the Company and any entity that directly, or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with the Company.
+
+b.
+
+Cause shall mean and be limited to:  (i) willful and gross neglect of duties by the Employee, (ii) an act or acts committed by the Employee constituting a felony and substantially detrimental to the Company or its reputation, (iii) any action or inaction detrimental to the Company or its reputation that results in regulatory enforcement action, whether or not such enforcement action is subject to direct enforcement under 12 U.S.C § 1818(i)(l), by any regulatory authorities having authority over the Company, (iv) any regulatory or other finding, action or directive requiring Employee’s termination of employment pursuant to any
+
+applicable statue, rule or regulation; and/or (v) any violation of Employee’s obligations under this Agreement, including, without limitation, the obligations set forth in paragraphs 3, 4, 6 and 7.
+
+c.
+
+Change in Control shall mean a change in the ownership or effective control of the Company, or in the ownership of a substantial portion of the assets of the Company, as such change is defined under the default definition in Treasury Regulation §1.409A-3(i)(5) or any subsequently applicable Treasury Regulation.
+
+d.
+
+Code shall mean the Internal Revenue Code of 1986, as amended, or any successor statute, rule or regulation of similar effect.
+
+e.
+
+Customer shall mean any individual, joint venturer, entity of any sort, or other business partner of the Company or its Affiliates with, for, or to whom the Company or its Affiliates have provided financial products or services during the final two years of the Employee’s employment with the Company, or any individual, joint venturer, entity of any sort, or business partner whom the Company or any of its Affiliates has identified as a prospective customer of financial products or services within the final year of the Employee’s employment with the Company or any of its Affiliates.
+
+f.
+
+Disability or Disabled means the Employee:  (i) is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months or (ii) by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, is receiving income replacement benefits for a period of not less than three (3) months under a disability plan covering employees of the Company.
+
+g.
+
+Financial products or services shall mean any product or service that a financial institution or a financial holding company could offer by engaging in any activity that is financial in nature or incidental to such a financial activity under Section 4(k) of the Bank Holding Company Act of 1956 and that is offered by the Company or an Affiliate on the date of the Employee’s Separation from Service, including but not limited to banking activities and activities that are closely related and a proper incident to banking, or other products or services of the type in which the Employee was involved during the Employee’s employment with the Company.
+
+h.
+
+Good Reason shall mean and be limited to:  (i) without the Employee’s express written consent, a material diminution in authority, duties or responsibilities, except as required by any regulatory or other finding, action or directive pursuant to any applicable statute, rule or regulation; (ii) any material reduction by the Company in the Employee’s Base Salary; (iii) any failure of the Company to obtain the assumption of, or the agreement to perform, this Agreement by any successor as contemplated in paragraph 15 hereof; (iv) the Company’s material
+
+2
+
+breach of this Agreement; or (v) the Company requiring the Employee to be permanently assigned to a location more than 35 miles from Employee’s current work location, except for required travel on Company business, or, in the event the Employee consents to any relocation, and such relocation is more than 35 miles from the Employee’s previous location, the failure by the Company to pay (or reimburse the Employee) for all reasonable moving expenses incurred by the Employee relating to a change of the Employee’s principal residence in connection with such relocation and to indemnify the Employee against any loss realized on the sale of the Employee’s principal residence in connection with any such change of residence. Good Reason shall be deemed to occur only when Employee provides written notice to the Company of Employee’s judgment that a Good Reason event has occurred within 90 days of such occurrence, and the Company will have at least 30 days during which it may remedy the condition.
+
+i.
+
+Specified Employee means an employee who at the time of termination of employment is a key employee of the Company, if any stock of Sound Financial is publicly traded on an established securities market or otherwise. For purposes of this Agreement, an employee is a key employee if the employee meets the requirements of Code Section 416(i)(1)(A)(i), (ii) or (iii) (applied in accordance with the regulations thereunder and disregarding Section 416(i)(5)) at any time during the 12-month period ending on December 31 (the “identification period”). If the employee is a key employee during an identification period, the employee is treated as a key employee for purposes of this Agreement during the twelve (12) month period that begins on the first day of January following the close of the identification period.
+
+j.
+
+Sound Financial shall mean Sound Financial Bancorp, Inc., the parent holding company of the Company.
+
+k.
+
+Voluntary Termination shall mean the termination by Employee of Employee’s employment, which is not the result of Good Reason.
+
+l.
+
+By way of clarification, when used in this Agreement, the terms "Separation from Service," "separation from service," "termination of employment," "terminates  employment" and similar phrases in each case shall mean a "Separation  from Service" as defined in Treasury Regulation §1.409A-l(h), taking into account all of the facts and circumstances, special rules and presumptions set forth in such regulation.
+
+2.          TERM.  The term of this Agreement shall commence upon the date the Employee has a Separation from Service and shall continue for a period of 36 months following the date of such Separation from Service, with such term referred to herein as the “Restricted Period.”
+
+3.          NON-DISCLOSURE OF CONFIDENTIAL INFORMATION.  Except as permitted in writing by the Company, the Employee shall not at any time divulge, furnish or make accessible to anyone, or use in any way other than in the ordinary course of the business of the Company or its Affiliates, any confidential, proprietary or secret knowledge or information
+
+3
+
+of the Company or its Affiliates that the Employee has acquired or will acquire about the Company or its Affiliates, whether developed by herself or by others, concerning (i) any trade secrets; (ii) any confidential, proprietary or secret designs, programs, processes, formulae, plans, devices or material (whether or not patented or patentable) directly or indirectly useful in any aspect of the business of the Company or of its Affiliates; (iii) any customer or supplier lists; (iv) any confidential, proprietary or secret development or research work; (v) any strategic or other business, marketing or sales plans; (vi) any financial data or plans; or (viii) any other confidential, proprietary or secret information about any aspect of the business of the Company or of its Affiliates (collectively “Confidential Information”). The Employee acknowledges that the knowledge and information described above constitutes a unique and valuable asset of the Company and represents a substantial investment of time and expense by the Company and that any disclosure or other use of such knowledge or information other than for the sole benefit of the Company or its Affiliates would be wrongful and would cause irreparable harm to the Company. The Employee shall not intentionally commit any act that would materially reduce the value of such knowledge or information to the Company or its Affiliates. The Employee's obligations under this Agreement to maintain the confidentiality of the Company's confidential, proprietary, and secret information are in addition to any obligations of the Employee under applicable statutory or common law . The obligations of the Employee under this paragraph 3 shall survive the termination of this Agreement and the termination of the Employee’s employment with the Company.
+
+a.
+
+Exceptions.  The foregoing obligations of confidentiality shall not apply to any knowledge or information that:  (i) is now or subsequently becomes generally publicly known, other than as a direct or indirect result of the breach of this Agreement; (ii) is independently made available to the Employee in good faith by a third party who has not violated a confidential relationship with the Company or its Affiliates or any other entity; or (iii) is required to be disclosed by law or legal process. Notwithstanding anything to the contrary herein, the parties hereto agree that nothing contained in this Agreement limits the Employee’s ability to report information to or file a charge or complaint with the Equal Employment Opportunity Commission, the Securities and Exchange Commission, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System or any other federal, state or local governmental agency or commission that has jurisdiction over the Company or any Affiliate (the “Government Agencies”). The Employee further understands that this Agreement does not limit his ability to communicate with any Government Agencies or otherwise participate in any investigation or proceeding that may be conducted by any Government Agency, including providing documents or other information, without notice to the Company and/or any Affiliate. This Agreement does not limit the Employee’s right to receive an award for information provided to any Government Agencies. In addition, pursuant to the Defend Trade Secrets Act of 2016, the Employee understands that an individual may not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that (i) is made (A) in confidence to a federal, state or local government official, either directly or indirectly, or to an attorney; and (B) solely for the purpose of reporting or investigating a suspected violation of law; or (ii) is made in a complaint or other document that is filed under seal in a lawsuit or
+
+4
+
+other proceeding.  Further, an individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the employer's trade secrets to the attorney and use the trade secret information in the court proceeding if the individual (y) files any document containing the trade secret under seal; and (z) does not disclose the trade secret, except pursuant to court order.
+
+4.          NON-COMPETITION AND NON-SOLICITATION.
+
+a.
+
+Non-Competition Obligations.  For and in consideration of the payments described in paragraph 5, the Employee shall not, during the Restricted Period, either separately, jointly or in association with others, directly or indirectly, as an agent, employee, owner, partner, stockholder or otherwise, compete with the Company or any of its Affiliates, or establish, engage in, or become interested in any business, trade or occupation that competes with the Company or any of its Affiliates, in the financial products or services industry (a “Competing Entity”), if such Competing Entity has an office in (i) any county in which the Company or any Affiliate has an office or (ii) any county adjacent to any of the counties covered by clause (i). The Company and the Employee acknowledge that, during the term of the Employee’s employment, the Employee has acquired special and confidential knowledge regarding the operations of the Company and its Affiliates. Furthermore, although not a term or condition of this Agreement, the Company and the Employee acknowledge that the Employee’s services have been used and are being used by the Company in executive, managerial, and supervisory capacities throughout the areas in which the Company and its Affiliates conduct business. Employee acknowledges that the non-compete restrictions contained herein are reasonable and fair in scope and necessary to protect the legitimate business interests of the Company.
+
+b.
+
+Non-Solicitation Obligations.  For and in consideration of the payments described in paragraph 5, the Employee shall not, during the Restricted Period:  (a) directly or indirectly solicit or attempt to solicit any customer of the Company or any of its Affiliates to accept or purchase financial products or services of the same nature, kind or variety currently being provided to the customer by the Company or any of its Affiliates, or being provided to the customer by the Company or any of its Affiliates when the Employee’s Separation from Service occurs; (b) directly or indirectly influence or attempt to influence any customer, joint venturer or other business partner of the Company or any of its Affiliates to alter that person or entity’s business relationship with the Company or any of its Affiliates to terminate an employment or contractual relationship with the Company or any of its Affiliates, and shall not hire any person employed by the Company or any of its Affiliates during the two (2)-year period immediately
+
+5
+
+before the Employee’s employment termination or any person employed by the Company or any of its Affiliates during the term of this covenant.
+
+c.
+
+Duration; no impact on existing obligations under law or contract.  The covenants in this paragraph 4 shall apply throughout the Restricted Period.  The Restricted Period referenced herein shall be tolled and shall not run during any period of time the Employee is in breach of this Agreement and/or in violation of any of the covenants contained herein, and once tolled hereunder shall not begin to run again until such time as all such breach and/or violations have ceased. The Employees acknowledges and agrees that nothing in this Agreement is intended to or shall have any impact on the Employee’s obligations as an officer or employee of the Company to refrain from competing against the Company or any of its Affiliates, soliciting customers, officers or employees of the Company or any of its Affiliates, or disclosing confidential information of the Company or any of its Affiliates while the Employee is serving as an officer or employee of the Company or thereafter, whether the Employee’s obligations arise under applicable statutory or common law, under an employment agreement, or otherwise.
+
+d.
+
+Forfeiture of payments under this Agreement.  If the Employee breaches any of the covenants in this paragraph 4, the Employee’s right to any of the payments specified in paragraph 5 after the date of the breach shall be forever forfeited and the right of the Employee’s designated beneficiary or estate to any payments under this Agreement shall likewise be forever forfeited. This forfeiture is in addition to and not instead of any injunctive or other relief that may be available to the Company. The Employee further acknowledges and agrees that any breach of any of the covenants in paragraphs 3, 4 and 7 shall be deemed a material breach by the Employee of this Agreement.
+
+5.          NON-COMPETITION AND NON-SOLICITATION PAYMENTS.
+
+a.
+
+Payments.  In consideration of the Employee’s non-competition and non-solicitation obligations, as described in paragraph 4, the Company shall pay to the Employee:
+
+(i)
+
+Upon the termination of Employee’s employment by the Company for Cause or upon a Voluntary Termination of Employment by the Employee, except for a Termination for Good Reason, a bi-monthly payment, in an amount equal to $3,541.67, which amount shall be paid in equal bi-monthly payments during the Restricted Period beginning on the fifth day of the month following the Employee’s Separation from Service; or
+
+(ii)
+
+Except as set forth in paragraph 5(c) below, upon the Employee’s Separation from Service for any reason other than those set forth in subparagraph (a)(i) above, an amount equal to the aggregate of 1.5 times the annual rate of base salary then being paid to the employee, plus the average of the past three years short term bonus pay, which amount shall be paid in 12 equal monthly payments beginning on the first day of the month following the Employee’s Separation from Service.
+
+6
+
+(iii)
+
+Notwithstanding (i) and (ii) above, in the event the Employee has an involuntary Separation from Service including Good Reason that occurs within 24 months immediately following a Change in Control, the Employee shall receive an amount equal to the amount determined in (ii) above to be paid in a lump sum within 10 business days following the date of such involuntary Separation from Service.
+
+(ii)
+
+Except as set forth in paragraph 5(c) below, upon the Employee’s Separation from Service for any reason other than those set forth in subparagraph (a)(i) above, an amount equal to the aggregate of 1.5 times the annual rate of base salary then being paid to the employee, plus the average of the past three years short term bonus pay, which amount shall be paid in 12 equal monthly payments beginning on the first day of the month following the Employee’s Separation from Service.
+
+b.
+
+Potential six-month delay under Section 409A.  If, when Separation from Service occurs, the Employee is a specified employee within the meaning of Section 409A of the Code, and if the non-competition payments under this paragraph 5 would be considered deferred compensation under Section 409A of the Code, and finally if an exemption from the six-month delay requirement of Section 409A(a)(2)(B)(i) of the Code is not available, the Employee’s non-competition payments for the first six months following Separation from Service shall be paid to the Employee in a single lump sum on the first day of the seventh month after the month in which the Employee’s Separation from Service occurs.
+
+c.
+
+Death and Disability.  Notwithstanding anything herein to the contrary, no amounts are payable under this Agreement in the event of the Employee’s Separation from Service as a result of death or Disability. Further, all payments under this Agreement shall cease upon the Employee’s death.
+
+d.
+
+Employee’s Ineligibility to Work in Financial Products or Services Industry.  Notwithstanding anything herein to the contrary, no amounts are payable under this Agreement in the event of a regulatory or other finding, action or directive resulting in the Employee’s ineligibility to work in the financial products or services industry (as defined in paragraph 1(g) above) pursuant to any applicable statute, rule or regulation.
+
+6.          CONSULTING AND ADVISORY SERVICES.
+
+a.
+
+Services to be Provided by the Employee.  Upon her Separation from Service with the Company and continuing for the Restricted Period, the Employee shall provide consulting and advisory services to the Company and any of its Affiliates with regard to the following matters:
+
+A.          Shareholder and investor relations;
+
+B.          Legislative and regulatory developments impacting the Company;
+
+C.          The market area and customers served by the Company;
+
+D.          The business of financial institutions and their affiliates generally; and
+
+7
+
+E.          Such other matters as may be requested by the President of the
+
+Company from time to time.
+
+b.
+
+Time Commitment, Status and Responsibilities the Employee.  The Employee shall make herself available to provide the above consulting services, at the request of the Company, for a maximum of 25 hours per month.  Such services shall be provided by the Employee at places and times as the Company and the Employee shall agree. The Employee shall have the status of independent contractor and nothing in this Agreement shall:  (i) be construed or interpreted as creating a relationship  of employer and employee or principal and agent between the Employee and the Company; (ii) give either party the power to direct and control the day-to-day activities of the other; (iii) constitute the parties as partners, joint venturers or otherwise; or (iv) allow the Employee to create or assume any obligation on behalf of the Company for any purpose whatsoever.  The Employee will not be entitled to any employee benefits during the Restricted Period as a result of this Agreement or the Prior Agreement. The Employee shall be responsible for paying all income taxes and other taxes owed by the Employee on amounts paid to the Employee pursuant to this Agreement. The Employee shall be responsible for keeping third persons appropriately informed of her inability to act in any way on behalf of the Company.  During the Restricted Period, the Employee shall adhere to the Code of Business Conduct and Ethics of the Company.
+
+c.
+
+Title.  The Company and the Employee shall agree to an appropriate title for the Employee during the Restricted Period.
+
+d.
+
+Responsibilities of the Company.  During the Restricted Period, the Company shall provide the Employee, on the premises of the Company, with an office, computer, telephone and appropriate supplies and secretarial assistance necessary or appropriate for the Employee to perform the consulting services enumerated above.  The Company shall provide the Employee with an email address utilizing the domain name of the Company.
+
+e.
+
+Compensation. The Employee shall not receive any additional compensation beyond that provided for in the Agreement for performing the consulting services enumerated in this Agreement, it being expressly agreed that her use of office space, a computer, telephone, supplies and secretarial assistance shall constitute adequate consideration for her services hereunder.
+
+7.          RETURN OF RECORDS AND PROPERTY.  Upon the Employee's Separation from Service for any reason, or at any time upon the Company's request, the Employee shall promptly deliver to the Company all Company and Affiliate records and all Company and Affiliate property in the Employee’s possession or the Employee’s control, including without limitation manuals, books, blank forms, documents, letters, memoranda, notes, notebooks, reports, printouts, computer disks, computer tapes, source codes, data, tables or calculations, and all copies thereof; documents that in whole or in part contain any Confidential Information of the Company or its Affiliates and all copies thereof; and keys, access cards, access codes, passwords, credit cards, personal or laptop computers, telephones, PDAs, smart phones, and other electronic equipment belonging to the Company or an Affiliate.
+
+8
+
+8.          REMEDIES.  Employee agrees that if Employee fails to fulfill Employee’s obligations under this Agreement, including, without limitation, the Non-Competition and Non-Solicitation obligations set forth in paragraph 4, the damages to the Company or any of its Affiliates would be very difficult or impossible to determine.  Therefore, in addition to any other rights or remedies available to the Company at law, in equity or by statute, Employee hereby consents to the specific enforcement by the Company of this Agreement through an injunction or restraining order issued by an appropriate court, without the necessity of proving actual damages, and Employee hereby waives as a defense to any equitable action the allegation that the Company has an adequate remedy at law.  The provisions of this paragraph shall not diminish the right of the Company to claim and recover damages or to obtain any equitable remedy in addition to injunctive relief to which the Company may otherwise be entitled.  The Employee understands and agrees that the Employee will also be responsible for all costs and attorney’s fees incurred by the Company in enforcing any of the provisions of this Agreement including, but not limited to, expert witness fees and deposition costs.
+
+9.          SEVERABILITY.  If, for any reason, any paragraph or portion of this Agreement shall be held by a court to be invalid or unenforceable, it is agreed that such holding shall not affect any other section or portion of this Agreement. The covenants in paragraph 4(a) with respect to the geographic area shall be deemed to be separate covenants with respect to each county, and should any court of competent jurisdiction conclude or find that this Agreement or any portion is not enforceable with respect to a particular county, such conclusion or finding shall in no way render invalid or unenforceable the covenants herein with respect to any other county.   If the final judgment of a court of competent jurisdiction declares that any term or provision of this Agreement is invalid or unenforceable, the parties agree that the court making the determination of invalidity or unenforceability shall have the power to reduce the scope, duration or area of the term or provision, to delete specific words or phrases, or to replace any invalid or unenforceable term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Agreement shall be enforceable as so modified after the expiration of the time within which the judgment may be appealed.  If such court does not have the legal authority to take the actions described in the preceding sentence, the parties agree to negotiate in good faith a modified provision that would, in so far as possible, reflect the original intent of this Agreement, including without limitation paragraph 4 hereof, without violating applicable law.
+
+10.          ENTIRE AGREEMENT.  This Agreement constitutes the entire agreement between Company and the Employee concerning the subject matter of confidentiality, non-competition and non-solicitation and supersedes all prior agreements between the parties with respect to the subject matter hereof, including, without limitation, the Management/Employment Agreement, executed February 27, 2007 and amended August 27, 2007, and the Prior Agreement. For clarification purposes, nothing contained herein shall supersede the Amended and Restated Supplemental Executive Retirement Plan Agreement between the Company and the Employee originally adopted December 30, 2011 and most recently amended and restated as of November 23, 2015 (the “2011 SERP”) or the Amended and Restated Executive Long Term
+
+9
+
+Compensation Agreement between the Company and the Employee originally adopted effective August 14, 2007 and most recently amended and restated as of November 23, 2015. No rights are granted to the Employee under this Agreement other than those specifically set forth herein.
+
+11.          NO EMPLOYMENT AGREEMENT.  This Agreement is not an employment policy or contract. It does not give the Employee the right to remain an employee of the Company, nor does it interfere with the Company’s right to discharge the Employee. It also does not require the Employee to remain an employee or interfere with the Employee’s right to separate from service at any time.
+
+12.          AMENDMENTS.  The parties agree that no modification of the Agreement may be made except by means of a written agreement signed by the parties.  However, if the Company determines to its reasonable satisfaction that an alteration or amendment of this Agreement is necessary or advisable so that the Agreement complies with the Code or any other applicable tax law, then, upon written notice to Employee, the Company may unilaterally amend this Agreement in such manner and to such extent as the Company reasonably considers necessary or advisable to ensure compliance with the Code or other applicable tax law. Nothing in this paragraph shall be deemed to limit the Company’s right to terminate this Agreement at any time and without stated cause.
+
+13.          ASSIGNMENT OF RIGHTS; SPENDTHRIFT CLAUSE.  None of the Employee, the Employee’s estate or the Employee’s beneficiary shall have any right to sell, assign, transfer, pledge, attach, encumber or otherwise convey the right to receive any payment hereunder. To the extent permitted by law, benefits payable under this Agreement shall not be subject to the claim of any creditor of the Employee, the Employee’s estate, or the Employee’s designated beneficiary or subject to any legal process by any creditor of the Employee, the Employee’s estate or the Employee’s designated beneficiary.
+
+14.          BINDING EFFECT.  This Agreement shall bind the Employee, the Company and their beneficiaries, survivors, executors, successors and assigns, administrators and transferees.
+
+15.          SUCCESSORS; BINDING AGREEMENT.  By an assumption agreement in form and substance satisfactory to the Employee, the Company shall require any successor (whether direct or indirect, by purchase, merger, consolidation or otherwise) to all or substantially all of the business or assets of the Company to expressly assume and agree to perform this Agreement in the same manner and to the same extent that the Company would be required to perform this Agreement had no succession occurred.
+
+16.          TAX WITHHOLDING.  If taxes are required by the Code or other applicable tax law to be withheld by the Company from payments under this Agreement, the Company shall withhold any taxes that are required to be withheld.
+
+17.          GOVERNING LAW.  This Agreement shall be governed by and construed in accordance with the laws of the State of Washington.
+
+10
+
+18.          NOTICES.  All notices, requests and demands given to or made pursuant hereto shall be in writing and shall be delivered or mailed to any such party at its address which:
+
+a.
+
+In the case of the Company shall be:
+
+Sound Community Bank
+
+2005 5th Avenue, Second Floor
+
+Seattle, WA 98121
+
+Attention:  Human Resources
+
+b.
+
+In the case of the Employee shall be:
+
+Laura Lee Stewart
+
+At her last address on
+
+file with the Employer
+
+Either party may, by notice hereunder, designate a changed address. Any notice, if mailed properly addressed, postage prepaid, registered or certified mail, shall be deemed to have been given on the registered date or that date stamped on the certified mail receipt.
+
+19.          SEVERABILITY.  In the event that any portion of this Agreement is held to be invalid or unenforceable for any reason, it is hereby agreed that such invalidity or unenforceability shall not affect the other portions of this Agreement and that the remaining covenants, terms and conditions or portions hereof shall remain in full force and effect, and any court of competent jurisdiction may so modify the objectionable provision as to make it valid, reasonable and enforceable.
+
+20.          RELEASE OF CLAIMS.  Notwithstanding the foregoing provisions of this Agreement, the Company will not be obligated to make any payments to the Employee under this Agreement unless the Employee has signed a release of claims in favor of the Company and its Affiliates in a form to be prescribed by the Company, and all applicable consideration and rescission periods provided by law have expired. Notwithstanding any other provision contained in this Agreement, in the event the time period that the Employee has to consider the terms of such general release (including any revocation period under such release) commences in one calendar year and ends in the succeeding calendar year, then the payments shall not commence until the succeeding calendar year.
+
+21.          COMPLIANCE WITH CODE SECTION 409A.  The Company and the Employee intend that their exercise of authority or discretion under this Agreement shall comply with Section 409A of the Code. The payments under paragraph 5 of this Agreement shall be deemed exempt from Section 409A of the Code to the fullest extent possible in reliance upon the separation pay plan exemption and/or the short-term deferral exemption.  Notwithstanding anything herein to the contrary in this Agreement, to the extent that any benefit under this Agreement that is nonqualified deferred compensation (within the meaning of Section 409A of the Code) payable upon Employee’s termination of employment, such payment(s) shall be made only upon Employee’s “Separation from Service” pursuant to the default definition in Treasury
+
+11
+
+Regulation Section 1.409A-1(h). To the extent permitted by Section 409A, amounts payable under paragraph 5 which are considered deferred compensation shall be treated as payable after amounts which are not considered deferred compensation (i.e., which are exempt from Section 409A of the Code).
+
+(Signature page follows)
+
+12
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first written above.
+
+Date: January 25, 2019
+
+/s/Laura Lee Stewart
+
+Laura Lee Stewart
+
+Accepted for Sound Community Bank:
+
+Date: January 25, 2019
+
+By:
+
+/s/Tyler Myers
+
+Tyler Myers
+
+Its:
+
+Chairman of the Board
+
+13

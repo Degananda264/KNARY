@@ -1,0 +1,1067 @@
+Exhibit 10.21
+
+*** Text omitted and filed separately
+
+with the Securities and Exchange Commission
+
+Confidential Treatment Requested
+
+Under 17 C.F.R §§ 200.80 (b) (4)
+
+And 240.24b-2
+
+BNP ASSAY DEVELOPMENT, MANUFACTURE AND SUPPLY AGREEMENT
+
+THIS BNP ASSAY DEVELOPMENT, MANUFACTURE AND SUPPLY AGREEMENT (this “Agreement”) effective as of June 24, 2003 (the “Effective Date”), is entered into by and between BIOSITE INCORPORATED, a Delaware corporation (“Biosite”), having a place of business at 11030 Roselle Street, Suite D, San Diego, California 92121, and BECKMAN COULTER, INC., a Delaware corporation (“Beckman”), having a place of business at 4300 N. Harbor Boulevard, Fullerton, California 92834-3100.
+
+WHEREAS, Biosite owns or has rights relating to BNP (as defined below) and to reagents and methods useful in assaying levels of BNP in human biological materials.
+
+WHEREAS, Beckman has expertise in the development and manufacture of automated laboratory immunoassay instrumentation and tests, and owns or has rights relating to a platform for the measurement of analytes in human biological materials.
+
+WHEREAS, Biosite desires to engage Beckman to develop and manufacture for the benefit of Biosite, and to sell exclusively to Biosite (for resale by Biosite and Biosite’s authorized distributors), a test for use in the diagnosis of cardiac diseases in humans on the Beckman Analyzers (as defined below), on the terms and conditions of this Agreement.
+
+WHEREAS, Beckman desires to accept such engagement on the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants set forth below, the parties hereby agree as follows:
+
+1.             DEFINITIONS
+
+For purposes of this Agreement, the terms defined in this Section 1 shall have the respective meanings set forth below:
+
+1.1           “Affiliate” shall mean, with respect to any Person, any other Person which directly or indirectly controls, is controlled by, or is under common control with, such Person. A Person shall be regarded as in control of another Person if it owns, or directly or indirectly controls, at least fifty percent (50%) of the voting stock or other ownership interest of the other Person, or if it directly or indirectly possesses the power to direct or cause the direction of the management and policies of the other Person by any means whatsoever.
+
+1.2           “Beckman Analyzers” shall mean any automated immunoassay (or combination chemistry/immunoassay) laboratory instruments capable of performing the measurement of analytes in human biological materials, together with all improvements
+
+1
+
+and replacements thereto, that are developed and/or marketed by or on behalf of Beckman or its Affiliates.
+
+1.3           “Biosite Antibodies” shall mean the [***] antibodies binding to BNP that are described more specifically in the Design Inputs and/or specified under the provisions of Section 3.1 (Biosite Materials).
+
+1.4           “Biosite/Scios Agreement” shall mean the Semi-Exclusive BNP Diagnostic License Agreement between Biosite and Scios Inc. dated December 30, 1996 as amended or restated from time to time.
+
+1.5           “BNP” shall mean the human protein known as B-type natriuretic peptide.
+
+1.6           “BNP Assay” shall mean a diagnostic BNP assay for use in the diagnosis of cardiac diseases in humans [***] or [***] pursuant to this Agreement and the Design Inputs, which assay is designed for use on the Beckman Analyzers.
+
+1.7           “BNP Calibrator and Controls” shall mean the BNP calibrator and controls [***] or on [***] or [***] pursuant to this Agreement and the Design Inputs, which calibrator and controls are for use with the BNP Assay.
+
+1.8           “Clinical Plan” shall mean a plan and schedule for any external or internal evaluations to be carried out during validation and U.S. clinical trials for the purpose of regulatory approval.
+
+1.9           “Confidential Information” shall mean, with respect to a party, all information of any kind whatsoever, and all tangible and intangible embodiments thereof of any kind whatsoever, that is disclosed by such party to the other party and is marked as confidential at the time of disclosure to the other party or if not marked as confidential at the time of the initial disclosure is so marked and disclosed again to the other party within thirty (30) days of the initial disclosure. Biosite’s Confidential Information includes, without limitation, all non-public information relating to the Biosite Antibodies. Notwithstanding the foregoing, Confidential Information of a party shall not include information which the other party can establish by written documentation (a) to have been publicly known prior to disclosure of such information by the disclosing party to the other party, (b) to have become publicly known, without fault on the part of the other party, subsequent to disclosure of such information by the disclosing party to the other party, (c) to have been received by the other party at any time from a source, other than the disclosing party, rightfully having possession of and the right to disclose such information, (d) to have been otherwise known by the other party prior to disclosure of such information by the disclosing party to the other party, or (e) to have been independently developed by employees or agents or Affiliates of the other party without access to or use of such information disclosed by the disclosing party to the other party.
+
+1.10         “Design Inputs” shall mean the detailed product requirements, functional specifications and testing methodologies set forth in Exhibit A.
+
+***Confidential Treatment Requested
+
+2
+
+1.11         “FDA” shall mean the United States Food and Drug Administration or the successor thereto.
+
+1.12         “First Commercial Sale” shall mean the first sale anywhere in the world of a BNP Assay by Biosite or any Affiliate or authorized distributor of Biosite to customers who are not affiliates in any country after all applicable marketing and pricing approvals (if any) have been granted by the applicable governing health authority of such country. As used in this definition, “authorized distributor” includes [***] of Biosite in any country under the [***].
+
+1.13         “Foreign Purchase Price” means the price equal to (a) for the first Pricing Period, [***] per [***] of the BNP Assays, and (b) for each subsequent Pricing Period, the price per [***] of the BNP Assays for the previous Pricing Period adjusted (in accordance with Section 6.1.7) by the [***] or [***] of the [***] for the applicable Measurement Period as compared to the [***] for the immediately preceding Measurement Period.
+
+1.14         “GMP” shall mean current Good Manufacturing Practices as prescribed from time to time by the FDA.
+
+1.15         “Guidelines” shall mean the guidelines and requirements for the parties’ obligations regarding the [***] of BNP Assay and BNP Calibrator and Controls attached hereto as Exhibit B (as modified from time to time by the Joint Committee in accordance with Section 5.7).
+
+1.16         “Joint Committee” shall mean the joint committee described in Section 5.7.
+
+1.17         “Marker” shall mean (a) [***], with or without the [***] sequence, or (b) any [***] thereof (however derived), including without limitation the [***] commonly known as [***] and the [***] commonly known as [***].
+
+1.18         “Measurement Period” means, for the current Pricing Period, the most recent [***], prior to the date [***] before the start of the current Pricing Period, for which data (as determined by [***] or such other party mutually acceptable to the parties and agreed to in writing) is available for sales to [***] of assays [***] that measure or detect the presence or absence of the Marker. If the most recent such data provided by [***] (or such other party agreed to by the parties then providing such data) is only available for a period ending more than [***] prior to the start of the current Pricing Period, the parties shall agree upon a different, mutually acceptable party to provide such data or data substantially similar to that described in this Section.
+
+1.19         “Person” shall mean an individual, corporation, partnership, limited liability company, trust, business trust, association, joint stock company, joint
+
+***Confidential Treatment Requested
+
+3
+
+venture, pool, syndicate, sole proprietorship, unincorporated organization, governmental authority or any other form of entity not specifically listed herein.
+
+1.20         “Pricing Period” means each [***] period ending on each [***] and [***] following the First Commercial Sale.
+
+1.21         “Product Risk Analysis” shall mean a formal risk assessment of BNP Assay, using failure modes and effects analysis (FMEA), risk analysis, or other approved tool.
+
+1.22         “Project” shall have the meaning as defined in Section 3.2.1.
+
+1.23         “Prototype Acceptance” shall have the meaning as defined in Section 3.3.
+
+1.24         “Prototypes” shall mean development prototypes of the BNP Assay and BNP Calibrator and Controls.
+
+1.25         “Release Specifications” shall mean the detailed product requirements, functional specifications and testing methodologies for the final BNP Assay or BNP Calibrator and Control, as such requirements, specifications and methodologies shall be developed by the parties in accordance with Section 3.5 and as may be modified from time to time upon mutual written agreement of the parties.
+
+1.26         “Technical Validation Report” shall mean a summary report for all testing conducted as part of the manufacturing validation plan, including pilot build results, demonstrating conformance of the Prototypes to the Design Inputs.
+
+1.27         “Technical Verification Report” shall mean a summary of all testing results conducted as part of a verification plan, including Prototype build results and conformance of the Prototypes to the Design Inputs.
+
+1.28         “US Purchase Price” means the price equal to (a) for the first Pricing Period, [***] [***] of the BNP Assays, and (b) for each subsequent Pricing Period, the price [***] [***] of the BNP Assays for the previous Pricing Period adjusted (in accordance with Section 6.1.7) by the [***] or [***] of the [***] for the applicable Measurement Period as compared to the [***] for the immediately preceding Measurement Period.
+
+1.29         “Validation Plan” shall mean a description of all validation activities, including manufacturing and materials plan for product pilot lots (number and scale of test lots), identified suppliers, testing methods (protocols and procedures), shipping conditions and specifications to confirm conformance of the Prototypes to Design Inputs.
+
+1.30         [***] shall mean, for any Measurement Period, and for [***] in [***] that measure or detect the presence or absence of
+
+***Confidential Treatment Requested
+
+4
+
+the Marker sold during such Measurement Period to [***], the [***] (as determined by [***] or such other party mutually acceptable to the parties and agreed to in writing) of each such [***] by the [***] of such [***] to calculate a [***] [***] for all sales of [***].
+
+1.31         “Worldwide Purchase Price” shall mean, for the current Pricing Period commencing after the first anniversary of the First Commercial Sale, the amount (calculated in accordance with Section 6.1.7) equal to the sum of (a) the product of (i)  the [***] during the applicable Measurement Period of [***] of BNP Assays sold to [***] located within the [***] ([***]), divided by the [***] during the applicable Measurement Period of [***] of BNP Assays sold to [***] ([***]), times (ii) the US Purchase Price for the current Pricing Period, plus (b) the product of (i) [***] minus [***] ([***]), divided by [***], times (ii) the Foreign Purchase Price for the current Pricing Period. The foregoing calculation is set forth as a formula as follows:
+
+Worldwide Purchase Price =
+
+[***] x US Purchase Price
+
++
+
+[***] x Foreign Purchase Price
+
+2.             REPRESENTATIONS AND WARRANTIES
+
+Each party hereby represents and warrants to the other party as follows:
+
+2.1           Corporate Existence. Such party is a corporation duly organized, validly existing and in good standing under the laws of the state in which it is incorporated.
+
+2.2           Authorization and Enforcement of Obligations. Such party (a) has the corporate power and authority and the legal right to enter into this Agreement and to perform its obligations hereunder, and (b) has taken all necessary corporate action on its part to authorize the execution and delivery of this Agreement and the performance of its obligations hereunder. This Agreement has been duly executed and delivered on behalf of such party, and constitutes a legal, valid, binding obligation, enforceable against such party in accordance with its terms.
+
+2.3           Consents. All necessary consents, approvals and authorizations of all governmental authorities and other third parties required to be obtained by such party in connection with this Agreement have been obtained.
+
+2.4           No Conflict. The execution and delivery of this Agreement and the performance of such party’s obligations hereunder (a) do not conflict with or violate any requirement of applicable laws or regulations, and (b) do not conflict with, or to its knowledge constitute a default under, any contractual obligation of such party.
+
+***Confidential Treatment Requested
+
+5
+
+3.             DEVELOPMENT
+
+3.1           Biosite Materials. From time to time during the development and manufacture of the BNP Assay and the BNP Calibrator and Controls, Biosite shall deliver to Beckman such quantity of [***] as may be reasonably required by Beckman and ordered by Beckman under this Section, and any other materials the parties agree to in writing, if any, (the [***] and such other materials individually and collectively the “Biosite Materials”) solely for use by Beckman to [***]. Biosite shall acknowledge each such order in the form of a written order confirmation. Prior to delivery of any such Biosite Materials, the parties shall agree in good faith upon mutually acceptable terms regarding specifications and delivery schedules for such Biosite Materials. Biosite shall use commercially reasonable efforts to deliver to Beckman Biosite Materials that conform to such specifications and in accordance with such schedules. If Beckman determines in good faith that the Biosite Materials do not materially conform to such specifications, Beckman shall so notify Biosite in writing and include with such notification a reasonable description of such non-conformance. Subject to Section 10, as Beckman’s sole and exclusive remedy hereunder, Biosite shall use commercially reasonable efforts to promptly replace any such non-conforming Biosite Materials. Beckman shall use the Biosite Materials delivered by Biosite solely for purposes of [***] pursuant to the terms of this Agreement. In consideration for the sale of the Biosite Materials to Beckman under this Section 3.1, Beckman shall pay to Biosite an amount equal to [***] to [***] such [***]. Biosite shall invoice Beckman for such amount at the time of each delivery of such Biosite Materials, and Beckman shall pay to Biosite the amount of each such invoice within [***] after receipt by Beckman of such invoice. If Beckman’s obligation to perform under this Agreement is substantially prevented or materially hindered by Biosite’s failure to supply conforming Biosite Materials according to the delivery schedule for such Biosite Materials, Beckman shall have the right to provide written notice thereof to Biosite. Beckman’s future [***] to perform under this Agreement, and any other related obligations (including related indemnity obligations) affected by such failure, shall be suspended, relieved and/or discharged solely to the extent that and for so long as Beckman’s performance is or was substantially prevented or materially hindered by such failure. Except as required by Beckman quality systems, Beckman shall destroy all unused quantities of the Biosite Materials immediately upon the expiration or termination of this Agreement. [***] for [***] by Biosite [***] the Biosite Materials or any [***] of the [***] or the [***].
+
+3.2           [***]
+
+***Confidential Treatment Requested
+
+6
+
+3.2.1        Beckman shall use its reasonable commercial efforts to [***] the [***] and [***] in accordance with the Design Inputs (the “Project”) all under and according to Beckman’s [***] and [***] for other projects of similar scientific and commercial [***].
+
+3.2.2        Beckman shall perform the Project under the Beckman quality system as applied to other projects of similar scientific and commercial [***]. Beckman shall maintain its quality system such that the quality system meets and maintains regulatory approval and conformity assessment requirements. Beckman shall comply with all FDA regulatory and quality system requirements and all other U.S. and international regulatory and quality system requirements regarding [***] and [***], including but not limited to 21 CFR 820 and be certified as conforming to ISO 13485 and to the requirements of the In Vitro Diagnostic Directive or equivalent international standard.
+
+3.2.3        Other than as provided in Section 3.3, Beckman shall provide Project personnel, materials, equipment and other resources required under the Project at its own expense, without contribution or offset from Biosite.
+
+3.3           Biosite Assistance.
+
+3.3.1        Biosite shall provide reasonable assistance to Beckman in connection with the Project.
+
+3.3.2        Biosite shall provide to Beckman [***] for Beckman’s use during the Project, all at no cost to Beckman. Beckman shall use the [***] solely to conduct the Project and not for any other purpose. Beckman hereby acknowledges that, as between the parties, Biosite is the sole owner or licensee of the [***] and the transfer of physical possession thereof by Biosite to Beckman shall not be (nor construed as) a sale, lease, offer to sell or lease, or other transfer of title. The [***] are, and shall remain at all times, the personal property of Biosite, regardless of how they are or may become attached or installed. Beckman shall not transfer the [***] to any third party without the prior express written consent of Biosite. Beckman shall not damage or destroy the [***]. Upon the earlier of the expiration or termination of the Project or this Agreement, Beckman shall promptly return the [***] to Biosite. Beckman shall use [***] provided by Biosite, if any, solely in accordance with the [***] accompanying such [***]. If Beckman’s obligation to perform under this Agreement is substantially prevented or materially hindered by Biosite’s failure to supply [***], Beckman shall have the right to provide written notice thereof to Biosite. Beckman’s future [***] obligations to perform under this Agreement, and any other related obligations (including related indemnity obligations) affected by such failure, shall be suspended, relieved and/or discharged solely to the extent that and for so long as Beckman’s performance is or was substantially prevented or materially hindered by such failure.
+
+***Confidential Treatment Requested
+
+7
+
+3.3.3        BECKMAN ACKNOWLEDGES THAT THE [***] ARE PROVIDED “AS IS,” AND WITHOUT WARRANTY OF ANY KIND. BIOSITE MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE [***] OR THE USE THEREOF. BIOSITE DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT. BECKMAN’S USE OF THE [***] SHALL BE AT ITS OWN RISK.
+
+3.4           Prototypes. Upon completion of the verification phase of the Project, Beckman shall deliver Prototypes and a Technical Verification Report, a Validation Plan, Technical Validation Report, and a Product Risk Analysis for the Project to Biosite for Biosite’s testing, evaluation, and acceptance or rejection. If Biosite rejects any such Prototype for failure to meet the Design Inputs, Biosite shall provide to Beckman a written report of the reasons for such rejection and Beckman shall have [***] to cure such non-conformance and redeliver to Biosite a replacement Prototype (BNP Assay and/or BNP Calibrator and Controls, as applicable). If Biosite rejects any resubmitted Prototype, Biosite shall again provide to Beckman a written report outlining the reasons for such rejection and Biosite may at its option, and as its sole and exclusive remedy under this Agreement, either (a) request that Beckman resubmit conforming Prototype (BNP Assay and/or BNP Calibrator and Controls, as applicable) at Beckman’s expense, or (b) terminate this Agreement in accordance with Section 9.2.2 below. For purposes of clarity, the parties acknowledge and agree that Biosite may reject a Prototype on the basis of (i) a non-conformance of the Prototype (BNP Assay and/or BNP Calibrator and Controls, as applicable) to a key Design Input (as reasonably designated by Biosite), or (ii) a material non-conformance of the Prototype (BNP Assay and/or BNP Calibrator and Controls, as applicable) to any other Design Input. Biosite shall indicate its acceptance of the Prototype (both BNP Assay and BNP Calibrator and Controls) and the Technical Validation Report (collectively “Prototype Acceptance”) by delivering to Beckman a written acceptance under this Section 3.4 (Prototypes).
+
+3.5           Release Specifications. With respect to each production lot of BNP Assay and BNP Calibrator and Control, upon Prototype Acceptance for such BNP Assay or BNP Calibrator and Control in accordance with Section 3.4 above, the parties shall agree in good faith upon a set of mutually acceptable Release Specifications for such BNP Assay or BNP Calibrator and Control.
+
+3.6           Clinical Plan. Promptly following the Effective Date, [***] shall [***] a Clinical Plan on [***].
+
+3.7           Clinical Testing; Regulatory Approval. Upon Prototype Acceptance, Biosite and Beckman shall conduct clinical testing in accordance to roles and responsibilities listed in the Clinical Plan, and each shall perform its respective obligations under the Clinical Plan at its own expense. Each party shall provide reasonable assistance to the other party at no cost to the other party in connection with the performance of the clinical testing. Biosite shall seek and use reasonable efforts to obtain
+
+***Confidential Treatment Requested
+
+8
+
+regulatory approval as necessary to sell the BNP Assays and the BNP Calibrator and Controls in the United States and such other countries as Biosite reasonably determines. Biosite is responsible for paying all regulatory filing costs worldwide incurred by Biosite in connection with obtaining such regulatory approval. Biosite and Beckman shall provide the personnel, materials, equipment and other resources required to perform the clinical testing at their respective own expense. Biosite and Beckman shall perform such activities in accordance with their commercially reasonable efforts and standards, and in compliance in all material respects within the requirements of applicable laws and regulations.
+
+3.8           Design Input Changes. The Design Inputs may not be modified other than by a mutually acceptable written agreement executed by the parties.
+
+4.             MANUFACTURE
+
+4.1           Release Specifications. Upon Prototype Acceptance and once Biosite has obtained regulatory approval from the FDA or its foreign equivalent to sell the BNP Assay in the United States or other country, respectively, Beckman shall begin commercial manufacture of the BNP Assays and the BNP Calibrator and Controls on behalf of Biosite. Beckman shall manufacture the BNP Assays and the BNP Calibrator and Controls in strict conformance with the Release Specifications.
+
+4.2           GMP. Beckman shall manufacture all BNP Assays in accordance with GMP and all applicable laws and regulations. Biosite shall have the right, at its sole expense, to audit Beckman for compliance with GMP under the provisions of Section 4.5 (Facility Audits) below.
+
+4.3           Certificates of Analysis. Beckman shall provide certificates of analysis to Biosite for all BNP Assays manufactured and supplied hereunder based upon a reference standard established by Beckman and reasonably acceptable to Biosite.
+
+4.4           Quality Control Information. Upon the reasonable request of Biosite, Beckman shall provide Biosite with such information, including analytical and manufacturing documentation, requested by Biosite regarding quality control of the BNP Assays supplied under this Agreement. Biosite shall treat all such information disclosed pursuant to this Section 4.4 as confidential information of Beckman subject to the provisions of Section 7 (Confidentiality).
+
+4.5           Facility Audits. Biosite shall have the right, during normal business hours and upon reasonable notice, and not more than [***] per calendar year unless required or mandated by a governmental or regulatory authority, to audit the facilities of Beckman at which the BNP Assays are [***] (a) for compliance with GMP, (b) for compliance with all laws and regulations reasonably applicable to the [***] of the BNP Assay or BNP Calibrator and Controls, and/or (c) for compliance with the Release Specifications. To the extent reasonably possible to do so, Beckman shall give Biosite prior written notice of any FDA inspection of the facilities of Beckman at which the BNP Assays or BNP Calibrator and
+
+***Confidential Treatment Requested
+
+9
+
+Controls are [***] but only to the extent that such inspection is related to the [***] of BNP Assays or BNP Calibrator and Controls. Beckman promptly shall provide Biosite with copies of all notices, correspondence, findings, responses, resolutions and other materials delivered to or received from the FDA regarding the BNP Assays or BNP Calibrator and Controls.
+
+5.             SUPPLY OF BNP ASSAYS, CALIBRATORS AND CONTROLS
+
+5.1           Requirements. Upon Prototype Acceptance and once Biosite has obtained regulatory approval from the FDA or its foreign equivalent to sell the BNP Assay in the United States or other country, respectively, Biosite shall purchase from Beckman, and Beckman shall physically transfer and sell to Biosite, [***] of the BNP Assays and the BNP Calibrator and Controls for sale and/or use directly by Biosite or indirectly by Biosite’s authorized distributors throughout the world.
+
+5.2           Exclusivity.
+
+5.2.1        Beckman shall manufacture, offer for sale, and sell the BNP Assays exclusively to Biosite, and shall not [***]. Beckman and Biosite acknowledge and agree that Beckman is not [***] of the BNP Assays and [***]. Biosite and Beckman acknowledge and agree that Biosite is not, by reason of this Agreement or otherwise, [***] of the Beckman Analyzers or any Beckman labeled assay, component, supply or spare part for use in the Beckman Analyzers or any other Beckman labeled product (other than BNP Assays or BNP Calibrator and Controls that the parties agree may bear a [***]).
+
+5.2.2        Prior to the date [***] following First Commercial Sale, Biosite shall not engage more than [***] unaffiliated third party (in addition to Beckman) to have manufactured for Biosite a diagnostic BNP assay for use in the diagnosis of cardiac diseases in humans developed by such third party designed for use on such third party’s automated immunoassay laboratory instrument. During such [***] period (a) if, and for so long as, Biosite purchases such BNP assays for resale in the U.S. from such unaffiliated third party at a purchase price [***] that is greater than [***] U.S. Purchase Price, then the purchase price [***] under Section 6.1.1 shall be increased to [***] for such BNP assay for resale in the U.S. from such unaffiliated third party, (b) if, and for so long as, Biosite purchases such BNP assays for resale outside the U.S. from such unaffiliated third party at a purchase price [***] that is greater than [***] Foreign Purchase Price, then the purchase price [***] under Section 6.1.2 shall be increased to such greater purchase price for such BNP assay for resale outside the U.S. from such unaffiliated third party, and (c) Biosite shall use commercially reasonable efforts to promote the BNP Assay.
+
+5.2.3        For a period commencing on the Effective Date and expiring [***] before the termination or expiration of the Biosite/Scios
+
+***Confidential Treatment Requested
+
+10
+
+Agreement, (a) Beckman shall not research or develop, and shall cause its Affiliates not to research or develop, any assay for use in the diagnosis of cardiac diseases in humans that measures or detects the presence or absence of the Marker (other than BNP Assays sold to Biosite hereunder) and (b) Beckman shall not authorize or assist any third party (other than Biosite) to research or develop any assay for use in the diagnosis of cardiac diseases in humans that measures or detects the presence or absence of the Marker for use on an analyzer developed and/or marketed by Beckman or its Affiliates. As a further limitation, during the term of this Agreement (i) Beckman shall not manufacture or sell, and shall cause its Affiliates not to manufacture or sell, any assay for use in the diagnosis of cardiac diseases in humans that measures or detects the presence or absence of the Marker (other than BNP Assays sold to Biosite hereunder), and (ii) Beckman shall not authorize or assist any third party (other than Biosite) to manufacture or sell any assay for use in the diagnosis of cardiac diseases in humans that measures or detects the presence or absence of the Marker for use on an analyzer developed and/or marketed by Beckman or its Affiliates.
+
+5.3           Forecasts and Orders.
+
+5.3.1        Development Forecast. Within [***] after the Effective Date, Biosite shall prepare and provide Beckman with a written forecast of the estimated requirements for the BNP Assays and BNP Calibrator and Controls for Biosite’s [***] of commercial sale thereof. The forecast shall not be binding on either party and shall be used for creating plans and specifications during the development phase.
+
+5.3.2        Initial Forecast. Upon Prototype Acceptance, Biosite shall promptly prepare and provide Beckman with a written forecast of the estimated requirements for the BNP Assays and BNP Calibrator and Controls for each of the subsequent [***] (the “Initial Forecast”). The Initial Forecast shall specify Biosite’s good faith estimated requirements of BNP Assays to be sold or otherwise transferred to end user customers located within the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors within the U.S. and the estimated requirements of BNP Assays to be sold or otherwise transferred to end user customers located outside the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors outside the U.S.. The forecast shall [***] on [***] and shall [***].
+
+5.3.3        Revised Forecasts. Following delivery of the Initial Forecast in accordance with Section 5.3.2 above, Biosite shall, within [***] after the beginning of each [***] thereafter during the term of this Agreement, send Beckman a revised [***] forecast (a “Revised Forecast”) of the estimated requirements for the BNP Assays and BNP Calibrator and Controls and shall include Biosite’s good faith estimated requirements for the BNP Assays to be sold or otherwise transferred to end user customers located within the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors within the U.S. and the estimated requirements of BNP Assays to be sold or otherwise transferred to end user customers located outside the U.S. or otherwise used or disposed of by Biosite, its Affiliates or
+
+***Confidential Treatment Requested
+
+11
+
+authorized distributors outside the U.S.. The Revised Forecasts shall [***] on [***] and shall [***].
+
+5.3.4        Purchase Orders. Biosite shall make all purchases of the BNP Assays and BNP Calibrator and Controls by submitting purchase orders to Beckman. Each such purchase order shall be in writing and shall specify the quantity of BNP Assays and BNP Calibrator and Controls ordered, for the quantity of BNP Assays ordered Biosite’s estimate of the portion of such quantity that will be sold or otherwise transferred to end user customers located within the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors within the U.S. and the remainder of such quantity shall be presumed as estimated to be sold or otherwise transferred to end user customers located outside the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors outside the U.S., the place of delivery and the required delivery date thereof. Biosite shall provide with the Initial Forecast a purchase order for the total quantity, if any, of the BNP Assays and BNP Calibrator and Controls specified for the first [***] of the Initial Forecast, provided that all deliveries in such initial purchase order are scheduled at least [***] after the date of the initial purchase order. Biosite shall include with each Revised Forecast a purchase order, if any, of BNP Assays and BNP Calibrators and Controls specified in the [***] of such Revised Forecast. Beckman shall acknowledge each purchase order in the form of a written order confirmation.
+
+5.3.5        Adjustments. If, with respect to any such forecast or purchase order, Biosite requests a quantity of BNP Assays greater or less than the amount set forth therein, Beckman shall use commercially reasonable efforts to increase or decrease production to accommodate such request.
+
+5.3.6        Acknowledgement. The parties acknowledge that neither party knows what the market for the BNP Assays and BNP Calibrator and Controls will be and, subject to the binding purchase orders under Section 5.3.4, Biosite makes no representations regarding the quantities of BNP Assays and BNP Calibrator and Controls that Biosite will purchase hereunder.
+
+5.4           Delivery and Acceptance.
+
+5.4.1        Delivery. Beckman shall ship the BNP Assays and BNP Calibrator and Controls [***] to [***] as designated by Biosite in its purchase order and, subject to Section 5.3.4, in accordance with the delivery schedule in such purchase order. Title and risk of loss and damages to the BNP Assays and BNP Calibrator and Controls purchased by Biosite hereunder shall pass to Biosite upon receipt by Biosite of the BNP Assays and BNP Calibrator and Controls at Biosite’s designated receiving point.
+
+5.4.2        Packaging, Labeling, Freight and Insurance. Beckman shall package the BNP Assays and BNP Calibrator and Controls into kit configurations mutually acceptable to the parties and in packaging [***] for assays, calibrators and controls for use on the Beckman Analyzers.
+
+***Confidential Treatment Requested
+
+12
+
+Beckman shall label the BNP Assays and BNP Calibrator and Controls with such labels and including such Biosite tradenames and trademarks as reasonably determined by Biosite; provided, however, that Beckman may identify itself (as mutually agreed by the parties) on the label as the authorized manufacturer of the BNP Assays and BNP Calibrator and Controls. Beckman shall pay all freight, insurance charges, taxes, import and export duties, inspection fees and other charges applicable to the sale and transport of the BNP Assays and BNP Calibrator and Controls purchased by Biosite.
+
+5.4.3        Rejection and Cure. If a shipment of the BNP Assays or BNP Calibrator and Controls or any portion thereof is damaged or does not conform to the Release Specifications, then Biosite shall have the right to reject the portion of such shipment of the BNP Assays or BNP Calibrator and Controls that is damaged or fails to so conform within thirty (30) days after Biosite’s receipt of such shipment by providing written notice to Beckman and specifying in such notice the grounds for such rejection. Beckman shall, at its cost and expense, cure such rejection by replacing such damaged or non-conforming shipment or portion thereof with quantities of BNP Assays or BNP Calibrator and Controls (a) in Beckman’s current inventory within ten (10) business days after receipt of notice of Biosite’s rejection thereof, and/or (b) if Beckman does not have sufficient current inventory to replace such damaged or non-conforming shipment or portion thereof, by increasing its next production run sufficient to satisfy Biosite’s current orders and forecast and to replace such damaged or non-conforming shipment or portion thereof that was not replaced under clause (a) above. Beckman shall promptly investigate any such damaged or non-conforming shipment to determine the cause of such damage or nonconformance and shall provide Biosite with a reasonably detailed report of Beckman’s investigations and its remedies therefor.
+
+5.5           Warranty. Beckman warrants that all the BNP Assays and BNP Calibrator and Controls delivered to Biosite pursuant to this Agreement shall conform to the Release Specifications, shall be free from defects in material and workmanship and shall be manufactured in accordance with GMP and in compliance with applicable laws and regulations. Subject to Section 10, Biosite’s sole and exclusive remedy under this warranty is the rejection by Biosite and cure by Beckman under Section 5.4.3 above.
+
+5.6           [***] Beckman. The parties acknowledge that Beckman is the manufacturer [***] of the BNP Assays and BNP Calibrator and Controls, and the manufacturer and distributor of Beckman Analyzers. In such capacities, Beckman shall [***] for [***] of the [***] and [***] and Beckman shall have the express right to engage in the promotion of the Beckman Analyzer, all in accordance with the Guidelines. Beckman shall not conduct any activities directly or indirectly [***] [***] of the [***] and [***] except in accordance with the Guidelines. Notwithstanding anything to the contrary in this Agreement or the Guidelines, Biosite shall be solely responsible for the commercialization of the BNP Assays and BNP Calibrator and Controls.
+
+5.7           Joint Committee. The Joint Committee shall comprise an equal number of representatives from Biosite and Beckman. Each party shall appoint its
+
+***Confidential Treatment Requested
+
+13
+
+representatives to the Joint Committee from time to time, and may substitute one or more of its representatives, in its sole discretion, effective upon written notice to the other party of such change. The purpose of the Joint Committee is to oversee and implement the Guidelines. No modification of the Guidelines, or implementation thereof, shall be effective unless and until unanimously approved by the Joint Committee and set forth in a written document evidencing such modification signed by a duly authorized signatory of each party.
+
+6.             PAYMENT TERMS
+
+6.1           Purchase Price.
+
+6.1.1        Subject to the provisions of Section 5.2.2, for units of BNP Assays purchased by Biosite from Beckman during a Pricing Period commencing prior to the first anniversary of the First Commercial Sale, within [***] after receiving a shipment of BNP Assays from Beckman, Biosite shall pay to Beckman a purchase price equal to the US Purchase Price for the portion of the quantity of such BNP Assays in such shipment that corresponds to Biosite’s estimate in its purchase order that would be sold or otherwise transferred to end user customers located within the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors within the U.S.. Biosite is not responsible for royalty payments (if any) owed by Beckman for the sale of such BNP Assays to Biosite or any subsequent resale.
+
+6.1.2        Subject to the provisions of Section 5.2.2, for units of BNP Assays purchased by Biosite from Beckman during a Pricing Period commencing prior to the first anniversary of the First Commercial Sale, within [***] after receiving a shipment of BNP Assays from Beckman, Biosite shall pay to Beckman a purchase price equal to the Foreign Purchase Price for the portion of the quantity of such BNP Assays in such shipment that corresponds to Biosite’s estimate in its purchase order that would be sold or otherwise transferred to end user customers located outside the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors outside the U.S.. [***] for [***] by Beckman [***] of such [***] to Biosite or any [***].
+
+6.1.3        Subject to the provisions of Section 5.2.2, for units of BNP Assays purchased by Biosite from Beckman during a Pricing Period commencing after the first anniversary of the First Commercial Sale, within [***] after receiving a shipment of BNP Assays from Beckman, Biosite shall pay to Beckman a purchase price equal to the Worldwide Purchase Price for the quantity of such BNP Assays in such shipment. [***] for [***] by Beckman [***] of such [***] to Biosite or any [***].
+
+6.1.4        In consideration for the sale of the BNP Calibrator and Controls to Biosite under Article 5, Biosite shall pay to Beckman an amount equal to the [***] to Beckman [***] and [***] such BNP Calibrator and Controls to Biosite. [***] for [***] by Beckman [***] of such [***] to Biosite or any [***].
+
+***Confidential Treatment Requested
+
+14
+
+Beckman shall invoice Biosite for such amount at the time of each delivery of such BNP Calibrator and Controls, and Biosite shall pay to Beckman the amount of each such invoice within [***] after receipt by Biosite of such invoice.
+
+6.1.5        Prior to the first Pricing Period commencing after the first anniversary of the First Commercial Sale, within [***] after the end of each [***] beginning with the first [***] in which Biosite orders BNP Assays from Beckman hereunder, Biosite shall furnish to Beckman a written report setting forth for the previous [***] (i) the [***] sold or otherwise transferred to end user customers worldwide or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors worldwide, (ii) whether each such [***] was sold or otherwise transferred to end user customers [***] or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors [***], or sold or otherwise transferred to end user customers located [***] or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors [***] (in each case to the extent such information is within Biosite’s reasonable control, provided that any [***] for which Biosite can not reasonably determine [***] such assay was sold or transferred or disposed of shall be presumed to be sold or otherwise transferred to end user customers [***] or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors [***]), (iii) the portion of the quantities of [***] estimated in Biosite’s purchase orders that would be sold or otherwise transferred to end user customers located [***] or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors [***] and the remainder presumed as estimated to be sold or otherwise disposed of [***], and (iv) the difference between what Biosite [***] Beckman on [***] during such [***] based on the estimated portions and what would otherwise [***] to Beckman based on portions during such [***]. If the result of clause (iv) above is an [***] to Beckman, then Biosite shall [***] to Beckman such [***] concurrently with making the report. If the result is an [***] to Biosite, then Biosite shall have the right to [***] against [***] then currently [***] Beckman hereunder, or if there are no such [***] currently [***] and/or after such [***] currently [***] have been fully [***] against [***] [***] Beckman hereunder until all such [***] Biosite are fully [***].
+
+6.1.6        Prior to the start of each Pricing Period following the First Commercial Sale, Biosite shall provide Beckman with a written report in such detail and with such supporting data that is reasonably satisfactory to Beckman setting forth the [***] of the [***], [***], and, commencing after the first anniversary of the First Commercial Sale, the [***] for such Pricing Period.
+
+6.1.7        Biosite shall calculate [***], [***] and [***] using such data and information as is within Biosite’s reasonable control at the time of such calculation and which is reasonably satisfactory to Beckman. Notwithstanding anything to the contrary in this Agreement, (a) neither the [***] nor [***] shall be [***]
+
+***Confidential Treatment Requested
+
+15
+
+for any Pricing Period by more than [***] from the [***] or [***], as applicable, for the immediately preceding Pricing Period; (b) the [***] shall never be less than [***] of the BNP Assays; and (c) the [***] shall never be less than [***] of the BNP Assays.
+
+6.2           Taxes. Biosite shall pay all federal, state, county or municipal sales or use tax, excise or similar charge, or other tax assessment (other than that assessed against income), assessed or charged on the sale of the BNP Assays sold to and accepted by Biosite pursuant to this Agreement.
+
+6.3           Payment Method. All payments by a party to the other party under this Agreement shall be paid in United States dollars and made by check or bank wire transfer in immediately available funds to such account as the payee shall designate before such payment is due.
+
+6.4           BNP Assay Audits.
+
+6.4.1        Procedure. Upon the written request of Beckman and not more than once in each calendar year, Biosite shall permit an independent certified accounting firm of nationally recognized standing, selected by Beckman and reasonably acceptable to Biosite, at Beckman’s expense, to have access during normal business hours to such of the records of Biosite as may be reasonably necessary to verify the accuracy of the reports described in Section 6.1.5 for any year ending not more than thirty-six (36) months prior to the date of such request. The accounting firm shall disclose to Beckman only whether the reports are correct or not and the specific details concerning any discrepancies. No other information shall be shared.
+
+6.4.2        Results of Audit.
+
+(a)           If such accounting firm concludes that during a Pricing Period commencing prior to the first anniversary of the First Commercial Sale, quantities of BNP Assays were purchased at the Foreign Purchase Price but were sold or otherwise transferred to end user customers located within the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors within the U.S., or if such accounting firm is unable to reasonably determine where BNP Assays purchased at the Foreign Purchase Price were sold or transferred or disposed of, Biosite shall pay the difference between the applicable U.S. Purchase Price and Foreign Purchase Price for all such quantities [***] within[***] of the date Beckman delivers to Biosite such accounting firm’s written report so concluding.
+
+(b)           If such accounting firm concludes that during a Pricing Period commencing prior to the first anniversary of the First Commercial Sale, quantities of BNP Assays were purchased at the U.S. Purchase Price but were sold or otherwise transferred to end user customers located outside the U.S. or otherwise used or disposed of by Biosite, its Affiliates or authorized distributors outside the U.S., following
+
+***Confidential Treatment Requested
+
+16
+
+the date of such accounting firm’s written report so concluding, Biosite shall have the right to offset such amount against amounts then currently due Beckman hereunder, or if there are no such amounts currently due and/or after such amounts currently due have been fully offset, against future amounts due Beckman hereunder until all such amounts described in such report are fully offset.
+
+(c)           If such accounting firm concludes that during a Pricing Period commencing after the first anniversary of the First Commercial Sale, additional amounts were owed by Biosite to Beckman due to the actual Worldwide Purchase Price being greater than the Worldwide Purchase Price Biosite provided to Beckman under Section 6.1.6 for such Pricing Period, Biosite shall pay such additional amounts [***] within [***] of the date Beckman delivers to Biosite such accounting firm’s written report so concluding.
+
+(d)           If such accounting firm concludes that during a Pricing Period commencing after the first anniversary of the First Commercial Sale, Biosite paid to Beckman amounts in excess of that owing to Beckman due to the actual Worldwide Purchase Price being less than the Worldwide Purchase Price Biosite provided to Beckman under Section 6.1.6 for such Pricing Period, following the date of such accounting firm’s written report so concluding, Biosite shall have the right to offset such amount against amounts then currently due Beckman hereunder, or if there are no such amounts currently due and/or after such amounts currently due have been fully offset, against future amounts due Beckman hereunder until all such amounts described in such report are fully offset.
+
+(e)           The fees charged by such accounting firm shall be paid by Beckman; provided, however, if the audit discloses that the aggregate amounts owing by Biosite to Beckman for BNP Assays purchased during the applicable Pricing Period are more than [***] of the aggregate invoiced amounts during such period, then Biosite shall pay the reasonable fees and expenses charged by such accounting firm.
+
+6.4.3        Information. Beckman shall treat all information subject to review under this Section 6.4 as confidential, and shall cause its accounting firm to retain all such information in confidence.
+
+6.5           Audits of Fully-Burdened Costs.
+
+6.5.1        Procedure. Upon the written request of a party (the “Payor”) and not more than once in each calendar year, the other party (the “Payee”) shall permit an independent certified accounting firm of nationally recognized standing, selected by the Payor and reasonably acceptable to the Payee, at the Payor’s expense, to have access during normal business hours to such of the records of the Payee as may be reasonably necessary to verify the accuracy of (a) with respect to Biosite as the Payee, the [***] of the Biosite Materials described in Section 3.1, and (b) with respect to Beckman as Payee, the [***] of the BNP Calibrator and Controls as described in Section 6.1.4 for any year ending not more than
+
+***Confidential Treatment Requested
+
+17
+
+thirty-six (36) months prior to the date of such request. The accounting firm shall disclose to the Payor only whether the amounts invoiced by the Payor for [***] are correct or not and the specific details concerning any discrepancies. No other information shall be shared.
+
+6.5.2        Results of Audit. If such accounting firm concludes that during the audited period the Payee invoiced the Payor amounts greater than the applicable [***], the Payee shall refund to the Payor the difference between the amounts actually received by Payee and the applicable reasonable fully-burdened cost within [***] of the date the Payor delivers to the Payee such accounting firm’s written report so concluding. The fees charged by such accounting firm shall be paid by the Payor; provided, however, if the audit discloses that such difference payable by the Payee for such period are more than [***] of the amounts actually paid by the Payor for such period, then the Payee shall pay the reasonable fees and expenses charged by such accounting firm.
+
+6.5.3        Information. The Payor shall treat all financial information subject to review under this Section 6.5.3 as confidential, and shall cause its accounting firm to retain all such financial information in confidence.
+
+7.             CONFIDENTIALITY
+
+7.1           Confidential Information.
+
+7.1.1        Each party shall maintain in confidence all Confidential Information disclosed by the other party (including all Confidential Information disclosed prior to the term of this Agreement pursuant to a written confidentiality agreement between the parties), and shall not use, disclose or grant the use of the Confidential Information except on a need-to-know basis to those directors, officers, employees, consultants, distributors or permitted assignees, to the extent such disclosure is reasonably necessary in connection with such party’s activities as expressly authorized by this Agreement.
+
+7.1.2        Without limiting the generality of Section 7.1.1, and except to the extent authorized hereunder, Beckman shall not use Biosite’s Confidential Information for the purpose of researching, developing, manufacturing or commercializing an assay that measures or detects the presence or absence of the Marker (other than BNP Assays sold Biosite hereunder). For purposes of clarity, [***] [***] and [***] information developed by Beckman in the course of the [***] the BNP Assays and BNP Calibrator and Controls in accordance with the terms of this Agreement and that [***] to [***] for [***] shall not be considered Biosite’s Confidential Information after the expiration or termination of this Agreement.
+
+7.1.3        To the extent that disclosure is authorized by this Agreement, prior to disclosure, each party hereto shall obtain agreement of any such third party to hold in confidence and not make use of the Confidential Information of the other
+
+***Confidential Treatment Requested
+
+18
+
+party for any purpose other than those permitted by this Agreement. Each party shall notify the other promptly upon discovery of any unauthorized use or disclosure of the other party’s Confidential Information.
+
+7.2           Terms of this Agreement. Except as otherwise provided in Section 7.1 (Confidential Information), during the term of this Agreement and for a period of five (5) years thereafter, neither party shall disclose any terms or conditions of this Agreement to any third party without the prior consent of the other party. Notwithstanding the foregoing, prior to execution of this Agreement, the parties have agreed in writing upon the substance of information that can be used to describe the terms of this transaction, and each party may disclose such information, as modified by mutual agreement from time to time, without the other party’s consent.
+
+7.3           Permitted Disclosures. The confidentiality obligations contained in this Section 7 shall not apply to the extent that such disclosure is reasonably necessary in the following instances: (a) complying with an applicable law, regulation of a governmental agency or a court of competent jurisdiction, provided that the receiving party shall first give notice thereof to the disclosing party such that the disclosing party shall have an opportunity to seek a protective order limiting any such disclosure; and (b) disclosure to investment bankers, investors and potential investors, each of whom prior to disclosure must be bound by similar obligations of confidentiality and non-use at least equivalent in scope to those set forth in this Section 7 and further provided in each case that the disclosing party shall provide written notice thereof to the other party and reasonable opportunity to object to any such disclosure or to request confidential treatment thereof.
+
+8.             INTELLECTUAL PROPERTY RIGHTS. Under no circumstances shall a party, as a result of this Agreement, obtain any ownership interest or other right in any invention, discovery, composition or other technology, or in any patent right or other intellectual property right, of the other party (including without limitation those owned, controlled or developed by the other party at any time pursuant to this Agreement).
+
+9.             TERM AND TERMINATION
+
+9.1           Term. The term of this Agreement shall commence on the Effective Date, and unless earlier terminated in accordance with its terms, shall terminate upon the termination or expiration of the Biosite/Scios Agreement.
+
+9.2           Termination.
+
+9.2.1        A party may terminate this Agreement by written notice to the other party upon or after the breach of any material provision of this Agreement by the other party, if the other party has not cured such breach within [***] after written notice thereof from the non-breaching party.
+
+9.2.2        A party may terminate this Agreement by written notice to the other party if, after good faith negotiations in accordance with Section 3.5, the parties
+
+***Confidential Treatment Requested
+
+19
+
+are unable to reach agreement upon a mutually acceptable set of Release Specifications for a BNP Assay or BNP Calibrator and Control, and the parties have not reached agreement upon a mutually acceptable set of Release Specifications within [***] days after such written notice.
+
+9.2.3        Biosite may immediately terminate this Agreement by written notice to Beckman (a) upon or after a breach by Beckman of Sections 5.2.3 or 7.1.2, (b) if within [***] following the Effective Date, [***] is [***] to, or [***], [***] the BNP Assays in accordance with the Design Inputs, or (c) if at any time [***] of the BNP Assay in accordance with the Release Specifications Beckman is unable to manufacture or have manufactured and sell to Biosite quantities of the BNP Assay sufficient to meet the reasonably foreseeable demand therefor.
+
+9.2.4        The parties acknowledge that neither party knows if additional third party intellectual property rights must be obtained for the [***], [***] and [***] of the BNP Assay or BNP Calibrator and Controls hereunder. Either party (the “Terminating Party”) may terminate this Agreement by written notice to the other party if (a) a [***] or [***] is [***] the Terminating Party [***] that the [***] in accordance with, or [***] of, this Agreement [***] to any [***] in such [***], (b) the Terminating Party [***] from a [***] [***] that the [***] in accordance with, or [***] [***] of, this Agreement may [***] to any [***] or [***] and the Terminating Party’s [***] has [***], [***], that in its [***] such [***] appears to be [***] by such [***], or (c) whether or not there is a [***] or [***] described in clause (a), or the Terminating Party has [***] described in clause (b), the Terminating Party becomes aware of [***] that the Terminating Party [***] in [***], and based on the [***] of [***], must be [***] by [***] of the [***] for the [***] and [***] of the BNP Assay or BNP Calibrator and Controls hereunder; provided however that any such written notice shall not be given earlier than [***] after representatives of the executive management of both parties meet in good faith to assess any such event described in clauses (a) – (c) above and attempt in good faith to reach an agreement relative to an appropriate response thereto, and any such meeting shall be held not less than [***] after the Terminating Party’s request to the other party for such meeting.
+
+9.3           Effect of Termination. All rights and obligations under this Agreement shall terminate immediately upon any termination of this Agreement. Notwithstanding the foregoing, the following sections shall survive any termination of this Agreement:  Sections 5.4.3 (Rejection and Cure), 5.5 (Warranty), 7 (Confidentiality), 8 (Intellectual Property Rights), 9.3 (Effect of Termination), 10 (Indemnity), 11 (Limitation of Liability) and 12 (Miscellaneous).
+
+***Confidential Treatment Requested
+
+20
+
+10.           INDEMNITY
+
+10.1         Indemnity.
+
+10.1.1      By Biosite. Biosite shall defend, indemnify and hold Beckman harmless from and against all losses, liabilities, damages and expenses (including reasonable attorneys’ fees and costs) resulting from all claims, demands, actions and other proceedings by any third party to the extent arising from (a) the breach of any representation, warranty or covenant of Biosite under this Agreement, or (b) the gross negligence or willful misconduct of Biosite in the performance of its obligations under this Agreement.
+
+10.1.2      By Beckman. Beckman shall defend, indemnify and hold Biosite harmless from and against all losses, liabilities, damages and expenses (including reasonable attorneys’ fees and costs) resulting from all claims, demands, actions and other proceedings by any third party to the extent arising from (a) the breach of any representation, warranty or covenant of Beckman under this Agreement, or (b) the gross negligence or willful misconduct of Beckman in the performance of its obligations under this Agreement.
+
+10.2         Procedure. A party (the “Indemnitee”) that intends to claim indemnification under this Section 10 shall promptly notify the other party (the “Indemnitor”) of any claim, demand, action or other proceeding for which the Indemnitee intends to claim such indemnification. The Indemnitor shall have the right to assume and control the defense thereof with counsel selected by the Indemnitor; provided, however, that the Indemnitee shall have the right to retain its own counsel to participate in the defense, subject to Indemnitor’s right to control the defense. The indemnity obligations under this Section 10 shall not apply to amounts paid in settlement of any claim, demand, action or other proceeding if such settlement is effected without the prior express written consent of the Indemnitor, which consent shall not be unreasonably withheld or delayed. The failure to deliver notice to the Indemnitor within a reasonable time after notice of any such claim or demand, or the commencement of any such action or other proceeding, if prejudicial to its ability to defend such claim, demand, action or other proceeding, shall relieve such Indemnitor of any liability to the Indemnitee under this Section 10 with respect thereto, but the omission so to deliver notice to the Indemnitor shall not relieve it of any liability that it may have to the Indemnitee otherwise than under this Section 10. The Indemnitor may not settle or otherwise consent to an adverse judgment in any such claim, demand, action or other proceeding, that diminishes the rights or interests of the Indemnitee without the prior express written consent of the Indemnitee, which consent shall not be unreasonably withheld or delayed. The Indemnitee, its employees and agents, shall reasonably cooperate with the Indemnitor and its legal representatives in the investigation of any claim, demand, action or other proceeding covered by this Section 10.
+
+21
+
+11.           LIMITATION OF LIABILITY. EXCEPT FOR A PARTY’S INDEMNITY OBLIGATIONS UNDER THIS AGREEMENT AND EXCEPT FOR A BREACH OF SECTION 7 (CONFIDENTIALITY), IN NO EVENT SHALL EITHER PARTY BE LIABLE OR OBLIGATED TO THE OTHER PARTY IN ANY MANNER FOR ANY SPECIAL, NON-COMPENSATORY, CONSEQUENTIAL, INDIRECT, INCIDENTAL, STATUTORY OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, LOST PROFITS AND LOST REVENUE, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, NEGLIGENCE, STRICT PRODUCT LIABILITY, OR OTHERWISE, EVEN IF INFORMED OF OR AWARE OF THE POSSIBILITY OF ANY SUCH DAMAGES IN ADVANCE. THE LIMITATIONS SET FORTH ABOVE SHALL BE DEEMED TO APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND NOTWITHSTANDING THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDIES. THE PARTIES ACKNOWLEDGE AND AGREE THAT THEY HAVE FULLY CONSIDERED THE FOREGOING ALLOCATION OF RISK AND FIND IT REASONABLE, AND THAT THE FOREGOING LIMITATIONS ARE AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN THE PARTIES.
+
+12.           MISCELLANEOUS
+
+12.1         Notices. Any consent, notice or report required or permitted to be given or made under this Agreement by one of the parties to the other shall be in writing and addressed to such other party at its address indicated below, or to such other address as the addressee shall have last furnished in writing to the addressor, and shall be effective upon receipt by the addressee.
+
+If to Biosite:
+
+Biosite Incorporated
+
+11030 Roselle Street, Suite D
+
+San Diego, California 92121
+
+Attention: President
+
+with a copy to:
+
+Gray Cary Ware & Freidenrich LLP
+
+4365 Executive Drive, Suite 1100
+
+San Diego, California 92121
+
+Attention: Mark R. Wicker, Esq.
+
+If to Beckman:
+
+Beckman Coulter, Inc.
+
+Clinical Diagnostics Division
+
+200 South Kraemer Boulevard
+
+Brea, California 92821
+
+Attention: President
+
+22
+
+with a copy to:
+
+Beckman Coulter, Inc.
+
+4300 N. Harbor Boulevard
+
+Fullerton, California 92834-3100
+
+Attention: General Counsel
+
+12.2         Assignment. Except as otherwise expressly provided under this Agreement, neither this Agreement nor any right or obligation hereunder may be assigned or otherwise transferred (whether voluntarily, by operation of law or otherwise), without the prior express written consent of the other party; provided, however, that either party may, without such consent, assign this Agreement and its rights and obligations hereunder in connection with the transfer or sale of all or substantially all of its business related to the subject matter of this Agreement, or in the event of its merger, consolidation, change in control or other similar transaction. Any permitted assignee shall assume all obligations of its assignor under this Agreement. Any purported assignment or transfer in violation of this Section 12.2 shall be void.
+
+12.3         Applicable Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to the conflicts of law principles thereof. The parties hereby submit to the exclusive jurisdiction of, and venue in, the state and federal courts located in San Diego County, California.
+
+12.4         No Subcontracting. Beckman shall not subcontract any portion of the manufacture of the BNP Assays without the prior express written consent of Biosite.
+
+12.5         Construction. This Agreement will be fairly interpreted in accordance with its terms and without any strict construction in favor of or against any party.
+
+12.6         Severability. Whenever possible, each provision of this Agreement, shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions of this Agreement.
+
+12.7         Counterparts. This Agreement may be executed in counterparts, all of which together shall constitute one and the same instrument.
+
+12.8         Headings. The captions to the sections hereof are not a part of this Agreement, but are merely guides or labels to assist in locating and reading the sections hereof.
+
+12.9         Independent Contractors. Each party hereby acknowledges that the parties shall be independent contractors and that the relationship between the parties shall not constitute a partnership, joint venture or agency. Neither party shall have the authority to make any statements, representations or commitments of any kind, or to take
+
+23
+
+any action, which shall be binding on the other party, without the prior consent of the other party to do so.
+
+12.10       Waiver. The waiver by a party of any right hereunder, or of any failure to perform or breach by the other party hereunder, shall not be deemed a waiver of any other right hereunder or of any other breach or failure by the other party hereunder whether of a similar nature or otherwise.
+
+12.11       Entire Agreement. This Agreement contains the entire understanding of the parties with respect to the subject matter hereof. All express or implied representations, agreements and understandings with respect to the subject matter hereof, either oral or written, heretofore made are expressly superseded by this Agreement. This Agreement may be amended, or any term hereof modified, only by a written instrument duly executed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+BIOSITE INCORPORATED
+
+By:
+
+/s/ Chris Twomey
+
+Title
+
+V.P Finance, CFO
+
+BECKMAN COULTER, INC.
+
+By:
+
+G. R. Bell
+
+Title
+
+V.P. Strategy & Business
+
+Development
+
+24
+
+EXHIBIT A
+
+Design Inputs
+
+Design Characteristic                                                                      Clinical Utility
+
+Requirement                            [***]
+
+Design Category,
+
+Attribute or
+
+Customer Inputs
+
+(Note customer
+
+Other Considerations
+
+Design Input Goals
+
+Characteristic
+
+type & sources)
+
+(Note sources)
+
+Verification Methods
+
+Min. Essential
+
+Target
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+Design Characteristic                                                                      Antibodies
+
+Requirement                            [***]
+
+Design Characteristic                                                                      Standards and Regulatory Requirements
+
+Requirement                            [***]
+
+Design Category,
+
+Attribute or
+
+Customer Inputs
+
+(Note customer
+
+Other Considerations
+
+Design Input Goals
+
+Characteristic
+
+type & sources)
+
+(Note sources)
+
+Verification Methods
+
+Min. Essential
+
+Target
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+•       [***]
+
+•       [***]
+
+•       [***]
+
+•       [***]
+
+***Confidential Treatment Requested
+
+25
+
+Design Characteristic                                                                      Assay Attributes
+
+Validation Method               [***]
+
+Design Category,
+
+Attribute or
+
+Customer Inputs
+
+(Note customer
+
+Other Considerations
+
+Design Input Goals
+
+Characteristic
+
+type & sources)
+
+(Note sources)
+
+Verification Methods
+
+Min. Essential
+
+Target
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+•      [***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+•      [***]
+
+•     [***]
+
+•      [***]
+
+•      [***]
+
+•     [***]
+
+***Confidential Treatment Requested
+
+26
+
+Design Characteristic                                                                      Calibration
+
+Requirement                            [***]
+
+Design Category,
+
+Attribute or
+
+Customer Inputs
+
+(Note customer
+
+Other Considerations
+
+Design Input Goals
+
+Characteristic
+
+type & sources)
+
+(Note sources)
+
+Verification Methods
+
+Min. Essential
+
+Target
+
+[***]
+
+[***]
+
+N/A
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+N/A
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+TBD
+
+TBD
+
+***Confidential Treatment Requested
+
+27
+
+Design Characteristic                                                                      Assay Performance
+
+Validation Method               [***]
+
+Design Category,
+
+Attribute or
+
+Customer Inputs
+
+(Note customer
+
+Other Considerations
+
+Design Input Goals
+
+Characteristic
+
+type & sources)
+
+(Note sources)
+
+Verification Methods
+
+Min. Essential
+
+Target
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+•      [***]
+
+[***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+[***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+•      [***]
+
+***Confidential Treatment Requested
+
+28
+
+Design Characteristic                                                                      Component Stability
+
+Validation Method               [***]
+
+Design Category,
+
+Attribute or
+
+Customer Inputs
+
+(Note customer
+
+Other Considerations
+
+Design Input Goals
+
+Characteristic
+
+type & sources)
+
+(Note sources)
+
+Verification Methods
+
+Min. Essential
+
+Target
+
+[***]
+
+[***]
+
+[***]
+
+N/A
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+[***]
+
+[***]
+
+•      [***]
+
+[***]
+
+[***]
+
+[***]
+
+•      [***]
+
+***Confidential Treatment Requested
+
+29
+
+EXHIBIT B
+
+Guidelines
+
+1.             [***]
+
+1.1           [***]
+
+1.2           [***]
+
+1.3           [***]
+
+2.             [***]
+
+2.1           [***]
+
+2.2           [***]
+
+3.             [***]
+
+3.1           [***]
+
+***Confidential Treatment Requested
+
+30
+
+3.2           [***]
+
+3.3           [***]
+
+3.4           [***]
+
+3.5           [***]
+
+4.             [***]
+
+4.1           [***]
+
+4.2           [***]
+
+4.3           [***]
+
+4.4           [***]
+
+4.5           [***]
+
+4.6           [***]
+
+4.7           [***]
+
+4.8           [***]
+
+4.9           [***]
+
+***Confidential Treatment Requested
+
+31
+
+4.10         [***]
+
+5.             [***]
+
+5.1           [***]
+
+5.2           [***]
+
+5.3           [***]
+
+5.4           [***]
+
+***Confidential Treatment Requested
+
+32

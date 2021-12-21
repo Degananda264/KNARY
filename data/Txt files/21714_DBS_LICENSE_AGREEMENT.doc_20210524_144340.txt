@@ -1,0 +1,199 @@
+Exhibit 10.6
+
+FORM OF
+
+DBS LICENSE AGREEMENT
+
+by and between
+
+DANAHER CORPORATION
+
+and
+
+ENVISTA HOLDINGS CORPORATION
+
+Dated as of [•]
+
+DBS LICENSE AGREEMENT
+
+This DBS LICENSE AGREEMENT (this “Agreement”), dated as of [•] (the “Effective Date”), is entered into by and between Danaher Corporation (“Danaher”), a Delaware corporation, and Envista Holdings Corporation (“Envista”), a Delaware corporation. “Party” or “Parties” means Danaher or Envista, individually or collectively, as the case may be.
+
+WHEREAS, the Parties have entered into that certain Separation Agreement, dated as of [] (the “Separation Agreement”);
+
+WHEREAS, Danaher owns or has the right to use the DBS (as defined below), which is used in the Envista Business and in the other businesses of Danaher as of the date hereof;
+
+WHEREAS, the DBS includes (without limitation) certain trade secrets, know-how and other Intellectual Property of the Danaher Group; and
+
+WHEREAS, Envista desires to obtain a license to use the DBS for its own business purposes on the terms set forth herein.
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual agreements, provisions and covenants contained in this Agreement, the Parties hereby agree as follows:
+
+ARTICLE I
+
+DEFINITIONS
+
+Section 1.01    Certain Defined Terms.
+
+(a)Unless otherwise defined herein, all capitalized terms used herein shall have the same meanings as in the Separation Agreement.
+
+(b)The following capitalized terms used in this Agreement shall have the meanings set forth below:
+
+“Change of Control” means, with respect to a Person, the occurrence, in a single transaction or a series of related transactions, of any one or more of the following events: (i) any third party immediately prior to such transaction becomes the beneficial owner, directly or indirectly, of securities of such Person representing more than fifty percent (50%) of the voting power of such Person; (ii) there is consummated a merger, consolidation, or similar transaction involving such Person and, immediately after the consummation of such merger, consolidation, or similar transaction, the stockholders of such Person immediately prior to the consummation of such merger, consolidation, or similar transaction do not beneficially own, directly or indirectly, outstanding voting securities representing more than fifty percent (50%) of the voting power of the surviving entity in such merger, consolidation, or similar transaction or more than fifty percent (50%) of the voting power of the parent of the surviving entity in such merger, consolidation, or similar transaction; or (iii) a sale of all or substantially all of such Person’s assets or business to a third party.
+
+“Danaher Improvements” means any material modification, enhancement or improvement to the DBS made by Danaher or the Danaher Group within two (2) years following the Effective Date.
+
+“DBS Confidential Information” means all Confidential Information and materials (i) with respect to Danaher, forming part of the DBS or Danaher Improvements, or (ii) with respect to Envista, forming part of Envista Improvements.
+
+“DBS” means the Danaher Business System in existence as of the Effective Date, which is a set of proprietary tools, processes, methodologies, practices and related training materials developed by or for
+
+2
+
+and owned by the Danaher Group that are designed to continuously improve business management and performance in the critical areas of quality, delivery, cost, growth and innovation.
+
+“Envista Improvements” means any material modification, enhancement or improvement to the DBS made by Envista or the Envista Group within two (2) years following the Effective Date.
+
+ARTICLE II
+
+LICENSE GRANT
+
+Section 2.01    License to Envista. Subject to the terms and conditions of this Agreement, Danaher hereby grants to Envista a worldwide, non-exclusive, non-transferable, perpetual license to use, modify, enhance and improve, the DBS and Danaher Improvements solely for the business purposes of the Envista Group with respect to the Envista Business. The foregoing license shall be sublicenseable solely (i) to other members of the Envista Group (for clarity, for only so long as such Persons remain an Affiliate of Envista), and (ii) to third parties to the extent reasonably necessary to support the business of the Envista Group and subject to appropriate confidentiality and non-use obligations.
+
+Section 2.02    License to Danaher. Envista hereby grants to Danaher a worldwide, non-exclusive, non-transferable, perpetual license to use, modify, enhance and improve Envista Improvements. The foregoing license shall be sublicenseable solely (i) to other members of the Danaher Group, (ii) to third parties to the extent reasonably necessary to support the business of the Danaher Group and subject to appropriate confidentiality and non-use obligations, and (iii) to members of the Danaher Group in connection with the business or assets of such member, that, on or after the Effective Date are sold, spun-off, split-off, merged or otherwise transferred to a third party.
+
+Section 2.03    Provision of Improvements and Services.
+
+(a)Upon reasonable, written request of a Party, the other Party shall use commercially reasonable efforts to provide the requesting Party with any Danaher Improvement or Envista Improvement, as applicable. In no event may either Party make such a request more frequently than once per quarter. Neither Party shall be obligated to provide any information to the other Party to the extent such information would have a reasonable likelihood of disclosing such Party’s or its Affiliates’ material and sensitive non-public business, product or project plans.
+
+(b)During the two (2)-year period following the Effective Date, upon reasonable, written request of a Party, the other Party shall provide the requesting Party with limited DBS-related services, which may include technical assistance and training, joint training sessions, collaboration sessions and other related services, in each case to allow both Parties to develop fully functional, self-sufficient DBS teams.
+
+ARTICLE III
+
+INTELLECTUAL PROPERTY RIGHTS
+
+Section 3.01    Danaher Ownership. The Parties acknowledge and agree that, as between the Parties, Danaher is the owner of all right, title and interest in the Intellectual Property rights in the DBS and Danaher Improvements. Danaher shall retain the entire right, title and interest in and to the DBS and any improvements, enhancements and modifications thereof made by Danaher or its Affiliates (including, for clarity, any Danaher Improvements), and all Intellectual Property rights therein. For the avoidance of doubt, Danaher shall have the sole right to defend and enforce any and all Intellectual Property rights covering the DBS and any Danaher Improvements.
+
+Section 3.02    Envista Ownership. Envista shall retain the entire right, title and interest in and to any Envista Improvements, and all Intellectual Property rights therein. For the avoidance of doubt, Envista shall have the sole right to defend and enforce any and all Intellectual Property rights covering any Envista Improvements.
+
+3
+
+ARTICLE IV
+
+DBS CONFIDENTIAL INFORMATION
+
+Section 4.01    Treatment of DBS Confidential Information. Each Party shall (and shall cause each member of its respective Group to) maintain the DBS Confidential Information of the other Party in confidence, and shall not (and shall cause each member of the its respective Group not to) disclose, divulge or otherwise communicate such DBS Confidential Information to any person who is not employed by or a director of a member of its Group, or use it for any purpose, except pursuant to, and in order to carry out, the terms and objectives of this Agreement (including the granting of sublicenses in accordance with Article II, subject to confidentiality obligations at least as strict as those set forth herein), and hereby agrees to exercise (and cause each member of its respective Group to exercise) every reasonable precaution to prevent and restrain the unauthorized disclosure of such DBS Confidential Information by any directors, officers or employees of its respective Group. In addition, each Party shall (and shall cause each member of its respective Group to) treat the DBS Confidential Information of the other Party that is not in the public domain as trade secrets, and without limiting the foregoing shall take all actions required by applicable Law to preserve such DBS Confidential Information of the other Party as trade secrets.
+
+ARTICLE V
+
+COMPENSATION
+
+Section 5.01    Compensation. The Parties agree that in light of the substantial contributions of the Envista Group to the development of the DBS, no further consideration is payable by Envista for the DBS license set forth in Section 2.01. The Parties further agree that (a) the consideration for the license to Envista of the Danaher Improvements is the license to Danaher of the Envista Improvements, (b) the consideration for the license to Danaher of the Envista Improvements is the license to Envista of the Danaher Improvements, and (c) the consideration for the DBS-related services provided by one Party pursuant to Section 2.03(b) is the provision of the DBS-related services by the other Party pursuant to Section 2.03(b).
+
+ARTICLE VI
+
+TERMINATION
+
+Section 6.01    Term. This Agreement shall remain in effect from the Effective Date until terminated in accordance with the provisions of this Article VI.
+
+Section 6.02    Termination for Breach. Danaher shall be entitled to terminate this Agreement immediately by providing written notice to Envista upon material breach of this Agreement by Envista or any member of the Envista Group and failure to cure such breach within ten (10) days of written notice thereof. Upon termination of this Agreement, Envista and each member of the Envista Group shall cease any and all use of the DBS (including any Danaher Improvements).
+
+Section 6.03    Termination Upon Change of Control. Upon any Change of Control of Envista or any member of the Envista Group, Danaher’s obligations under Section 2.03 shall automatically terminate.
+
+Section 6.04    Use of the Danaher Business System Name. Within six (6) months following the Effective Date, Envista and each member of the Envista Group shall cease using the name “Danaher Business System” or “DBS” or any term similar thereto to describe the rights licensed hereunder or for any other purpose.
+
+Section 6.05    Survival of Obligations; Return of Confidential Information. Notwithstanding any termination of this Agreement, the obligations of the Parties under Articles III, IV, VII and VIII as well as Sections 6.04 and this 6.05, shall survive and continue to be enforceable. Upon any termination of
+
+4
+
+this Agreement, Envista shall promptly (and in any event within thirty (30) days) return to Danaher or destroy (at Danaher’s option) all written DBS Confidential Information of Danaher, and all copies thereof then in Envista’s possession.
+
+ARTICLE VII
+
+WARRANTIES AND COMPLIANCE
+
+Section 7.01    Disclaimer of Warranties. Except as expressly set forth herein, the Parties acknowledge and agree that (a) the DBS, Danaher Improvements and Envista Improvements, as applicable, are provided as-is, (b) each Party assumes all risks and Liability arising from or relating to its use of and reliance upon the DBS, Danaher Improvements and Envista Improvements, as applicable, and (c) each Party makes no representation or warranty with respect thereto. EXCEPT AS EXPRESSLY SET FORTH HEREIN, EACH PARTY HEREBY EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES REGARDING THE DBS, DANAHER IMPROVEMENTS AND ENVISTA IMPROVEMENTS, WHETHER EXPRESS OR IMPLIED, INCLUDING ANY REPRESENTATION OR WARRANTY IN REGARD TO QUALITY, PERFORMANCE, NONINFRINGEMENT, MISAPPROPRIATION, COMMERCIAL UTILITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+Section 7.02    Compliance with Laws and Regulations. Each Party hereto shall be responsible for its own compliance with any and all Laws applicable to its performance under this Agreement. FOR THE AVOIDANCE OF DOUBT AND NOTWITHSTANDING ANYTHING HEREIN TO THE CONTRARY, EACH PARTY EXPRESSLY DISCLAIMS ANY EXPRESS OR IMPLIED OBLIGATION OR WARRANTY WITH RESPECT TO ANY INTELLECTUAL PROPERTY, TECHNOLOGY OR SERVICES THAT COULD BE CONSTRUED TO REQUIRE SUCH PARTY TO DELIVER ANY INTELLECTUAL PROPERTY, TECHNOLOGY OR SERVICES HEREUNDER IN SUCH A MANNER TO ALLOW THE RECEIVING PARTY THEREOF TO ITSELF COMPLY WITH ANY LAW APPLICABLE TO THE ACTIONS OR FUNCTIONS OF SUCH RECEIVING PARTY (OR ITS AFFILIATES).
+
+ARTICLE VIII
+
+GENERAL PROVISIONS
+
+Section 8.01    Entire Agreement; Construction. This Agreement, including the Exhibits and Schedules, shall constitute the entire agreement between the Parties with respect to the subject matter hereof and shall supersede all previous negotiations, commitments, course of dealings and writings with respect to such subject matter. In the event of any inconsistency between this Agreement and any Schedule hereto, the Schedule shall prevail. In the event of any conflict between this Agreement and the Tax Matters Agreement, the terms and conditions of the Tax Matters Agreement shall govern.
+
+Section 8.02    Counterparts. This Agreement may be executed in more than one counterpart, all of which shall be considered one and the same agreement, and shall become effective when one or more such counterparts have been signed by each of the Parties and delivered to each of the Parties.
+
+Section 8.03    Notices. All notices, requests, claims, demands and other communications under this Agreement shall be in English, shall be in writing and shall be given or made (and shall be deemed to have been duly given or made upon receipt) by delivery in person, by overnight courier service, or by facsimile with receipt confirmed (followed by delivery of an original via overnight courier service) to the respective Parties at the following addresses (or at such other address for a Party as shall be specified in a notice given in accordance with this Section 8.03:
+
+5
+
+If to Danaher:
+
+Danaher Corporation,
+
+2200 Pennsylvania Ave., NW - Suite 800W
+
+Washington, DC 20037-1701
+
+Attn: General Counsel
+
+To Envista:
+
+Envista Holdings Corporation
+
+200 S. Kraemer Blvd., Building E
+
+Brea, California 92821
+
+Attn: General Counsel
+
+Section 8.04    Waivers. Any consent required or permitted to be given by any Party to the other Party under this Agreement shall be in writing and signed by the Party giving such consent and shall be effective only against such Party (and its Group). No failure to exercise and no delay in exercising, on the part of any Party, any right, remedy, power or privilege hereunder shall operate as a waiver hereof or thereof; nor shall any single or partial exercise of any right, remedy, power or privilege hereunder or thereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power or privilege.
+
+Section 8.05    Assignment. This Agreement shall not be assignable, in whole or in part, directly or indirectly, by any Party hereto without the prior written consent of the other Party (not to be unreasonably withheld or delayed), and any attempt to assign any rights or obligations arising under this Agreement without such consent shall be void. Notwithstanding the foregoing, and subject to Section 6.03, this Agreement shall be assignable to a bona fide third party in connection with a merger, reorganization, consolidation or the sale of all or substantially all the assets of a Party hereto so long as the resulting, surviving or transferee entity assumes all the obligations of the relevant Party hereto by operation of law or pursuant to an agreement in form and substance reasonably satisfactory to the other Party; provided, however, that in the case of each of the preceding clauses (i) and (ii), no assignment permitted by this Section 8.05 shall release the assigning Party from Liability for the full performance of its obligations under this Agreement.
+
+Section 8.06    Successors and Assigns. The provisions of this Agreement and the obligations and rights hereunder shall be binding upon, inure to the benefit of and be enforceable by (and against) the Parties and their respective successors and permitted assigns.
+
+Section 8.07    Subsidiaries. Each of the Parties shall cause to be performed, and hereby guarantees the performance of, all actions, agreements and obligations set forth herein to be performed by any Subsidiary of such Party or by any entity that becomes a Subsidiary of such Party at and after the Effective Date, to the extent such Subsidiary remains a Subsidiary of the applicable Party.
+
+Section 8.08    Third Party Beneficiaries. This Agreement is solely for the benefit of the Parties and should not be deemed to confer upon third parties any remedy, claim, Liability, reimbursement, claim of Action or other right in excess of those existing without reference to this Agreement.
+
+Section 8.09    Titles and Headings. Titles and headings to Articles and Sections herein are inserted for the convenience of reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement.
+
+Section 8.10    Exhibits and Schedules. The Exhibits and Schedules shall be construed with and as an integral part of this Agreement to the same extent as if the same had been set forth verbatim herein.
+
+6
+
+Section 8.11    Governing Law. This Agreement and any dispute arising out of, in connection with or relating to this Agreement shall be governed by and construed in accordance with the Laws of the State of Delaware, without giving effect to the conflicts of laws principles thereof.
+
+Section 8.12    Dispute Resolution. The provisions of Article VIII of the Separation Agreement shall govern any Dispute under or in connection with this Agreement.
+
+Section 8.13    Severability. In the event any one or more of the provisions contained in this Agreement should be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein and therein shall not in any way be affected or impaired thereby. The Parties shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions, the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+
+Section 8.14    Interpretation.
+
+(a)The Parties have participated jointly in the negotiation and drafting of this Agreement. This Agreement shall be construed without regard to any presumption or rule requiring construction or interpretation against the Party drafting or causing any instrument to be drafted.
+
+(b)When a reference is made in this Agreement to an Article, Section or Exhibit, such reference shall be to an Article or Section of, or an Exhibit to, this Agreement unless otherwise indicated. Wherever the words “include,” “includes” or “including” are used in this Agreement, they shall be deemed to be followed by the words “without limitation.” The words “hereof,” “herein,” “hereto” and “hereunder” and words of similar import, when used in this Agreement, shall refer to this Agreement as a whole and not to any particular provision of this Agreement.
+
+[Signature page follows]
+
+7
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed on the date first written above by their respective duly authorized officers.
+
+DANAHER CORPORATION
+
+By:
+
+Name: [•]
+
+Title: [•]
+
+ENVISTA HOLDINGS CORPORATION
+
+By:
+
+Name: [•]
+
+Title: [•]
+
+[DBS' License Agreement Signature Page]

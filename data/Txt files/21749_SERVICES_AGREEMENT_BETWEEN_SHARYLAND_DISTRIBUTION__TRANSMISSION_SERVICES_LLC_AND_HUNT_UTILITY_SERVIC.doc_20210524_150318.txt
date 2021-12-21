@@ -1,0 +1,175 @@
+Exhibit 10.9
+
+Execution Version
+
+SERVICES AGREEMENT
+
+BETWEEN
+
+SHARYLAND DISTRIBUTION & TRANSMISSION SERVICES, L.L.C.
+
+AND
+
+HUNT UTILITY SERVICES, LLC
+
+This SERVICES AGREEMENT (this “Agreement”) is entered into effective as of the 1st day of January, 2019 (the “Effective Date”), between Sharyland Distribution & Transmission Services, L.L.C., a Texas limited liability company (“SDTS”), and Hunt Utility Services, LLC, a Delaware limited liability company (the “Hunt Manager”). SDTS and Hunt Manager may be referred to herein individually as a “Party” and collectively as the “Parties.”
+
+RECITALS
+
+WHEREAS, Substantive Rule 25.84(e) of the Public Utility Commission of Texas (the “Commission”) requires an electric utility to reduce to writing and file with the Commission copies of contracts or agreements it has with its affiliates; and
+
+WHEREAS, in keeping with the requirement of applicable laws, SDTS and Hunt Manager will enter into this Agreement to memorialize the terms and conditions by which Hunt Manager will perform certain services for SDTS as set forth in this Agreement;
+
+NOW THEREFORE, in consideration of the premises and the covenants made herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, SDTS and Hunt Manager hereby agree as follows:
+
+l. SCOPE OF WORK.  Hunt Manager shall perform for SDTS the services described in Exhibit A hereto (the “Services”), as such Exhibit may be modified from time to time.
+
+2. COMPENSATION.  As consideration for performing the Services hereunder, Hunt Manager shall be paid a fee equal to the sum of all of Hunt Manager’s direct and indirect compensation expenses for providing the Services (the “Allocable Compensation Expenses”) in accordance with the terms set forth in Section 3.a. below. Notwithstanding anything to the contrary herein, the amounts charged by Hunt Manager to SDTS shall be no higher than the amounts charged by Hunt Manager to its other affiliates or to a nonaffiliated person (within the same market areas or having the same market conditions) for the same service or class of services.
+
+3.PAYMENT TERMS.
+
+a.
+
+SDTS will pay Hunt Manager for the Services performed hereunder in cash on a quarterly basis (each, a “Quarterly Payment”) in arrears on the last day of each
+
+calendar quarter (each, a “Completed Quarter”) (or the first business day that follows such day, if the last day of the Completed Quarter is not a business day). Subject to Section 3.b. below, each Quarterly Payment will be an amount equal to the sum of (i) Hunt Manager’s actual Allocable Compensation Expenses for the first two months of the Completed Quarter and (ii) Hunt Manager’s reasonable estimate of its Allocable Compensation Expenses for the third month of the Completed Quarter (the “Estimated Expenses”); provided that in no event shall the Quarterly Payment with respect to a Completed Quarter exceed the amount of the quarterly installment of the Base Fee (as defined in the Management Agreement) payable by InfraREIT Partners, LP (the “Operating Partnership”) with respect to such Completed Quarter (but, for purposes of this proviso, without giving effect to any reduction of such payment for amounts payable under this Agreement).
+
+b.
+
+Following the conclusion of a Completed Quarter, Hunt Manager will review and determine whether there is a difference in the actual amount of Hunt’s Allocable Compensation Expenses for the third month of the Completed Quarter (the “Actual Expenses”) as compared to the Estimated Expenses that were utilized in calculating the Quarterly Payment. If there has been such a difference, then (i) if the Actual Expenses exceed the Estimated Expenses, the amount of such difference will be added to the Quarterly Payment payable with respect to the subsequent calendar quarter and (ii) if the Estimated Expenses exceed the Actual Expenses, the amount of such difference will be deducted from the Quarterly Payment payable with respect to the subsequent calendar quarter.
+
+c.
+
+No less than fifteen (15) days prior to the end of each Completed Quarter, Hunt Manager will submit to SDTS an accounting of (i) the Services rendered pursuant to this Agreement for such Completed Quarter (including any Estimated Expenses) and (ii) any amounts that will be added or subtracted to the Quarterly Payment pursuant to Section 3.b.
+
+d.
+
+For the avoidance of doubt, notwithstanding anything to the contrary contained herein, following any expiration or termination of this Agreement pursuant to Section 4, Hunt Manager will, as soon as reasonably practicable following the final Quarterly Payment hereunder, determine whether there was a difference between the Actual Expenses and the Estimated Expenses that were utilized in calculating the final Quarterly Payment, and shall promptly thereafter determine whether one Party should make a lump sum payment to the other Party as a result of excess or deficient compensation paid by SDTS. If any amount is determined to be due pursuant to this Section 3.d., the payment of such amount must be made promptly upon the determination of such amount.
+
+4. TERM.  This Agreement shall be effective as of the Effective Date and shall continue in effect until the earlier of (a) termination by either Party, with or without cause, upon at least thirty (30) days’ prior written notice to the other Party; (b) the expiration or termination of the Management Agreement, dated as of January 29, 2015 (“Management Agreement”), among InfraREIT, Inc. (“InfraREIT”), the Operating Partnership and Hunt Manager, as amended; and (c) the Closing Date, as defined in Section 1.2 of that certain Agreement and Plan of Merger, dated as of October 18, 2018, among Oncor Electric Delivery Company LLC, 1912 Merger Sub LLC, Oncor T&D Partners LP, InfraREIT and the Operating Partnership; provided, however, that
+
+2
+
+SDTS’s obligation to pay for Services actually performed in accordance with Section 2 and Section 3 shall survive indefinitely.
+
+5. CODE OF CONDUCT.  Hunt Manager shall (a) adhere to Sharyland Utilities, L.P.’s Code of Conduct (a copy of which has been delivered to Hunt Manager) (the “Code of Conduct”), as applicable, (b) work with SDTS to comply with all additional Code of Conduct requirements imposed upon SDTS by the Commission or by applicable law, and (c) ensure that its employees receive training in the Code of Conduct requirements, including training with respect to handling of confidential information and avoidance of inappropriate cross subsidization by either Party or their respective affiliates.
+
+6. ETHICS.  The Services shall be provided in compliance with the Code of Conduct. In the event of any inconsistency between the provisions of this Agreement and any requirement of the Code of Conduct, the terms and provisions of the Code of Conduct shall govern and control.
+
+7.GOVERNING LAW.  THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF DELAWARE WITHOUT REGARD TO CONFLICTS OF LAW PRINCIPLES TO THE CONTRARY.
+
+8. TAXES.  Hunt Manager shall be solely responsible for the payment wherever payable of any state or federal income taxes or other taxes or contributions based on the compensation paid to Hunt Manager hereunder, or paid by Hunt Manager to its personnel, and shall complete and deliver to SDTS any applicable tax forms requested by SDTS such as U.S. IRS Form W-9 showing taxpayer identification number. SDTS may withhold from such compensation any amounts as may be required or allowed by applicable law.
+
+9. NO WAIVER OF BREACH.  No failure by either Party to enforce any obligation under this Agreement shall prejudice that Party’s right thereafter to enforce that or any other obligation unless specifically otherwise stated in writing.
+
+10. NON-ASSIGNABILITY.  This Agreement shall inure to the benefit of, and be binding upon, the respective successors and permitted assigns of the Parties. Notwithstanding the foregoing, neither Party shall have the right to assign its rights and obligations under this Agreement without the written consent of the other Party.
+
+11. No Joint Venture.  Nothing in this Agreement shall be construed to make SDTS and Hunt Manager partners or joint venturers or impose any liability as such on either of them.
+
+3
+
+12. NOTICES.  Notices shall be in writing, in the English language, given in person or by prepaid mail or express delivery and effective when received in person or at the address of the receiving Party shown below. Notice given by mail shall be deemed received twenty-four (24) hours after being mailed (postage prepaid) to the address of the receiving Party shown below.
+
+To SDTS:
+
+Sharyland Distribution & Transmission Services, L.L.C.
+
+1900 North Akard Street
+
+Dallas, Texas 75201
+
+Attn: General Counsel
+
+Legal@huntutility.com
+
+To Hunt Manager:
+
+Sharyland Utilities, L.P.
+
+1900 North Akard Street
+
+Dallas, Texas 75201
+
+Attn: Associate General Counsel
+
+kelly.frazier@sharyland.com
+
+13. ENTIRE AGREEMENT.  This Agreement (including Exhibit A attached hereto) represents the complete understanding between SDTS and Hunt Manager and supersedes all prior negotiations, representations, or agreements between the Parties, either written or oral, and any amendment hereto must be in writing and signed by both Parties. The invalidity of any particular provision of this Agreement shall not affect the validity of any other provision, and no ambiguity shall be construed against either Party on the grounds that such Party caused or should have prevented it.
+
+14. HEADINGS.  The underlined headings used throughout this Agreement are for administrative convenience only and shall be completely disregarded for the purposes of construing and enforcing this Agreement.
+
+15. COUNTERPARTS.  This Agreement may be executed in identical counterparts, which shall be deemed to constitute one and the same agreement.
+
+[Signature page follows]
+
+4
+
+IN WITNESS WHEREOF, the Parties have duly executed this Agreement as of February 26, 2019.
+
+SDTS
+
+Hunt Manager
+
+Sharyland Distribution & Transmission
+
+Services, L.L.C.
+
+Hunt Utility Services, LLC
+
+By:
+
+/s/ Brant Meleski
+
+By:
+
+/s/ Michael Carter
+
+Name:
+
+Brant Meleski
+
+Name:
+
+Michael Carter
+
+Title:
+
+Senior Vice President and
+
+Chief Financial Officer
+
+Title:
+
+Vice President
+
+5
+
+EXHIBIT A
+
+SERVICES TO BE PERFORMED
+
+Hunt Manager shall provide specific services as requested from time to time by SDTS, for the purpose of assisting SDTS in carrying out SDTS’s management and administrative responsibilities. SDTS’s management and administrative responsibilities that require Hunt Manager’s services include, but are not limited to, the following:
+
+1.
+
+Implementation and operation of accounting systems, including requirements necessary with respect to regulatory bodies, studies of accounting procedures and practices to improve efficiency, preparation and analyses of financial and operating reports and other statistical matters, development of capital and operating budgets, development of cash and cost forecasts, implementation of budgetary controls, evaluation of vendor creditworthiness and obtaining short- and long-term debt and equity financing;
+
+2.
+
+Tax services and the management of all tax matters applicable to SDTS (and any subsidiaries), including, but not limited to (a) the preparation, review and filing of all federal, state and local tax returns (or similar reports) and the remittance by SDTS of any associated tax payments and assessments; (b) tax planning, appeals and protests; and (c) engaging and assisting any SDTS third-party tax service providers;
+
+3.
+
+Provision of audit services;
+
+4.
+
+Consultation, analysis, advice and performance of SDTS’s legal, regulatory, public affairs, corporate communications and administrative services;
+
+5.
+
+Administrative or project management duties; and
+
+6.
+
+Other corporate support services, as that term is defined in Commission Substantive Rule 25.272, as required from time to time in the course of SDTS’s business and in accordance with the Code of Conduct.

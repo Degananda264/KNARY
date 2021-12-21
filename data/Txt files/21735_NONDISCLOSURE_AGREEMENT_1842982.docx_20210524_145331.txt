@@ -1,0 +1,89 @@
+Exhibit 10.6
+
+NON-DISCLOSURE AGREEMENT
+
+THIS NON-DISCLOSURE AGREEMENT ("Agreement") is entered into this 2nd day of February, 2006 by and between Sun Energy Solar, Inc., a Delaware company having an address at 6408 Parkland Drive, Suite 104, Sarasota, Florida 34243, United States of America ("Company"), and Robert Fugerer, an individual residing in the state of Florida, and having an address at 4819 Sky Blue Drive, Lutz, FL 33558("Recipient").
+
+RECITALS
+
+A.           Company and Recipient have initiated or intend to initiate discussions concerning the possibility of entering into a mutually advantageous business relationship whereby Recipient shall perform certain services on behalf of and for the benefit of Company (the “LimitedPurpose”).
+
+B.           To facilitate the disclosure of certain Confidential Information (as defined below) by Company to Recipient, the parties desire to enter into this Agreement.
+
+AGREEMENT
+
+Now therefore, in consideration of the foregoing recitals, which are hereby incorporated into this Agreement by reference, and the mutual covenants and agreements contained herein, and other good and valuable consideration, the adequacy and receipt of which is hereby acknowledged, the parties agree as follows:
+
+1.  Definitions.  In addition to the terms defined elsewhere in this Agreement, the following terms shall have the following meanings:
+
+(a)  "Confidential Information" mean any information, whether written, oral, magnetic, photographic, optical, or other form, tangible or intangible, which has been, or after the date hereof will be, furnished or disclosed by Company, or its employees, consultants, representatives or agents, or which Recipient may have access to in connection with the Limited Purpose, which has been designated as being confidential, or which under the circumstances of disclosure reasonably ought to be treated as confidential, including but not limited to any information pertaining to or regarding the business, financial condition, pricing, sales, strategies, plans, customers, suppliers, properties and operations of Company (including such information visually available to Recipient at Company’s premises or Company presentations), and including without limitation all technical information of any nature whatsoever and all business plans, inventions, trade secrets, know-how, methodologies, concepts, techniques, discoveries, computer programs (including functionality and source code), processes, drawings, designs, research, plans or specifications relating thereto.
+
+(b)  "Related Party" or "Related Parties" shall mean the directors, officers, employees, legal, tax and other professional advisors or consultants of Recipient, to the extent such entities or persons receive Confidential Information.
+
+2.  Non-Disclosure and Restricted Use of Confidential Information.
+
+(a)  Recipient shall keep in strictest confidence and trust all Confidential Information and, except upon the express prior written consent of Company, Recipient shall (i) not disclose any Confidential Information to any other entity or person, and (ii) use the Confidential Information solely as necessary to implement the Limited Purpose and not for Recipient’s own benefit or for the benefit of any other entity or person.  Recipient shall take all reasonable safeguards to prevent the disclosure or misuse of the Confidential Information, including without limitation such measures as the Recipient takes to safeguard its own confidential information, and shall not photocopy, transcribe or otherwise reproduce or modify any of the Confidential Information except as necessary to implement the Limited Purpose or otherwise upon the express written consent of the Company.
+
+1
+
+(b)  Recipient may disclose the Confidential Information to Related Parties on a "need to know" basis only.  Recipient shall inform all Related Parties who have access to the Confidential Information that such Confidential Information is confidential and proprietary to Company and shall require each such Related Party to agree to restrictions and obligations at least as strict as those set forth herein prior to disclosure of any Confidential Information.  Recipient shall diligently enforce any and all confidentiality agreements with Related Parties and shall be responsible and liable for any breach of the confidentiality obligations and restrictions on use set forth herein by any Related Party.
+
+(c)  The obligations of Recipient stated in the preceding paragraphs of this Section 2 shall not apply to information that (i) is or becomes generally known or available to the public through no wrongful act of the Recipient; (ii) was in the Recipient's possession at the time of disclosure or receipt, as evidenced and verified by prior tangible evidence, and was not acquired under an obligation of confidence; (iii) Recipient demonstrates was rightfully received by it from a third party after the time it was disclosed or obtained hereunder, provided that such third party was not under an obligation of confidence with the Company at the time of the third party’s disclosure to Recipient; (iv) is independently developed by Recipient without use of or reference to the Confidential Information and without breach of this Agreement, as evidenced and verified by prior tangible evidence; or (v) is required to be disclosed in a judicial or administrative proceeding, or as otherwise required to be disclosed by law, in any such case after all reasonable legal remedies for maintaining such information in confidence have been exhausted, including, but not limited to, giving Company as much advance notice of the possibility of such disclosure as practical so Company may attempt to stop such disclosure or obtain a protective order concerning such disclosure.  Recipient shall provide Company with written notice no less than five (5) days prior to the disclosure or use of any information of Company pursuant to this Section 2(c), subsections (i) through (v).
+
+(d)  Recipient shall (i) notify Company immediately of any unauthorized possession, use or knowledge of the Confidential Information, (ii) promptly furnish Company full details of such possession, use or knowledge, and (iii) cooperate with Company against third parties as may be deemed necessary by Company to protect its proprietary rights in the Confidential Information.
+
+3.  Term of Agreement.  This Agreement shall be effective as of the date of first disclosure of Confidential Information and may be terminated, without cause, with respect to future disclosures upon thirty (30) days prior written notice to the other party; provided however, that all rights and obligations accrued prior to such termination shall survive the termination of this Agreement.  Notwithstanding anything herein to the contrary, the nondisclosure obligations and restrictions on use with respect to any Confidential Information shall continue and bind Recipient for a period of five (5) years after the date of the last disclosure of Confidential Information hereunder, except that the nondisclosure obligations and restrictions on use with respect to any Confidential Information that constitutes a trade secret shall continue in effect for so long as the Confidential Information remains a trade secret under applicable law.  Any termination or expiration of this Agreement shall be without prejudice to the rights of Company against Recipient in respect of any claim or breach of any of the provisions of this Agreement.
+
+4.  Return of Confidential Information.  Recipient shall return to Company, or at Company’s request, destroy, and shall cause its Related Parties to return or destroy, the Confidential Information and all copies, transcriptions or other reproductions of, and any notes relating to, the Confidential Information, including without limitation, any memoranda, photocopies, computer files and libraries, computer-generated data or other similar repositories or archives, upon (i) the accomplishment of the purpose for which the Confidential Information was provided, or (ii) receipt of a written notice from Company requesting return or destruction of the Confidential Information, and upon request, shall provide to Company written certification signed by an officer of Recipient that it has complied with the foregoing.
+
+2
+
+5.  Ownership.
+
+(a)  All Confidential Information is and shall remain the property of Company.  By disclosing Confidential Information to Recipient, Company does not grant any express or implied right to Recipient to or under any patents, copyrights, trademarks, or trade secret information except as required to implement the Limited Purpose.  Company reserves without prejudice the ability to protect its rights under any such patents, copyrights, trademarks, or trade secrets.  Recipient shall not remove any proprietary, copyright, trade secret or other legend from any form of the Confidential Information.  Recipient shall, at the reasonable written request of Company and at Company’s expense, add to the Confidential Information any proprietary, copyright, trade secret or other legend or modify the same, which Company deems necessary to protect its intellectual property rights.  Without limiting the foregoing, Company shall retain all right, title, and interest in and to all forms of Confidential Information delivered or disclosed hereunder, including, without limitation, any patents, copyrights, trademarks, service marks, trade dress, logos, technical information, know-how, trade secrets, and any modifications or enhancements thereto (whether developed by Company, Recipient, any Related Party, or on either party’s behalf) or other intellectual property rights throughout the world, whether currently existing or hereafter developed or acquired, and all applications, disclosures and registrations with respect thereto (collectively, “IP Rights”).  If Recipient or any third party engaged by Recipient is deemed to have any ownership interest or rights in any IP Rights in the Confidential Information, then Recipient, for no additional consideration, shall assign and/or cause such third party to assign, and Recipient does hereby assign, all of such ownership interest and rights exclusively and irrevocably to Company.  Recipient shall cooperate with Company and shall cause to be executed all such instruments and documents as Company reasonably may request in connection with such assignments and shall do all other lawfully permitted acts reasonably required to further the intent of this Section 5; provided, however, this Agreement shall be effective regardless of whether any such additional documents are executed.  Recipient shall not dispute or contest, directly or indirectly, Company’s right, title and interest in or to, or the validity and enforceability of, any IP Rights in the Confidential Information (including the attempt to register or record the same in any jurisdiction).  Notwithstanding anything herein to the contrary, this Section 5 shall survive any termination or expiration of this Agreement.
+
+(b)  Recipient may from time to time provide suggestions, comments or other feedback ("Feedback") to Company with respect to the Confidential Information.  Both parties agree that all Feedback is and shall be given entirely voluntarily.  Recipient shall not give Feedback that is subject to license terms that seek to require any Company product, technology, service or documentation incorporating or derived from such Feedback, or any Company intellectual property, to be licensed or otherwise shared with any third party.  Recipient hereby acknowledges and agrees that all Feedback shall be deemed Confidential Information of Company, subject to the obligations of confidentiality and restricted use provided under this Agreement.  Furthermore, Recipient hereby acknowledges and agrees that Company shall have the exclusive right to use, disclose, reproduce, license or otherwise distribute, and exploit the Feedback as Company sees fit, entirely without obligation or restriction of any kind on account of intellectual property rights or otherwise.
+
+6.  Accuracy and Completeness of Confidential Information.  The disclosure of any Confidential Information to Recipient shall be solely in Company 's discretion.  This Agreement shall not require Company to disclose any information or to require the consummation of any transaction in connection with which the Confidential Information is disclosed.  Notwithstanding anything to the contrary, Company shall not be deemed to have made any representation or warranty to Recipient concerning the accuracy or completeness of any Confidential Information, except to the extent that such representation or warranty may be expressly set forth in a definitive written agreement concerning any subsequent business relationship.
+
+7.  Independent Contractors.  Neither this Agreement, nor any terms and conditions contained herein, will be construed as creating a partnership, joint venture, or agency relationship or as granting a franchise.  The parties are independent contractors each acting for its own account, and neither is authorized to make any commitment or representation, express or implied, on the other’s behalf.
+
+3
+
+8.  Remedies.  Recipient acknowledges and agrees that Company would be irreparably harmed if any of the Confidential Information were to be disclosed to third parties, or if any use were to be made of the Confidential Information other than that specified in this Agreement, and further agrees that Company shall have the right to seek and obtain injunctive relief upon any violation or threatened violation of the terms of this Agreement without the necessity of posting bond or other security, in addition to all other rights and remedies available to Company at law or in equity.  Any trade secrets of the Company will be entitled to all of the protections and benefits under the applicable Uniform Trade Secrets Act and any other applicable law.  If any information that Company deems to be a trade secret is found by a court of competent jurisdiction not to be a trade secret for purposes of this Agreement, such information nevertheless will be considered Confidential Information for purposes of this Agreement.  Recipient hereby waives any requirement that the Company submit proof of the economic value of any trade secret.
+
+9.  Indemnity.  Recipient shall indemnify Company for and against all damages, losses, claims, costs (including reasonable attorneys' fees), expenses and liabilities, suffered or incurred as a direct or indirect result of Recipient failing (whether intentionally or not) to fully comply with its covenants and obligations under this Agreement, including by virtue of any act of any Related Party.
+
+10.  Entire Agreement.  This Agreement sets forth the complete and exclusive understanding of the parties regarding the subject matter of this Agreement and supersedes all prior agreements, understandings, and communications, oral or written, between the parties regarding the subject matter of this Agreement.  This Agreement is not, however, intended to limit any rights that Company may have under trade secret, copyright, patent, trademark or other laws that may apply to the subject matter of this Agreement both during and after the term of this Agreement.
+
+11.  Amendments.  No amendment or waiver of any term of this Agreement shall be effective unless such amendment or waiver is in writing and is signed by each of the parties hereto.
+
+12.  Assignment.  Recipient shall not assign or transfer, in whole or in part and whether by contract or operation of law, this Agreement, or any rights or obligations hereunder, without the prior written consent of Company.  Subject to the foregoing, this Agreement shall be binding upon, and shall inure to the benefit of, the parties and their respective representatives, successors and assigns.
+
+13.  Attorneys' Fees.  If any party shall commence any action or proceeding against the other in order to enforce the provisions of this Agreement, or to recover damages as the result of the alleged breach of any of the provisions of this Agreement, the prevailing party therein shall be entitled to recover all reasonable costs incurred in connection therewith against the party commencing such action or the party who has breached this Agreement, as the case may be, including reasonable attorneys' fees.
+
+14.  Applicable Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of Florida, other than such laws, rules, regulations and case law that would result in the application of the laws of a jurisdiction other than the State of Florida.  Any suit to enforce any provision of this Agreement, or arising out of or based upon this Agreement, shall be brought exclusively in the United States District Court for the District of Florida or the District Court in and for the city of Sarasota and the County of Sarasota, State of Florida.  Each party hereby agrees that such courts shall have in personam jurisdiction and venue with respect to such party, and each party hereby submits to the in personam jurisdiction and venue of such courts.
+
+15.  Severability.  If any provision of the Agreement shall be held by a court competent jurisdiction to be illegal, invalid or unenforceable, the parties hereby authorize the court to modify such provision to the minimum extent necessary to effectuate the parties’ intentions and the remaining provisions shall remain in full force and effect.
+
+4
+
+[SIGNATURE PAGE FOLLOWS]
+
+This Agreement has been executed as of the date first set forth above.
+
+Sun Energy Solar, Inc..
+
+By: /s/Carl L. Smith
+
+Title: CEO
+
+Date: July 10, 2006
+
+Recipient
+
+Signature: /s/ Robert Fugerer
+
+Printed: Robert Fugerer
+
+Date: February 18, 2006

@@ -1,0 +1,278 @@
+
+® natrix
+
+MASTER CONSULTING AGREEMENT
+
+SOW # 1
+
+This SOW ("SOW") is attached to the Master Consulting Agreement dated ___,
+2014 by and between CLM Matrix and Customer and incorporated therein for all
+purposes as of the date this SOW is executed by both Parties (“SOW Effective
+Date’). In addition to the terms and conditions of the Agreement, the following
+terms and conditions apply with respect to the services described on this SOW.
+All terms not defined herein have the same meanings as set forth in the
+Agreement.
+
+4. AGREEMENT. For adequate consideration, this Statement of Work ("SOW") is
+made effective (the “Effective Date’), by and between CLM Matrix (“CLM
+Matrix") and COPERA (‘Customer’), a Colorado corporation (each, a “Party”,
+collectively, “Parties’). Subject to the terms and conditions of this Agreement,
+including the payment of all fees and expenses, Customer agrees to purchase the
+services described herein and signed by both Parties (‘Services’) at the pricing set
+forth herein. All such Services are subject to the terms and conditions of this
+Agreement. Except as may be expressly set forth in an Exhibit, Customer shall
+retain responsibility for all other services, operations, systems and personnel
+necessary for the operation of Customer's information technology systems.
+Customer may request services to be provided by CLM Matrix under the
+applicable SOW that are outside the scope of the Services described herein (the
+“Additional Services"). CLM Matrix shall provide the Additional Services, subject
+to the Parties executing a Project Change Request (a “PCR’) describing the terms
+and fees associated with such Additional Services, and any such PCR shall be
+attached to the applicable SOW.
+
+ 
+
+2. TERM AND TERMINATION. The initial term begins upon the Effective Date and
+continues through completion of the services (‘Term’). The Term is subject to
+termination rights herein. If a Party (a) fails to perform a material term of this SOW
+and such failure is not cured within thirty (30) days (or such other time period agreed
+in writing by the Parties) following receipt of a written defauit notice from the other
+Party reasonably specifying the nature of the default; or (b) a Party becomes the
+subject of a voluntary proceeding relating to insolvency, receivership, liquidation,
+bankruptcy or composition for the benefit of creditors and such petition or proceeding
+is not dismissed within sixty (60) days of filing, the other Party may terminate the
+affected SOW(s) for cause by giving written notice to the defaulting Party. This
+Agreement will continue in effect with respect to all other SOW that are not the
+subject of such default. Notwithstanding the foregoing, the cure period for failure of
+Customer to pay amounts due under this Agreement is 10 days. CLM Matrix may
+terminate this Agreement for convenience upon thirty (30) days prior written notice to
+Customer. Customer is liable for any unpaid fees and expenses associated for the
+terminated SOW(s) incurred up to the time of termination.
+
+3. COMPENSATION. Unless otherwise specified in an Exhibit, invoices shall be
+sent to: d . Consulting Services shall be billed on a time and
+materials basis. Customer shall pay to CLM Matrix, as compensation for the
+services to be rendered, the sum of $225 per hour for hours actually worked
+Services and expenses will be billed monthly and are due and payable thirty (30)
+days following the invoice date. Unless otherwise specified in an Exhibit, Customer
+will reimburse CLM Matrix for all pre-approved, undisputed out-of-pocket expenses
+reasonably incurred in rendering Services to Customer. Expenses may include, but
+are not limited to, travel and transportation expenses, lodging and meals, and the
+cost of any shipping, communications charges, telephone calls, printing of process
+charts at $8.50 sq. ft. and other related expenses subject to Customer's corporate
+travel expense reimbursement policies, a copy of which will be provided to CLM
+Matrix. CLM Matrix shall use its best efforts to minimize expenses for a project. If
+not otherwise specified in the applicable Exhibit Customer shall incur a late fee on
+fees and expenses not paid to CLM Matrix as provided in this Agreement at the
+lesser of the maximum amount chargeable by law or 1.5% per month. Customer
+shall pay all reasonable expenses incurred by CLM Matrix in enforcing any collection
+
+©2015 CLM Matrix. All Rights Reserved.
+M Matrix Proprietary a fidentia
+Master Consulting Agreement - v0315
+
+of fees or other rights under this Agreement including all expenses of any legal
+proceeding related thereto (including reasonable attorney fees). Quoted fees and
+expenses do not include sales or use type taxes, value added tax ("VAT") and similar
+taxes (including similar foreign taxes) (collectively, “Taxes"). CLM Matrix will invoice
+Customer for Taxes applicable to the fees and expenses, if any, and Customer shall
+pay such Taxes within thirty (30) days of the applicable invoice date. CLM Matrix will
+temit any and all Taxes paid by Customer to the appropriate taxing authority.
+Purchases by Customer shall be tax exempt to the extent allowable pursuant to
+applicable law provided Customer provides a valid tax exemption certificate to CLM
+Matrix prior to such purchase. Customer will promptly notify CLM Matrix of any
+material change in Customer's tax exempt status. Each monthly invoice shall
+include a list of each hourly rate SOW worked on and, for each such SOW, a list of
+the personnel performing services, the job classifications, the hourly rate charged
+for each and a description of expenses. CLM Matrix shall maintain time records
+for all Consultant personnel assigned to the Project that shall indicate the name of
+the individual, job title, date, number of hours worked, and the task worked on
+Such records shall be made available by CLM Matrix upon the request of
+Customer. Customer shall pay CLM Matrix all undisputed invoices presented
+Consultant under this Agreement within thirty (30) days of the receipt of such
+invoices.
+
+4, NON-DISCLOSURE.
+
+(a) Except as otherwise required by law, the Party to whom disclosure is made
+(‘Recipient’) shall not, and shall cause each of its directors, officers,
+employees, agents and representatives (collectively, “Representatives’) not to,
+(i) disclose the Confidential Information (defined below) to any person or entity
+other than Representatives of Recipient that need to know the Confidential
+Information for the purposes contemplated by this Agreement; or (ii) use the
+Confidential Information for any purpose other than the purposes contemplated
+by this Agreement. The Party disclosing the Confidential Information
+(‘Discloser’) shall take reasonable steps to prevent unauthorized use, copying
+and disclosure of the Confidential Information by such persons, including the
+use of appropriate written confidentiality agreements.
+
+(b) Promptly upon the written request of Discloser, Recipient shall, and shall cause
+its Representatives to, return to Discloser or destroy all Confidential Information
+
+(c) ‘Confidential Information’ means (i) a Party's trade secrets, inventions,
+passwords, ideas, processes, formulas, data, works of authorship, know-how,
+improvements, discoveries, development, new products, business plans,
+business processes and procedures, budgets, unpublished financial statements
+and financial projections, pricing and cost information, fees, suppliers,
+customers and customer prospects; (ii) the Services; and (iii) all other
+information of competitive or commercial value, or otherwise of a confidential or
+proprietary nature disclosed by Discloser to Recipient in connection with this
+Agreement that Discloser has designated confidential or a reasonable person
+would recognize as confidential or proprietary in nature. Confidential
+Information excludes information that becomes generally publicly available other
+than as a result of disclosure by Recipient or any of its Representatives,
+becomes available to Recipient on a non-confidential basis from a third-party
+that is not bound by a similar duty of confidentiality or is independently
+developed by Recipient without use or reference to Discloser’s Confidential
+Information.
+
+(d) Recipient may disclose Confidential Information to the extent required by law,
+but shall provide Discloser prompt notice to allow Discloser an opportunity to
+seek a protective order or other relief.
+
+5. PROJECT ORGANIZATION. Prior to project start, Customer shall assign a full
+time CLM Program Manager “Program Manager’), who shall be responsible for
+managing the Customer's project performance of its obligations under the terms of
+
+HB matrix
+
+the applicable SOW. In addition, this person will act as Matrix Software
+Administrator ("Administrator’) responsible for assisting in the definition of the
+contract process workflow, configuration of the software and acting as first and
+second level of support for the Matrix Software. Customer is required to have at
+least one person on staff who has completed the Matrix Administrative
+Certification prior to GoLive. CLM Matrix shall designate an employee of sufficient
+management rank as Customer Project Manager (“Project Manager’), who shall
+represent CLM Matrix and have responsibility for ensuring that CLM Matrix
+performs its obligations under this SOW. The Program Manager and CLM Matrix
+Project Manager will hold joint responsibility for planning status meetings and will
+discuss issues as they arise. Formal telephone or personal meetings between the
+Project Manager and CLM Matrix Project Manager will be scheduled as deemed
+appropriate by the parties.
+
+6. DESCRIPTION OF SERVICES. CLM Matrix shall, upon request of Customer,
+perform the following tasks (i.e., the assistance to be rendered and/or the services
+to be performed, and/or resources to be provided, and/or applicable deliverables,
+and/or obligations to be discharged by CLM Matrix):
+
+Consulting Services shall include the following deliverables:
+
+© Installation of Matrix Software
+
+« — Requirements Definition document created including CLM Process Blueprint
+with applicable workflow phases, steps, tasks, rules, policies, notifications
+and alerts as requested by Customer.
+
+¢ Configuration of Matrix Software system to approved Contract Process
+Blueprint
+
+© Initial testing and validation of system configuration
+
+e System deployment to production environment
+
+Consulting Services not included as deliverables are Initial Rollout Support and
+
+Post Deployment Support. Customer is responsible for licensing all necessary
+
+third-party software.
+
+©2015 CLM Matrix. All Rights Reserved.
+M Matrix F Confidentia
+Master Consulting Agreement - v0315
+
+oprietary and
+
+MASTER CONSULTING AGREEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Description Unit Quantity Price
+
+A. Matrix Software Installation Each 1 $1,750
+B. CLM Consulting Services $225/hr. 100-125 $0
+Required:
+C. Matrix Enterprise Administrative | $3,600/p/p 0 $0
+Certification ($1,000 each additional
+
+|person)_
+D. Matrix Fast Track Administrative | $3,600/p/p 1 $3,600
+Certification ($800 each additional person)
+E. Matrix Train-the-Trainer $4,000/p/p 0 $0
+Certification ($800 each additional person)
+Optional:
+F. Administrative Training $850 p/p/ 0 $0
+Sessions 1-7 session
+($600 each additional person/same session)
+G. Administrative Training $750 p/p/ 0 $0
+Sessions 8-11 session
+H. UAT/End User Support $1,600/day 0 $0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Matrix Software Installation fixed fee of $1,750 assumes a dedicated server
+installation per CLM Matrix Installation Instructions and Matrix Technical
+Prerequisites. Matrix installations performed on a customer's existing SharePoint
+farm that do not follow CLM Matrix installation instructions and require additional
+support time over and above the 8 hours allocated will be on a time and materials
+basis at the negotiated rate for professional services.
+
+7. AUTHORIZED SIGNATURES.
+Customer: _.
+
+Timothy 222 stor
+
+Timothy 8. Sparks
+
+CLM Matrix:B, Sparks "370 osus"
+
+ 
+
+ 
+
+ 
+
+Name: On aS Name: Zine
+
+Printed: _Ron Baker Printed: _Timot fy B. Sparks
+Title: _Interim Executive Director Title:__CEO
+
+Date: _July 18.2018 Date: _July 26, 2018
+
+ 
+

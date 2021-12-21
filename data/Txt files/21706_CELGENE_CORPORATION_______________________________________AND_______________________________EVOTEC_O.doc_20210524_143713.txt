@@ -1,0 +1,2121 @@
+EXHIBIT 10.50
+
+CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY
+
+FILED HEREWITH OMITS THE  INFORMATION  SUBJECT TO THE  CONFIDENTIALITY  REQUEST.
+
+OMISSIONS  ARE  DESIGNATED  AS ***. A COMPLETE  VERSION OF THIS EXHIBIT HAS BEEN
+
+FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.
+
+CELGENE CORPORATION
+
+AND
+
+EVOTEC OAI LIMITED
+
+SUPPLY AGREEMENT
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+INDEX
+
+1        DEFINITIONS AND INTERPRETATION........................................1
+
+2        PURCHASE AND SALE.....................................................3
+
+3        PRICING...............................................................3
+
+4        FORECASTS AND ORDERS..................................................4
+
+5        SHIPMENT, INVOICES, DELIVERY..........................................5
+
+6        PAYMENTS..............................................................7
+
+7        TERM AND TERMINATION..................................................7
+
+8        SUPPLY QUALITY AND SECURITY OF PRODUCT................................8
+
+9        RECALLS..............................................................11
+
+10       WARRANTIES...........................................................12
+
+11       INDEMNITY............................................................12
+
+12       FORCE MAJEURE........................................................13
+
+13       PATENT INFRINGEMENT..................................................14
+
+14       CONFIDENTIALITY AND INTELLECTUAL PROPERTY............................15
+
+15       ASSIGNMENT...........................................................18
+
+16       GOVERNING LAW........................................................18
+
+17       WAIVER...............................................................19
+
+18       SEVERANCE OF TERMS...................................................19
+
+19       ENTIRE AGREEMENT/VARIATIONS..........................................19
+
+20       NOTICES..............................................................20
+
+21       COUNTERPARTS.........................................................20
+
+22       REGISTRATION.........................................................21
+
+23       INDEPENDENT CONTRACTORS..............................................21
+
+24       COSTS................................................................21
+
+i
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+THIS  AGREEMENT  (hereinafter  "Agreement")  is made as of the 1st day of August
+
+2004 BETWEEN:
+
+(1)      CELGENE  CORPORATION,  a Delaware  corporation  and having its business
+
+address at 7 Powder Horn Drive, Warren, New Jersey 07059, United States
+
+of America (hereinafter CELGENE).
+
+AND
+
+(2)      EVOTEC  OAI  LIMITED,  a  company  incorporated  in  England  and whose
+
+registered  office is at 151, Milton Park,  Abingdon,  Oxfordshire OX14
+
+4SD, UK (hereinafter EOAI).
+
+WHEREAS:
+
+CELGENE is the owner of the compound  known as CC-5013 and wishes to engage EOAI
+
+to manufacture for CELGENE CC-5013 from time to time, as requested by CELGENE.
+
+NOW THEREFORE, IT IS HEREBY AGREED AS FOLLOWS:
+
+1        DEFINITIONS AND INTERPRETATION
+
+1.1      In  this  Agreement  and in  the  Appendices  to  this  Agreement,  the
+
+following  words and phrases shall have the following  meanings  unless
+
+the context requires otherwise:
+
+1.1.1    "Affiliate(s)" - shall mean any corporation, firm, partnership or other
+
+entity, whether de jure or de facto, which directly or indirectly owns,
+
+is  owned  by or is  under  common  ownership  with,  a  Party  to this
+
+Agreement to the extent of more then fifty  percent (50%) of the equity
+
+having the power to vote on or direct the affairs of the entity and any
+
+person,  firm,  partnership,   corporation  or  other  entity  actually
+
+controlled by. controlling or under common control with a Party to this
+
+Agreement.
+
+1.1.2    "Batch" - shall  mean a  specific  quantity  of Bulk  Compound  that is
+
+intended  to have  uniform  character  and  quality,  within  specified
+
+limits,  and is  produced  according  to a single  manufacturing  order
+
+during the same cycle of manufacture.
+
+1.1.3    "Bulk  Compound"  - shall mean a bulk  quantity  of the  Compound as an
+
+active  pharmaceutical  ingredient that has yet to be rendered into the
+
+commercial dosage form.
+
+1.1.4    "Business  Day" - shall mean 09:00  hours to 17:00 hours on a day other
+
+than a Saturday,  Sunday,  English  bank or ether  English or US public
+
+holiday.
+
+1.1.5    "cGMP" - means currant Good  Manufacturing  Practices as promulgated by
+
+the FDA as  detailed  in  Title  21,  United  States  Code  of  Federal
+
+Regulations,  or when appropriate,  any  corresponding  statutes and/or
+
+regulations  of  any  other  country's   prescription   pharmaceuticals
+
+regulating health authority or agency.
+
+1.1.6    "Compound"    -    the    compound    known    as    CC-5013,     being
+
+3-(4-amino-1,3-dihydro-1-oxo-2H-isoindol-2-y)-2,6-piperidinedione.
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+1.1.7    "Compound  Specifications"  - means the written  physical  and chemical
+
+specifications for the Bulk Compound referenced in Appendix 1 hereto as
+
+amended from time to time pursuant to Clause 8.5.
+
+1.1.8    "Confidential  Information" - means any information including,  but not
+
+limited to,  ideas,  proposals,  plans,  know-how,  reports,  drawings,
+
+designs,  data,  discoveries,  inventions,  improvements,  suggestions,
+
+specifications  (including  the  Compound  Specifications),   products,
+
+samples,  components and materials  relating to the Compound and to the
+
+Product, and all information relating to the manufacture, formulations,
+
+analysis,  stability,  pharmacology,  toxicology,  pathology,  clinical
+
+data,  results of  clinical  efficacy  studies,  clinical  effects  and
+
+indications for use of the Product which a Party discloses, directly or
+
+indirectly,  to the  other  Party,  so  long  as  such  information  is
+
+disclosed  in  writing  and  marked  "confidential"  or with a  similar
+
+legend;  or if verbal,  is reduced to writing and marked as such within
+
+thirty (30) days of disclosure.
+
+1.1.9    "Contract  Price" - means the price par  kilogram of Bulk  Compound for
+
+each Batch set forth in Clause 3.1.
+
+1.1.10   "Contract  Year" - means,  for the  first  Contract  Year,  the  period
+
+commencing on the Effective  Date and ending on 31st December 2004, and
+
+for subsequent Contract Years the successive calendar years thereafter.
+
+1.1.11   "Effective Date" - means August 1, 2004,
+
+1.1.12   "FDA" - means the United  States Food and Drug  Administration  and any
+
+successor entity thereto.
+
+1.1.13   "Force Majeure" - shall mean any significant, unexpected event which is
+
+beyond the reasonable  control of either Party and for which such Party
+
+could not  reasonably  have been expected to have taken into account as
+
+of the Effective Date.
+
+1.1.14   "Party" or "Parties" - means CELGENE or EOAI or both as the context may
+
+dictate.
+
+1.1.15   "Producer Price Index" - shall mean the Producer Price Index for *** as
+
+published by the Office of National Statistics (ONS) United Kingdom.
+
+1.1.16   "Product"-  means  compound in finished  form  suitable  for use by the
+
+ultimate consumer, packaged and labeled for marketing.
+
+1.1.17   "Purchase Order" - means a formal document issued by CELGENE containing
+
+a firm order for delivery of Bulk Compound.
+
+1.2      In this Agreement -
+
+1.2.1    "References" - unless the context otherwise requires, all references to
+
+a particular Clause, paragraph or Appendix shall be a reference to that
+
+Clause,  paragraph or Appendix, in or
+
+2
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+to this Agreement as the same may be amended from time to time pursuant
+
+to this Agreement.
+
+1.2.2    "Headings"  - a  table  of  contents  and  headings  are  inserted  for
+
+convenience only and shall be ignored in construing this Agreement.
+
+1.2.3    "Gender/Plurality"  - unless  the  contrary  intention  appears,  words
+
+importing  the  masculine  gender  shall  include the feminine and VICE
+
+VERSA and words in the singular include the plural and VICE VERSA.
+
+1.2.4    "Person"  - unless  the  contrary  intention  appears,  words  denoting
+
+persons   shall   Include   any   individual,   partnership,   company,
+
+corporation,  joint venture, trust, association,  organization or other
+
+entity, in each case whether or not having separate legal personality.
+
+1.2.5    "Include" - reference to the words  "include" or "including"  are to be
+
+construed without limitation to the generality of the preceding words.
+
+2        PURCHASE AND SALE
+
+CELGENE  shall  purchase  from EOAI and EOAI shall sell to CELGENE  the
+
+quantities of Bulk Compound ordered in accordance with Clause 4 hereof.
+
+EON shall not at any time  during the Term (as  defined in Section  7.1
+
+herein) or during  the  two-year  period  thereafter,  manufacture  the
+
+Compound   for  any  person  or  entity   other  than  CELGENE  or  its
+
+designee(s),  without the prior written consent of CELGENE. which shall
+
+not be unreasonably withheld.
+
+3        PRICING
+
+3.1      Price
+
+The Contract Price to be paid by CELGENE to EOAI for each (***Kg) Batch
+
+of Bulk  Compound  hereunder  shall be as  indicated  below  net of any
+
+applicable Taxes (as defined in 3.2 below):
+
+*** (in words: US Dollars ***) per Kg
+
+The foregoing  Contract Price shall be payable in United States Dollars
+
+and shall be  adjusted  at the end of each  Contract  Year for all Bulk
+
+Compound ordered during the ensuing Contract Year by a percentage equal
+
+to the percentage  change in the Producer Price Index during the twelve
+
+(12) months preceding the change in the Contract Year.
+
+Any other adjustment to the Contract Price due to external factors such
+
+as raw material  price changes can be  implemented  at any time through
+
+the agreement of both Parties.
+
+3
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+3.2      Taxes
+
+In the event that any national,  federal,  state, county,  municipal or
+
+other governmental excise,  sales, import,  export, stamp or other tax,
+
+assessment,  or other  government-imposed  charge  (other  than any tax
+
+imposed  upon the Income of EOAI)  (collectively,  "Taxes")  is levied,
+
+assessed  or  charged  to  EOAI  on or  for  the  sale,  production  or
+
+transportation of the Bulk Compound sold to CELGENE, the Contract Price
+
+shall be increased by an amount  sufficient  to cover such Taxes.  Upon
+
+request by CELGENE,  EOAI shall promptly  provide CELGENE with evidence
+
+of payment of Taxes.
+
+4        FORECASTS AND ORDERS
+
+4.1      Initial Forecast
+
+Attached  hereto as Appendix 2 is the current  forecast of the quantity
+
+of Bulk  Compound  that  CELGENE will require for the first twelve (12)
+
+months of the Term (the  "Initial  Strategic  Forecast").  The  Initial
+
+Strategic  Forecast shall  constitute a firm  production  order against
+
+which  CELGENE  shall  Issue  Purchase  Orders.  CELGENE  may,  at  its
+
+discretion,  issue  Purchase  Orders for  quantities  of Bulk  Compound
+
+forecast for  delivery  after the first twelve (12) months of the Term.
+
+It is intended that the forecasts be used by EOAI to ensure appropriate
+
+and timely replenishment of stock.
+
+4.2      Rolling Forecast
+
+On or about the first week of each  January  and July of each  Contract
+
+Year,  CELGENE  shall  confirm  to EOAI,  or update as  necessary,  the
+
+Initial  Strategic  Forecast  (it  being  understood  that the  Initial
+
+Strategic  Forecast  constitutes a firm  production  order according to
+
+Clause 4.1) and each  successive  forecast  subsequent  thereto (each a
+
+"Semi-Annual  Forecast")  for the  ensuing  twelve-month  period of the
+
+Term.  The  second six (6) months of each  Semi-Annual  Forecast  shall
+
+constitute a firm  production  order  against which CELGENE shall issue
+
+Purchase Orders.
+
+4.3      Acceptance of Purchase Orders
+
+Subject to any adjustment that may be desirable to match  manufacturing
+
+batch  requirements  and which shall be  promptly  notified to CELGENE,
+
+EOAI shall accept firm Purchase  Orders  placed by CELGENE  pursuant to
+
+Clauses 4.1 and 4.2 above, within *** days of receipt, of such quantity
+
+up to *** percent  (***%) of the then  current firm  production  order.
+
+EOAI  shall  use  commercially  reasonable  efforts,  but  shall not be
+
+obligated, to supply any quantities ordered by CELGENE in excess of the
+
+*** percent (***%) cap.  Within *** days after EOAI receives  CELGENE's
+
+firm Purchase  Order for  quantities of Bulk Compound in excess of such
+
+*** percent  (***%) cap,  EOAI shall  notify  CELGENE  whether EOAI can
+
+supply the quantities and by what date.
+
+4
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+4.4      Purchase Orders
+
+CELGENE  shall  provide  EOAI with  Purchase  Orders  covering the firm
+
+production orders detailed in Causes 4.1 and 42 above not less than ***
+
+days  after  provision  of the  Initial  Strategic  Forecast  and  each
+
+Semi-Annual  Forecast,  as  applicable.  Each  Purchase  Order  made by
+
+CELGENE  shall be in writing  and,  in  addition  to any other terms or
+
+requirements that the Parties may specifically establish in writing for
+
+such Purchase Order,  shall set forth the date by which the goods shall
+
+be available for  collection  (the  "Delivery  Date').  EOAI shall make
+
+available  for  collection  each shipment of Bulk Compound on or before
+
+the Delivery  Date;  provided that it is  understood  and agreed by the
+
+Parties  that  EOAI  shall  not be  obligated  to make  available  Bulk
+
+Compound by the Delivery  Date set forth in any Purchase  Order,  which
+
+Purchase  Order is  received  by EOAI less than *** days  prior to such
+
+Delivery Date. The Delivery Date in such case shall be deemed to be ***
+
+days after the date of receipt of the Purchase Order by EOAI.
+
+4.5      Units to be Ordered and Minimum Order Quantity
+
+Purchase  Orders will be  expressed  in terms of Batch  multiples.  The
+
+standard Batch size is *** kilograms,  from which the actual Batch size
+
+may vary by plus or minus *** percent (***%).
+
+4.6      Conflicting Terms and Conditions
+
+Except  as  otherwise  provided  in  this  Agreement,   the  terms  and
+
+conditions  of  this  Agreement  shall  govern,   notwithstanding   any
+
+additional or  inconsistent  terms or  conditions in CELGENE's  form of
+
+Purchase  Order  or  similar  document  or in  EOAI's  acknowledgement,
+
+invoice or similar document.
+
+5        SHIPMENT, INVOICES, DELIVERY
+
+5.1      Title and Risk of Loss
+
+Risk of loss for the Bulk Compound  shall pass to CELGENE upon delivery
+
+FCA  Abingdon  Incoterms  2000.  Title  shall  pass to  CELGENE on full
+
+payment of the Contract Price to EOAI for the Bulk Compound.
+
+5.2      Shipment
+
+EOAI shall, as agent for CELGENE, arrange for shipment of Bulk Compound
+
+covered by firm Purchase Orders from CELGENE pursuant to this Agreement
+
+to the  destination  advised by CELGENE  accompanied by Certificates of
+
+Analysis  for each Batch of Bulk  Compound  included in such  shipment.
+
+CELGENE shall be  responsible  for  obtaining any necessary  import and
+
+export  permits  and the like for Bulk  Compound.  EOAI  shall  provide
+
+reasonable  assistance to CELGENE in this respect.  Where Bulk Compound
+
+available for shipment has not yet received  quality  control  release,
+
+CELGENE  reserves the right to require in writing that such shipment be
+
+made under quarantine.
+
+5
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+CELGENE  shall  provide  EOAI with  appropriate  instructions  for each
+
+shipment of Bulk Compound  designating the destination,  including full
+
+address   details.   Shipment  shall  not  be  made  without   specific
+
+authorization  of  CELGENE.  EOAI  shall,  as  agent  for  CELGENE,  be
+
+responsible for arranging  appropriate carriage and insurance and shall
+
+invoice CELGENE for such  reasonable  out-of-pocket  expenses.  CELGENE
+
+shall have its choice of carrier on this basis.
+
+5.3      Invoices
+
+At the date the Bulk Compound is accepted by the carrier, as authorized
+
+by CELGENE pursuant to Clause 5.2 above, EOAI shall invoice CELGENE for
+
+the Contract  Price for the total Bulk Compound  shipped.  In the event
+
+that Bulk Compound is stored at EOAI in  accordance  with the Agreement
+
+for Storage  referenced in Clause 5.5 below,  EOAI will invoice CELGENE
+
+upon placing the Bulk Compound into storage.
+
+5.4      Addresses
+
+Unless otherwise notified to the sending party in writing:
+
+All Purchase Orders shall be sent to:        Evotec OAI Ltd
+
+151 Milton Park
+
+Abingdon, Oxon OX14 4SD
+
+United Kingdom
+
+Attn:  ***
+
+Tel:  ***
+
+Fax:  ***
+
+All shipments of Bulk Compound shall be sent to: to be informed
+
+All invoices shall be sent to:               Celgene Corporation
+
+7 Powder Horn Drive
+
+Warren
+
+New Jersey 07059
+
+United States of America
+
+Attn:  ***
+
+Tel:  ***
+
+Fax:  ***
+
+5.5      Storage
+
+Contemporaneously  with the execution  and delivery of this  Agreement,
+
+the Parties  hereto are  executing  and  exchanging  an  Agreement  for
+
+Storage in the form attached as Appendix 3 hereto.
+
+6
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+6        PAYMENTS
+
+Payment  shall be due no later than *** days from the date of  invoice.
+
+Late payments  shall attract  interest at an annual rate of *** percent
+
+(***%) above the base lending rate of Barclays  Bank plc at of the date
+
+such payment becomes past due and as may be adjusted from time to time.
+
+Payment shall be made in *** by wire  transfer to an account  indicated
+
+by EOAI, the details of which shall be notified to CELGENE by EOAI from
+
+time to time.
+
+7        TERM AND TERMINATION
+
+7.1      Term
+
+Except as  provided  in  Clauses  7.2 and 7.3  below,  the term of this
+
+Agreement  commences on the Effective Date and continues  until the end
+
+of the *** Contract Year (the "Term").
+
+7.2      Renewal Term
+
+The Term shall be  automatically  renewed  for a period of *** upon the
+
+end of the *** Contract  Year and upon the end of each  renewal  period
+
+unless either Party to this Agreement  notifies the other in writing at
+
+least *** prior to the  commencement  of such renewal that such renewal
+
+shall not occur.
+
+7.3      Early Termination
+
+7.3.1    In  addition  to the  provisions  of Clauses  7.1 and 7.2  above,  this
+
+Agreement may be terminated prior to the expiration of the Term:
+
+(a)      by the non-breaching  Party on *** written notice in the event
+
+of  materiel  breach,  or breach of a material  term,  of this
+
+Agreement  by the  other  Party  which  breach  has  not  been
+
+remedied by such other Party within such *** period; or
+
+(b)      by  the  non-defaulting   Party  on  ***  written  notice  (if
+
+reasonable  steps  toward  cure have not been made during such
+
+time) if the  other  Party  suspends  payment  of its debts or
+
+otherwise  ceases  or  threatens  to  cease  to  carry  on its
+
+business, becomes bankrupt or insolvent, goes into liquidation
+
+(except for the purposes of  reconstruction  or amalgamation),
+
+or compounds or enters into an arrangement with its creditors,
+
+or a  receiver  or manager of the other  Party's  business  is
+
+appointed,  or a petition is presented  for the  winding-up of
+
+the other Party.
+
+7.3.2    Notwithstanding  Clause  7.2  above,  CELGENE  shall  have the right to
+
+terminate  this  Agreement for any reason upon *** prior written notice
+
+to EOAI.
+
+7.3.3    Upon the early termination of this Agreement by Celgene for any reason,
+
+EOAI agrees to cooperate  reasonably  with CELGENE in good faith as may
+
+be reasonably  necessary to
+
+7
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+facilitate the timely qualification of an alternative  manufacturer for
+
+the Bulk Compound at Celgene's expense.
+
+7.4      Effect of Termination
+
+7.4.1    Survival of Liability
+
+Termination  under  Clauses  7.1,  7.2 or 7.3 above  shall not  relieve
+
+either Party of its liability for breach of its obligations pursuant to
+
+the terms  and  conditions  of this  Agreement  incurred  prior to such
+
+termination.
+
+7.4.2    Stock
+
+In the event of early  termination by CELGENE under Clause 7.3.2 above,
+
+CELGENE has the  obligation  to purchase from EOAI all usable stocks of
+
+Bulk Compound then on hand not exceeding the amount of the then current
+
+firm production order.
+
+7.4.3    In case of early  termination  by EOAI under Clause 7.3.1 or by CELGENE
+
+pursuant to Clause 7.3.2 above,  CELGENE shall be  responsible  to EOAI
+
+for all  amounts  for  which  EOAI is  contractually  obligated  to its
+
+contractors  that are not  Affiliates  provided such  contracts  relate
+
+solely  to the  production  of Bulk  Compound,  and are not  reasonably
+
+avoidable,  and provided further that EOAI uses commercially reasonable
+
+efforts to mitigate same.
+
+8        SUPPLY QUALITY AND SECURITY OF PRODUCT
+
+8.1      Certificate of Analysis
+
+EOAI  shall  test or  cause  to be  tested  each  lot of Bulk  Compound
+
+according to the  Compound  Specifications  pursuant to this  Agreement
+
+before  delivery,  and a  Certificate  of Analysis  shall set forth the
+
+items tested,  specifications  and test results for each lot delivered.
+
+EOAI shall send or cause to be sent such certificates to CELGENE and to
+
+CELGENE's designated subcontractor prior to shipment, together with the
+
+delivery  of  Bulk  Compound.  CELGENE  is  entitled  to  rely  on such
+
+certificates  for all  purposes  of this  Agreement.  Unless  otherwise
+
+requested in writing by CELGENE,  EOAI shall  release the Bulk Compound
+
+to CELGENE  or to  CELGENE's  designated  subcontractor  after  testing
+
+against the Compound Specifications.
+
+8.2      Good Manufacturing Practices Audits
+
+At CELGENE's  request and upon fourteen (14) days prior notice to EOAI,
+
+EOAI   shall   arrange   CELGENE   or   CELGENE's   agents   (bound  by
+
+confidentiality   obligations   similar  to  those   contained  in  its
+
+Agreement)  access during  reasonable  business hours to those areas of
+
+EOAI's facilities where Bulk Compound is manufactured, analyzed, stored
+
+and handled and to  manufacturing,  analytical  and quality  records of
+
+Bulk Compound manufactured for CELGENE. Such visits shall be limited to
+
+two (2) times per year,  other
+
+8
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+than in  extenuating  circumstances.  The right to access  contained in
+
+this  Clause is  exclusive  of the rights  discussed  in the  following
+
+paragraph.
+
+EOAI shall advise CELGENE immediately if an authorized agent of the FDA
+
+or any other governmental agency visits or announces plans to visit any
+
+of EOAI's manufacturing  facilities  concerning Bulk Compound.  CELGENE
+
+shall be entitled, where practicable and relevant, to be present at any
+
+such  inspection  and, where notice of such  inspection is available to
+
+satisfy itself prior to such  inspection  that  reasonable best efforts
+
+are being made to ensure a satisfactory outcome of the inspection. EOAI
+
+shall  furnish to CELGENE  the report by such  agency of such visit and
+
+the application of such report to Compound,  if any, within forty-eight
+
+(48) hours of EOAI's receipt of such report.
+
+8.3      Discrepant Test Results
+
+Notwithstanding Clause 8.1, on receipt of the Bulk Compound, CELGENE or
+
+its designated  subcontractor or agent may conduct  analytical  testing
+
+within sixty (60) days of receipt of such Bulk  Compound in  accordance
+
+with  Clause  8.4. In the event of a  discrepancy  between  EOAI's test
+
+results  and those of CELGENE  or any of  CELGENE's  subcontractors  or
+
+agents,  such  that  one  set  of  results  fall  within  the  Compound
+
+Specifications   and  the  other  results  fall  outside  the  Compound
+
+Specifications  and in the event that such discrepant results cannot be
+
+resolved  to both  Parties'  satisfaction,  the  Parties  shall cause a
+
+recognized  independent testing laboratory to perform comparative tests
+
+on samples of the allegedly defective Bulk Compound, provided that such
+
+independent  laboratory  is  mutually  agreeable  to the  Parties.  The
+
+independent  tester's results shall be final and binding.  The costs of
+
+the testing shall be borne by EOAI where EOAI's test results were found
+
+by the independent tester to be erroneous and otherwise by CELGENE.
+
+8.4      Defective Bulk Compound or Shortage of Supply
+
+CELGENE shall notify EOAI in writing of any claim  relating to damaged,
+
+defective  or  non-conforming  (with  respect  to this  Agreement,  the
+
+Compound  Specifications,  applicable  regulations  or the  like)  Bulk
+
+Compound or any shortage in quantity of any  shipment of Bulk  Compound
+
+within *** days of receipt of such Bulk  Compound (it being  understood
+
+that a *** day period is  required  for initial  testing  and  standard
+
+quality  assurance  testing of the Bulk  Compound),  or, in the case of
+
+Bulk Compound having latent defects.  which upon reasonable examination
+
+within such *** day period could not have been  discovered,  within ***
+
+days after discovery of such defect by CELGENE.  The Parties agree that
+
+in extenuating and unusual  circumstances,  such *** day limit shall be
+
+extended to a reasonable  time period under the  circumstances.  In the
+
+event of such rejection or storage, EOAI shall, unless otherwise agreed
+
+by the Parties or the cause of the rejection has been  determined to be
+
+not the fault of EOAI in accordance with Clause 8.3 above,  (i) use its
+
+commercially  reasonably  best  efforts  to  replace  the  rejected  or
+
+shortage of Bulk  Compound  without  undue delay but in no case greater
+
+than the time quoted for the original manufacture and delivery, subject
+
+to the  provisions of Clause 12 of this Agreement  (force  majeure) and
+
+raw  material  availability,  at no extra  cost to
+
+9
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+CELGENE,  (ii)  make  arrangements  with  CELGENE  for  the  return  or
+
+destruction of any rejected Bulk Compound,  all associated  costs to be
+
+paid by EOAI,  (iii)  reimburse  CELGENE for the  shipping  and related
+
+charges in respect of rejected Bulk Compound,  and (iv) with respect to
+
+any shortage of Bulk Compound,  bear the costs of shipping and insuring
+
+such Bulk  Compound to the extent that such  costs,  together  with the
+
+shipping  and  insurance  costs of the  original  shipment,  exceed the
+
+shipping and  insurance  costs that would have been  incurred had there
+
+not been a shortage in the original shipment.
+
+8.5      Compound Specifications; Cost of Changes
+
+Compound  Specifications  may be modified from time to time as required
+
+by applicable law or a regulation or regulatory authority, or otherwise
+
+by written  agreement  of the  Parties and such  amended  form shall be
+
+attached hereto as a replacement for Appendix 1. The Parties agree that
+
+in the event  that  material  changes  to the  Compound  Specifications
+
+and/or EOAI's  facility or processes are required by applicable  law or
+
+regulation, the expense of such changes shall be handled as follows:
+
+(a)      CELGENE shall be responsible for such  out-of-pocket  costs in
+
+the event that the required changes are specific and unique to
+
+EOAI's services related to CC-5013.
+
+(b)      EOAI shall be responsible  for such costs in all other events,
+
+which  includes,  without  limitation,  changes in regulations
+
+which affect EOAI's work with clients other than CELGENE.
+
+In addition, the change control provisions contained in 8.6 below shall
+
+apply.
+
+8.6      Change Control
+
+Any change in relation to methods of manufacture, specifications, batch
+
+size and  packaging  or in any of the plants in which Bulk  Compound is
+
+manufactured,  packaged or stored,  which reasonably could be deemed to
+
+require regulatory  amendment under US and/or EU regulations,  shall be
+
+subject  to  CELGENE's  prior  written  approval  which  shall  not  be
+
+unreasonably  withheld.  The Parties  will  co-operate  in ensuring any
+
+necessary regulatory  amendments are obtained.  No changes that require
+
+regulatory   amendment   shall  be  implemented   until  all  necessary
+
+regulatory approvals have been obtained.
+
+8.7      Shelf Life
+
+All Bulk Compound  delivered  shall have at least *** months  remaining
+
+prior to its re-test  date,  as such date is determined by the Compound
+
+Specifications.
+
+8.8      Equipment
+
+EOAI agrees that it currently  possesses or will purchase and maintain,
+
+at its sole cost and expense  unless  otherwise  agreed by the Parties,
+
+all  equipment  required to perform the  services  required of it under
+
+this  Agreement.  Any  changes  to be made  to  equipment  shall  be in
+
+compliance with the applicable  regulatory  authority's  guidelines and
+
+requirements.
+
+10
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+No such changes shall be made by EOAI without the prior written consent
+
+of CELGENE, such consent not to be unreasonably withheld.
+
+8.9      Facility.
+
+All  manufacturing  pursuant to this  Agreement  shall be  performed at
+
+EOAI's  manufacturing   facility  located  at  Unit  117  Milton  Park,
+
+Abingdon, Oxon OX14 4SD, United Kingdom. Any changes to be made by EOAI
+
+with respect to manufacturing building, facilities and batch size shall
+
+be in compliance with the applicable regulatory  authority's guidelines
+
+and  requirements.  No such  changes  shall be made by EOAI without the
+
+prior  written  consent of  CELGENE,  which  shall not be  unreasonably
+
+withheld.
+
+8.10     Subcontracting.
+
+Except as otherwise  expressly  provided in this Agreement,  EOAI shall
+
+not subcontract any manufacturing of Bulk Compound or its intermediates
+
+without the prior written consent of CELGENE.
+
+EOAI shall be allowed to subcontract  analytical  services (such as ***
+
+and  ***)  without  prior   consent  of  CELGENE   provided  that  such
+
+subcontractors  have  been  approved  by  CELGENE  in  writing  for the
+
+specific  services to be rendered by same and such  subcontractors  are
+
+bound by confidentiality and intellectual  properly obligations no less
+
+strict than the use of this Agreement.
+
+9        RECALLS
+
+9.1      In the event that
+
+(a)      any government authority issues a request,  directive or order
+
+that the Product and/or Bulk Compound be recalled; or
+
+(b)      a court of competent jurisdiction orders such a recall; or
+
+(c)      CELGENE  reasonably  determines  after  consultation  with its
+
+subcontractors  and/or  EOAI  that  the  Product  and/or  Bulk
+
+Compound should be recalled.
+
+CELGENE shall take all appropriate  corrective actions,  and EOAI shall
+
+provide reasonable assistance at CELGENE's request.
+
+9.2      To the extent  that any such  recall is caused by EOAI's  breach of any
+
+term of this  Agreement  including  but not  limited to a warranty  set
+
+forth in  Clause 10 or EOAI's  breach of  statutory  duty or out of the
+
+negligence or intentional misconduct of EOAI, EOAI shall be responsible
+
+for the cost of the recall  provided that EOAI shall not be responsible
+
+for the cost of any  recall to the  extent it is not caused by any such
+
+breach,  but by an inherent problem  associated with the Compound,  the
+
+registered process and/or the Compound Specifications.
+
+11
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+9.3      For the  purposes  of this  Agreement,  the  expenses  of recall  shall
+
+include, without limitation,  the expenses of notification,  refund and
+
+destruction  or return of the recalled  Product  and/or Bulk  Compound,
+
+where  appropriate,  and  the  Contract  Price  for the  Bulk  Compound
+
+recalled.
+
+10       WARRANTIES
+
+10.1     Title
+
+EOAI  warrants to CELGENE that EOAI shall convey good title to the Bulk
+
+Compound.
+
+10.2     Compliance   with  Applicable   Regulations   and  Good   Manufacturing
+
+Practices; Conformity with Specifications
+
+10.2.1   EOAI warrants and covenants that:
+
+(a)      its manufacturing  facilities  utilized for the manufacture of
+
+Bulk Compound comply and will comply  throughout the Term with
+
+applicable  regulations of the US and EU,  including,  without
+
+limitation, applicable cGMP;
+
+(b)      the processes  utilized for the  manufacture  of Bulk Compound
+
+are and will be throughout  the Term in accordance  with those
+
+contained in the registered marketing authorization;
+
+(c)      all  the  Bulk   Compound   will   conform  to  the   Compound
+
+Specifications when delivered; and
+
+(d)      the Bulk Compound shall have been  manufactured  in accordance
+
+with the registered process and applicable cGMP.
+
+10.3     Insurance
+
+EOAI will  maintain  for the  duration  of its  liabilities  under this
+
+Agreement,  product  liability  insurance  of no less  than ***  pounds
+
+((pound)***)  cover,  per  calendar  year,  with a  reputable  insurer.
+
+Evidence  of such cover and its  renewal  shall be  provided to CELGENE
+
+annually in writing.  In the event that at such policy is  cancelled or
+
+not renewed for any reason,  CELGENE shall be  immediately  notified in
+
+writing  at  least  thirty  (30)  days  prior to such  cancellation  or
+
+non-renewal.
+
+11       INDEMNITY
+
+11.1     EOAI Indemnity
+
+CELGENE  shall  defend,  indemnify  and  hold  harmless  EOAI  and  its
+
+respective  officers,  directors and employees  (the "EOAI  Indemnified
+
+Parties") from and against any and all claims, suits, demands, actions,
+
+causes of action, liabilities,  damages, costs and expenses (including,
+
+without  limitation,  court costs and  reasonable  attorneys'  fees and
+
+expenses)
+
+12
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+incurred by the EOAI  Indemnified  Parties in connection with any third
+
+party claim to the extent arising out of or in connection with any Bulk
+
+Compound  supplied to CELGENE by EOAI pursuant to this Agreement and/or
+
+any products manufactured using such Bulk Compound except to the extent
+
+such third party claim arises out of EOAI's  breach of any term of this
+
+Agreement  including  but not  limited to any  warranties  set forth in
+
+Clause  10 or the  breach  of  statutory  duty by any EOAI  Indemnified
+
+Party(ies) or out of the  negligence or  intentional  misconduct of any
+
+EOAI Indemnified Party(ies).
+
+11.2     CELGENE's Indemnity
+
+EOAI  shall  defend,  indemnify  and  hold  harmless  CELGENE  and  its
+
+respective officers,  directors and employees (the "CELGENE Indemnified
+
+Parties") from and against any and all claims, suits, demands. actions,
+
+causes of action, liabilities,  damages, costs and expenses (including,
+
+without  limitation,  court costs and  reasonable  attorneys'  fees and
+
+expenses)  incurred by the CELGENE  Indemnified  Parties in  connection
+
+with any third  party claim to the extent  that such  liability  arises
+
+from  EOAI's  breach of any term of this  Agreement  including  but not
+
+limited  to any  warranties  set forth in  Clause  10 or the  breach of
+
+statutory  duty  by  any  EOAI  Indemnified  Party(ies)  or  out of the
+
+negligence  or   intentional   misconduct   of  any  EOAI   Indemnified
+
+Party(ies).
+
+11.3     Notice of Claim
+
+The indemnified Party shall:
+
+(a)      advise the  indemnifying  Party in  accordance  with Clause 20
+
+below  of any  claim  or  lawsuit,  in  writing,  as  soon  as
+
+practicable,  but not later than  fourteen (14) days after the
+
+indemnified  Party  has  received  notice  of  said  claim  or
+
+lawsuit; and
+
+(b)      assist the indemnifying  Party and its  representatives in the
+
+investigation  and  defense of any  lawsuit  and/or  claim for
+
+which indemnification is provided,  but allow the indemnifying
+
+Party to maintain control over the action.
+
+The  failure to timely  provide  the notice  under (a) above  shall not
+
+relieve the indemnifying  party of its obligations under this Clause 11
+
+except to the extent that such  failure  substantially  prejudices  the
+
+defense of such third  party  claim.  The  indemnity  provided  in this
+
+Clause 11 shall not be valid as to any settlement of a claim or lawsuit
+
+or offer of  settlement  or  compromise  made without the prior written
+
+approval of the indemnifying Party.
+
+11.4     The  obligations  of the Parties under this Clause 11 shall survive the
+
+expiration or termination of this Agreement.
+
+12       FORCE MAJEURE
+
+12.1     Force Majeure Events
+
+13
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+If a Party (the "Non-Performing Party) shall be unable to carry out any
+
+of its  obligations  under this  Agreement due to Force  Majeure,  this
+
+Agreement  shall  remain  in  effect  but  the  Non-Performing  Party's
+
+relevant  obligations  and the relevant  obligations of the other Party
+
+(the  "Innocent  Party")  owed to the  Non-Performing  Party under this
+
+Agreement shall be suspended for a period equal to the  circumstance of
+
+Force Majeure or three (3) months,  whichever is the shorter,  provided
+
+that
+
+(a)      the  suspension of  performance is of no greater scope than is
+
+required by the Force Majeure;
+
+(b)      the  Non-Performing  Party  gives the  Innocent  Party  prompt
+
+notice   describing  the   circumstances   of  Force  Majeure,
+
+including  the  nature  of the  occurrence  and  its  expected
+
+duration,  and  continues  to  furnish  regular  reports  with
+
+respect thereto during the period of Force Majeure;
+
+(c)      the Non-Performing Party uses all reasonable efforts to remedy
+
+its  inability  to perform and to mitigate  the effects of the
+
+circumstances of Force Majeure;
+
+(d)      as soon as practicable after the event which constitutes Force
+
+Majeure the Parties shall  discuss how best to continue  their
+
+operations  as  far  as  possible  in  accordance   with  this
+
+Agreement and
+
+(e)      any  payment  obligations   relating  to  periods  of  excused
+
+performance shall also be excused and any advance payments for
+
+periods of excused performance shall be refunded.
+
+12.2     Consequences of Force Majeure
+
+Upon the  occurrence of an event of Force Majeure,  the  Non-Performing
+
+Party shall  promptly  notify the  Innocent  Party in writing,  setting
+
+forth the details of the occurrence,  its expected duration and how the
+
+Non-Performing  Party's  performance  is affected.  The  Non-Performing
+
+Party  shall  resume  the  performance  of its  obligations  as soon as
+
+practicable  after the Force Majeure  event  ceases.  In the event that
+
+EOAI is unable to deliver all the Bulk Compound  ordered by CELGENE for
+
+a particular  period as a result of an event of Force Majeure,  CELGENE
+
+may  elect to forego  the  quantities  ordered  or it may elect to take
+
+delivery  within a  reasonable  period of time after the Force  Majeure
+
+event ceases.
+
+13       PATENT INFRINGEMENT
+
+13.1     CELGENE's Warranty and Indemnity
+
+CELGENE  warrants that, to the best of its knowledge,  the manufacture,
+
+use or sale of the Product  and/or Bulk  Compound  does not infringe or
+
+misappropriate  any  patent  or other  proprietary  rights of any third
+
+party.  CELGENE shall defend,  indemnify and hold EOAI harmless against
+
+any judgment, damage, liability, loss, cost or other expense, including
+
+reasonable  legal fees, to the extent resulting from any breach of this
+
+warranty.
+
+14
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+13.2     Co-operation and Consultation
+
+Each Party shall give the other Party prompt  notice of any  threatened
+
+or pending claim or proceeding  against either or both Parties relating
+
+to a claim of infringement described In Clause 13.1 above. In the event
+
+of such notice and at the request of either Party, CELGENE shall assume
+
+control as stated in Clause 13.3 below, but agrees to consult with EOAI
+
+regarding how to proceed with respect to such claim or proceeding.
+
+13.3     Defense by CELGENE
+
+CELGENE  shall  assume  full  control  of the  defense of such claim or
+
+proceeding described in Clause 11.1 above.
+
+14       CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+
+14.1     During  the Term of this  Agreement  and for a period of ten (10) years
+
+thereafter,  neither  Party  shall  disclose  Confidential  Information
+
+received  from the  other  Party  (the  "Disclosing  Party")  hereunder
+
+without the Disclosing Party's prior written consent,  or use or permit
+
+to be used the  Disclosing  Party's  Confidential  Information  for any
+
+other purpose than the  performance of its  obligations or rights under
+
+this  Agreement.  Each Party shall procure that all employees and other
+
+persons having access to any  Confidential  Information are informed of
+
+its  secret  and  confidential  nature  and  to the  extent  reasonably
+
+practicable are subject to written  obligations similar to those of the
+
+Parties in this Clause 14.
+
+14.2     No public  announcement or other disclosure to third parties concerning
+
+the  structure  and  financial  terms of this  Agreement  shall be made
+
+either directly or indirectly by any Party to this Agreement  except as
+
+may be legally  required  without  first  obtaining the approval of the
+
+other Party and agreement upon the nature and text of such announcement
+
+or disclosure  which approval and agreement  shall not be  unreasonably
+
+delayed  or  withheld,  provided  that in the  case  of any  disclosure
+
+required by either Party's investment bankers, lawyers, accountants and
+
+other  professional  advisors,  such  Party  shall not need to seek the
+
+other Party's  prior  approval,  provided that such  disclosure is made
+
+under terms of strict confidentiality and the detail of terms disclosed
+
+shall be kept to the  minimum  required by such  investment  bankers or
+
+other professional advisers.
+
+In all  circumstances,  including where disclosure is legally required,
+
+the  Party  desiring  to make any  such  public  announcement  or other
+
+disclosure shall inform the other Party of the proposed announcement or
+
+disclosure in, so far as practicable,  reasonably sufficient time prior
+
+to public release and shall provide the other Party with a written copy
+
+thereof  in order to allow  such  other  Party  to  comment  upon  such
+
+announcements or disclosure.
+
+Each Party shall  co-operate  fully with the other with  respect to all
+
+disclosures  regarding  this  Agreement to the US  Securities  Exchange
+
+Commission,  the Frankfurt Stock Exchange and any other governmental or
+
+regulatory  agencies including  requests for confidential  treatment of
+
+information of other Party included in any such disclosure.
+
+15
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+14.3     Neither  during  the Term of this  Agreement,  nor for a period  of ***
+
+years thereafter, shall EOAI submit for written or oral publication any
+
+manuscript,   abstract  or  the  like  which  includes  data  or  other
+
+information  generated  in the course of this  Agreement  or  otherwise
+
+provided  by either  Party and  relating  to the  Compound  or  Product
+
+without first  obtaining the prior  written  consent of CELGENE,  which
+
+consent  shall  not  be  unreasonably  withheld  or  delayed.  Wherever
+
+reasonably  possible,  the contribution of each Party shall be noted in
+
+all publications and presentations by acknowledgement or co-authorship,
+
+whichever is appropriate.
+
+14.4     The obligations of confidentiality  referred to in this Clause 14 shall
+
+not extend to any information which:
+
+(a)      is or shall be  generally  available  to the public  otherwise
+
+than by reason of breach by the Party to whom such information
+
+was disclosed  ("the  Recipient  Party") of the  provisions of
+
+this Clause 14;
+
+(b)      is known to the  Recipient  Party and is at its free  disposal
+
+prior to its receipt from the Disclosing Party as demonstrated
+
+by the  written  records of the  Recipient  Party.  Should the
+
+Disclosing Party  reasonably  believe that the Recipient Party
+
+is  planning  to  disclose  Confidential  Information  of  the
+
+Disclosing  Party,  then the Disclosing  Party may, by written
+
+request,  ask the  Recipient  Party to  provide  copies of its
+
+written records which  demonstrate the Recipient Party's prior
+
+knowledge  of such  information.  The  Recipient  Party  shall
+
+provide such written  demonstration within forty (40) Business
+
+Days after the  Disclosing  Party's  written  request.  If the
+
+Recipient  Party does not provide such written  evidence or if
+
+the  Parties  disagree  as to whether  such  written  evidence
+
+establishes  the  Recipient  Party's  prior  knowledge of such
+
+information,  then the  Recipient  Party  shall  not make such
+
+planned  disclosure  unless  and until  such time as a neutral
+
+party  has  ruled  with  respect  to this  Issue in  Recipient
+
+Party's favor.  The Parties shall  promptly  appoint a neutral
+
+party to  determine  whether  or not such  information  is the
+
+Confidential Information of the Disclosing Party;
+
+(c)      is  independently  developed  by or for  the  Recipient  Party
+
+without reference to, and by employees having no knowledge of,
+
+the  Confidential  Information  of the  Disclosing  Party,  as
+
+referenced  by  written  records,   provided  that  conclusive
+
+evidence of such knowledge is furnished by the Recipient Party
+
+to the  Disclosing  Party  within  twenty-eight  (28)  days of
+
+receipt of demand for such proof;
+
+(d)      is  subsequently  disclosed  to the  Recipient  Party  without
+
+obligation  of  confidence  by a  third  party  owing  no such
+
+obligations in respect thereof;
+
+(e)      is  required  by  law  to  be  disclosed,  provided  that  the
+
+provisions of Clause 14.6 are followed; or
+
+16
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+(f)      is required to be disclosed to any  regulatory  authority when
+
+applying for a license to conduct  clinical or other trials or
+
+studies or for regulatory, marketing or pricing approval.
+
+14.5     The  obligations  of the Parties under this Clause 14 shall survive the
+
+expiration or termination of this Agreement.
+
+14.6     Each Party shall  immediately  notify the other Party of receipt of any
+
+process. subpoena, or demand by any governmental authority or any other
+
+person  requiring  production of Confidential  Information of the other
+
+Party and shall,  within five (5) Business Days after receipt,  provide
+
+the other Party with a copy of such process,  subpoena,  or demand and,
+
+as available,  all materials and facts relating and responsive thereto.
+
+The  Party  whose  Confidential  Information  is the  subject  of  such
+
+process,  subpoena,  or demand  shall  have the right to take any legal
+
+action to prevent disclosure of its Confidential Information. The Party
+
+in receipt of such demand for disclosure  shall  reasonably  assist the
+
+first Party in attempting to limit such disclosure.
+
+14.7     EOAI  agrees that any and all right,  title and  interest in and to any
+
+patentable  and/or  copyrightable   material,   notes,  data,  results,
+
+records, inventions, improvements,  developments, discoveries and trade
+
+secrets  made,  conceived,  reduced to practice,  or  discovered in the
+
+performance  of this  Agreement  that  consists  of or  relates  to the
+
+Compound or the Product,  the use,  manufacture or formulation thereof,
+
+or any other material,  product or process  belonging to CELGENE or its
+
+licensors,  or to any improvement(s),  enhancement(s) or refinements of
+
+any  of  same,  shall  be  the  sole  property  of  CELGENE   ("CELGENE
+
+Inventions").  EOAI further  agrees to assign (or cause to be assigned)
+
+and does hereby assign fully to CELGENE all such CELGENE Inventions and
+
+any patents,  copyrights or other intellectual property rights relating
+
+thereto.  In  addition,  to the  extent  allowed  by law,  any  CELGENE
+
+Inventions  which  constitute  copyrightable  subject  matter  shall be
+
+considered  "works made for hire" as that term is defined in the United
+
+States  Copyright Act. All CELGENE  Inventions and any information with
+
+respect  thereto  shall be deemed  CELGENE's  Confidential  Information
+
+subject to the confidentiality  provisions set forth in this Agreement.
+
+EOAI shall  disclose all CELGENE  Inventions to CELGENE  promptly after
+
+EOAI becomes aware of the making, conception,  reduction to practice or
+
+discovery  of  same.  CELGENE  shall  grant  to  EOAI  an  irrevocable,
+
+perpetual, non-exclusive,  royalty-free license to practice the CELGENE
+
+Inventions only in connection with the development or  manufacturing of
+
+products other than (i) the Compound,  (ii) any specific  intermediates
+
+in the synthesis route of the Compound,  and (iii)  diastereoisomers of
+
+the Compound.  The  foregoing  license grant shall include the right to
+
+sublicense  solely to those of  EOAI's  customers  that have  purchased
+
+development  or  manufacturing  services from EOAI and have a bona fide
+
+need to practice the CELGENE  Inventions  in connection  therewith,  in
+
+each  case  subject  to  CELGENE's  prior  written  consent,  not to be
+
+unreasonably withheld.
+
+14.8     Upon the expiration or termination of this Agreement, or upon CELGENE's
+
+earlier  request,  EOAI  shall  deliver  to  CELGENE  all of  CELGENE's
+
+property  relating  to,  and  all  tangible   embodiments  of,  CELGENE
+
+Inventions in EOAI's possession or control.
+
+17
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+14.9     EOAI agrees to assist  CELGENE,  or  CELGENE's  designee,  at CELGENE's
+
+expense,  to obtain and from time to time enforce and defend  CELGENE's
+
+rights in the CELGENE  Inventions and any copyrights,  patents or other
+
+intellectual property rights relating thereto in any and all countries,
+
+and to execute all documents reasonably necessary for CELGENE to do so.
+
+14.10    EOAI agrees  that if CELGENE is unable  using  commercially  reasonable
+
+efforts, because of EOAI's unavailability (only for the specific act to
+
+be performed),  dissolution,  or refusal, to secure EOAI's signature to
+
+apply for or to pursue any application for any United States of America
+
+or foreign  patents or  copyright  registrations  covering  the CELGENE
+
+Inventions  assigned  to CELGENE as provided  herein,  then EOAI hereby
+
+irrevocably   designates  and  appoints   CELGENE  and  CELGENE's  duly
+
+authorized officers and agents as EOAI's agent and attorney-in-fact, to
+
+act for and in EOAI's  behalf  and stead to  execute  and file any such
+
+applications and to do all other lawfully permitted acts to further the
+
+prosecution and issuance of patents and copyright registrations thereon
+
+with the same legal force and effect as if executed by EOAI.
+
+14.11    EOAI  represents  and  warrants  that each  employee of EOAI,  and each
+
+independent  contractor of EOAI, if any, performing any work under this
+
+Agreement has executed an agreement with EOAI containing  provisions in
+
+CELGENE's  favor  substantially  similar to Clause 14.7  through  14.10
+
+above, including,  without limitation,  an obligation to assign any and
+
+all CELGENE Inventions to EOAI or CELGENE.
+
+15       ASSIGNMENT
+
+Save as otherwise provided in this Agreement, neither Party may assign,
+
+transfer,  charge or in any other  manner  make over to any third party
+
+the benefit  and/or burden of this Agreement or encumber this Agreement
+
+in any way,  unless  that other Party has  consented  in writing to the
+
+change,  such  consent  not to be  unreasonably  withheld  or  delayed.
+
+Notwithstanding the foregoing.  CELGENE may assign this Agreement to an
+
+Affiliate,   or  in  connection  with  a  merger  or  sale  of  all  or
+
+substantially all its assets,  or a sale,  license or other disposition
+
+of  CELGENE's  business  related  to the  Compound,  without  the prior
+
+consent of EOAI,  provided  that the  assignee  agrees to abide by this
+
+Agreement.
+
+16       GOVERNING LAW
+
+The validity,  construction  and performance of this Agreement shall be
+
+governed  by the laws of the State of New  York,  USA,  without  giving
+
+effect to the  principles of conflicts of law thereof.  In the event of
+
+any controversy or claim arising out of or relating to any provision of
+
+this  Agreement or the breach  thereof,  the parties hereto will try to
+
+settle their differences  amicably by themselves.  Any such controversy
+
+or claim which the parties hereto are unable to resolve shall initially
+
+be submitted for review and resolution by the chief executive  officers
+
+of the parties hereto. Any action,  suit or other proceeding  initiated
+
+by either party hereto under or in connection with this Agreement shall
+
+be brought  only in any Federal or state court in the State of New York
+
+having  jurisdiction  over the  subject  matter  thereof,  as the party
+
+hereto  bringing  such action,  suit or
+
+18
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+proceeding  shall elect.  The parties  hereto submit  themselves to the
+
+jurisdiction  of any such  court and agree  that  service of process on
+
+them in any such  action,  suit or  proceeding  may be  effected by the
+
+means  by  which  notices  are  to be  given  to it  pursuant  to  this
+
+Agreement.
+
+17       WAIVER
+
+Neither  Party  shall be deemed  to have  waived  any of its  rights or
+
+remedies whatsoever unless such waiver is made in writing and signed by
+
+a duly authorized representative of that Party. In particular, no delay
+
+or failure of either Party in exercising or enforcing any of its rights
+
+or remedies  whatsoever  shall operate as a waiver  thereof or so as to
+
+preclude or impair the  exercise or  enforcement  thereof nor shall any
+
+partial  exercise or  enforcement of any such right or remedy by either
+
+Party preclude or impair any other  exercise or enforcement  thereof by
+
+such Party.
+
+18       SEVERANCE OF TERMS
+
+18.1     If the  whole or any part of this  Agreement  is or shall  become to be
+
+declared illegal,  invalid or unenforceable in any jurisdiction for any
+
+reason  whatsoever  (including  both by reason of the  provision of any
+
+legislation  and  also  by  reason  of any  decision  of any  court  of
+
+competent  authority either having  jurisdiction over this Agreement or
+
+having jurisdiction over either of the Parties to this Agreement):
+
+18.1.1   In the case of the  illegality,  validity  or  unenforceability  of the
+
+whole  of  this  Agreement,  it  shall  terminate  in  relation  to the
+
+jurisdiction in question; or
+
+18.1.2   In the case of the illegality,  invalidity or  unenforceability of part
+
+of this  Agreement,  such part shall be severed from the Agreement,  or
+
+modified  to  the  extent  required  to  allow  enforceability,  in the
+
+jurisdiction   in  question,   and  such   illegality,   invalidity  or
+
+unenforceability  shall not in any way  whatsoever  prejudice or affect
+
+the  remaining  parts of this  Agreement  which shall  continue in full
+
+force and effect provided  always that if in the reasonable  opinion of
+
+either Party any such severance materially affects the commercial basis
+
+of this Agreement, such Party shall notify the other Party, whereby the
+
+Parties  shall meet and in good  faith try to  replace  the part of the
+
+Agreement so held illegal, invalid or unenforceable.
+
+19       ENTIRE AGREEMENT/VARIATIONS
+
+19.1     This Agreement between the Parties constitutes the entire agreement and
+
+understanding  between the Parties in relation to the commercial supply
+
+of  Bulk   Compound   and   supersedes   all  prior   oral  or  written
+
+understandings,  arrangements,  representations  or agreements  between
+
+them relating to this subject matter.
+
+19.2     No variation,  amendment,  modification or supplement to this Agreement
+
+shall be valid  unless  made in writing  in the  English  language  and
+
+signed by a duly authorized representative of each Party.
+
+19
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+20       NOTICES
+
+20.1     Save as otherwise  expressly  provided in this  Agreement any notice or
+
+other  communication  to be given by any  person  to any  other  person
+
+pursuant  to this  Agreement  shall be in  writing  and in the  English
+
+language and shall be delivered by hand or sent by first class  prepaid
+
+post or facsimile,  and shall be addressed to the recipient and sent to
+
+the address or facsimile number of the recipient set out below,  marked
+
+for the attention of the  representative set out below or to such other
+
+address and/or  facsimile  number or marked for such other attention as
+
+such  recipient  may  from  time to time  specify  by  notice  given in
+
+accordance  with this Clause 20 to the Party giving the relevant notice
+
+or other communication to it and shall be deemed to have been received:
+
+20.1.1   In the case of delivery by hand, when delivered; or
+
+20.1.2   In the case of  first  class  prepaid  post,  on the  fifth  (5th)  day
+
+following the day of posting; or
+
+20.1.3   In the case of facsimile, on acknowledgement by the recipient facsimile
+
+receiving   equipment   on  a   Business   Day   provided   that   such
+
+acknowledgement  occurs  before 17:00 hours local time of the recipient
+
+on the  Business  Day of  acknowledgement  and in any other case on the
+
+Business Day next following having the Business Day of acknowledgement.
+
+CELGENE:              Celgene Corporation
+
+7 Powder Horn Drive
+
+Warren, New Jersey 07059
+
+United States of America
+
+Attention:  ***
+
+Tel:   ***
+
+Fax:   ***
+
+EOAI:                 Evotec OAI Limited
+
+151 Milton Park
+
+Abingdon
+
+Oxfordshire OX14 4SD
+
+United Kingdom
+
+Attention:  ***
+
+Tel:   ***
+
+Fax:   ***
+
+21       COUNTERPARTS
+
+This Agreement may be executed in two counterparts and by the different
+
+Parties hereof by separate counterparts, each of which when so executed
+
+shall be an original,  and both of which shall  constitute  one and the
+
+same  instrument.  Complete sets of  counterparts  shall be lodged with
+
+each Party.
+
+20
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+22       REGISTRATION
+
+Either  Party  shall have the right at any time where  commercially  or
+
+legally necessary or desirable to record,  register or otherwise notify
+
+this Agreement to appropriate governmental or regulatory offices having
+
+first given thirty (30) days' written  notice to the other Party of its
+
+intention so to do. The Party seeking to record,  register or otherwise
+
+notify this Agreement shall give due  consideration  to any comments or
+
+reasonable  request  made  by the  other  Party  in  relation  to  such
+
+recording,  registering  or  notifying.  The other Party shall  provide
+
+reasonable  assistance  in affecting  such  recording,  registering  or
+
+notifying.
+
+23       INDEPENDENT CONTRACTORS
+
+None of the provisions of this Agreement  shall be deemed to constitute
+
+a  partnership  or joint  venture  between the Parties and none of them
+
+shall  have any  authority  to bind the  others  in any way  except  as
+
+provided in this Agreement.
+
+24       COSTS
+
+Each  Party  shall  bear its own  legal  costs,  legal  fees and  other
+
+expenses incurred in the preparation and execution of this Agreement.
+
+[Signature Page Follows]
+
+21
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+IN WITNESS  WHEREOF the Parties have  executed this document as an Agreement the
+
+date and year first above written.
+
+For and on behalf of                                         )  /s/ ***
+
+----------------
+
+CELGENE CORPORATION                                          )
+
+)
+
+----------------
+
+Legal
+
+Dept ***
+
+For and or behalf of                                         )  /s/ ***
+
+----------------
+
+EVOTEC OAI LIMITED                                           )  ***
+
+----------------
+
+***
+
+22
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+AMENDMENT TO THE SUPPLY AGREEMENT
+
+This  Amendment,  effective  October 25,  2004,  is an amendment to the
+
+Supply Agreement  effective October __, 2004 (the "Agreement")  between Celgene,
+
+Inc.,  having  an  address  at  7  Powder  Horn  Drive,  Warren  NJ  07059,  USA
+
+(hereinafter  "Celgene")  and Evotec  OAI Ltd.,  having an address at 151 Milton
+
+Park, Abingdon, Oxfordshire OX14 4SD, UK (hereinafter "EOAI").
+
+WHEREAS,  Celgene  and EOAI wish to revise  the per  kilogram  price in
+
+clause 3.1 of the  Agreement as a result of the  introduction  of an  additional
+
+water slurry to guarantee the Polymorph ***.
+
+The  revised  price  per  kilogram  for a batch  size of ***  kilograms
+
+(***Kg) shall be ***.
+
+In all other  respects,  the  Agreement  shall remain in full force and
+
+effect, unless further amended by written agreement.
+
+IN  WITNESS  WHEREOF,  the  parties  hereto  have  duly  executed  this
+
+Amendment effective the day and year first above-written.
+
+Celgene, Inc.
+
+By.       ***
+
+------------------------------------
+
+Name:     ***
+
+----------------------------------
+
+Title:    ***
+
+---------------------------------
+
+Evotec OAI, Ltd.
+
+By.       ***
+
+------------------------------------
+
+Name:     ***
+
+----------------------------------
+
+Title:    ***
+
+---------------------------------
+
+*** - indicates  material omitted pursuant to a Confidential  Treatment  Request
+
+and filed separately with the Securities and Exchange Commission.

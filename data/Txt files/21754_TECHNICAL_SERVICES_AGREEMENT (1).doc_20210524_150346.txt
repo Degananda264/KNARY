@@ -1,0 +1,185 @@
+Exhibit 10.15
+
+TECHNICAL SERVICES AGREEMENT
+
+This Technical Services Agreement (“Agreement”) is made and entered into as of the 6 day of October, 2018 (“Effective Date”) by and between Hangzhou Just Biotherapeutics Co., Ltd., a limited liability company having offices at 11/F, Building 5, No.2 Ke Ji Yuan Road, Hangzhou Eco-Tech Development Area, Hangzhou, China, 310018 (“Just”) and Inhibrx, Inc. (“Inhibrx”), a Delaware corporation with an address at 11025 North Torrey Pines Road, Suite 200, La Jolla, CA 92037. Just and Inhibrx may be referred to herein each, individually, as a “Party” or, collectively, as the “Parties”.
+
+RECITALS
+
+Inhibrx and Just are party to a License Agreement effective June 21, 2017 (“License Agreement”) pursuant to which Inhibrx granted Just the right to develop and commercialize specific protein therapeutics directed to DR5 in particular territories;
+
+WHEREAS, Just desires to retain the services of Inhibrx to perform certain services and Inhihrx desires to provide such services.
+
+NOW, THEREFORE, in consideration of the promises and mutual covenants herein contained, it is agreed as follows:
+
+ARTICLE 1: PERFORMANCE OF SERVICES; REPORTS
+
+1.1    Services. The services to be performed under this Agreement are set forth in Appendix A attached hereto (“Services”). The terms and conditions of any business forms used by Inhibrx for the purposes of invoicing, delivering reports, or otherwise shall not form part of this Agreement.
+
+1.2    Performance of Services. Inhibrx shall perform the Services in accordance with the terms and conditions of this Agreement. All Services shall be conducted in a professional and competent manner, in compliance with all applicable laws.
+
+1.3    Reports. Inhibrx shall prepare and deliver to Just, in a timely fashion, all reports and other documentation, if any, required by Appendix A.
+
+ARTICLE 2: PAYMENTS
+
+2.1    Costs. As the consideration due Inhibrx for Services, Just shall pay Inhibrx the amounts agreed to and set forth in Appendix A.
+
+2.2    Invoicing. Inhibrx shall submit to Just an invoice detailing the amounts due to Inhibrx for the performance of the Services.
+
+2.3    Payment. Within ten (10) days of receipt of an invoice issued pursuant to Section 3.2, Just shall pay to Inhibrx the invoiced amount.
+
+2.4    Payment Details. Unless otherwise explicitly set forth in this Agreement with respect to a particular payment obligation, amounts paid under this Agreement shall be paid in U.S. dollars, in immediately available funds, by means of wire transfer to Inhibrx, or an Affiliate thereof, as instructed by Inhibrx, to an account identified by Inhibrx.
+
+2.5    Taxes. All insurance, transportation costs, import duties, sales and excise taxes, VAT and other taxes imposed by any government authority (and any related penalties or interest) imposed on any payment by Just to Inhibrx shall be the sole responsibility of Just. Just shall promptly secure official receipts of payment of any tax or duty and send such receipts to Inhibrx as evidence of such payment. Just shall reasonably cooperate with Inhibrx in
+
+Technical Services Agreement
+
+Page 1
+
+the event Inhibrx claims exemption from such withholding or seeks deductions under any double taxation or other similar treaty or agreement from time to time in force. Neither Party shall treat their relationship under this Agreement as a pass-through entity for tax purposes. For clarity, if applicable law requires withholding of any taxes imposed upon Inhibrx on account of any payment under this Agreement, Just shall withhold such taxes as required by such law and timely pay such withheld taxes to the proper tax authorities, and the amount payable under Section 2.1 shall be grossed-up to such that the net payment made to Inhibrx equals the price set forth in Section 2.1.
+
+2.6    Currency. All amounts payable by Just hereunder will be made in United States Dollars. Unless otherwise set forth, all amounts specified in any purchase order shall be deemed specified in United States Dollars.
+
+ARTICLE 3: MATERIALS; INTELLECTUAL PROPERTY
+
+3.1    Materials. Any materials supplied or otherwise provided by Inhibrx in connection with the Services (“Materials”) shall be treated as “Inhibrx Materials” (as defined in the License Agreement) under the License Agreement.
+
+3.2    Limited Use. Just shall use Materials consistent with the licenses granted to Just under the License Agreement and for no other purpose. Just acknowledges that the Materials are not approved for therapeutic use, or other purposes regulated by the United States FDA and comparable regulatory authorities outside the United States, and agrees that all Materials supplied to Just under this Agreement shall be marked and used accordingly.
+
+3.3    Retained Rights. In this Agreement, no rights are granted to Just under any intellectual property owned or controlled by Inhibrx.
+
+ARTICLE 4: REPRESENTATIONS; DISCLAIMERS; INDEMNIFICATION
+
+4.1    Inhibrx Representations. Inhibrx hereby represents and warrants to Just that:
+
+4.1.1    Inhibrx has the full right, power and authority, and has obtained all approvals, permits or consents necessary, to enter into this Agreement and to perform all of its obligations hereunder.
+
+4.1.2    Inhibrx has not, prior to the Effective Date, entered into and shall not, following the Effective Date, enter into any agreement and has not granted any now existing, or agreed to grant any future, license, right or privilege which agreement, license, right or privilege conflicts in any way with this Agreement or Inhibrx’s obligations hereunder.
+
+4.2    DISCLAIMER. THE CONFIDENTIAL INFORMATION (INCLUDING ANY MATERIALS) SUPPLIED BY INHIBRX TO JUST IS BEING SUPPLIED “AS IS” AND INHIBRX MAKES NO WARRANTIES WITH REGARD THERETO, AND DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE.
+
+ARTICLE 5: TERM AND TERMINATION
+
+5.1    Term. The term of this Agreement (the “Term”) shall commence on the Effective Date and, unless sooner terminated by mutual agreement or pursuant to any other provision of this Agreement, shall terminate six (6) months from the Effective Date.
+
+5.2    Default. Either Party may terminate this Agreement for any material breach by the other Party, provided that the terminating Party give the breaching Party written notice of such breach and the breach remains uncured after the expiration of thirty (30) days after such written notice was given.
+
+5.3    Effect of Termination or Expiration. Termination or expiration of this Agreement through any means and for any reason shall not relieve the Parties of any obligation accruing prior thereto and shall be without
+
+Technical Services Agreement
+
+Page 2
+
+prejudice to the rights and remedies of either Party with respect to any antecedent breach of any of the provisions of this Agreement.
+
+5.4    Survival. Articles 2, 3, 5, 6, and 7 shall survive expiration or termination of this Agreement for any reason.
+
+ARTICLE 6: CONFIDENTIAL INFORMATION
+
+6.1    Confidential Information. Inhibrx and Just agree that this Agreement and any materials or information shared under this Agreement shall be the “Confidential Information” under the License Agreement, subject to the terms and conditions of the License Agreement.
+
+ARTICLE 7: MISCELLANEOUS
+
+7.1    Assignment and Delegation. Neither this Agreement nor any right or obligation hereunder shall be assignable in whole or in part, whether by operation of law, or otherwise by either Party without the prior written consent of the other Party. Notwithstanding the foregoing, either Party may assign or transfer its rights and obligations under this Agreement to an entity that succeeds to all or substantially all of that Party’s business or assets whether by sale, merger, operation of law or otherwise. In addition, Inhibrx may assign this Agreement, in whole or part, to an Affiliate. This Agreement shall be binding upon and inure to the benefit of and be enforceable by the Parties hereto and their respective successors and permitted assignees. Any transfer or assignment of this Agreement in violation of this Section 7.1 shall be null and void.
+
+7.2    Entire Agreement. This Agreement contains the entire agreement between the Parties relating to the subject matter hereof, and all prior understandings, representations and warranties between the Parties are superseded by this Agreement.
+
+7.3    Amendments. Changes and additional provisions to this Agreement shall be binding on the Parties only if mutually agreed upon, laid down in writing and signed effectively by the Parties.
+
+7.4    Applicable Law. This Agreement shall be construed and interpreted in accordance with the laws of New York, USA and all rights and remedies shall be governed by such laws without regard to principles of conflicts of law.
+
+7.5    Force Majeure. If the performance of this Agreement or any obligations hereunder is prevented, restricted or interfered with by reason of earthquake, fire, flood or other casualty or due to strikes, riot, storms, explosions, acts of God, war, or a similar occurrence or condition beyond the reasonable control of the Parties, the Party so affected shall, upon giving prompt notice to the other Parties, be excused from such performance during such prevention, restriction or interference, and any failure or delay resulting therefrom shall not be considered a breach of this Agreement.
+
+7.6    Severability. The Parties do not intend to violate any public policy or statutory common law. However, if any sentence, paragraph, clause or combination of this Agreement is in violation of any law or is found to be otherwise unenforceable, such sentence, paragraph, clause or combination of the same shall be deleted and the remainder of this Agreement shall remain binding, provided that such deletion does not alter the basic purpose and structure of this Agreement.
+
+7.7    Notices. All notices that are required or permitted hereunder shall be in writing in the English language and sufficient if (i) delivered personally, (ii) sent by internationally recognized express courier using a service which provides traceability of packages (e.g., Federal Express) or (iii) sent by registered or certified mail with postage prepaid and return receipt requested. Such Notices shall be addressed as follows:
+
+Notices to Inhibrx:
+
+Inbrx109 LP
+
+Technical Services Agreement
+
+Page 3
+
+North Torrey Pines Road, Suite 280
+
+La Jolla, CA 92037
+
+Attention: Mark Lappe, CEO
+
+Notices to the Just:
+
+Hangzhou Just Biotherapeutics Co., Ltd.
+
+11/F, Building 5, No.2 Ke Ji Yuan Road
+
+Hangzhou Eco-Tech Development Area
+
+Hangzhou, China, 310018
+
+Attention: Yining Zhao, CEO
+
+Either Party may change its address for notices at any time by sending written notice to the other Party in accordance herewith (which notice a Party may provide by email in accordance with this Section 7.7). Any such notice shall be deemed to have been given: (i) when delivered, if personally delivered on a business day (or if delivered or sent on a non-business day, then on the next business day); (ii) on the business day of confirmed delivery, if sent by internationally recognized express courier (or if delivered or sent on a non-business day, then on the next business day); or (iii) on the date actually received, if sent by mail.
+
+7.8    Independent Contractor. Nothing herein shall create any association, partnership, joint venture, fiduciary duty or the relation of principal and agent between the Parties hereto, it being understood that each Party is acting as an independent contractor, and neither Party shall have the authority to bind the other or the other’s representatives in any way.
+
+7.9    Waiver. No delay on the part of either Party hereto in exercising any power or right hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any power or right hereunder preclude other or further exercise thereof or the exercise of any other power or right. No waiver of this Agreement or any provision hereof shall be enforceable against any Party hereto unless in writing, signed by the Party against whom such waiver is claimed, and shall be limited solely to the one event.
+
+7.10    Interpretation. This Agreement has been prepared jointly and no rule of strict construction shall be applied against either Party. In this Agreement, the singular shall include the plural and vice versa and the word “including” shall be deemed to be followed by the phrase “without limitation.” The section headings contained in this Agreement are inserted for convenience only and shall not affect in any way the meaning or interpretation of this Agreement.
+
+7.11    Counterparts. This Agreement may be executed in counterparts, each of which together shall constitute one and the same Agreement. For purposes of executing this agreement, a facsimile copy of this Agreement, including the signature pages, will be deemed an original.
+
+*    *    *    *    *
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement by their duly authorized representative.
+
+Inhibrx, Inc.
+
+Hangzhou Just Biotherapeutics Co., Ltd.
+
+By:
+
+/s/ Mark Lappe
+
+By:
+
+/s/ Yining Zhao
+
+Name:
+
+Mark Lappe
+
+Name:
+
+Yining Zhao
+
+Title:
+
+CEO
+
+Title:
+
+CEO
+
+Technical Services Agreement
+
+Page 4
+
+APPENDIX A
+
+Services
+
+Inhibrx shall provide the following Services:
+
+•
+
+Reasonable assistance pertaining to the transfer of drug substance to Just from Inhibrx’s contract manufacturer.
+
+Compensation
+
+Just shall pay Inhibrx net US$392,630.00
+
+Technical Services Agreement
+
+Page 5

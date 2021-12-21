@@ -1,0 +1,291 @@
+
+DATA PROTECTION TERMS AND CONDITIONS
+
+This Appendix on Data Protection sets forth the rights and responsibilities of CLM Matrix
+("Service Provider") and Tronox LLC ("Client") with respect to maintaining the privacy,
+security and confidentiality of Personal Data and Confidential Information via an FTP or other
+similar file exchange Process in connection with the performance of services or receipt of
+Personal Data and Confidential Information under the Memorandum of Agreement by and
+between Service Provider and Client (hereafter the "Agreement"). Service Provider's
+obligations under this Appendix are in addition to any obligations under the Agreement and any
+confidentiality or nondisclosure agreement between the Parties.
+
+1 DEFINITIONS
+
+For purposes of this Appendix, the following terms will have the meanings ascribed to
+them in this section, notwithstanding any definitions used in the Agreement or elsewhere.
+
+11 Confidential Information. For purposes of this Appendix, Confidential Information
+means all information in any form that is disclosed by Tronox in connection with the
+Agreement, including but not limited to technical know-how, concepts, ideas, formulas,
+methods, processes and procedures of manufacturing and operations; customer and
+supplier information including contracts; product information, development, research and
+plans; and cost and pricing information. Failure to mark information as Confidential will
+not render information non-confidential or non-proprietary.
+
+1.2 Data Breach. Notwithstanding any applicable statutory definition, for purposes of this
+Appendix, "Data Breach" means (a) any actual or potential unauthorized or accidental
+access, use, loss, disclosure, or other Processing of any Personal Data or Confidential
+Information that compromises the integrity and confidential nature of the Personal Data
+or Confidential Information; (b) a breach of Service Provider's security or information
+systems that could reasonably be expected to expose any Personal Data or Confidential
+Information to such unauthorized or accidental access or use; or (c) a breach by Service
+Provider of the Data Security Policies and Procedures and/or its obligations under the
+sections thereto related to data security and security breach.
+
+1.3 Data Laws. "Data Laws" means all privacy laws, data security laws, encryption laws,
+and other laws as may be applicable to the use, unauthorized access, confidentiality, and
+security of any Personal Data or Confidential Information subject to this Appendix or the
+Agreement, and procedures related to the foregoing, including the domestic or
+international transfer of Personal Data or Confidential Information.
+
+1.4 Data Security Policies and Procedures. "Data Security Policies and Procedures”
+
+means the data security and data breach procedures of Client that are communicated to
+Service Provider from time to time.
+
+1.5 Party or Parties. Service Provider and Client are each a "Party" and collectively are the
+"Parties."
+
+1.6
+
+1.7
+
+1.8
+
+1.9
+
+2.2
+
+Personal Data. "Personal Data" means any information Client provides to Service
+Provider in connection with the Agreement that is about, related to, or can be used to
+identify an identifiable natural person, including but not limited to name, physical or e-
+mail address, government issued identification number, credit card or other financial
+account number, date of birth, gender, employer issued identification number, etc.
+
+Personnel. "Personnel" means any individual or company that Service Provider or
+Client employs or has employed as a partner, employee, subcontractor, or independent
+contractor and with which Service Provider or Client comes into direct contact in the
+course of the activities covered by this Appendix or the Agreement.
+
+Process or Processing. The terms "Process" and "Processing" mean any activity
+performed on or using Personal Data or Confidential Information including but not
+limited to collection, transfer, disclosure, handling, storage, access, or any other use.
+
+Third Party or Third Parties. The terms "Third Party" and "Third Parties" mean any
+person(s) or entity(s) other than the Parties or their direct employees.
+
+GENERAL OBLIGATIONS
+
+General Rights and Responsibilities. Client, as the owner of the Personal Data or
+Confidential Information, will comply with its obligations under the Data Laws, and
+Service Provider, as the service provider, will treat all Personal Data or Confidential
+Information in accordance with the terms of this Appendix, any confidentiality or
+nondisclosure agreement between the Parties, the Data Security Policies and Procedures,
+written instructions from Client, and all applicable Data Laws. The Parties acknowledge
+that in relation to any Personal Data or Confidential Information controlled and owned by
+Client and Processed by Service Provider in connection with the Agreement: (a) Service
+Provider is acting solely as a service provider and has no discretion regarding the
+purpose(s) for which such Personal Data or Confidential Information is Processed; (b)
+Client alone will determine the purposes for which and the manner in which such
+Personal Data or Confidential Information will be Processed by Service Provider; and (c)
+Service Provider will only access, use, disclose, retain or otherwise Process such Personal
+Data or Confidential Information in accordance with the provisions of this Appendix or
+as directed by Client. Service Provider will provide Client with such cooperation and
+assistance as Client may reasonably require from Service Provider in order to assist
+
+Client in fulfilling its responsibilities under the Data Laws.
+
+Processing of Personal Data or Confidential Information. Service Provider will
+Process Personal Data or Confidential Information solely for the purpose of performing
+under the Agreement. Personal Data or Confidential Information will be and remain the
+property of Client. Where, in connection with the Agreement or this Appendix, Service
+Provider Processes Personal Data or Confidential Information on behalf of Client,
+Service Provider will: (a) Process such Personal Data or Confidential Information in
+accordance with the Agreement or on written instructions from Client and only to the
+extent reasonably necessary or appropriate for the performance under the Agreement; (b)
+
+2.3
+
+3.2
+
+3.3
+
+3.4
+
+4.2
+
+not disclose such Personal Data or Confidential Information to any person or entity
+except as required or permitted by this Appendix or with Client's written consent; and (c)
+not sell, assign, lease, or otherwise commercially exploit such Personal Data or
+Confidential Information.
+
+International Transfers. Service Provider shall not transfer Personal Data or
+Confidential Information to any location outside of its country of origin without express
+written consent from Client.
+
+SECURITY MEASURES
+
+General Security Requirements. Prior to Processing any Personal Data or Confidential
+Information on behalf of Client, Service Provider will implement physical, technical, and
+organizational measures and safeguards with respect to Personal Data or Confidential
+Information and the Processing of same against accidental or unlawful destruction or
+accidental loss, alteration, unauthorized disclosures or access, and against all other
+unlawful forms of Processing, consistent with the obligations contained herein, with the
+Data Security Policies and Procedures, and with the Data Laws. The Parties
+
+acknowledge that the level of security measures that is appropriate will depend on the
+sensitivity of the type of Personal Data or Confidential Information, the risks represented
+by the Processing of such Personal Data or Confidential Information, and the harm that is
+likely to result from a breach of security, industry standards, and Data Laws.
+
+Limitation on Access. Service Provider will limit access to Personal Data or
+Confidential Information to those authorized Service Provider Personnel who have a
+business need to access the Personal Data or Confidential Information in the provision of
+services under the Agreement.
+
+Transmission. The Parties will follow industry standards and the Data Security Policies
+and Procedures when transmitting Personal Data or Confidential Information.
+
+Network Security. Service Provider's network security will comply with the Data
+Security Policies and Procedures.
+
+DISCLOSURE OF PERSONAL DATA
+
+Disclosures to Third Parties. Service Provider will not rent, sell disclose, store, retain,
+use, or otherwise Process any Personal Data or Confidential Information except as
+necessary and proper to perform the services under the Agreement. Service Provider
+will disclose Personal Data or Confidential Information only following receipt of Client’s
+written approval and only to its Personnel and any Third Parties who have a need to know
+such Personal Data or Confidential Information, and only to the extent as is necessary for
+the performance of services under the Agreement and for no other reasons.
+
+Disclosures Required by Law. Service Provider may disclose Personal Data or
+Confidential Information as required by any law, including Data Laws, or a governmental
+authority having jurisdiction over Service Provider that orders such disclosure. In the
+
+5.2
+
+5.3
+
+5.4
+
+event of any such required disclosure, Service Provider will notify Client in advance of
+such disclosure and reasonably cooperate with Client’s effort to minimize the extent of
+such disclosure and maintain the confidentiality of such Personal Data or Confidential
+Information.
+
+DATA BREACH
+
+Service Provider Obligations. Service Provider will notify Client promptly, but in no
+event later than forty-eight (48) hours after any actual or reasonably suspected Data
+Breach, and transmit a written follow-up to such oral notice no later than three (3) days
+after such oral notice. Each Party will provide all necessary and reasonable cooperation
+to the other with respect to the notification, investigation, and prosecution of such Data
+Breach. Unless the Data Breach is attributable wholly and directly to Client, Service
+Provider will promptly (a) take all reasonable measures to remediate any such Data
+Breach; (b) provide Client with a written report of what Service Provider did to
+remediate; (c) provide Client with a written plan identifying the measures Service
+Provider will implement to avoid any subsequent Data Breach of similar nature; and (d)
+comply with all Data Laws.
+
+Notice to Individuals or other entities of Data Breach. In accordance with any
+obligations under Data Laws, Client will determine whether and when to provide notice
+of a Data Breach to (a) any individuals whose Personal Information is impacted by such
+Data Breach; (b) any governmental body; and/or (c) any other entity, including, but not
+limited to, consumer credit reporting agencies or the media. Client will approve the
+content of any and all such notices before they are distributed. Service Provider shall
+reimburse Client of any costs or expenses Client incurs in the provision of such notices.
+Notwithstanding the foregoing, Service Provider is permitted to comply with all Data
+Laws and other laws to which it is subject.
+
+Notice to Client of Data Breach. Service Provider's written notice to Client under
+Section 5.1 should include all known details of the Data Breach as of the time it is
+provided, which shall be supplemented in writing as new information becomes available.
+Service Provider shall provide additional available information as Client deems relevant
+for purposes of determining whether it is necessary, under Data Laws or in Client’s
+discretion, to provide notice to any individuals or entities under Section 5.2. All such
+notices to Client pursuant to this Section 5 shall be sent to:
+
+Tronox LLC
+
+263 Tresser Boulevard
+Suite 1100
+
+Stamford, CT 06901
+
+Attn: Steven Kaye, Deputy General Counsel Steven.Kaye @tronox.com
+
+ 
+
+Indemnification. Service Provider shall indemnify and hold Client harmless for any
+Data Breach attributable to Service Provider's Processing of Personal Data.
+
+5.5
+
+Application of Provision. This Section 5 applies only to Data Breaches attributable to,
+arising from, or otherwise related to Service Provider's Processing of Personal Data or
+Confidential Information. Service Provider's obligations under this Section 5 apply to all
+such Data Breaches irrespective of whether such obligations are required under Data
+Laws.
+
+Termination Upon Data Breach. In the event of a material Data Breach, Client shall
+have the option to suspend and/or terminate the Agreement within 180 days of the initial
+notification of a Data Breach. If Client elects to suspend or terminate under this Section
+5, no termination costs shall apply, no penalties of any kind shall be assessed against
+Client, and Service Provider will not be relieved of any responsibilities remaining under
+the Agreement that they would otherwise have.
+
+AUDIT AND VERIFICATION
+
+Audit and Inspection. Service Provider will provide reasonable cooperation to Client
+(and any governmental authorities with jurisdiction in connection with an audit requested
+by Client) to audit and verify Service Provider's data security systems and procedures in
+order to confirm Client's and Service Provider's respective and collective compliance
+with its obligations under this Appendix and with applicable law including but not
+limited to Data Laws.
+
+AMENDMENTS
+
+The Parties in good faith agree to revisit and amend this Appendix from time to time, as
+necessary to comply with changes to Data Laws or other applicable law as they may
+apply to the Service Provider's performance of services under the Agreement and related
+Processing of Personal Data or Confidential Information. As between the Parties, Service
+Provider is responsible for identification and compliance with the Data Laws as they
+may apply to Service Provider's performance under the Agreement and related
+Processing of Personal Data or Confidential Information, and as such Data Laws may be
+amended; provided that Client may require Service Provider to comply with any Data
+
+Law that Client, in its reasonable discretion, determines applies to Service Providers
+performance under the Agreement or related Processing of Personal Data or Confidential
+Information.
+
+DUTIES REGARDING DATA AND RECORD RETENTION AFTER
+TERMINATION
+
+Upon termination or expiration of the Agreement, or upon request by Client at any time
+with respect to particular Personal Data or Confidential Information not required by
+Service Provider to perform its obligations under the Agreement, (a) Service Provider
+will return to Client the Personal Data or Confidential Information and records or data
+containing copies of Personal Data or Confidential Information, and (b) Service Provider
+will remove all Personal Data or Confidential Information from its applications and
+
+databases and will use mutually approved data destruction methods to remove Personal
+Data or Confidential Information from its back-up systems.
+
+IN WITNESS WHEREOF this Agreement has been executed by the parties as of the dates
+stated below. Timor Digitally signed
+
+by Timothy B.
+Sparks
+Date
+
+Tune Ee. Sasa at a6 5100
+
+Timothy B Sparks [Contact Name]
+CLM Matrix Tronox LLC
+
+ 
+
+April 27, 2018 Date Signed
+

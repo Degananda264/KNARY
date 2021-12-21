@@ -1,0 +1,439 @@
+SOFTWARE AND INTELLECTUAL PROPERTY LICENSE AGREEMENT
+
+THIS SOFTWARE AND INTELLECTUAL PROPERTY LICENSE AGREEMENT (this “Agreement”) is entered into as of the 31st day of January, 2011, (the “Effective Date”) by and among Voice Mobility International, Inc., a Nevada corporation, for itself and on behalf of its Affiliates (“Parent”) and Voice Mobility Inc., a corporation governed by the federal laws of Canada (“Canadian Subsidiary” and together with Parent, “Licensor”), and Applied Voice & Speech Technologies, Inc., a Delaware corporation (“AVST”). Licensor and AVST are sometimes referred to herein individually as a “Party” and together as the “Parties.”
+
+1.      DEFINITIONS
+
+1.1        “Affiliate” of any Person means any other Person directly or indirectly Controlling or Controlled by or under direct or indirect common Control with such Person.
+
+1.2        “Business” means the marketing, sale, licensing, support and exploitation of the Software, the Licensor Intellectual Property and other assets related to call processing and messaging platforms, including, without limitation, the UCN 250 On Premise, Managed and UMaaS/On-Demand communication software platform.
+
+1.3        “Competitor” means any Person that is directly or indirectly, including through an Affiliate, competing with the Business.
+
+1.4        “Control” means, when used with respect to any specified Person, the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise.
+
+1.5        “Customer Agreements” means the customer contracts and agreements, set forth in Exhibit A, pursuant to which Licensor has provided services related to the Business prior to the Effective Date.
+
+1.6        “Damages” means any losses, costs, damages, liabilities, expenses, obligations, actions, suits, proceedings, claims, demands, judgments and settlements (including reasonable legal fees and expenses), whether asserted by third parties or incurred or sustained in the absence of third-party claims.
+
+1.7        “Derivative Works” means (a) for copyrightable or copyrighted material, any derivative work (as that term is defined by the Copyright Act), translation (including translation into other computer languages), port, modification, correction, addition, extension, upgrade, improvement, compilation, abridgement or other form in which an existing work may be recast, transformed or adapted; (b) for patentable or patented material, any improvement thereon; and (c) for material that is protected by trade secret, any new material derived from such existing trade secret material, including new material which may be protected by copyright, patent and/or trade secret.
+
+1.8        “Documentation” means any manuals, specifications or other documentation in electronic or print form that describe or pertain to the Software or its use; including all commentary and other materials supporting, incorporated into, or reasonably necessary for the efficient use of the Source Code, including all supporting configuration, documentation, and other resource files and identification by vendor and version number of any software (but not a license to such third-party software) used in connection with the Source Code and of any compiler, assembler, or utility used in generating Object Code.
+
+1
+
+1.9        “Exchange” means the NEX board of the TSX Venture Exchange or any other exchange on which the Licensor’s stock is quoted or listed.
+
+1.10      “GAAP” means United States generally accepted accounting principles, applied on a consistent basis.
+
+1.11      “Geographical Area” means all countries and regions of the world, excluding (a) Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates, and (b) the countries comprising the former Soviet Union.
+
+1.12      “Intellectual Property” means (a) all United States, international and foreign patents, industrial rights and applications therefor and all reissues, divisionals, renewals, extensions, provisionals, continuations and continuations-in-part thereof, and all patents, applications, registrations, documents and filings claiming priority to or serving as a basis for priority thereof; (b) all inventions (whether or not patentable), invention disclosures, improvements, trade secrets, proprietary information, know how, compositions, software, technology, business methods, technical data and customer lists, tangible or intangible proprietary information, and all documentation relating to any of the foregoing; (c) all copyrights, copyright registrations and applications therefor, and all other rights of authorship (in published and unpublished works) corresponding thereto throughout the world; (d) mask rights; (e) all industrial designs and any registrations and applications therefor throughout the world; (f) all trade names, logos, common law trademarks and service marks, trademark and service mark registrations and applications therefor throughout the world, and all goodwill relating to any of the foregoing (collectively, the “Marks”); (g) all databases and data collections and all rights therein throughout the world; (h) all domain names; (i) rights of privacy or publicity; (j) all telephone numbers, web addresses, and websites; and (k) any other intellectual property or any similar or equivalent rights to any of the foregoing anywhere in the world, including any application, registration or renewal therefor.
+
+1.13      “License Period” means the period commencing on the Effective Date and ending on the earlier of (a) ten years thereafter, (b) the Put Option Date (as defined in Section 10.3) or, (c) the date this Agreement is terminated in accordance with the terms of this Agreement.
+
+1.14      “Licensor Intellectual Property” means any and all Intellectual Property that is owned by or purported to be owned by Licensor, or under which Licensor has the right to grant a license or otherwise transfer its rights, excluding: (1) the “Voice Mobility” and “VMI” Marks and (2) any domain name that includes any of the terms “voice”, “mobility” or “vmi”.
+
+1.15      “New IP Assets” means any ownership interests in Intellectual Property or other assets that Licensor acquires or obtains after the Effective Date relating to any of the UCN IP Assets or the Business.
+
+1.16      “Object Code” means the fully compiled version of the Software that can be executed by a computer and used by an end user without further compilation.
+
+1.17      “Open Source Materials” means any software: (a) that contains, or is derived in any manner (in whole or in part) from, any software that is distributed as free software, open source software (e.g., GNU General Public License, Apache Software License, MIT License), or pursuant to similar licensing and distribution models, or (b) that requires as a condition of use, modification, hosting, and/or distribution of such software, or of other software used or developed with, incorporating, incorporated into, derived from, or distributed with such software, that such software or other software: (i) be disclosed or distributed in source code form; (ii) be licensed for the purpose of making derivative works; (iii) be redistributed, hosted or otherwise made available at no or minimal charge; or (iv) be licensed, sold or
+
+2
+
+otherwise made available on terms that (A) limit in any manner the ability to charge license fees or otherwise seek compensation in connection with marketing, licensing or distribution of such software or other software or (B) grant the right to decompile, disassemble, reverse engineer or otherwise derive the source code or underlying structure of such software or other software.
+
+1.18      “Person” means any individual, corporation, partnership, joint venture, limited liability company, trust, unincorporated organization or governmental entity.
+
+1.19      “Software” means all of the software identified in Exhibit B.
+
+1.20      “Source Code” means the human-readable version of the Software that can be compiled into Object Code.
+
+1.21      “UCN IP Assets” means (a) the Software (including without limitation the Source Code and Object Code), (b) all Licensor Intellectual Property, including any Intellectual Property obtained or acquired by Licensor after the Effective Date that relates to the Business; (c) all other intangible assets of the Business, (d) any Derivative Works of any of the foregoing made by or for AVST or its successors, assigns or licensees; and (e) all New IP Assets.
+
+2.      LICENSE
+
+2.1        License. Licensor hereby grants to AVST a fully paid-up, exclusive, only revocable in accordance with the terms and conditions of this Agreement, transferable, royalty-free license to make, have made, use, sell, offer to sell, market, import, distribute, reproduce, modify, access, create Derivative Works, perform, display, disclose, license, sublicense, translate, copy, record, transmit, add to, subtract from, arrange, rearrange, revise, change, adapt and otherwise exploit, within the Geographical Area and for the License Period, the UCN IP Assets in any medium now known or hereafter developed and without the obligation to account to Licensor, to the full extent now or hereafter permitted by the laws of the United States or the laws of any other countries, without condition, limitation, or reservation.
+
+2.2        Ownership of Software. Subject to the license and rights granted to AVST under this Agreement (including the option to purchase the UCN IP Assets pursuant to Section 11.1), Licensor will retain all title to the UCN IP Assets. Licensor and AVST will execute a license agreement (the “Software License Agreement”) pursuant to which AVST will grant to Licensor the right to use the Software on a limited commercial basis for a limited number of users as further specified therein.
+
+2.3        Ownership of Modifications. AVST will own all rights, title and interest in and to any Derivative Works of the UCN IP Assets made by or for AVST, including all rights in and to the Intellectual Property therein. Notwithstanding the termination or expiration of the License Period, AVST has the right to continue to exercise the rights granted under Section 2.1 with respect to any Derivative Works made by or for AVST, excluding any original works delivered to AVST under Section 4.1 of this Agreement.
+
+2.4        Use of Marks. AVST will ensure that the nature and quality of all products and services sold by AVST under the Marks licensed to AVST hereunder and all advertising, promotional or other uses of such Marks will conform to the quality standards previously achieved by Licensor and will be in material compliance with all applicable laws and regulations.
+
+3
+
+3.      LEASE OF PHYSICAL ASSETS
+
+3.1        Lease Grant. Licensor hereby leases to AVST, and AVST hereby leases from Licensor, all physical assets of Licensor necessary to design, develop and support the UCN IP Assets and which are described in the attached Exhibit C (the “Leased Assets”). The term of the lease granted hereunder will be coterminous with the License Period.
+
+3.2        Delivery. On the Effective Date or within 90 days thereafter, Licensor will arrange for the transport to and any assembly of the Leased Assets at a location designated by AVST. Expenses for any such delivery and assembly of the Leased Assets will be paid by Licensor.
+
+3.3        Assignment Upon Purchase of UCN IP Assets. Upon any sale of the UCN IP Assets by Licensor to AVST in accordance with this Agreement, Licensor will assign all right, title and interest in and to the Leased Assets to AVST.
+
+4.      PAYMENT AND DELIVERABLES
+
+4.1        Delivery of Assets. On the Effective Date, Licensor will deliver to AVST, in electronic form, a full and complete copy of the Software, including Source Code and Object Code, the Documentation, and all other UCN IP Assets. Licensor will promptly deliver to AVST any New IP Assets created, obtained or otherwise possessed by Licensor.
+
+4.2        Customer Agreements. On and after the Effective Date, Licensor will, at no additional charge, provide all assistance reasonably requested by AVST in connection with the negotiation of a separate services and support agreement by and between AVST and any Person who is currently a party to a Customer Agreement.
+
+4.3        Payment. In consideration of the license and lease granted by Licensor hereunder, AVST will pay to Licensor a license fee (the “License Fee”) equal to 2,387,424 shares (subject to adjustment as set forth in Exhibit D) of the Series 1 Preferred Stock of AVST (“Series 1 Preferred”), which shall be payable on the Effective Date and an additional fee equal to 530,539 shares (subject to adjustment as set forth in Exhibit D) of Series 1 Preferred on or prior to the five year anniversary of the Effective Date (the “Five Year Payment”). The shares of Series 1 Preferred paid to Licensor under this Agreement will be subject to (i) the Amended and Restated Investors’ Rights Agreement (as amended on October 4, 2010 and from time to time, the “Investors’ Rights Agreement”), dated June 4, 2009, by and among AVST, the Holders (as such term is defined in the Investors’ Rights Agreement), Silicon Valley Bank, a California corporation, and Escalate Capital I, L.P., a Delaware limited partnership; (ii) the Amended and Restated Right of First Refusal and Co-Sale Agreement (as amended on October 4, 2010 and from time to time, the “Co-Sale Agreement”), dated June 4, 2009, by and among AVST, the Common Holders (as such term is defined in the Co-Sale Agreement), and the Investors (as such term is defined in the Co-Sale Agreement); and (iii) the Voting Agreement (as amended on October 4, 2010 and from time to time, the “Voting Agreement”), dated June 4, 2009, by and among AVST, the Common Holders (as such term is defined in the Voting Agreement) and the Investors (as such term is defined in the Voting Agreement), and Licensor will execute any agreements, counterparts or joinders necessary to become a party thereto.
+
+4.4        Delivery of Payment. AVST will pay the License Fee by issuing stock certificates evidencing such shares in the name of Canadian Subsidiary.
+
+4.5        Licensor Deliverables. On the Effective Date, Licensor will deliver to AVST (a) all of the UCN IP Assets in accordance with Section 4.1, (b) any Leased Assets pursuant to Section 3.2, and (c)
+
+4
+
+Licensor's counterparts or joinders to each of the Investors' Rights Agreement, the Co-Sale Agreement, and the Voting Agreement.
+
+4.6        AVST Deliverables. On the Effective Date, AVST will deliver to Licensor the License Fee pursuant to Section 4.3.
+
+5.      SUPPORT
+
+5.1        Transition Services. In case, at any time after the Effective Date, AVST requests technical or business assistance pertaining to the Business, the UCN IP Assets, the Leased Assets and/or the Customer Agreements, Licensor will provide such assistance (the “Transition Services”) as reasonably requested by AVST at a rate of $200 per hour, except that any such Transition Services which are required of Licensor pursuant to Section 8.1 or due to a breach of this Agreement by Licensor, will be performed at no additional charge. Licensor will use its best efforts to perform any Transition Services and will use its best efforts to provide the personnel and man hours required to perform the Transition Services to the satisfaction of AVST.
+
+6.      CONFIDENTIALITY
+
+6.1        “Confidential Information” means any information, data or materials, in whatever form or medium, at any time furnished by either Party to the other, or to which either Party is exposed during the term of this Agreement, and duly marked as “Confidential” or “Proprietary” (or words of similar import). Any other disclosure of Confidential Information, including, without limitation, oral disclosure, shall be accompanied by an indication from the disclosing Party (“Discloser”) to the other Party (“Recipient”) that such information is confidential. Except as otherwise expressly permitted by this Agreement or in writing by an authorized representative of Discloser, Recipient shall maintain the Confidential Information of the Discloser in strict confidence using at least the same degree of care as it uses to protect its own Confidential Information, but no less than a reasonable degree of care, and shall not use the Confidential Information for any purpose other than the purposes contemplated under this Agreement. The obligations set forth above shall not apply to Confidential Information that: (a) before the time of its disclosure, was already in the lawful possession of the Recipient; or (b) through no wrongful act of the Recipient, at the time of its disclosure is, or later becomes, available to the general public; or (c) by documentation is demonstrated as being, or is demonstrated as having been, lawfully independently developed by Recipient without breach of this Agreement; or (d) is rightfully received by Recipient from a third party without a duty of confidentiality. If Recipient becomes legally compelled (by deposition, interrogatory, subpoena, civil investigative demand or similar process or applicable securities laws) to disclose any Confidential Information, then Recipient shall provide Discloser with prompt prior written notice of such requirement so that Discloser may seek a protective order or other appropriate remedy. If such protective order or other remedy is not obtained, or if Discloser waives in writing compliance with the terms hereof, then Recipient shall furnish only that portion of the information which Recipient is advised by written opinion of counsel is legally required; and Recipient shall use reasonable efforts to obtain confidential treatment of such information.
+
+7.      REPRESENTATIONS AND WARRANTIES
+
+7.1        Warranties of Licensor. Licensor represents, warrants and covenants to AVST that the statements contained in this Section 7.1 are true, complete and correct as of the Effective Date and during the Term (as defined in Section 12.1):
+
+(a)
+
+Parent is a corporation duly organized, validly existing and in good standing under the laws of the State of Nevada, and Canadian Subsidiary is a corporation
+
+5
+
+duly organized, validly existing and in good standing under the federal laws of Canada.
+
+(b)
+
+Neither Licensor has violated, nor is in violation of, any of the provisions of its governing documents.
+
+(c)
+
+Each Licensor has full corporate power and authority to execute, deliver and perform this Agreement.
+
+(d)
+
+The execution, delivery and performance of this Agreement have been duly authorized by all necessary corporate action on the part of each Licensor.
+
+(e)
+
+Each Licensor's representative signing this Agreement has the full corporate power and authority to execute this Agreement and bind such Licensor to all terms and conditions hereof.
+
+(f)
+
+Each Licensor has all rights and authority to grant the licenses, lease and other rights as provided in this Agreement, without any obligation to any other party.
+
+(g)
+
+Each Licensor's execution, delivery and performance of this Agreement do not and will not (i) constitute a breach or violation of such Licensor's governing documents, (ii) constitute a breach or violation of any law, constitution, statute, regulation, injunction, judgment, order, decree, ruling, charge, or other restriction of any governmental authority to which such Licensor or any of the UCN IP Assets or Customer Agreements are subject, (iii) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice under, any agreement, contract, or lease to which such Licensor is a party or by which it is bound or to which any of the UNC IP Assets, the Leased Assets, or Customer Agreements are bound or affected (or result in the imposition of any encumbrance upon any of the UCN IP Assets, the Leased Assets, or Customer Agreements), or (iv) require any permit, declaration of, notice to, authorization or consent of any Person, including any governmental authority, except for the Exchange, whose consent or authorization has been given or obtained.
+
+(h)
+
+Except as disclosed in Schedule 7.1(h), Licensor has exclusive title to, and owns and possesses, free and clear of any encumbrances, all of the UCN IP Assets and the Leased Assets. Schedule 7.1(h) identifies Persons that hold a security interest in the UNC IP Assets (each, a “Secured Party”) and indicates, for each such Person, whether Licensor has obtained the consent or approval (each a “Secured Party Consent”) of such Person with respect to the transactions contemplated by this Agreement.
+
+(i)
+
+Neither Licensor has granted to any other Person any license, sublicense, agreement or other permission with respect to the UCN IP Assets or any Intellectual Property rights therein.
+
+(j)
+
+Licensor is the sole owner of all registered Licensor Intellectual Property.
+
+(k)
+
+Each Licensor has taken all reasonably necessary actions to maintain and protect each of the UCN IP Assets and the Leased Assets.
+
+6
+
+(l)
+
+The UCN IP Assets and the Leased Assets constitute all of the properties and assets necessary to operate the Business and to develop, market, license, support and exploit the Software and the other UCN IP Assets, in substantially the same manner as operated, developed, marketed, licensed, supported and exploited by Licensor immediately prior to the Effective Date and as contemplated by this Agreement.
+
+(m)
+
+Neither Licensor is a party to any agreement with any third party (whether written, oral or implied) that restricts, limits or otherwise adversely affects, or is inconsistent with, the licenses or lease granted to AVST under this Agreement or any other rights granted by Licensor hereunder.
+
+(n)
+
+Neither Licensor has misappropriated any of the UCN IP Assets from a third party, nor do any of the UCN IP Assets infringe any Intellectual Property rights of a third party. There is no claim, nor a basis for any such claim, (whether or not commenced, brought, conducted or heard by or before, or otherwise involving, any governmental authority or arbitrator) or other action, litigation, proceeding or administrative investigation pending, or to each Licensor's knowledge, threatened, against such Licensor or to which such Licensor is a party or concerning any of the UCN IP Assets.
+
+(o)
+
+No third party has interfered with, infringed upon, misappropriated, or violated any Intellectual Property rights with respect to the UCN IP Assets.
+
+(p)
+
+The Source Code and Object Code conform in all material respects to the applicable Documentation.
+
+(q)
+
+No Source Code has been disclosed, delivered, licensed, or is subject to any source code escrow or similar obligation, whether contingent or otherwise, by either Licensor to a third party.
+
+(r)
+
+None of the UCN IP Assets contains any Open Source Materials that requires the licensing, disclosure, distribution or grant of rights in and to any Source Code other than such Open Source Materials.
+
+(s)
+
+No funding, facilities or personnel of any educational institution or governmental entity were used, directly or indirectly, to develop or create, in whole or in part, any UCN IP Assets.
+
+(t)
+
+Each Licensor has secured valid written assignments from all consultants, employees and other third parties who contributed to the creation or development of the UCN IP Assets of the rights to such contributions that such Licensor does not already own by operation of law, pursuant to which such Licensor is the sole owner of all such contributions, and all rights therein, including, without limitation, the right to sue for past, present and future infringement.
+
+(u)
+
+Each Licensor has complied, in a timely manner and in all material respects, with all applicable laws, ordinances, rules, regulations, orders and decrees of any governmental authority that affect the UCN IP Assets, including all applicable export control laws, and no notice, charge, claim or assertion has been received by either Licensor or, to each Licensor's knowledge, has been filed, commenced
+
+7
+
+or threatened against such Licensor alleging any violation of any of the foregoing.
+
+(v)
+
+Neither Licensor is a party to or bound by any agreement with a third party relating to the UCN IP Assets containing any covenant (i) limiting the right of such Licensor to engage or compete in any line of business or to compete with any Person, (ii) granting to any Person any exclusive rights, (iii) providing “most favored nations” or similar rights to any Person, or (iv) which otherwise adversely affects or would reasonably be expected to adversely affect the right of such Licensor to use, market, import, sell, distribute, manufacture or otherwise exploit any UCN IP Asset or to purchase or otherwise obtain any software, services, components or parts relating thereto.
+
+(w)
+
+The Customer Agreements are valid, binding and enforceable in accordance with their respective terms with respect to Licensor and each other party to such Customer Agreements. There is no existing material default or breach by either Licensor under any Customer Agreement (or any event or condition that, with notice or lapse of time or both could constitute a default or breach). To each Licensor's knowledge, there is no existing material default or breach by any other party to any such Customer Agreement (or any event or condition that, with notice or lapse of time or both could constitute a default or breach). No party to any Customer Agreement has terminated, modified, accelerated or canceled such Customer Agreement or any material right or liability thereunder or communicated such party’s desire or intent to do so. Neither Licensor has received any prepayment under any Customer Agreement for any service that has not been fully performed or product that has not been supplied.
+
+(x)
+
+This Agreement constitutes the legal, valid and binding obligations of each Licensor, enforceable in accordance with its terms.
+
+7.2        Warranties of AVST. AVST represents, warrants and covenants to Licensor that the statements contained in this Section 7.2 are true, complete and correct as of the Effective Date and during the Term (as defined in Section 12.1):
+
+(a)
+
+AVST is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware.
+
+(b)
+
+AVST has not violated, and is not in violation of, any of the provisions of its governing documents.
+
+(c)
+
+AVST has full corporate power and authority to execute, deliver and perform this Agreement.
+
+(d)
+
+The execution, delivery and performance of this Agreement have been duly authorized by all necessary corporate action on the part of AVST .
+
+(e)
+
+AVST’s representative signing this Agreement has the full corporate power and authority to execute this Agreement and bind AVST to all terms and conditions hereof.
+
+8
+
+(f)
+
+The authorized, issued and outstanding share and debt capital of AVST (including percentage ownership both on a non-diluted and fully diluted basis) and all convertible securities, warrants, stock options or convertible obligations or other rights for the acquisition, purchase, subscription, allotment or issuance of any shares or securities of AVST, immediately prior to the transactions described in this Agreement, is set forth in Schedule 7.2(f) hereto and the issued shares in the capital of AVST provided therein are fully paid and non-assessable.
+
+8.      COVENANTS
+
+8.1        Further Assurances. In case, at any time after the Effective Date, any further action is necessary to carry out the purposes of this Agreement, Licensor will take such further action (including the execution and delivery of such further instruments and documents) as AVST may request. Licensor hereby irrevocably appoints AVST as Licensor's attorney-in-fact, with full authority in the place and stead of Licensor and in the name of Licensor, from time to time in AVST's discretion, to take any action and to execute any instrument that AVST may deem necessary or advisable to accomplish the purposes of this Agreement, including, without limitation, the filing of any documents or the participation in any proceedings required to maintain, preserve or enforce any UCN IP Assets or any Intellectual Property rights therein.
+
+8.2        Secured Party Consents. Within 30 days following the Effective Date, Licensor will, at its own cost and expense, obtain any Secured Party Consent that it was unable to obtain prior to the Effective Date, except the Licensor will not be required to obtain consents for Secured Parties holding in the aggregate a total of $165,000 in debt of the Licensor. Within five business days following receipt of any such Secured Party Consent, Licensor will notify AVST of such receipt and provide to AVST a copy of such Secured Party Consent.
+
+8.3        Restrictions on Transfers and Encumbrances. Licensor will not transfer, pledge, hypothecate, encumber, license, sell or otherwise dispose of any of the UCN IP Assets, any Intellectual Property rights therein, or any of the Leased Assets.
+
+8.4        Material Changes. Licensor will notify AVST immediately of any material change in the status of any UCN IP Assets, including, without limitation, when Licensor learns (a) that any of the UCN IP Assets may become abandoned, encumbered or dedicated; (b) of any adverse written determination by a court or other governmental authority (including the institution of any proceeding in the United States Patent and Trademark Office or any other U.S. or foreign court or tribunal of any kind) regarding any of the UCN IP Assets or any Intellectual Property rights therein; (c) that Licensor is in default of any of the rights pertaining to any UCN IP Assets; or (d) of any claim of infringement affecting or related to any UCN IP Assets.
+
+8.5        New Rights. Licensor will give AVST prompt notice of any New IP Assets.
+
+8.6        Registered IP. At the cost and expense of AVST, Licensor will take all necessary steps, including, without limitation, in any proceeding before the United States Patent and Trademark Office, United States Copyright Office or any similar office or agency in any other country or any political subdivision thereof, to obtain, maintain and pursue any application (and to obtain the relevant registration) and to maintain any registration of any Licensor Intellectual Property, including, without limitation (a) filing of divisional, continuation, continuation-in-part and substitute applications; (b) filing of applications for reissue, renewal or extensions; (c) payment of maintenance fees; (d) participation in
+
+9
+
+reexamination, opposition and interference proceedings; and (e) filing of applications for registration renewal, affidavits of use and affidavits of incontestability.
+
+8.7        Preservation. Licensor will take all steps necessary to diligently pursue and seek to obtain, preserve, enforce and collect any rights, claims, and causes of action in respect of the UCN IP Assets and any Intellectual Property rights therein. Licensor will not, and will not permit any third party to, do any act or knowingly omit to do any act whereby any of the UCN IP Assets, or any Intellectual Property right therein, may become abandoned, invalidated or otherwise impaired.
+
+8.8        Enforcement. Without limiting the covenant set forth in Section 8.6, AVST, to the extent permitted by law, will have the right, but not the obligation, at its cost and expense, to bring an action against any third party for infringement of the UCN IP Assets or any of the Intellectual Property rights therein. Licensor, at its cost and expense, will cooperate with AVST in any such action and will have the right to participate in such action, including, without limitation, the right and opportunity to review and comment in advance on any material filings or proceedings.
+
+8.9        Taxes. Licensor will promptly pay all taxes and other governmental charges levied or assessed upon or against any UCN IP Assets.
+
+8.10      Non-Competition. Except as permitted by the Software License Agreement, Licensor will not directly or indirectly exercise or permit others to exercise any rights that pertain to the UCN IP Assets in any of the Geographical Area. Licensor has confidential information and proprietary rights relating to the UCN IP Assets and the Business, and Licensor acknowledges that such information and rights are of extreme importance to the operation of the Business and the exploitation of the UCN IP Assets and will continue to be so after the Effective Date, and that disclosure of such confidential information to others, or the unauthorized use of such information or rights or the use of such rights by Licensor, may cause substantial loss and harm to AVST. Licensor and AVST further agree that the market for the services and products provided in connection with the Business is intensely competitive. Therefore, during the License Period (the “Restricted Period”), Licensor will not, anywhere in the Geographical Area, directly or indirectly (including without limitation, through any Affiliate of Licensor), own; manage; operate; control; be employed by; engage or participate in, or be connected as an owner, partner, principal, sales representative, advisor, member of the board of directors of, employee of or consultant of; or as it relates to the UCN IP Assets provide services to, otherwise deal with, or grant rights to any Competitor.
+
+8.11      Nonsolicitation of Customers. During the Restricted Period, Licensor will not, directly or indirectly, (a) solicit, induce or attempt to induce any Customer (as defined below) to cease doing business in whole or in part with AVST with respect to the Business; (b) attempt to limit or interfere with any agreement or relationship existing between AVST or any of its Affiliates with respect to the Business with any third party; or (c) disparage or take any actions that are harmful to the business reputation of AVST. “Customer” as used herein means (i) any customer or client of Licensor with respect to the Business or any such customer of AVST or any of its Affiliates, in each case whether existing on the Effective Date or at any time thereafter during the Restricted Period, and (ii) any potential customer or client of Licensor with respect to the Business or any such customer or client of AVST or any of its Affiliates that is being actively pursued by AVST or any such Affiliates during the Restricted Period.
+
+9.      INDEMNIFICATION
+
+9.1        Indemnification Obligations of Licensor. Parent and Canadian Subsidiary jointly and severally will indemnify, defend and hold harmless AVST and its Affiliates, and each of their respective
+
+10
+
+directors, officers, managers, members, partners, shareholders, subsidiaries, employees, successors, heirs, assigns, agents and representatives (each an “Indemnified Person”) from and against and be liable for any and all Damages related to or arising, directly or indirectly, out of, caused by or resulting from: (a) any breach or inaccuracy, or allegation by any third party which, if true, would be a breach or inaccuracy, of any representation or warranty made in this Agreement by Licensor; (b) any breach or nonperformance of any covenant, agreement or obligation in this Agreement to be performed by Licensor on or after the Effective Date; and (c) the negligence or willful misconduct of Licensor.
+
+9.2        Indemnification Obligations of AVST. AVST will indemnify, defend and hold harmless Licensor and its Affiliates, and each of their respective directors, officers, managers, members, partners, shareholders, subsidiaries, employees, successors, heirs, assigns, agents and representatives from and against and be liable for any and all Damages related to or arising, directly or indirectly, out of, caused by or resulting from: (a) any breach or inaccuracy, or allegation by any third party which, if true, would be a breach or inaccuracy, of any representation or warranty made in this Agreement by AVST; (b) any breach or nonperformance of any covenant, agreement or obligation in this Agreement to be performed by AVST on or after the Effective Date; and (c) the negligence or willful misconduct of AVST.
+
+9.3       Indemnity Cap. Licensor’s maximum aggregate liability under Section 9.1 and the parallel indemnification provision to be included in the Software License Agreement and AVST’s maximum aggregate liability under Section 9.2 and the parallel indemnification provision to be included in the Software License Agreement shall equal the License Fee (as adjusted in accordance with Exhibit D) (the “Cap”); provided, however, that no losses resulting from such Party’s recklessness or intentional misconduct shall be covered by or counted towards such Party’s Cap.
+
+10.    PUT OPTION; PURCHASE PRICE
+
+10.1      Put Option. Subject to the satisfaction of the condition set forth in Section 10.2, upon the delivery of a written notice by Licensor to AVST (the “Put Notice”), Licensor may elect to sell all of the UCN IP Assets to AVST (the “Put Option”) in exchange for the Purchase Price (as defined in Section 10.3).
+
+10.2      Condition to Exercise of Put Option. Subject to Exchange approval, Licensor may exercise the Put Option at any time during the License Period, provided that the shareholders of Licensor are not required to approve Licensor's exercise of the Put Option or the sale of the UCN IP Assets to AVST. Upon exercise of the Put Option or the sale of the UCN IP Assets to AVST, the Parties will execute an asset purchase agreement (the “Purchase Agreement”), to be agreed upon by the Parties, and which will contain customary representations, warranties, covenants and indemnities. In addition, the Purchase Agreement will, among other things, (a) incorporate the provisions of this Section 10 that relate to the Purchase Price, (b) contain a 5-year non-compete and customary non-solicitation provisions, and (c) contain a holdback provision that will delay for 24 months the payment to Licensor of 20% of the Purchase Price in order to pay any Damages for which Licensor has an indemnification obligation under the Purchase Agreement.
+
+10.3      Closing. The closing of the Put Option (the “Put Option Date”) will occur within twenty (20) business days following the date of the Put Notice. At such closing, AVST will pay Licensor the purchase price (the “Purchase Price”) equal to the following:
+
+(a)
+
+An initial payment of 530,539 shares (subject to adjustment as set forth in Exhibit D) of Series 1 Preferred, to be paid on the Put Option Date;
+
+11
+
+(b)
+
+Subject to the satisfaction of the conditions set forth in this Section 10.3(b), an earnout payment equal to 1,193,712 shares (subject to adjustment as set forth in Exhibit D) of Series 1 Preferred (the “First Performance Earnout”), to be paid in installments (each installment, an “Earnout Payment”) as follows:
+
+(i)
+
+one-third of the First Performance Earnout, to be paid to Licensor if AVST's gross revenues, calculated in accordance with GAAP, generated by the Business exceed $500,000 during the year ending December 31, 2011;
+
+(ii)
+
+one-third of the First Performance Earnout to be paid to Licensor if AVST's gross revenues, calculated in accordance with GAAP, generated by the Business exceed $1,500,000 during the year ending December 31, 2012; and
+
+(iii)
+
+one-third of the First Performance Earnout to be paid to Licensor if AVST's gross revenues, calculated in accordance with GAAP, generated by the Business exceed $3,500,000 during the year ending December 31, 2013; and
+
+(c)
+
+Subject to the satisfaction of the conditions set forth in this Section 10.3(c), a second earnout payment equal to 1,193,712 shares (subject to adjustment as set forth in Exhibit D) of Series 1 Preferred (the “Second Performance Earnout”), to be paid upon the successful execution of a long-term distribution agreement with one or more of the hosted communications service providers listed on Schedule 10.3(c); provided that such distribution agreement is executed prior to 180 days after the Effective Date.
+
+10.4      Earnout Payments. Each Earnout Payment under the First Performance Earnout, if paid, will be paid to Licensor on the later of (I) 20 business days from the date on which the financial statements for the applicable Earnout Payment period become available or (II) the Put Option Date. The Second Performance Earnout, if paid, will be paid to Licensor on the later of (A) the Put Option Date or (B) the date of the execution of the distribution agreement referenced in Section 10.3(c). On the date on which an Earnout Payment is made, AVST will (a) deliver to Licensor an income statement showing in reasonable detail the true and complete computations made in calculating the gross revenues generated by the Business during the applicable year, and (b) pay the Earnout Payment to Licensor by delivering a stock certificate evidencing the applicable shares of the Series 1 Preferred Stock of AVST. The income statement submitted by AVST will (x) be true, complete, accurate and correct in all material respects, (y) be prepared in accordance with GAAP, and (z) fairly and accurately present in all material respects the results of operations of the Business during the covered period.
+
+10.5      Disputes. In the event of any dispute, claim, question or disagreement arising from or relating to an Earnout Payment or the Second Performance Earnout, the Parties will use all reasonable efforts to settle the dispute, claim, question or disagreement. To that end, the Parties will consult and negotiate with each other in good faith and, recognizing their mutual interests, attempt to reach a just and equitable solution satisfactory to both Parties. If they do not reach such a solution within a period of 30 days, then, upon notice by either Party to the other, all disputes, claims, questions or differences with respect to an Earnout Payment will be finally settled by binding arbitration in accordance with Section 14.3.
+
+12
+
+10.6      Covenants With Respect to Earnout Payments. AVST acknowledges and agrees that the ability of the Business to generate sufficient revenues to entitle Licensor to an Earnout Payment, and the ability of the Parties to calculate fairly and measure the performance of the Business, will depend upon maintaining the Business as a whole and as a discrete business unit during the periods subject to an Earnout Payment (collectively, the “Earnout Period”). Accordingly, AVST will (a) act in good faith during the Earnout Period, (b) use commercially reasonable efforts in operating the Business during the Earnout Period, (c) maintain separate books and records relating to the gross revenues of the Business sufficient to allow preparation of an independent audit of its gross revenues throughout the Earnout Period, (d) account for such items on a basis consistent with AVST's operations in the Business in the ordinary course as determined by AVST in its discretion, in accordance with generally accepted accounting principles consistently applied in the United States, and (e) produce financial statements within three months of a period ending.
+
+11.    AVST OPTION TO PURCHASE
+
+11.1      Option to Purchase. At or prior to the end of the License Period, AVST may, in its sole discretion and subject to any required approval by the Licensor’s shareholders (“Shareholder Approval”) and Exchange, purchase the UCN IP Assets for the Purchase Price set forth in Section 10; provided, however, that the First Performance Earnout and the Second Performance Earnout will not be paid until earned in accordance with this Agreement. If Shareholder Approval is required, AVST will use commercially reasonable efforts to provide any information needed by Licensor to obtain Shareholder Approval.
+
+12.    TERM AND TERMINATION
+
+12.1      Term. The term of this Agreement (the “Term”) will be coterminous with the License Period, unless earlier terminated in accordance with this Agreement.
+
+12.2      Termination upon Exercise of Put Option or Sale of UCN IP Assets. This Agreement will terminate upon the Put Option Date or upon the sale to AVST of the UCN IP Assets in accordance with this Agreement.
+
+12.3      Termination for Breach. Either Party may terminate this Agreement following any material breach of this Agreement by the other party by providing thirty (30) days written notice of its intent to terminate. Termination will become effective at the expiration of this thirty (30) day period if the defaulting party has not cured the breach to the terminating party’s reasonable satisfaction.
+
+12.4      Termination for Failure to Pay Five Year Payment. Licensor may terminate this Agreement at any time after the five year anniversary of this Agreement upon providing thirty (30) days written notice to AVST, if AVST has not paid the Five Year Payment to the Licensor. Termination under this Section 12.4 will become effective at the expiration of this thirty (30) day period if AVST has not paid the Five Year Payment within such cure period. Termination of this Agreement pursuant to this Section 12.4 will be Licensor's sole and exclusive remedy for any failure by AVST to pay the Five Year Payment. This Section 12.4 shall in no way limit the rights of the Licensor under Section 12.3.
+
+12.5      Survival. The rights and obligations under Sections 2.3, 6, 9, 13, and 14 will survive the termination of this Agreement. The representations and warranties of AVST contained in Section 7.2 and Licensor contained in Section 7.1 will survive the execution of this Agreement and thereafter for 30 days beyond the expiration of the applicable statute of limitations.
+
+13
+
+13.    LIMITATION OF LIABILITY
+
+EXCEPT FOR A BREACH OF THE OBLIGATION OF CONFIDENTIALITY SET FORTH IN SECTION 6, OR WITH RESPECT TO ANY INDEMNIFICATION OBLIGATION PROVIDED UNDER THIS AGREEMENT, IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OR LOSS OF PROFIT, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH ANY BREACH OF THIS AGREEMENT, EVEN IF SAID PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+14.    MISCELLANEOUS PROVISIONS
+
+14.1      Relationship of the Parties. The Parties are operating as independent contractors, and nothing in this Agreement will be construed as creating a partnership, franchise, joint venture, employer-employee or agency relationship.
+
+14.2      Assignment. Neither this Agreement nor any interest hereunder is assignable in part or whole by either Party without the prior written consent of the other. Notwithstanding this restriction, either Party may assign this Agreement to a successor by merger, consolidation, or sale of all or substantially all of its assets. This Agreement will be binding upon the successors and permitted assigns of the Parties. Any assignment which is not in accordance with this Section will be void and without effect.
+
+14.3      Governing Law; Venue; Dispute Resolution. This Agreement is made in accordance with and shall be governed and construed in accordance with the laws of California, without regard to conflicts of laws rules. The Parties hereby disclaim the application of the UN Convention on the International Sale of Goods. Any dispute, controversy, or claim arising under, out of, or relating to this Agreement, and any subsequent amendments of this Agreement, including, without limitation, its formation, validity, binding effect, interpretation, performance, breach or termination, as well as non-contractual claims, will be finally determined by arbitration administered by the Judicial Arbiter Group (or, if unavailable, then such other similar group that can provide former judges as arbiters)by three arbitrators in accordance with the Rules of Arbitration of the International Chamber of Commerce applicable to commercial disputes. Within 10 business days after the commencement of arbitration, each Party will select one person to act as arbitrator and the two selected will select a third arbitrator within 10 business days of their appointment. The place of such arbitration will be in Orange County, California, United States. The judgment of the arbitration will be final, non-appealable (to the extent not inconsistent with applicable law) and binding upon the Parties, and judgment may be entered upon the arbital award in any court of competent jurisdiction. The arbitration panel will issue a written opinion setting forth its decision and the reasons therefor within 30 days after the arbitration proceeding is concluded.
+
+14.4      Notices. All notices and other communications hereunder will be in writing unless otherwise noted and will be deemed given if delivered personally, sent by facsimile transmission (only if receipt is verified by the receiving party), sent by electronic mail transmission (only if receipt is verified by the receiving party), or sent by express courier service. Such notices and communications shall be made to the following addresses (or at such other address for a party as will be specified by like notice; provided, that notices of a change of address will be effective only upon receipt thereof):
+
+14
+
+For Licensor:
+
+Voice Mobility International, Inc.
+
+107 - 645 Fort Street
+
+Victoria, British Columbia V8W 1G2
+
+Attention: Jay Hutton
+
+Fax No.: (250) 978-5051
+
+with a copy which will not constitute notice to:
+
+Clark Wilson LLP
+
+800 – 885 W Georgia Street
+
+Vancouver, British Columbia, Canada V6C 3H1
+
+Attention: Virgil Hlus
+
+(604) 687-5700 telephone
+
+(604) 687-6314 fax
+
+For AVST:
+
+Applied Voice & Speech Technologies, Inc.
+
+27042 Towne Centre Drive, Suite 200
+
+Foothill Ranch, California 92610-2810
+
+Attention: _____________________
+
+Fax No.: (949) 672-3511
+
+14.5      Amendment. No amendment, modification or supplement of any provision of this Agreement will be valid or effective unless made in writing and signed by a duly authorized officer of each Party.
+
+14.6      Waiver. No provision of this Agreement will be waived by any act, omission or knowledge of a party or its agents or employees except by an instrument in writing expressly waiving such provision and signed by a duly authorized officer of the waiving Party.
+
+14.7      Severability. Whenever possible, each provision of the Agreement will be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be prohibited by or invalid under applicable law, such provision will be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this Agreement.
+
+14.8      Headings/Governing Language. The section headings appearing in this Agreement are inserted only as a matter of convenience and in no way define, limit, construe or describe the scope or intent of any such section nor in any way affect this Agreement. The governing language for the interpretation of this Agreement shall be the English language.
+
+14.9      Entire Agreement of the Parties. This Agreement and all schedules and exhibits attached hereto constitute and contain the complete, final and exclusive understanding and agreement of the Parties with respect to the subject matter hereof. This Agreement cancels and supersedes any and all prior negotiations, correspondence, understandings and agreements, whether oral or written, between the Parties respecting the subject matter thereof.
+
+[Signature Page Follows]
+
+15
+
+IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement, including the Schedules and Exhibits attached hereto and incorporated herein by reference.
+
+LICENSOR:
+
+AVST:
+
+VOICE MOBILITY INTERNATIONAL, INC.
+
+APPLIED VOICE & SPEECH TECHNOLOGIES, INC.
+
+By: /s/ Jay Hutton
+
+By: /s/ William Hardy Myers
+
+Name: ___________________________
+
+Name: ___________________________
+
+Title:   ___________________________
+
+Title:   ___________________________
+
+LICENSOR:
+
+VOICE MOBILITY INC.
+
+By: /s/ Jay Hutton
+
+Name: ___________________________
+
+Title:   ___________________________
+
+16

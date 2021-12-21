@@ -1,0 +1,1583 @@
+Exhibit 10.1
+
+***Text Omitted and Filed Separately
+
+with the Securities and Exchange Commission.
+
+Confidential Treatment Requested
+
+Under 17 C.F.R. Sections 200.80(b)(4)
+
+and 240.24b-2.
+
+HSBC HOLDINGS plc
+
+AND
+
+KANBAY EUROPE LTD.
+
+APRIL 2005
+
+CONSULTANCY SERVICES
+
+GLOBAL SUPPLY AGREEMENT
+
+MASTER SERVICES AGREEMENT
+
+STATEMENT OF WORK
+
+1
+
+CONTENTS
+
+1
+
+DEFINITIONS AND INTERPRETATION
+
+2
+
+ENGAGEMENT
+
+3
+
+THE CONSULTANT’S OBLIGATIONS
+
+4
+
+WARRANTIES
+
+5
+
+HSBC’S OBLIGATIONS
+
+6
+
+ACCEPTANCE
+
+7
+
+CHARGES
+
+8
+
+HSBC GROUP CHANGES
+
+9
+
+CONSULTANT’S IT OBLIGATIONS
+
+10
+
+CHANGE CONTROL
+
+11
+
+NON SOLICITATION
+
+12
+
+TRAINING
+
+13
+
+INTELLECTUAL PROPERTY RIGHTS
+
+14
+
+LIABILITY
+
+15
+
+CONFIDENTIALITY
+
+16
+
+PUBLICITY
+
+17
+
+DATA PROTECTION
+
+18
+
+BREACH AND TERMINATION
+
+19
+
+FORCE MAJEURE
+
+20
+
+ESCALATION
+
+21
+
+DISPUTES
+
+22
+
+ADMINISTRATION AND MANAGEMENT OF AGREEMENT
+
+23
+
+ASSIGNMENT
+
+24
+
+VARIATION
+
+25
+
+NOTICES
+
+26
+
+SET-OFF
+
+27
+
+FURTHER ASSURANCE
+
+28
+
+COUNTERPARTS
+
+29
+
+INSURANCE
+
+30
+
+INTERNAL AND EXTERNAL AUDIT
+
+31
+
+RELATIONSHIP OF THE PARTIES
+
+32
+
+GENERAL
+
+ATTACHMENT A – Annex 1 - UK Declaration of Conformity
+
+ATTACHMENT A – Annex 2 - Declaration of Confidentiality
+
+ATTACHMENT B – ADDITIONAL PARTIES ENTITLED TO THE BENEFIT
+
+ATTACHMENT C - PROFORMA STATEMENT OF WORK
+
+ATTACHMENT D - DATA PROTECTION PROVISIONS
+
+2
+
+THIS AGREEMENT IS MADE THIS 19TH DAY OF APRIL 2005
+
+Between:
+
+HSBC Holdings plc whose registered office is 8 Canada Square, London, E14 5HQ (Registered Number 617987) which shall hereinafter be referred to as “HSBC”; and:
+
+Kanbay Europe Ltd. of Compass House, Vision Park, Histon Cambridge, CB4 9AD UK (Registered Number 3282049) which shall hereinafter be referred to as “Consultant”.
+
+WHEREAS
+
+A.                                   Consultant has developed skill and expertise in various types of consulting services of interest to HSBC and to any one or more of the HSBC Group Members (as defined below).
+
+B.                                     HSBC and any one or more of the HSBC Group Members wish to engage the Consultant to provide certain services and the parties have agreed that the Consultant will supply or procure the supply of such services to HSBC and the relevant HSBC Group Members on the terms of this Agreement.
+
+1                                         DEFINITIONS AND INTERPRETATION
+
+1.1                               Interpretation
+
+The interpretation and construction of the Agreement shall be subject to the following:
+
+Headings are for convenience only, and do not affect interpretation.  The following rules also apply in interpreting this Agreement, except where the context makes it clear that a rule is not intended to apply:
+
+(a)                                  reference to:
+
+(i)                                     subject to Clause 4.1.9, legislation (including subordinate legislation) is to that English legislation as amended, re-enacted or replaced, and includes any subordinate legislation issued under it;
+
+(ii)                                  a document or agreement, or a provision of a document or agreement, is to that document, agreement or provision as amended, supplemented, replaced or novated;
+
+(iii)                               a party to this Agreement or to any other document or agreement includes a permitted substitute or a permitted assign of that party; and
+
+3
+
+(iv)                              a person includes any type of entity or body of persons, whether or not it is incorporated or has a separate legal identity, and any executor, administrator or successor in law of the person;
+
+(b)                                 a singular word includes the plural, and vice versa;
+
+(c)                                  a word which suggests one gender includes the other genders;
+
+(d)                                 if an example is given of anything (including a right, obligation or concept), such as by saying it includes something else, the example does not limit the scope of that thing;
+
+(e)                                  the words “subsidiary” and “holding company” have the same meaning set out at section 736 of the Companies Act 1985, and “management control” shall be demonstrated by the ability to exercise significant influence over an entity or its management;
+
+(f)                                    the headings to clauses are for reference purposes only and shall not affect the interpretation or construction of the clauses;
+
+(g)                                 subject to clauses 1.1(h) and 1.1(i), in the event of conflict, the provisions of this Agreement are to be read in the following order of precedence in relation to that conflict:
+
+(i)                                     the Terms and Conditions;
+
+(ii)                                  the Attachments;
+
+(iii)                               the SoWs (and their Appendices); and
+
+(iv)                              any document incorporated by reference;
+
+if a conflict occurs between the documents listed above then the document higher in the order of precedence will prevail to resolve that conflict;
+
+(h)                                 subject to clause 1.1(i), in the event of conflict between a provision in the Terms and Conditions and a provision in a SoW, the provisions in clause 1.1(g) shall not apply and the provision in the SoW shall take precedence over the conflicting provision in the Terms and Conditions to the extent of the conflict, provided that the SoW expressly makes reference to the specific conflicting provision in the Terms and Conditions and expressly states that the provision in the SoW shall take precedence;
+
+(i)                                     nothing in a SoW shall be read to take precedence over clauses 4, 13 and 14 in the Terms and Conditions and clause 1.1(h) shall not apply to such provisions, except where HSBC and the Consultant have expressly agreed otherwise in a specific SoW
+
+4
+
+between HSBC or a HSBC Group Member and the Consultant or a Consultant Affiliate; and
+
+(j)                                     capitalised terms in this Agreement shall have the meanings set out in clause 1.2.
+
+1.2                               Definitions
+
+“Acceptance” means the time at which the Deliverables pass the Acceptance Tests and HSBC or the relevant HSBC Group Member signs a certificate to that effect in accordance with clause 6 (Acceptance);
+
+“Acceptance Tests” means the tests for acceptance of the Deliverables set out in the relevant SoW (and “Acceptance Testing” shall be construed accordingly);
+
+“Agreement” means these Terms and Conditions together with the Attachments and all the SoWs (whether executed between HSBC or a HSBC Group Member and Consultant or a Consultant Affiliate), together with their Appendices, and any document incorporated by reference, as amended from time to time in writing and agreed by HSBC and the Consultant. For the avoidance of doubt, any such terms and conditions submitted by the Consultant or any Consultant Affiliate in the course of ordering and/or supplying the Services shall not replace, alter or amend these Terms and Conditions unless HSBC shall have agreed to the contrary in writing;
+
+“Best Endeavours” means to take every step necessary to achieve the desired result including taking such action and making available such resources to the extent necessary to achieve the desired objective;
+
+“Business Day” means any day on which banks are ordinarily open for business in the country in which the Services are being provided and if such matter cannot be determined for any reason, then any day on which banks are ordinarily open for business in London;
+
+“Charges” means the fees set out in the relevant SoW;
+
+“Commencement Date(s)” means as the context permits the date on which the provision of the Services shall commence under the relevant SoW;
+
+“Confidential Information” means (1) in relation to HSBC or any HSBC Group Member, any information or know how of HSBC or any HSBC Group Member (including information relating to their facilities, premises, systems, security, procedures, products, business strategy (including the existence of, the terms of and its position in any dispute in relation to this Agreement), employees, officers, contractors and agents, customers and contacts, and any other information of HSBC or any HSBC Group Member) that is supplied during any audit or is marked confidential or that the recipient ought reasonably to have known was confidential, imparted to Consultant or any Consultant
+
+5
+
+Affiliate or its employees, agents or contractors pursuant to this Agreement and (2) in relation to Consultant or any Consultant Affiliate, any information relating to its systems and security procedures, its business strategy (including the existence of, the terms of and its position in any dispute in relation to this Agreement), and any other information of Consultant that is marked confidential or that the recipient ought reasonably to have known was confidential, imparted to HSBC or any HSBC Group Member pursuant to this Agreement.  Confidential Information shall exclude information (1) that is or comes into the public domain or is publicly known or available, or (2) is disclosed by a third party (except where such third party discloses such information in breach of obligations of confidence), or (3) that is independently developed by a party without recourse to the Confidential Information of the other (or HSBC Group Members or Consultant Affiliates (as applicable));
+
+“Consultant Affiliate” means all world wide companies that are controlled by or under the common control of Kanbay and including for the avoidance of doubt, Kanbay.  A company is controlled by Kanbay if Kanbay owns at least fifty percent (50%) or more of the shares or over which it (or one of its holding or subsidiary companies) exercises management control, even though it may own less than fifty percent (50%) of the shares and is prevented by law from owning a greater shareholding;
+
+“Consultant Personnel” means all personnel, Key Personnel or other representatives of Consultant and/or relevant Consultant Affiliates involved in the provision of the Services;
+
+“Consultant Properties” shall have the meaning as defined in clause 13.3;
+
+“Deliverable(s)” means any information, data, document, report, software, design, plan, strategy, graphics, artworks or other product or material developed by the Consultant or any Consultant Affiliate and delivered to HSBC or any HSBC Group Member in the performance of this Agreement including any deliverable set out in the SoW;
+
+“Event of Force Majeure” means any of the following circumstances which occur which are beyond the reasonable control of a party and directly prevent that party from performing its obligation(s) under this Agreement, being war, civil commotion, armed conflict, riot, act of terrorism, fire, flood or other act of God (excluding for the avoidance of doubt any labour dispute, labour shortages, strikes or lock-outs) or as otherwise referred to in this Agreement;
+
+“Fixed-price Engagement” means any engagement where all of the Services relating to that engagement will be provided by the Consultant or the relevant Consultant Affiliate at a fixed and agreed price as set out in the relevant SoW;
+
+“HSBC Group Member” means a legal entity from time to time (1) in which HSBC (or one or more of its holding or subsidiary companies, or subsequent holding or subsidiary companies of such entity) owns at least fifty percent (50%) or more of the voting shares or (2) over which HSBC (or one of its holding or subsidiary companies, or a subsequent holding or subsidiary company of such entity) either directly or indirectly exercises management control, even though it may own less than fifty percent (50%) of the shares and is prevented
+
+6
+
+by law from owning a greater shareholding or (3) the additional parties listed in Attachment B or otherwise notified by HSBC from time to time;
+
+“Implementation Plan” means the plan and timetable for the provision of the Services and delivery and Acceptance of the Deliverables, all of which are set out in the relevant SoW;
+
+“Intellectual Property Rights” means all present and future rights conferred by statute, common law or equity in any territory in or in relation to copyright, trade marks, designs, patents, database rights, circuit layouts, business and domain names, inventions and Confidential Information, whether or not registrable, registered or patentable and all applications therefor;
+
+“Invoice Date” means date(s) on which the invoice will be rendered, as specified in the relevant SoW;
+
+“Kanbay” means the Consultant’s parent company, Kanbay International, Inc.;
+
+“Key Personnel” shall mean the Consultant’s or the relevant Consultant Affiliate’s personnel appointed to perform the Services and/or any personnel of HSBC or the relevant HSBC Group Member who are identified as key and named in the relevant SoW from time to time;
+
+“Lost Time” shall have the meaning as defined in clause 5.3;
+
+“Not-to-exceed Engagement” means any engagement where the total price for the provision of the Services relating to that engagement by the Consultant or the relevant Consultant Affiliate shall not exceed an agreed capped amount;
+
+“Project Manager” means the person identified as the project manager of each relevant party in the relevant SoW (or any other person notified by the party from time to time);
+
+“Reasonable Endeavours” means making every effort that the party concerned reasonably can, consistent with the objective to be achieved (and taking into account any timescale within which it is aimed to achieve the objective concerned), including the following:
+
+(a)                                  the allocation and use of a reasonable amount of resources (including manpower, financial and other appropriate terms) to achieve the relevant objective within any applicable timescale; and
+
+(b)                                 obtaining any further information necessary to enable the achievement of the objective; and
+
+(c)                                  co-operating with the other party or with others to the extent necessary to achieve the objective;
+
+“Replacement Personnel” shall have the meaning as set out in Clause 18.6;
+
+7
+
+“Residuals” shall have the meaning as defined in clause 13.4;
+
+“Services” means the services to be provided by the Consultant or the relevant Consultant Affiliate as set out in this Agreement;
+
+“Signature Date” means the date of execution of these Terms and Conditions, as set out at the beginning of this Agreement;
+
+“Specification” of any Services or Deliverable means the specification agreed in writing by the Consultant or any Consultant Affiliate and HSBC or any HSBC Group Member and set out in the SoW;
+
+“Statement of Work(s)” or “SoW(s)” means a statement of work based on the pro forma set out in Attachment C and signed by Consultant (or any Consultant Affiliate) and HSBC (or any HSBC Group Member) and which incorporates these Terms and Conditions as set out in the SoW, or any statement of work that has been agreed in writing between Consultant (or any Consultant Affiliate) and HSBC (or any HSBC Group Member) which are to be construed in accordance with these Terms and Conditions. Each SoW relates to a particular engagement for the provision of Services and constitutes a separate and independent agreement regarding such Services between Consultant (or the Consultant Affiliate that signed the SoW) and HSBC (or the HSBC Group Member that signed the SoW);
+
+“Term” means in relation to a SoW or these Terms and Conditions, the period from the commencement until expiry or termination of that SoW or these Terms and Conditions (as applicable);
+
+“Terms and Conditions” means the terms and conditions set out in clauses 1 to 32 (inclusive) and Attachments A, B and D herein.
+
+1.3                               Statement of Work
+
+Consultant hereby agrees that:
+
+1.3.1                           in relation to any SoW executed by HSBC or a HSBC Group Member and a Consultant Affiliate whether on or after the Signature Date, the Consultant shall be jointly and severally liable with that Consultant Affiliate to perform the obligations under that SoW; and
+
+1.3.2                        the provisions in this Agreement shall apply to the Services set out in each SoW:
+
+(a) executed by HSBC or a HSBC Group Member and the Consultant; and
+
+(b) executed by HSBC or a HSBC Group Member and a Consultant Affiliate, notwithstanding that the Consultant is not a party to that SoW.
+
+8
+
+1.3.3                        it shall procure the agreement of and compliance by each Consultant Affiliate (who is a party to a SoW) to these Terms and Conditions, as if they were a party to these Terms and Conditions.
+
+2                                         ENGAGEMENT
+
+2.1                                 Consultant agrees and shall procure that HSBC or any HSBC Group Member may order Services or Deliverables from Consultant or Consultant Affiliates pursuant to these Terms and Conditions by executing a Statement of Work. The pre-printed terms appearing on any purchase order form and any documentation which:
+
+2.1.1                        Consultant or Consultant Affiliates (as applicable) generally issue to its customers for the supply of services or deliverables; or
+
+2.1.2                        HSBC or the relevant HSBC Group Member generally issues to its suppliers for the supply of services or deliverables,
+
+shall not apply and shall not add to or vary the terms of this Agreement or the relevant SoW.
+
+2.2                                 These Terms and Conditions shall commence on the date of execution of such Terms and Conditions by the parties and shall continue until terminated in accordance with clause 18 (Breach and Termination).
+
+2.3                                 Each SoW shall commence on the Commencement Date of such SoW and shall continue until terminated in accordance with clause 18 (Breach and Termination) or until the Services are completed, whichever is the earlier.
+
+3                                         THE CONSULTANT’S OBLIGATIONS
+
+3.1                                 The Consultant or the relevant Consultant Affiliate will supply their Key Personnel (or other Consultant Personnel who shall have appropriate qualifications in accordance with clause 3.3) to perform and complete the Services in accordance with this Agreement.
+
+3.2                                 The Consultant or the relevant Consultant Affiliate shall use Reasonable Endeavours to ensure the Consultant’s or the relevant Consultant Affiliate’s Key Personnel engaged to provide Services under a SoW continue to provide such Services for the full Term of the SoW. If (despite the use of such Reasonable Endeavours) it becomes necessary to remove one of the Consultant’s or the relevant Consultant Affiliate’s Key Personnel, the Consultant or the relevant Consultant Affiliate shall notify HSBC or the relevant HSBC Group Member as soon as reasonably practicable and shall substitute such personnel with other personnel of at least equal calibre, qualification and experience, and the relevant SoW should be amended accordingly.
+
+3.3                                 The engagement of all Consultant Personnel to provide Services shall be subject to the approval of HSBC or the relevant HSBC
+
+9
+
+Group Member.  HSBC or the relevant HSBC Group Member is entitled to withhold its approval or require the replacement of such Consultant Personnel if in the reasonable opinion of HSBC or the relevant HSBC Group Member such Consultant Personnel in question has failed or is likely to fail to meet the requirements set out in this Agreement or is otherwise inappropriate.  HSBC may terminate this Agreement or the Terms and Conditions and HSBC or the relevant HSBC Group Member may terminate a SoW if the Consultant or the relevant Consultant Affiliate persistently provides Key Personnel who in the reasonable opinion of HSBC or the relevant HSBC Group Member fail or are likely to fail to meet the requirements set out in these Terms and Conditions or the SoW or are otherwise inappropriate.
+
+3.4                                 Unless otherwise agreed, the replacement of any Consultant Personnel shall be at no additional charge to HSBC (or the relevant HSBC Group Member) other than the agreed Charges for provision of the relevant Consultant Personnel, and the Consultant or Consultant Affiliate (as applicable) shall bear the cost of any time required by the replacement Consultant Personnel to familiarise themselves with the relevant Services and requirements of HSBC or the relevant HSBC Group Member.  The Consultant or Consultant Affiliate (as applicable) shall ensure or procure that any transition arrangements to replace Consultant Personnel shall be without disruption to HSBC or the relevant HSBC Group Member and shall not delay the performance of the Services, or completion date of any SoW.
+
+3.5                                 All Consultant Personnel shall remain under the direct control of the Consultant or the relevant Consultant Affiliate, but whilst such Consultant Personnel are on any HSBC’s or any HSBC Group Member’s premises or the premises of any other party as necessary for the provision of the Services, the Consultant or Consultant Affiliate (as applicable) will use its Best Endeavours to ensure or procure that the Consultant Personnel:
+
+3.5.1                                         comply with the security and health and safety regulations, and other policies in force at the site from time to time; and
+
+3.5.2                                         obey the reasonable instructions and requirements of HSBC or the relevant HSBC Group Member and other party (as applicable).
+
+3.6                                 The Consultant or Consultant Affiliate (as applicable) shall procure that none of the Consultant Personnel makes or purports to make any representation, warranty or undertaking or otherwise acts or purports to act in any manner that might be interpreted as binding or committing HSBC or any HSBC Group Member to any obligation to any third party.
+
+3.7                                 Time shall be of the essence in relation to all obligations of the Consultant (and relevant Consultant Affiliates) to perform the Services and supply the Deliverables pursuant to this Agreement except that this clause 3.7 shall not apply in the case of timeframes or timescales which are expressly stated in a SoW to be estimates only.
+
+4                                         WARRANTIES
+
+4.1                                 The Consultant warrants, represents and undertakes to HSBC and the HSBC Group Members that it will, and will ensure that the Consultant Affiliates and all Consultant Personnel will:
+
+10
+
+4.1.1                        have for the Term of this Agreement, full authority (1) to enter this Agreement and perform all obligations under this Agreement and (2) to procure that all Consultant Affiliates perform the relevant obligations as set out in this Agreement;
+
+4.1.2                        unless otherwise agreed between the Consultant Affiliate and the relevant HSBC Group Member in writing, procure on behalf of HSBC and the HSBC Group Members all rights, licences, consents and permits necessary to provide the Services and supply the Deliverables in accordance with this Agreement;
+
+4.1.3                        ensure that the Services are performed with due diligence, reasonable skill and care and in accordance with best industry practice at all times;
+
+4.1.4                        ensure the Services are provided in accordance with the Specification to the reasonable satisfaction of the relevant HSBC Group Member and in accordance with the Implementation Plan and this Agreement;
+
+4.1.5                        ensure that no software data or other materials, other than those provided or approved by the relevant HSBC Group Member are to be loaded or used on any HSBC Group Member’s computer system by the Consultant Personnel;
+
+4.1.6                        ensure that all Consultant Personnel will, when present at an HSBC’s or a HSBC Group Member’s site, comply with the applicable site security, health and safety and other procedures in force from time to time and will at all times behave in a courteous, professional and appropriate manner;
+
+4.1.7                        ensure that no Consultant Personnel will act or make any statement or otherwise behave in any manner that is reasonably likely to result in any prejudice to HSBC or any HSBC Group Member (including to its reputation);
+
+4.1.8                        ensure that any Deliverable will fulfil the requirements set out in the SoW, Specification or otherwise specified in writing by Consultant or a Consultant Affiliate and HSBC or an HSBC Group Member;
+
+4.1.9                        for the Term of this Agreement, comply with all applicable laws and other governmental, statutory or regulatory requirements which may from time to time be applicable to the Consultant or Consultant Affiliates (as applicable) in providing the Services and Deliverables to HSBC and HSBC Group Members; and
+
+4.1.10                  ensure that the Services and Deliverables, will where required and acknowledged in the applicable SoW, recognise and (where applicable) process any applicable currency (including any currency of any member state of the European Union).
+
+4.2                                 Consultant shall indemnify and keep indemnified HSBC and HSBC Group Members against any loss suffered as a result of any breach of any warranty in clause 4.1 above.
+
+11
+
+4.3                                 Without prejudice to its obligations under clause 4.1 or to any rights or remedies of HSBC or HSBC Group Members, in the event of breach of any warranty, Consultant undertakes, promptly to remedy the breach without charge. Any claim for breach of the warranties hereunder must be made, by written notice to the Consultant within, one hundred and eighty (180) days after delivery of the Deliverable to HSBC or the relevant HSBC Group Member or ninety (90) days following the date that the Deliverable to which the claim relates is used in a live production environment, whichever is the earlier.  However, if the SoW expressly states that the Deliverable will not be used in a live production environment then any claim for breach of the warranties hereunder for that Deliverable must be made within ninety (90) days after delivery of such Deliverable.
+
+4.4                                 Consultant shall, where permitted by applicable law, deliver prior written notice to HSBC of any change of control (as defined in clause 1.1(e) above) of Consultant or any Consultant Affiliate performing Services, in favour of a third party that is not a Consultant Affiliate.
+
+4.5                                 EXCEPT AS PROVIDED IN THIS CLAUSE 4, CONSULTANT AND CONSULTANT AFFILIATES MAKE NO OTHER REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, FROM A COURSE OF PERFORMANCE OR DEALING, TRADE USAGE, OR OF UNINTERRUPTED OPERATION WITHOUT ERROR, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  EXCEPT AS MAY BE EXPRESSLY STATED IN A SoW, CONSULTANT AND CONSULTANT AFFILIATES MAKE NO WARRANTIES REGARDING THE BUSINESS BENEFITS OR RESULTS THAT ARE TO BE OBTAINED BY HSBC OR THE HSBC GROUP MEMBER (AS APPLICABLE) FROM USE OF THE SERVICES OR DELIVERABLES. THE LIMITED WARRANTIES SET FORTH IN THIS AGREEMENT ARE MADE FOR THE BENEFIT OF HSBC AND/OR THE RELEVANT HSBC GROUP MEMBER ONLY.
+
+5                                         HSBC’S OBLIGATIONS
+
+5.1                                 HSBC or the relevant HSBC Group Member shall:
+
+5.1.1                        on reasonable notice provide the Consultant or the relevant Consultant Affiliate with such information, data, documents and co-operation as is reasonably required by the Consultant or the relevant Consultant Affiliate to perform the Services and supply the Deliverables;
+
+5.1.2                        ensure the reasonable availability and stability of the relevant computing environment to support the Services and acceptance testing set forth in this Agreement, if and to the extent required in connection with any SoW;
+
+5.1.3                        provide such reasonable access to HSBC’s or the relevant HSBC Group Member’s premises, personnel, equipment, databases, software, and other resources at pre-agreed times as is reasonably necessary for the Consultant or the relevant Consultant Affiliate to perform its obligations under this Agreement.
+
+12
+
+5.2                                 The Consultant and the relevant Consultant Affiliate shall not be liable for any failure in performing any obligations under this Agreement to the extent that such failure is due to the failure by HSBC or the relevant HSBC Group Member to perform an obligation under this Agreement.
+
+5.3                                 With respect to Fixed-price Engagements and Not-to-exceed Engagements only, in the event that HSBC or the relevant HSBC Group Member fails to meet its obligations as stated in this Agreement (and the Consultant or the relevant Consultant Affiliate has previously notified HSBC or the relevant HSBC Group Member in writing of HSBC’s or the relevant HSBC Group Member’s failure to perform such obligations and the Consultant’s or the relevant Consultant Affiliate’s entitlement to claim for Lost Time in accordance with this clause 5.3 if HSBC’s or the relevant HSBC Group Member’s failure to perform continues), and Consultant or the relevant Consultant Affiliate incurs additional time, effort or expense in the course of delivering the Services due solely to such failure by HSBC or the relevant HSBC Group Member (“Lost Time”), then Consultant or the relevant Consultant Affiliate shall inform HSBC or the relevant HSBC Group Member in writing of the amount of the Lost Time and provide sufficient evidence to justify its claim under this clause 5.3 and any further evidence requested by HSBC or the relevant HSBC Group Member, and on HSBC’s or the relevant HSBC Group Member’s satisfaction of Consultant’s or the relevant Consultant Affiliate’s entitlement to claim for the amount of Lost Time under this clause 5.3, HSBC or the relevant HSBC Group Member shall reimburse Consultant or the relevant Consultant Affiliate an equitable amount at the standard rates which apply to the relevant SoW for such Lost Time.
+
+5.4                                 HSBC hereby represents and warrants that it or the relevant HSBC Group Member has (i) all rights, titles, or interests in the software, hardware, systems, facilities, and other resources supplied to Consultant or the relevant Consultant Affiliate or required for the performance of HSBC’s or the relevant HSBC Group Member’s obligations hereunder, and (ii) the authority and the legal right to permit Consultant or the relevant Consultant Affiliate to perform the Services.
+
+6                                         ACCEPTANCE
+
+6.1                                 HSBC or the relevant HSBC Group Member shall be entitled to subject any Deliverable to Acceptance Testing.  HSBC or the relevant HSBC Group Member shall conduct the Acceptance Tests, where applicable, in accordance with the Implementation Plan, with the support of the relevant resources of the Consultant and/or Consultant Affiliate as reasonably required by HSBC or the relevant HSBC Group Member.
+
+6.2                                 As soon as reasonably possible after the satisfactory completion of the Acceptance Tests, HSBC or the relevant HSBC Group Member shall issue a written certificate (where applicable in the form specified in the Implementation Plan) certifying that the Deliverable has passed the Acceptance Tests.  Satisfactory completion of the Acceptance Tests shall occur when the Deliverable achieves the results specified in the Acceptance Tests.  If HSBC or the relevant HSBC Group Member does not issue the written acceptance certificate (or a notice of rejection pursuant to clause 6.3 below) to Consultant or the relevant Consultant
+
+13
+
+Affiliate within fifteen (15) Business Days following completion of the period specified for Acceptance Testing, then the Deliverable shall be deemed to have passed the Acceptance Tests.
+
+6.3                                 If any Deliverable fails to satisfy the Acceptance Tests, HSBC or the relevant HSBC Group Member shall give the Consultant or the relevant Consultant Affiliate prompt written details of the failure, and if it does:
+
+6.3.1                        the Consultant or the relevant Consultant Affiliate must, at its own cost, and within two (2) days, commence use of Best Endeavours to correct the Deliverable so that the Acceptance Tests can be repeated and shall complete such correction within seven (7) days or otherwise within such reasonable period agreed between the parties;
+
+6.3.2                        the Consultant or the relevant Consultant Affiliate must promptly give HSBC or the relevant HSBC Group Member written notice when it has corrected the Deliverable and the Acceptance Tests can be repeated; and
+
+6.3.3                        the parties must conduct the repeated Acceptance Tests as soon as reasonably practicable, or, if applicable, in accordance with the Implementation Plan for repeated Acceptance Tests.
+
+6.4                                 If the repeated Acceptance Tests are not successfully completed within a reasonable time, or, if applicable, the period specified in the Implementation Plan (other than directly and solely because of any act or omission of HSBC or the relevant HSBC Group Member) HSBC or the relevant HSBC Group Member may elect:
+
+6.4.1                        to reject the Deliverable and terminate the relevant SoW (in full or in part) on notice with immediate effect, in which case the Consultant or the relevant Consultant Affiliate shall refund to HSBC or the relevant HSBC Group Member all Charges paid by HSBC or the relevant HSBC Group Member in relation to such Deliverable and HSBC or the relevant HSBC Group Member shall return to Consultant or the relevant Consultant Affiliate the applicable Deliverable and all related materials supplied by Consultant or the relevant Consultant Affiliate; or
+
+6.4.2                        to accept the Deliverable subject to a reasonable deduction of Charges (which amount of deduction has been agreed between the parties) to reflect the delays caused by its failure to meet the Acceptance Tests, and/or the reduced level of functionality and performance (or other aspects) of the Deliverable; or
+
+6.4.3                        to require the Consultant or the relevant Consultant Affiliate to continue to use Best Endeavours to remedy the defect and re-present the Deliverable for further Acceptance Testing.
+
+6.5                                 If any Acceptance Test is repeated because a Deliverable failed to pass the Acceptance Test when previously tested and to the extent that such failure arose due to the Consultant’s or the
+
+14
+
+relevant Consultant Affiliate’s default in not developing the Deliverable to fulfil the requirements set out in the relevant SoW and/or Specification, the Consultant or the relevant Consultant Affiliate shall promptly pay on demand HSBC’s or the relevant HSBC Group Member’s additional expenses (including any internal expenses relating to wasted time, as well as third party expenses) in repeating the Acceptance Tests.
+
+6.6                                 Nothing in this clause 6 shall affect any rights or remedies of HSBC or any HSBC Group Member under clause 4.
+
+7                                         CHARGES
+
+7.1                                 Charges for the provision of Services are either set out in the relevant SoW or will be calculated on a time and materials basis at the rates specified in the applicable SoW.  If HSBC or the relevant HSBC Group Member agrees in a SoW to reimburse the Consultant or the relevant Consultant Affiliate for any expenses reasonably incurred in the provision of the Services, reimbursement will be made on the basis set out in the relevant SoW.  Subject to clause 7.2, no other or additional sums shall be payable by HSBC or any HSBC Group Member to the Consultant or any Consultant Affiliate in relation to the relevant Services or any Deliverables.
+
+7.2                                 If the Consultant or the relevant Consultant Affiliate is asked by the Project Manager of HSBC or the relevant HSBC Group Member to perform any services which it reasonably considers are outside the scope of the Services, then the Consultant or the relevant Consultant Affiliate shall notify HSBC or the relevant HSBC Group Member and provide a quote for any additional Charges for the performance of the additional services.  If HSBC or the relevant HSBC Group Member wishes the Consultant or the relevant Consultant Affiliate to proceed to provide the additional Services, it shall notify the Consultant or the relevant Consultant Affiliate in writing and the relevant SoW shall be amended accordingly.  For the avoidance of doubt, HSBC or the relevant HSBC Group Member shall not be liable to make any payment to the Consultant or the relevant Consultant Affiliate in relation to such additional services unless the Project Manager of HSBC or the relevant HSBC Group Member has agreed to receive such additional services detailed in a signed SoW.  Unless the parties agree otherwise, the provisions of these Terms and Conditions shall apply to those additional services (which shall become Services for the purposes of this Agreement) and if neither a Fixed-price Engagement nor a Not-to-exceed Engagement has been agreed in writing for such Services, then the Consultant or the relevant Consultant Affiliate shall be paid on a time and materials basis at the rates specified in the applicable SoW.
+
+7.3                                 Invoices which contain sufficient detail concerning the Services to which it relates, shall be rendered to HSBC or at its option to any one or more HSBC Group Members on the Invoice Date(s) specified in the relevant SoW and subject to clause 7.4, if correct and undisputed shall fall due and payable to Consultant (or where agreed Consultant Affiliate(s)) no later than forty-two (42) days thereafter or such other period as specified in the SoW.   All Charges payable under this Agreement shall be expressed, invoiced and payable in the currency(ies) and on the date(s) specified in the relevant SoW. Invoices shall be in a form specified by HSBC.
+
+15
+
+7.4                                 In the event of disputed items in the invoice rendered by the Consultant or the relevant Consultant Affiliate, HSBC or the relevant HSBC Group Member shall be entitled to withhold payment on any such disputed items.  Complete details concerning any disputed items will be provided by HSBC or the relevant HSBC Group Member to the Consultant or the relevant Consultant Affiliate.  Notwithstanding the foregoing, the Consultant agrees that HSBC or the relevant HSBC Group Member shall have no liability in respect of any Charges due hereunder which are not invoiced to HSBC or the relevant HSBC Group Member within twelve (12) months of the date when such invoice had properly become presentable in accordance with clause 7.3.
+
+7.5                                 In the event of late payment by HSBC or an HSBC Group Member (as applicable) of any undisputed sums due and payable under this Agreement (and provided HSBC or the relevant HSBC Group Member has been given at least fifteen (15) days written notice to cure such late payment), the Consultant reserves the right to charge HSBC or the relevant HSBC Group Members interest in respect of the undisputed late payment at the rate of one percent (1%) per annum above the base rate from time to time of the relevant HSBC Group Member making payment (or if that entity does not have a base rate then the base rate of the central bank in the territory in which that HSBC Group Member is located) from the due date thereof until judgement (or if no judgement the date on which payment is received by Consultant).  In relation to HSBC, the base rate of the central bank in the territory in which HSBC is located, shall prevail.
+
+7.6                                 In addition, HSBC or the relevant HSBC Group Member shall be responsible for paying any applicable sales, use, excise, value added, or similar taxes, duties, or assessments imposed upon the Services rendered or Deliverables provided hereunder by any federal, state, local, or foreign government authority, exclusive of any taxes based upon Consultant’s income or payroll.
+
+7.7                                 The Consultant shall and shall procure the Consultant Affiliates who provide any Services, upon request and reasonable prior notice, provide to HSBC or the relevant HSBC Group Member, or internal or external auditors or examiners of HSBC or the relevant HSBC Group Member, copies of their respective books and records including but not limited to their annual audited, unconsolidated financial statements, timesheets, project plans, expense reports, and related billing justifications pertaining to the Services provided and Charges invoiced under any SoW.
+
+8                                         HSBC GROUP CHANGES
+
+8.1                                In the event of any new entity becoming an HSBC Group Member after the Signature Date, the new entity shall be entitled (at HSBC’s option) to all rights conferred on HSBC Group Members under this Agreement.  In no event shall such new entity be obliged by reason of its becoming an HSBC Group Member to purchase any Services from the Consultant or any Consultant Affiliate.
+
+8.2                                If the Consultant acquires a company, business or division or any entity otherwise becomes a (or part of a) Consultant Affiliate, then HSBC and the HSBC Group Members shall be
+
+16
+
+entitled to order Services or Deliverables from that entity, business or division pursuant to this Agreement.
+
+8.3                                In the event that any part of the Services is planned by Consultant to be withdrawn from general availability for any reason whatsoever, Consultant must use Reasonable Endeavours to give at least twelve (12) months’ written notice to HSBC and must use Best Endeavours to procure the supply of appropriate alternative services at no additional cost to HSBC or any HSBC Group Members.
+
+8.4                                 A “Divestment Unit” shall mean any subsidiary, division or department of HSBC or an HSBC Group Member, which was immediately prior to a particular date (the “Divestment Date”), properly entitled to receive Services or Deliverable(s), and would not, on or after the Divestment Date, be a (or part of a) HSBC Group Member and therefore not entitled (other than by virtue of this provision) to receive Services or Deliverable(s).
+
+8.5                                 Any SoW relating to a Divestment Unit shall terminate on the Divestment Date unless the Consultant shall be required by HSBC to continue to supply or procure that a Consultant Affiliate provides any Services which it would otherwise be required to provide or procure that a Consultant Affiliate provides to the Divestment Unit under that SoW. For the avoidance of doubt neither HSBC nor any HSBC Group Member shall be responsible for the acts or omissions of the Divestment Unit nor its compliance with requirements under this Agreement.
+
+8.6                                 For the avoidance of doubt, nothing in this clause 8 (HSBC Group Changes) shall prejudice HSBC’s or any HSBC Group Member’s right of termination or any right to claim damages in relation to the failure of the Consultant to provide or procure that a Consultant Affiliate provides Services or Deliverables under this Agreement.
+
+8.7                                 For the avoidance of doubt, in the event of any dispute and during any termination notice period hereunder Consultant will continue to provide or procure the Services fully in accordance with its obligations hereunder.
+
+9                                         CONSULTANT’S IT OBLIGATIONS
+
+9.1                                 The Consultant or the relevant Consultant Affiliate shall, where applicable, test any Deliverable prior to delivery to prevent the introduction of a computer virus onto HSBC’s and/or HSBC Group Members’ computer equipment or systems.  Consultant and the relevant Consultant Affiliate shall use Best Endeavours to ensure that no computer virus is introduced on to HSBC’s or HSBC Group Members’ computer equipment or systems by any act, omission or negligence of Consultant, any Consultant Affiliates or either of their employees agents or contractors.
+
+9.2                                 Without prejudice to HSBC’s or HSBC Group Members’ other rights, in the event that a computer virus is introduced on to HSBC’s or HSBC Group Members’ computer systems caused by any act, omission or negligence of Consultant, any Consultant Affiliates or either of their employees, agents or contractors, Consultant and the relevant Consultant Affiliate
+
+17
+
+shall use all Reasonable Endeavours at HSBC’s or the relevant HSBC Group Member’s request promptly to restore HSBC’s or the relevant HSBC Group Members’ system to normal operational readiness.
+
+9.3                                 HSBC shall use all Reasonable Endeavours to ensure that appropriate anti virus measures relating to the computer environment are implemented within HSBC and HSBC Group Members.
+
+9.4                                 Consultant and the relevant Consultant Affiliate warrants, represents and undertakes to HSBC and HSBC Group Members that any Deliverables constituting software or data will upon delivery, be free from any code or function designed to or having the effect of inhibiting the operation of the relevant Deliverable.
+
+10                                  CHANGE CONTROL
+
+10.1                           If HSBC or the relevant HSBC Group Member wishes to change any Service or Deliverable provided hereunder it shall notify the Consultant or the relevant Consultant Affiliate in writing.  If the parties agree that the proposed change is minor, they shall agree an appropriate amendment to the relevant SoW.  If the change is not agreed to be minor, the remainder of this clause 10 (Change Control) shall apply.
+
+10.2                           HSBC’s or the relevant HSBC Group Member’s Project Manager (the “Initiator”) shall submit to the Consultant’s or the relevant Consultant Affiliate’s Project Manager a written request for such change, together with particulars thereof and such further information as the Consultant or the relevant Consultant Affiliate may reasonably require (“Change Request”).
+
+10.3                           Until such time as (if at all) the Change Request is finalised pursuant to clause 10.5, the Consultant or the relevant Consultant Affiliate shall, unless otherwise agreed in writing, continue to perform the Services notwithstanding the Change Request.
+
+10.4                           The Consultant’s or the relevant Consultant Affiliate’s Project Manager shall respond in writing to the Change Request within a reasonable period (and in any event within ten (10) Business Days) specifying the likely resource, time and cost required to implement the change.  The Consultant’s or the relevant Consultant Affiliate’s Project Manager shall provide the Initiator with such other reasonable information as is reasonably requested relating to the Consultant’s or the relevant Consultant Affiliate’s response.
+
+10.5                           The Initiator shall advise Consultant’s or the relevant Consultant Affiliate’s Project Manager in writing of their decision either to progress or not with the Change Request.  No change shall be made to the Services or Deliverables unless HSBC or the relevant HSBC Group Member and Consultant or the relevant Consultant Affiliate have agreed to the change in writing signed by the Initiator or other authorized representative.
+
+18
+
+11                                  NON SOLICITATION
+
+While a SoW is in force, and for a period of twelve (12) months from its termination for any reason, neither party will (and the Consultant will ensure no Consultant Affiliates will) whether alone or jointly, directly or indirectly employ or offer employment the same or similar to or substantially relating to the Services to any employee of the other if that employee was directly and actively involved with the performance or receipt of Services under that SoW, other than as may be agreed by the parties in writing.  This clause 11 (Non Solicitation) shall not prevent HSBC or any HSBC Group Member soliciting or offering employment to any employee of the Consultant or any Consultant Affiliate if this Agreement has terminated (or notice to terminate is served) pursuant to clause 18.2(b) or 18.1 (a).  For the avoidance of doubt, the restrictions set out in this clause 11 (Non Solicitation) shall not prevent either party from considering or employing the other’s personnel pursuant to a response to a publicly advertised vacancy.  For purposes of this clause 11, the terms “employment” and “employee” shall include any form of employment, consulting, contract relationship, or other arrangement pursuant to which such individual will, directly or indirectly, perform services for the new employer.
+
+12                                  TRAINING
+
+12.1                           Unless the applicable SoW specifically requires the Consultant or Consultant Affiliate to provide training as a Service under that SoW in consideration of the Charges listed in that SoW, the Consultant shall or shall procure that Consultant Affiliates shall provide at no extra charge to HSBC and/or the HSBC Group Members, such initial training and a reasonable number (as requested by HSBC and/or the HSBC Group Member) of copies of a set of operating manuals containing sufficient information to allow the correct installation and use of any Deliverable and as is specified in the relevant SoW.  Such manuals shall be supplied in the language requested by HSBC or the relevant HSBC Group Member.  If the personnel of the Consultant or the Consultant Affiliates who have provided the Services are unable due to their lack of skills in the requested language, to perform the translation, then the Consultant shall obtain or shall procure the Consultant Affiliate to obtain, and provide to HSBC a quote for the cost of the translation. HSBC may elect for the Consultant or Consultant Affiliate (as applicable) to perform the translation and shall provide notice of its acceptance of the quoted cost for such translation.  Upon HSBC’s receipt of such translation, HSBC shall pay the quoted cost for such translation.
+
+12.2                           If specified in the applicable SoW, the Consultant shall or shall procure that Consultant Affiliates shall provide HSBC and/or the HSBC Group Members with such supplementary training as is required by HSBC and/or HSBC Group Members on reasonable prior written notice from time to time at the daily rate or other Charge specified in such SoW.
+
+13                                  INTELLECTUAL PROPERTY RIGHTS
+
+13.1                           Unless the parties otherwise specify in a SoW, the Intellectual Property Rights in any Deliverables shall belong to HSBC or an HSBC Group Member nominated by HSBC.
+
+13.2                           Subject to any other agreement between the parties set out in any SoW and relating to that SoW, the Consultant or the relevant Consultant Affiliate hereby assigns (or will procure relevant Consultant Affiliates assigns) on creation all Intellectual Property Rights created in the performance of the Services and all Deliverables to HSBC or the nominated HSBC Group Member and will procure the waiver of all moral rights (or similar rights) therein and will take all steps necessary to ensure HSBC and all HSBC Group Members and their licensees
+
+19
+
+and transferees may use the Deliverables and receive the Services without restriction of any kind.  The Consultant (or Consultant Affiliates, as appropriate) may only use the Deliverables as strictly necessary to provide the Services to HSBC or any relevant HSBC Group Members in accordance with this Agreement and the relevant SoW. Should HSBC not pay an undisputed invoice, then the Intellectual Property Rights vesting in the associated Deliverable shall pass to Consultant (or relevant Consultant Affiliate) until such payment is made.  Furthermore, nothing herein shall cause or imply any sale, licence, or other transfer of proprietary rights of or in any third party software or products from one party to this Agreement to the other party.
+
+13.3                           Proprietary computer software, methodologies, techniques, software libraries, tools, algorithms, materials, products, ideas, designs, and know-how used by Consultant or the relevant Consultant Affiliate in providing Services (including all copies, enhancements, modifications, revisions, and derivative works of any of the foregoing) that:  (a) existed prior to the commencement of such Services, or (b) are developed independently of providing the Services hereunder shall be the property of Consultant or the relevant Consultant Affiliate (“Consultant Properties”).  As between Consultant or the relevant Consultant Affiliate and HSBC or the relevant HSBC Group Member, Consultant or the relevant Consultant Affiliate shall at all times be and remain the sole and exclusive owner of the Consultant Properties.  Subject to payment for the relevant Deliverable, Consultant or the relevant Consultant Affiliate hereby grants to HSBC or the relevant HSBC Group Member a perpetual, world-wide, royalty-free, non-exclusive licence to use, execute, reproduce, transmit, display, perform, enhance, modify and create derivative works from any Consultant Properties incorporated into or made a part of the Deliverables only in connection with the use, sale, licensing, modification, enhancement, or further development of such Deliverables.
+
+13.4                           Notwithstanding anything to the contrary herein, Consultant, Consultant Affiliates, and their respective personnel shall be free to use and employ their skills, knowledge, ideas, methodologies, materials or techniques gained or learned during the provision of any Services, provided that such items (“Residuals”) (i) are acquired and applied without disclosure of any Confidential Information of HSBC or the relevant HSBC Group Member, and (ii) are acquired and applied without unauthorised use or disclosure of any Deliverables delivered under the applicable SOW.
+
+13.5                           Consultant or the relevant Consultant Affiliate defends and indemnifies, and shall continue to defend and indemnify, HSBC and all HSBC Group Members from and against, and agrees to pay, any losses, liabilities, damages and expenses (including legal fees on a full indemnity basis) incurred by or awarded against HSBC and/or any HSBC Group Members as a result of, or in connection with, any claim by a third party for an infringement of any Intellectual Property Rights and/or Consultant Properties and/or Residuals relating to any Deliverable or any supply of Services provided by or on behalf of the Consultant or any Consultant Affiliate under this Agreement. For the avoidance of doubt, in the event of any likely damage to HSBC’s and/or any HSBC Group Member’s goodwill or reputation, or in the event of an injunction or any other interim relief (or threat of such relief) HSBC shall be entitled to instruct senior legal counsel or take such other steps as it deems appropriate, the reasonable
+
+20
+
+costs of which shall be included in this indemnity. Without prejudice to the other obligations in this clause 13.5 the Consultant or the relevant Consultant Affiliate agrees promptly to assume sole and exclusive control of the defense of any such claim and all negotiations for settlement.  Without prejudice to the other obligations in this clause 13.5, the Consultant or the relevant Consultant Affiliate agrees promptly to pay to HSBC and/or the relevant HSBC Group Member, any expenses or other amounts howsoever incurred or suffered by HSBC and/or the relevant HSBC Group Member for the initial handling of any claim upon the presentation by HSBC and/or the relevant HSBC Group Member of invoices or receipts which evidence that such expenses or other amounts have been incurred.
+
+13.6                          HSBC shall and if HSBC has not done so HSBC shall use reasonable endeavours to procure that the relevant HSBC Group Member shall:
+
+13.6.1                  not unreasonably delay in giving notice in writing to Consultant or the relevant Consultant Affiliate of any claim referred to in clause 13.5, where such delay will result in Consultant or the relevant Consultant Affiliate failing to meet any statutory deadline relating to the defence of such claim;
+
+13.6.2                  not make any admission of liability or agree to any settlement or compromise of any such claim without the prior written consent of Consultant or the relevant Consultant Affiliate which shall not be unreasonably withheld or delayed; and
+
+13.6.3                  not unreasonably decline to provide Consultant or the relevant Consultant Affiliate at Consultant’s or the relevant Consultant Affiliate’s request and expense, reasonable assistance in connection with those negotiations and litigation.
+
+Consultant or the relevant Consultant Affiliate shall not be responsible to indemnify HSBC or the relevant HSBC Group Member for any losses, liabilities, damages or expenses to the extent that they are caused by the failure of HSBC or the relevant HSBC Group Member to meet the obligations stated above.
+
+13.7                           Without prejudice to the above, Consultant or the relevant Consultant Affiliate will pay promptly, any legal damages, costs and expenses suffered by HSBC and/or any HSBC Group Members including any financial awards against HSBC and/or such HSBC Group Members in such action which are attributable to such claim, provided that HSBC or the relevant HSBC Group Member gives Consultant or the relevant Consultant Affiliate reasonable notice in writing of the claim.
+
+13.8                           Should a Deliverable or the supply of Services become, or in HSBC’s opinion be reasonably likely to become the subject of a claim of infringement of an Intellectual Property Right, Consultant shall, after consultation with HSBC, promptly either:
+
+13.8.1                  procure for HSBC and all HSBC Group Members the right to continue using the Deliverable or receiving the Services; or
+
+13.8.2                  replace or modify the Deliverable or Services to make it non-infringing without affecting the performance, functionality or specification.
+
+21
+
+13.9                           If Consultant is unable to achieve the purpose in clauses 13.8.1 or 13.8.2 within three (3) months from the first date of prevention or disturbance of the Deliverable’s use occurs then, without prejudice to HSBC’s or the relevant HSBC Group Member’s other rights and remedies, Consultant will return or procure the return to HSBC and the HSBC Group Members all Charges paid in respect of the Deliverable whose use is prevented or disturbed, and HSBC or the relevant HSBC Group Member will (to the extent that such Deliverable is still within its control and shall not cause loss or damage of any sort to HSBC or relevant HSBC Group Member to return such affected Deliverable) return the affected Deliverable to Consultant or the relevant Consultant Affiliate.
+
+14                                  LIABILITY
+
+14.1                           Neither HSBC nor any HSBC Group Member shall be liable to Consultant or any Consultant Affiliate, nor shall Consultant or any Consultant Affiliate be liable to HSBC or any HSBC Group Member, in negligence, breach of contract, breach of statutory duty or otherwise due to, under and/or arising out of or in connection with this Agreement to the extent such loss or damage is consequential, indirect, special or punitive, whether or not that party had been advised of the likelihood of any such loss or damage.  In no event shall either party be liable for lost profits or lost business of the other party whether or not that party had been advised of the likelihood of any such loss or damage.
+
+14.2                           The liability of HSBC and any HSBC Group Members (together in aggregate) to Consultant and any Consultant Affiliate in negligence, breach of contract, breach of statutory duty or otherwise due to, under and/or arising out of or in connection with this Agreement, in respect of any claim, or series of connected claims arising out of the same cause in any calendar year, shall not exceed [***].  Consultant or any Consultant Affiliate is responsible for obtaining if it considers appropriate insurance in respect of any loss excluded by this Agreement or exceeding the above limit.  The limitation stated in this clause 14.2 shall not apply to any claim against HSBC or any HSBC Group Member for non-payment of Charges.  Notwithstanding the foregoing, in no event shall the liability of HSBC and all HSBC Group Members in aggregate for all claims that have arisen in each calendar year under this Agreement, exceed [***].
+
+14.3                           The liability of Consultant and any Consultant Affiliate (together in aggregate) to HSBC or any HSBC Group Member, in negligence, breach of contract, breach of statutory duty, breach of warranty or otherwise due to, under and/or arising out of or in connection with this Agreement, in respect of any claim, or series of connected claims arising out of the same cause, shall not exceed the [***].  Notwithstanding the foregoing, in no event shall the liability of Consultant and all Consultant Affiliates in aggregate for all claims that have arisen in each calendar year under this Agreement, exceed [***].
+
+14.4                           Neither HSBC nor any HSBC Group Member shall be liable to Consultant or any Consultant Affiliate, in negligence, breach of contract, breach of statutory duty or otherwise due to, under and/or arising out of or in connection with this Agreement to the extent that such loss or damage is:
+
+22
+
+14.4.1                  a loss of profits; or
+
+14.4.2                  a loss of business; or
+
+14.4.3                  a loss of data
+
+whether or not HSBC or the relevant HSBC Group Members, had been advised of the possibility of such loss or damage.
+
+14.5                           In the event that the Consultant or a Consultant Affiliate has a claim against HSBC or an HSBC Group Member arising out of or relating to a SoW, the Consultant or the Consultant Affiliate shall bring such claim against HSBC or the relevant HSBC Group Member with whom that Consultant or Consultant Affiliate has entered into the SoW and performed the Services for. The Consultant or the Consultant Affiliate (as applicable) shall not institute legal proceedings or make any claim against both HSBC and the relevant HSBC Group Member in relation to the same loss or damage that the Consultant or the Consultant Affiliate (as applicable) has incurred.  Except in the case of any breach of a provision relating to Confidential Information, the parties agree that they will use their Reasonable Endeavours to resolve all disputes and issues in good faith at the local level before commencing any litigation or formal claims.
+
+14.6                           HSBC shall be entitled to recover from Consultant damages in respect of any liability of Consultant or a Consultant Affiliate to any HSBC Group Member arising out of or relating to this Agreement as though the relevant loss or damage had been suffered by HSBC.  HSBC and/or HSBC Group Members shall not be entitled to recover from Consultant and/or Consultant Affiliate twice in respect of the same loss or damage.
+
+14.7                           No limit on liability shall apply to claims for death and personal injury, fraudulent statements, wilful misconduct, breach of confidentiality under clause 15 (Confidentiality), or any third party claim for infringement of Intellectual Property Rights and/or Consultant Properties and/or Residuals under clause 13 (Intellectual Property Rights) or any claims relating to a breach of clause 17 (Data Protection).
+
+15                                  CONFIDENTIALITY
+
+15.1                           Consultant shall and shall procure that all Consultant Affiliates require their respective employees, agents and contractors engaged in relation to the Services to enter into and observe the terms of a Non Disclosure Agreement substantially in the form set out at Attachment A and (if applicable) a Declaration of Conformity Agreement substantially in the form set out at Attachment A with HSBC or the relevant HSBC Group Member prior to commencing the performance of any Service.
+
+23
+
+15.2                               HSBC and the relevant HSBC Group Member and Consultant and the relevant Consultant Affiliate shall:
+
+15.2.1                                                      keep confidential: (a) in the case of HSBC and the relevant HSBC Group Member, the Confidential Information of Consultant and the relevant Consultant Affiliate respectively; and (b) in the case of the Consultant and the relevant Consultant Affiliate, the Confidential Information of HSBC and the relevant HSBC Group Member respectively;
+
+15.2.2                                                      do not disclose or transfer to any third party (other than as permitted hereunder) any such Confidential Information; and
+
+15.2.3                                                      do not use (including by making unnecessary copies) other than as strictly necessary for the performance of this Agreement any such Confidential Information.
+
+15.3                               HSBC, the relevant HSBC Group Member, Consultant or the relevant Consultant Affiliate shall be permitted to disclose another entity’s Confidential Information where such disclosure is required by applicable law or regulation (including by the Financial Services Authority), subject to that entity required to make the disclosure giving the entity whose Confidential Information is to be disclosed notice of the disclosure (where it is not prevented from doing so by law or applicable regulation), and reasonable assistance if that entity wishes to challenge the requirement to make the disclosure.
+
+15.4                               HSBC and the relevant HSBC Group Members and Consultant and the relevant Consultant Affiliates shall be permitted to provide another entity’s Confidential Information to any other entity, provided such disclosure is strictly necessary for the purposes of or in connection with this Agreement and provided that HSBC and Consultant shall each ensure that HSBC Group Members and Consultant Affiliates respectively comply with the confidentiality requirements of this Agreement as if they were parties.
+
+15.5                               Each party acknowledges that damages will not be an adequate remedy for any breach of this Clause 15 and shall not seek to resist an application for an injunction in respect of any breach or threatened breach of Clause 15 on the grounds that there is an alternative adequate remedy in damages.
+
+16                                  PUBLICITY
+
+16.1                           Consultant shall not and shall procure that all Consultant Affiliates do not disclose the making of this Agreement or any SoW in any journal magazine or publication or any other medium or otherwise use HSBC’s or any HSBC Group Member’s names or logos (including any trade marks) in any of its advertising or publicity material without HSBC’s prior written consent which may be withheld or given in HSBC’s absolute discretion.
+
+16.2                           Notwithstanding clause 16.1, Consultant and Consultant Affiliates may include a reference to the name of HSBC Holdings plc and/or the specific legal entity name of any HSBC Group Member which uses their Services (and not, for the avoidance of doubt, any of HSBC’s logos or trade marks or any reference to other HSBC Group Members) on their lists of clients.
+
+24
+
+17                                  DATA PROTECTION
+
+17.1                           The parties agree to comply with the provisions relating to data protection as contained in Attachment D.
+
+18                                  BREACH AND TERMINATION
+
+18.1                           HSBC may terminate this Agreement, these Terms and Conditions (in which case for the avoidance of doubt, the SoWs issued hereunder shall continue until expired or terminated) or any one or more of the SoWs (in which case for the avoidance of doubt, the remaining SoWs issued hereunder shall continue until expired or terminated):
+
+(a)                                  immediately on written notice if it becomes apparent that the Consultant or Kanbay has become insolvent or has had a receiver appointed or has called a meeting of creditors or resolved to go into liquidation (except for bona fide amalgamation or reconstruction while solvent) or has had a petition lodged against it in relation to any potential insolvency, and whichever of the foregoing that occurs is not successfully opposed within thirty (30) days of being lodged;
+
+(b)                                 immediately if there is a change of control (as defined in clause 1.1(e) above) of the Consultant or Kanbay; or
+
+(c)                                  immediately on written notice if the Consultant fails to cure any material or persistent default of these Terms and Conditions within thirty (30) days of written notice requiring the default to be remedied.
+
+For the purposes of this clause 18.1, the Consultant and HSBC each acknowledge and agree and shall procure the acknowledgement and agreement of the relevant Consultant Affiliates and HSBC Group Members that HSBC shall be entitled to terminate SoWs pursuant to this clause 18.1 notwithstanding that it is not a party to that SoW.
+
+18.2                           HSBC or the relevant HSBC Group Member may terminate in whole or in part any supply of Services or Deliverables under any relevant SoW or any relevant SoW:
+
+(a)                                  at any time for any reason whatsoever without the imposition of any penalty in relation to all or any part of any Services or Deliverables on written notice of three (3) months or any shorter period set out in the relevant SoW;
+
+(b)                                 immediately on written notice if it becomes apparent that the Consultant or any Consultant Affiliate has become insolvent or has had a receiver appointed or has called a meeting of creditors or resolved to go into liquidation (except for bona fide amalgamation or reconstruction while solvent) or has had a petition lodged against it in relation to any potential insolvency, and whichever of the foregoing that occurs is not successfully opposed within thirty (30) days of being lodged;
+
+25
+
+(c)                                  immediately if there is a change of control (as defined in clause 1.1(e) above) of the Consultant, or any Consultant Affiliate performing Services hereunder, in favour of a third party that is not a Consultant Affiliate; or
+
+(d)                                 immediately on written notice if the Consultant or any Consultant Affiliate fails to cure any material or persistent default within thirty (30) days of written notice requiring the default to be remedied.
+
+18.3                           Consultant may terminate these Terms and Conditions or the relevant SoW in the event that HSBC fails to cure any material or persistent default that is capable of being remedied, within thirty (30) days of receipt of written notice requiring the default to be remedied, save that if the default is caused by any act or omission of an HSBC Group Member or otherwise relates to the activities of an HSBC Group Member, Consultant shall only be entitled to terminate this Agreement in accordance with the procedure set out at clause 20 (Escalation).
+
+18.4                           In the event of any termination of this Agreement, these Terms and Conditions or any SoW (in full or in part) for whatever reason, the Consultant shall remove and return to HSBC or the relevant HSBC Group Member or, at HSBC’s or the relevant HSBC Group Member’s option certify destruction of all copies of all Deliverables (or in the case of partial termination, Deliverables relevant to the Services that have been terminated), along with any documentation, information or materials produced during the performance of the Agreement and all materials, documents, equipment, software, data or other materials provided by HSBC (or an HSBC Group Member) in relation to the Services in its control or possession.  Without prejudice to the above, in the event of termination of this Agreement for any reason whatsoever, (i) HSBC and HSBC Group Members may keep copies of any Consultant Confidential Information or other materials or documentation for archival and/or regulatory purposes as stipulated by any governing regulatory body of HSBC or any HSBC Group Member (eg FSA), and Consultant shall procure such party is entitled to retain any such materials of any Consultant Affiliate for such purposes.
+
+18.5                           Except for termination by HSBC under clause 18.2(a) or clause 19 (Force Majeure), HSBC shall be entitled to a pro rata refund of pre-paid Charges in respect of any terminated Service or Deliverable that relate to any period after the relevant termination date unless otherwise specified in the applicable SoW.
+
+18.6                           Unless otherwise stated by HSBC in its notice to terminate, termination of these Terms and Conditions shall be without prejudice to any on-going Services being performed under any SoW issued hereunder, the performance of which shall continue subject to these Terms and Conditions until completion or earlier termination.  For the avoidance of doubt, notice to terminate a SoW issued by either party shall terminate all Services being provided under that SoW upon expiry of the notice.
+
+18.7                           Except for all SoWs which are Fixed-price Engagements, HSBC or the relevant HSBC Group Member shall have the right at any time to postpone, suspend or cancel a SoW immediately (but subject always to clause 18.10) upon giving written notice.  HSBC or the relevant HSBC Group Member acknowledges that Consultant or the applicable Consultant Affiliate may reassign
+
+26
+
+its affected personnel to other projects and clients during any such postponement or suspension, and that such personnel may no longer be available to perform Services if/when HSBC or the relevant HSBC Group Member desires to re-commence the Services.  Consultant and Consultant Affiliates shall have no liability for the unavailability of personnel as a result of any SoW postponement or suspension hereunder except that when the Services are re-commenced on prior reasonable notice from HSBC, Consultant and Consultant Affiliates shall provide personnel (“Replacement Personnel”) to replace the affected personnel and such Replacement Personnel shall have at least the same level of skills and qualifications as the personnel that they have replaced.
+
+18.8                           Unless otherwise agreed in writing, any such suspension of a SoW shall be for a maximum period of six (6) months whereupon the Services shall be re-commenced or the SoW shall be terminated immediately on notice by HSBC or the relevant HSBC Group Member.
+
+18.9                           HSBC acknowledges that where the Consultant has undergone its annual fee review during the period of suspension, then any re-instatement of that SoW shall, subject to negotiation, be subject to a revision of the previously agreed Charges to take into account the increase in fees.
+
+18.10                     On receipt of the HSBC’s or the relevant HSBC Group Member’s instructions under clause 18.7, the Consultant or the relevant Consultant Affiliate shall be entitled to payment for Services completed to the reasonable satisfaction of HSBC or the relevant HSBC Group Member’s up to the time that the notice takes effect and in respect of any costs and expenses reasonably and properly incurred by the Consultant or the relevant Consultant Affiliate relating to the equipment, materials, personnel or services obtained or ordered wholly or substantially in connection with performing the Services which cannot reasonably be defrayed elsewhere.
+
+18.11                     Termination of any part of this Agreement shall not affect rights accrued prior to termination.
+
+19                                  FORCE MAJEURE
+
+Neither party and no HSBC Group Member or Consultant Affiliate shall be liable to the other for any delays or failures attributable to any Event of Force Majeure (other than delays or failures caused by a party’s contractors or agents, for which the delaying party shall be responsible), save that the delaying party shall use its Best Endeavours to resume performance as quickly as possible and shall promptly give the other party full particulars of the failure or delay and consult with the other party concerning the failure or delay from time to time as appropriate.  If any such failure or delay continues for a period of three (3) months or any sixty (60) days in a one hundred and twenty (120) day period the non-delaying party shall be entitled to terminate this Agreement immediately on giving to the other written notice.
+
+27
+
+20                                  ESCALATION
+
+20.1                           If any relevant HSBC Group Member commits any act that would constitute a material breach by HSBC of the terms of the Agreement, then Consultant (or at Consultant’s discretion Kanbay) will notify HSBC and the relevant HSBC Group Member in writing of such breach.
+
+20.2                           If the breach is not remedied within fifteen (15) Business Days following receipt of such notification by HSBC and the relevant HSBC Group Member (whichever is later), then Consultant (or at Consultant’s discretion Kanbay) shall be entitled to demand a meeting with a senior representative of HSBC (and, at HSBC’s option, the relevant HSBC Group Member) at which the parties will in good faith attempt to resolve any outstanding breach.
+
+20.3                           If the breach has not been remedied following a further period of thirty (30) days after the conclusion of the meeting, Consultant shall be entitled to serve written notice, together with the reasons for the termination, on HSBC (with a copy to the relevant HSBC Group Member) to terminate the SoW in relation to the HSBC Group Member in breach in forty-five (45) days (such termination only to take effect if the breach has not been remedied within that forty-five (45) day period).
+
+21                                  DISPUTES
+
+21.1                           If at any time a dispute arises out of or in connection with this Agreement HSBC and the Consultant (or at Consultant’s discretion Kanbay) (together the “Parties”) shall in the first instance meet in good faith with a view to resolving the dispute within a period of ten (10) Business Days from the day the dispute first arises.
+
+21.2                           Should the Parties not be able to resolve the dispute within the ten (10) Business Days, then both Parties shall refer the matter to their own appropriate level of senior management respectively for resolution.
+
+21.3                           If the relevant senior managers are unable to resolve the dispute within a further ten (10) Business Days, then the Parties will attempt to settle the dispute by mediation in accordance with the Centre for Dispute Resolution (CEDR) Model Mediation Procedure. To initiate a mediation the initiating party must give notice in writing to the other party and send a copy of the notice to CEDR.  The mediation will start not later than ten (10) Business Days after the notice.  Subject to clause 21.5, the Parties agree not to commence any court proceedings in relation to the dispute until they have attempted to settle the dispute by mediation and that mediation has either terminated or failed.
+
+21.4                           Unless otherwise agreed in writing, the costs of any mediation carried out pursuant to this clause shall be shared equally between the parties.
+
+21.5                           Nothing in this Agreement shall prevent either Party from taking such action as it deems appropriate (including any application to a relevant court) for injunctive or other emergency
+
+28
+
+or interim relief in relation to its Intellectual Property Rights or Confidential Information (or the Intellectual Property Rights or Confidential Information of, in the case of HSBC any HSBC Group Member or the Intellectual Property Rights or Confidential Information of, in the case of Consultant, any Consultant Affiliate).
+
+22                                  ADMINISTRATION AND MANAGEMENT OF AGREEMENT
+
+22.1                           Consultant recognises the importance of both parties effectively utilising this Agreement and will procure the dedication of a central team of Kanbay’s representatives to manage the account commercially and technically and to report centrally on global activities and who are appropriately authorised to make decisions concerning this Agreement. In addition, unless otherwise agreed appropriate Consultant shall procure senior personnel from Kanbay to meet quarterly with senior personnel from HSBC on a central basis, to review the execution and management of this Agreement.
+
+22.2                           Except where HSBC expressly instructs otherwise, each party shall be entitled to assume that instructions (whether or not in writing and howsoever communicated) have been properly authorised by the other if they are given by the Project Manager (in the case of HSBC) or the Senior Client Engagement Manager or Senior Delivery Manager (in the case of Consultant).
+
+22.3                           Consultant (or at Consultant’s discretion Kanbay) shall monitor the performance of the Services and any Deliverables and shall inform HSBC and HSBC Group Members in writing of any material problems, errors or defects as soon as known.
+
+23                                  ASSIGNMENT
+
+23.1                           The Consultant shall not without the prior written consent of HSBC assign, sub-contract, transfer or part with any right or obligation under this Agreement nor any part thereof nor delegate any of its responsibilities or obligations hereunder.  However, Consultant or any Consultant Affiliate shall have the right to subcontract, in its own discretion and without HSBC’s prior written consent, all or any portion of the Services to be provided hereunder to any Consultant Affiliate and Consultant acknowledges and agrees that it shall be liable for all acts and/or omissions of the Consultant Affiliate.
+
+23.2                           Where HSBC permits the Consultant to sub-contract any of its obligations under this Agreement, the Consultant shall be liable for the acts and omissions of the sub-contractor.    The Consultant hereby indemnifies HSBC and the HSBC Group Members against any damage, liability or other loss that HSBC and the HSBC Group Members sustain as a result of the acts and omissions of such sub-contractors.
+
+23.3                           HSBC may assign, transfer, part with or sub-contract any of its rights, responsibilities or obligations under this Agreement without the prior consent of the Consultant. In the case of any assignment or sub-contracting by HSBC of any of its obligations under this Agreement, HSBC agrees that it shall be liable for all acts and/or omissions of its assignee or sub-contractor.
+
+29
+
+24                                  VARIATION
+
+24.1                              No variation to these Terms and Conditions shall be effective unless in writing signed by a duly authorised officer of each of HSBC and Consultant.  For the avoidance of doubt, no document, letter or any other correspondence issued or executed by any of HSBC’s or Consultant’s personnel respectively shall be effective unless such individuals are duly authorised officers of the entity they are executing on behalf of.
+
+24.2                           Unless otherwise permitted in a SoW, no variation to a SoW shall be effective unless in writing signed by a duly authorised officer of each of the entities that enter into that SoW. For the avoidance of doubt, no document, letter or any other correspondence issued or executed by an entity’s personnel shall be effective unless such individuals are duly authorised officers of the entity they are executing on behalf of.
+
+25                                  NOTICES
+
+25.1                           All notices shall be given in writing (including where agreed by email) and shall be sent to the following:-
+
+HSBC:
+
+for the attention of:
+
+Head of IT Planning & Finance
+
+Group IT
+
+HSBC Holdings plc
+
+8 Canada Square
+
+London E14 5HQ
+
+Fax: 44(0)207 991 4704
+
+With a copy to:
+
+Head of Group Purchasing
+
+HSBC Holdings plc
+
+8 Canada Square
+
+London E14 5HQ
+
+Fax: 44(0)207 992 4818
+
+Consultant:
+
+for the attention of:
+
+President
+
+Kanbay Europe Ltd.
+
+Compass House, Vision Park
+
+Histon
+
+Cambridge, CB4 9AD UK
+
+30
+
+Fax: 44 1223 257 786
+
+With a copy to:
+
+Kanbay International, Inc.
+
+6400 Shafer Court
+
+Rosemont, Illinois 60018
+
+Attention: Vice President and General Counsel
+
+Fax: (847) 384-0500
+
+25.2                           Notices relating to the activities of any relevant HSBC Group Member shall be copied to the relationship manager or other senior representatives of that HSBC Group Member.
+
+25.3                           A notice sent by post or courier shall be deemed (in the absence of evidence of earlier receipt) to have been delivered forty-eight (48) hours after despatch. A notice sent by electronic means shall be deemed to have been received on the first working day following its despatch provided (in the case of fax) notification of a successful and complete transmission is obtained.
+
+26                                  SET-OFF
+
+Where the Consultant or Consultant Affiliates have incurred any undisputed liability to HSBC or any HSBC Group Member under this Agreement HSBC or any HSBC Group Member may set-off the undisputed amount of such liability against any sum that would otherwise be due to Consultant or Consultant Affiliate under this Agreement or otherwise.
+
+27                                  FURTHER ASSURANCE
+
+The Consultant shall and shall procure that any relevant Consultant Affiliate shall at their sole cost and expense use all Reasonable Endeavours to do or procure to be done all such further acts and things and execute or procure the execution of all such other documents as HSBC and the relevant HSBC Group Member may from time to time reasonably require for the purpose of giving HSBC and the HSBC Group Members the full benefit of the provisions of this Agreement and for the fulfilment of their respective obligations under this Agreement.
+
+28                                  COUNTERPARTS
+
+These Terms and Conditions (or any SoW) may be executed in any number of counterparts, each of which, when executed and delivered, shall be an original, and all the counterparts together shall constitute one and the same instrument.
+
+31
+
+29                                  INSURANCE
+
+Consultant shall maintain throughout the Term of this Agreement and any SoW and for six years thereafter adequate reasonable insurance cover with a reputable insurer acceptable to HSBC in relation to Consultant’s and Consultant Affiliates’ risks under this Agreement.  Consultant shall at HSBC’s request from time to time furnish such evidence as HSBC may reasonably request to demonstrate that such insurance cover has been maintained in force with such insurer, and copies of any policy documentation requested by HSBC.
+
+30                                  INTERNAL AND EXTERNAL AUDIT
+
+30.1                           Consultant shall and shall procure that Consultant Affiliates shall provide access to the Deliverables and all other materials relating to the provision of the Services to any internal or external auditors or examiners of HSBC or the HSBC Group Members.
+
+30.2                           HSBC and the HSBC Group Members are subject to certain regulatory requirements (including from the Financial Services Authority, the Bank of England and other competent regulatory bodies in other jurisdictions) and as a result, in addition to the Consultant’s obligations under Clause 30.1 Consultant shall, upon request and reasonable prior notice, provide to or procure for HSBC, HSBC Group Members or internal or external auditors or examiners of HSBC or HSBC Group Members, copies of Consultant’s or any relevant Consultant Affiliate’s records pertaining to Consultant’s and Consultant Affiliates’ compliance with their obligations regarding the transactions contemplated hereunder and/or a statement attesting to Consultant’s or the relevant Consultant Affiliate’s ongoing financial viability in the opinion of, and issued by, Consultant’s or the relevant Consultant Affiliate’s independent third party accounting firm.
+
+30.3                           HSBC or a relevant HSBC Group Member may by itself or by engaging a reputable third party auditor(s), audit the Consultant’s performance of this Agreement, or Consultant shall procure such right in relation to any Consultant Affiliate requested by HSBC or any HSBC Group Member.  HSBC or the relevant HSBC Group Member shall give the Consultant (or the Consultant Affiliate) reasonable prior notice of any intended audit.  The Consultant shall use its Reasonable Endeavours to provide or procure for the HSBC Group Member or relevant auditor access to all information, facilities, materials, installations, premises, procedures or other resources (including staff) as it shall reasonably require to undertake the audit, subject to HSBC or the relevant HSBC Group Member requiring the auditor to enter into a reasonable confidentiality agreement with the Consultant (or Consultant Affiliate) restricting disclosure of the Consultant’s (or Consultant Affiliate’s) Confidential Information to a reasonable extent.  Notwithstanding the foregoing, Consultant shall and shall procure that Consultant Affiliates shall provide all information, access and assistance as is required to enable HSBC or a HSBC Group Member to comply with any applicable laws, regulations or regulatory requests.
+
+30.4                           Consultant shall (and shall procure that Consultant Affiliates shall) comply with any request of HSBC or any HSBC Group Member for information relating to the Services or any SoW that may be required by HSBC or any HSBC Group Member to enable them to comply with
+
+32
+
+the US Sarbanes-Oxley Act of 2002 (and any resultant, similar or replacement legislation, rules or guidance).
+
+31                                  RELATIONSHIP OF THE PARTIES
+
+31.1                           The relationship of HSBC and the HSBC Group Members, and Consultant, Consultant Affiliates and Consultant Personnel shall be that of an independent contractor and not employer-employee. No Consultant Personnel or other employee, agent, contractor or representative of Consultant or Consultant Affiliates shall make any representations on behalf of HSBC or the HSBC Group Members nor may bind the same to any obligation, purchase or liability. Consultant will be responsible for the acts and omissions of its (or any Consultant Affiliates’) Consultant Personnel or other employees, agents, contractors or representatives in respect to HSBC’s and HSBC Group Member’s security requirements and business policies in performing obligations under this Agreement (including while on the premises of HSBC and HSBC Group Members).
+
+31.2                           Consultant (or Consultant Affiliates, as applicable) will have sole authority and independent control over the means by which the Services are performed.  Consultant shall retain the right to perform services for others during the term of this Agreement.  Consultant is not an agent of HSBC or any HSBC Group Member and has no authority whatsoever to bind HSBC or any HSBC Group Member by representations, contract or agreement of any kind.
+
+32                                  GENERAL
+
+32.1                           Entire Agreement
+
+The provisions of this Agreement, as amended, and the applicable SoW shall constitute the entire Agreement between the parties with respect to the Services and Deliverables, and, unless otherwise expressly provided, supersede all prior agreements, representations, statements, negotiations and undertakings (other than representations made fraudulently).
+
+32.2                           Severability
+
+If any provision of this Agreement is held by a court to be invalid or unenforceable and can be deleted without altering the essence of the Agreement, the unlawful provision will be severed and the remaining provisions will remain in full force or effect.
+
+32.3                           Survival
+
+Clauses 1 (Definitions and Interpretation), 13 (Intellectual Property Rights), 14 (Liability), 15 (Confidentiality), 16 (Publicity), 17 (Data Protection), 18 (Breach and Termination), 26 (Set-Off), 29 (Insurance) and 30 (Internal and External Audit), this clause 32 (General) and all other provisions of these Terms and Conditions or as they are incorporated and apply to a SoW intended to survive termination shall survive termination as the context requires.
+
+33
+
+32.4                           Waiver
+
+No relaxation forbearance delay or negligence by either party in enforcing any of the terms and conditions of this Agreement or the granting of time by either party to the other shall prejudice affect or restrict the rights and powers of that party.  No waiver of any terms or conditions of this Agreement shall be effective unless made in writing and signed by the party against which enforcement of the waiver is sought.  The waiver of any breach of any term or condition of this Agreement shall not be construed as a waiver of any subsequent breach or condition whether of the same or different nature.  Except where otherwise explicitly agreed all remedies in this Agreement are cumulative and not exclusive of any other remedy or right in this Agreement or at law.
+
+32.5                           Foreign Laws
+
+The supply of Services or Deliverables in certain territories may be subject to certain amended or additional terms set out in a SoW, which shall apply in relation to any such supply in any relevant territory.
+
+32.6                           Third Parties
+
+Except as set forth in these Terms and Conditions or a SoW and throughout these Terms and Conditions or a SoW in relation to HSBC Group Members and Consultant Affiliates, nothing in these Terms and Conditions or a SoW is intended to, nor shall create any right enforceable by any third party or person not a party to these Terms and Conditions or a SoW and the Contracts (Rights of Third Parties) Act 1999 shall not otherwise apply to these Terms and Conditions or a SoW.  The consent of a third party (including a HSBC Group Member or a Consultant Affiliate) shall not be required for the amendment, variation or termination of these Terms and Conditions or a SoW (subject to Clause 1.1(i) as such provision is incorporated in the SoW).
+
+32.7                           No Partnership
+
+No part of this Agreement is intended to create or record any employment, partnership, joint venture, agency or other such relationship between HSBC, HSBC Group Members and the Consultant or Consultant Affiliates (or their personnel).  For the avoidance of doubt all personnel of the Consultant or the Consultant Affiliates shall remain employees or suppliers to the Consultant or Consultant Affiliates, and shall not be regarded as employees, agents, contractors or representatives of HSBC or any HSBC Group Member.
+
+32.8                           Governing Law
+
+This Agreement shall be governed in all respects by the Laws of England and Wales and the parties submit to the exclusive jurisdiction of the English Courts
+
+34
+
+Agreed for and on behalf of :
+
+KANBAY EUROPE LIMITED
+
+HSBC HOLDINGS plc
+
+Signed
+
+Signed
+
+Name
+
+Name
+
+Title
+
+Title
+
+Date
+
+Date
+
+35
+
+ATTACHMENT A – Annex 1 - UK Declaration of Conformity
+
+DECLARATION OF CONFORMITY
+
+1.               I hereby confirm that I have read and will conform during the period of my temporary assignment to the HSBC rules as may be amended from time to time in respect of the following :
+
+a)                                     Specific policies and standards concerning Information Technology and Information Technology Security Guidelines. I understand that the loading or use of deliverables not provided and authorised by the HSBC on HSBC computer systems and/or the loading or use of deliverables authorised by HSBC on any personal or non HSBC equipment is strictly forbidden;
+
+b)                                    UK Staff Dealing Rules in relation to securities dated April 1994;
+
+c)                                     The Data Protection Act 1998;
+
+d)                                    HSBC’s Equal Opportunities policy;
+
+e)                                     Emergency and Evacuation Procedures and the Guide to Health and Safety and Fire;
+
+f)                                       Security rules specific to the building where I am to carry out my temporary assignment;
+
+g)                                    Standards of dress;
+
+h)                                    Specific rules relating to the HSBC’s “No Smoking” policy;
+
+i)                                        Any specific rules and standards to be adhered to in the course of my temporary assignment advised to me by HSBC Holdings plc.
+
+2.                                      And confirm that:
+
+a)                                     I have never been convicted of a criminal offence involving fraud or dishonesty;
+
+b)                                    I have never been summarily dismissed in connection with or convicted of any offence under the legislation relating to banking, building societies, companies, consumer credit, credit unions, friendly societies, industrial or provident societies, insolvency, insurance or other financial services;
+
+c)                                     I have never been involved in any complaint concerning an alleged breach of the rules of a regulatory authority in respect of unsolicited calls.
+
+36
+
+Signed
+
+Name
+
+Date
+
+Witnessed
+
+Name
+
+Department
+
+Date
+
+37
+
+ATTACHMENT A – Annex 2 - Declaration of Confidentiality
+
+HSBC Holdings plc
+
+(and other HSBC Group Companies)
+
+Declaration of Confidentiality
+
+I, the undersigned, hereby and solemnly undertake that I will at all times maintain strict confidentiality with regard to, and will not for my own or anyone else’s use (whether for profit or not) make copies of or notes about, any and all matters of a confidential nature concerning HSBC Holdings plc and any company in the HSBC Group (Group having the definition given in Section 53 of the Companies Act, 1989) their customers, the state of their accounts and any other matter relating to the HSBC Holdings plc and other HSBC Group companies business except where required by law to disclose such information or with the prior consent of HSBC Holdings plc, the HSBC Group Company or the person to whom any duty of confidence is owed.  Should I be by law, required to make such a disclosure I shall so far as lawful promptly inform the relevant HSBC Group Company of such a requirement.
+
+I undertake to deliver up to HSBC Holdings plc or to such other HSBC Group Company as is appropriate all and any records in any medium which I may hold at the end of my assignment with any such company.
+
+I acknowledge that damages will not be an adequate remedy for any breach of this obligation and I shall not seek to resist an application for an injunction in respect of any breach or threatened breach of this obligation on the grounds that there is an alternative adequate remedy in damages.
+
+Signed
+
+Name
+
+Date
+
+Witnessed
+
+Name
+
+Department
+
+Date
+
+38
+
+ATTACHMENT B – ADDITIONAL PARTIES ENTITLED TO THE BENEFIT OF THIS AGREEMENT
+
+None as at the date of execution of these Terms and Conditions.
+
+39
+
+ATTACHMENT C – PRO FORMA STATEMENT OF WORK
+
+SoW Number:
+
+Project Name:
+
+Consultant - Project Manager Signature:
+
+Date:
+
+Customer - Project Manager Signature:
+
+Date:
+
+THIS STATEMENT OF WORK IS MADE THIS                    DAY OF                    [200   ]
+
+Between:
+
+[       ] whose registered office is [     ] (Registered Number [      ]) which shall hereinafter be referred to as “Customer”; and:
+
+[       ] whose registered office is [     ] (Registered Number [      ]) which shall hereinafter be referred to as “Consultant”.
+
+Whereas:
+
+A.           HSBC Holdings plc and Kanbay Europe Ltd have entered into a Global Supply Agreement dated 19th April 2005 (“Global Supply Agreement”) which sets out the terms and conditions under which Kanbay Europe Ltd and/or its affiliates may provide consulting services to HSBC Holdings plc and/or its affiliates.  Such services shall be detailed in an agreed Statement of Work.
+
+B.             The parties agree that the Consultant shall provide the services set out in this Statement of Work to the Customer in accordance with the terms and conditions set out herein.
+
+Now it is agreed as follows:
+
+The parties agree that the terms and conditions of the Global Supply Agreement shall apply to and be incorporated into this Statement of Work. For the avoidance of doubt, the parties agree that in the event of any conflict between a provision of the Global Supply Agreement and a provision of this Statement of Work, clauses 1.1(g),(h) and (i)  of the Global Supply Agreement shall apply to resolve any such conflict.
+
+Customer and Consultant each acknowledge and agree that it will comply with the provisions of the Global Supply Agreement as if it were a party to that agreement.
+
+1.              Commencement Date
+
+This Statement of Work shall commence on [        ] (“Effective Date”).
+
+2.              Services/Tasks
+
+For the purposes of this Statement of Work, the “Services” shall consist of the following:
+
+40
+
+The Deliverables [will/will not] be used in a live production environment (see clause 4.3 of the Global Supply Agreement).
+
+3.              Specification / Requirements
+
+4.              Implementation Plan/Timetable for completion of Services
+
+5.              Acceptance Tests
+
+6.              Charges
+
+[First Year]
+
+[Subsequent Years]
+
+7.              Invoice date(s)
+
+8.              Consultant Key Personnel
+
+Name
+
+Title
+
+Start — Expiration
+
+Local or Offshore
+
+9.              Other Consultant Personnel
+
+Name
+
+Title
+
+Start — Expiration
+
+Local or Offshore
+
+10.       Consultant Project Manager
+
+11.       Customer Project Manager
+
+41
+
+12.       Reporting and Meetings
+
+13.       Scope of any training to be provided
+
+[Detail scope of the training]
+
+The training will be provided [at no charge]/[at a charge of [insert]].
+
+14.       Acceptance Certificate
+
+Is an Acceptance Certificate required to be issued for each Deliverable? Yes/No (See clause 6.2)
+
+42
+
+This form statement of work was used for engagements entered into under the Consulting Agreement, dated November 14, 1994, between Kanbay Incorporated and HSBC Technology & Services (USA) Inc. (the “Old Agreement”).  The Old Agreement was terminated as of April 19, 2005 and this statement of work is now governed by the terms of the Consultancy Services Global Supply Agreement, dated April 27, 2005, between Kanbay Europe Ltd. and HSBC Holdings plc (the “New Agreement”).  Pursuant to the terms of the New Agreement, this form statement of work may also be used for engagements entered into under the New Agreement.
+
+For Internal Kanbay Purposes Only:
+
+CA No.
+
+S.O. No.
+
+Statement of Work No.
+
+New Client
+
+Household P.O. No.
+
+Extension
+
+Correction
+
+Add-On Sale
+
+STATEMENT OF WORK
+
+(PURCHASE ORDER)
+
+TO
+
+MASTER SERVICES AGREEMENT
+
+(“Kanbay”)
+
+(“Household”)
+
+Name:
+
+Name:
+
+6400 Shafer Court, Suite 100
+
+Address:
+
+Rosemont, IL 60018
+
+(847) 384-6100
+
+Telephone Number:
+
+By:
+
+By:
+
+Print Name:
+
+Print Name:
+
+Title:
+
+Title:
+
+Date:
+
+Date:
+
+By signing above, the parties agree to the terms and conditions of this Statement of Work (a.k.a. Purchase Order) and to the terms and conditions of the Consulting Agreement between [                              ] (“Household” or “HI”) and [                              ] (“Kanbay”), effective                    , which by this reference is incorporated herein.
+
+1.                                       Services
+
+[List Services.]
+
+The Services will be provided by the Kanbay resources identified below on a                                  basis, at the following rates:
+
+43
+
+[List Rates.]
+
+All changes to the scope of the Services provided under this Statement of Work must be in writing and signed by authorized representatives of the parties.  Upon Household’s request, Kanbay shall provide a good faith estimate of any additional time or charges associated with any requested change.
+
+2.                                       Household’s Responsibilities – Prior to and during the term of this Statement of Work, Household shall perform the following tasks:
+
+[List Household Responsibilities.]
+
+3.                                       Estimated Timetable for Commencement and Completion of Services (including Phases, if applicable) – Provided there are no changes to the project assumptions or the current plans as provided in Section 1, and the parties perform their respective responsibilities as provided herein, Kanbay currently estimates that the Services shall be completed approximately            after commencement of the Services, which is currently scheduled for                               .
+
+4.                                       Conditions of Acceptance (if any) by Household – All Services provided hereunder will be deemed accepted by Household                                after performance thereof unless Household notifies Kanbay, in writing and with a written list of discrepancies, that the Services are non-compliant with the terms of the Statement of Work.  Household will promptly provide to Kanbay defect reports with documentation to support and assist in the correction process if any non-compliance is claimed by Household.  Household will also provide reasonable assistance in remedying the defect, including, without limit, providing additional computer runs to duplicate the conditions at the time of error and allowing access to code and data files (if applicable).  Kanbay will investigate and/or address any alleged non-compliance, and Household shall diligently review any fixes provided by Kanbay in response to Household’s written list of non-compliant items.  Unless Household notifies Kanbay in writing that said items are still non-compliant, said fixes shall be deemed accepted by Household                  after the delivery of a fix for any non-compliant item or                following Household’s receipt of written notification from Kanbay stating that the non-compliant item(s) are compliant.
+
+5.                                       Location of Performance of Work – [List Location of Performance of Work.]
+
+6.                                       Fees – Household shall pay Kanbay on a                                      basis at the rates set forth in Section 1.  The Services fees, as well as all expenses, shall be invoiced by Kanbay on a                basis for the immediately preceding invoice period.  Each invoice shall be due and payable in                    within            calendar days after receipt of such invoice.
+
+7.                                       Assumptions – Kanbay and Household have worked cooperatively to define the scope of this project.  In defining the foregoing, the parties assumed that certain elements or assumptions would be in effect throughout the term of the Statement of Work.  The parties agree that, to the best of their knowledge, all relevant assumptions have been set forth below:
+
+[List Assumptions.]
+
+Any changed, incorrect or additional elements or assumptions may result in an increased cost to both of the parties.
+
+44
+
+This form statement of work was used for engagements entered into under the Consulting Agreement, dated November 14, 1994, between Kanbay Incorporated and HSBC Technology & Services (USA) Inc. (the “Old Agreement”).  The Old Agreement was terminated as of April 19, 2005 and this statement of work is now governed by the terms of the Consultancy Services Global Supply Agreement, dated April 27, 2005, between Kanbay Europe Ltd. and HSBC Holdings plc (the “New Agreement”).  Pursuant to the terms of the New Agreement, this form statement of work may also be used for engagements entered into under the New Agreement.
+
+STATEMENT OF WORK
+
+SOW NO.
+
+ISSUED TO KANBAY INCORPORATED
+
+Pursuant to the Consulting Agreement (the “Agreement”) between [                       ] (“Kanbay”) and             [                       ] (“Household”), containing an Effective Date of                               , as extended by subsequent agreements, (which Agreement is incorporated herein by this reference), Household hereby orders from Kanbay the following:
+
+1.                                       Term.  The initial term of this Statement of Work shall be                            commencing on                  (the “Effective Date”) and shall expire on the                         , unless earlier terminated or extended in accordance with the Agreement, as modified herein.
+
+2.                                       Services.  [List Services]
+
+3.                                       Definitions.  [List Definitions]
+
+4.                                       Services/Fees – First Year.  [List Services/Fees]
+
+5.                                       Services/Fees – Subsequent Years.  [List Services/Fees]
+
+6.                                       Special Projects.  Kanbay and Household agree that the fees set forth herein shall not apply to Kanbay’s performance of special projects requested by Household that: (i) are outside the scope of the Services; (ii) require Kanbay to provide personnel possessing special skills distinct from those skills generally possessed by Kanbay personnel providing the Services under this Agreement; or (iii) require an increase in the number of either Onsite or Offshore Kanbay personnel (collectively, “Special Projects”).  Special Projects performed on a                                      basis will be paid on                  rates which shall be agreed upon                               .  Household and Kanbay may also agree to perform Special Projects on a
+
+45
+
+basis.  Unless otherwise agreed by the parties, Household shall pay Kanbay for the performance of Special Projects on a                                              basis.
+
+7.                                       Invoicing.  Kanbay shall invoice Household on                                                    for the fees set forth above for: Services to be performed during that period;                                                 .
+
+8.                                       Project Managers.
+
+(a) Kanbay shall assign a senior project manager (the “Kanbay Senior Client Engagement Manager”) who shall, among other things, [list responsibilities].  The Kanbay Senior Client Engagement Manager shall work with the Household Project Manager on a frequent and informal basis.
+
+(b) Household shall assign a project manager (“Household Project Manager”) to assist the Kanbay Client Engagement Manager in connection with the delivery of the Services.  The Household Project Manager shall [list responsibilities].
+
+9.                                       Status Reports and Meetings.                               following the Effective Date, and every                  thereafter, Kanbay shall provide Household with a written report setting forth the number of hours utilized by Household for the preceding                  (the “Utilization Report”).  In addition to the Utilization Report, Kanbay shall deliver to Household on a                  basis a written report (“Status Report”) summarizing Household’s utilization of Kanbay resources, personnel assignments, and the status of various projects.  Kanbay senior management and Household representatives shall hold meetings on a                  basis to review the Status Report and Utilization Report, if applicable, and discuss ongoing performance and utilization issues, and planned or anticipated projects or changes.  If any Utilization Report or Status Report reveals excessive under- or over-utilization of Kanbay personnel, the parties will negotiate in good faith an appropriate adjustment to the schedule of Services to be performed, number of FTE’s to be utilized, and/or fees to be paid Kanbay for the Services.
+
+10.                                 Notwithstanding any terms in the Agreement to the contrary, this Statement of Work may be terminated by Household for its convenience                                                                                                         .
+
+11.                                 Kanbay shall not make any unauthorized disclosure of or use any personal information of individual consumers which it receives from the other party or on the other party’s behalf other than to carry out the purposes for which such information is received, Kanbay shall comply, to the extent applicable, with the requirements of the implementing regulations of Title V of the Gramm-Leach Bliley Act of 1999.
+
+12.                                 The parties hereto reaffirm the terms of Section 11 of the Agreement.
+
+This Statement of Work shall not be effective or binding on either party until accepted and executed by both parties.
+
+[                                                       ]
+
+[                                                       ]
+
+By:
+
+By:
+
+Name:
+
+Name:
+
+Title:
+
+Title:
+
+Dated:
+
+Dated:
+
+46
+
+ADDENDUM TO STATEMENT OF WORK
+
+ISSUED TO KANBAY INCORPORATED
+
+This Addendum amends and modifies a certain Statement of Work, with an Effective Date of                                and having a                           , by and between [                   ] (“Kanbay”) and [                                   ] (“Household”).
+
+Unless otherwise defined herein, all capitalized terms shall have the meanings ascribed to them in the Statement of Work.
+
+Except as amended above, all terms and conditions of the Statement of Work shall remain in full force and effect.
+
+[                                                       ]
+
+[                                                       ]
+
+By:
+
+By:
+
+Name:
+
+Name:
+
+Title:
+
+Title:
+
+Dated:
+
+Dated:
+
+47
+
+This form statement of work was used for engagements entered into under the Consulting Agreement, dated November 14, 1994, between Kanbay Incorporated and HSBC Technology & Services (USA) Inc. (the “Old Agreement”).  The Old Agreement was terminated as of April 19, 2005 and this statement of work is now governed by the terms of the Consultancy Services Global Supply Agreement, dated April 27, 2005, between Kanbay Europe Ltd. and HSBC Holdings plc (the “New Agreement”).  Pursuant to the terms of the New Agreement, this form statement of work may also be used for engagements entered into under the New Agreement.
+
+For Internal Kanbay Purposes Only:
+
+MSA No.
+
+S.O. No.
+
+SOW No.
+
+  New Client
+
+P.O. No.
+
+  Extension
+
+  Correction
+
+  Add-On Sale
+
+STATEMENT OF WORK
+
+TO
+
+THE CONSULTING AGREEMENT
+
+(                                           )
+
+(                                           )
+
+Name:
+
+Name:
+
+Address:
+
+Address:
+
+City, State Zip:
+
+City, State Zip:
+
+Telephone Number:
+
+Telephone Number:
+
+By:
+
+By:
+
+Print Name:
+
+Print Name:
+
+Title:
+
+Title:
+
+Date:
+
+Date:
+
+By signing above, the parties agree to the terms and conditions of this Statement of Work (a.k.a. Purchase Order) and to the terms and conditions of the Consulting Agreement between [                                   ]. (as well as its subsidiaries) and [                                   ], dated November 14, 1994 (the “Agreement), which by this reference is incorporated herein.  For the convenience of contracting, the parties to this Statement of Work hereby acknowledge and agree to the terms and conditions of the Agreement, as subject to the express terms and conditions of this Statement of Work, as if each party to this Statement of Work executed the Agreement in the place of, and without reference to, their respective affiliated companies.
+
+1.                                       Services –
+
+[List Services.]
+
+All changes to the scope of the Services provided under this Statement of Work must be in writing and approved by both parties.
+
+48
+
+2.                                       Location of Performance of Work –
+
+[List Location of Performance of Work.]
+
+3.                                       Fees –
+
+[List Fees.]
+
+4.                                       Conditions of Acceptance (if any) by                                      – All Services performed hereunder will be deemed accepted by                                          after performance thereof unless                                      notifies Kanbay in writing, and with a written list of discrepancies, that the Services are non-compliant with the terms of this Purchase Order.
+
+49
+
+This form statement of work was used for engagements entered into under the Consulting Agreement, dated November 14, 1994, between Kanbay Incorporated and HSBC Technology & Services (USA) Inc. (the “Old Agreement”).  The Old Agreement was terminated as of April 19, 2005 and this statement of work is now governed by the terms of the Consultancy Services Global Supply Agreement, dated April 27, 2005, between Kanbay Europe Ltd. and HSBC Holdings plc (the “New Agreement”).  Pursuant to the terms of the New Agreement, this form statement of work may also be used for engagements entered into under the New Agreement.
+
+Statement of Work
+
+This statement of Work references Consulting Agreement between [                     ] and [                             ] on behalf of its subsidiaries and affiliates.
+
+Last Name
+
+First Name
+
+Middle Name
+
+VEN ID
+
+Start Date
+
+End Date
+
+VP
+
+Location
+
+Rate
+
+[List names]
+
+Consultants will only be paid for the time period listed on this form
+
+Compensation will be based on the number of hours worked and renumerated on the basis of an hourly rate or negotiated amount to be determined for each individual assigned.  No compensation is available for vacation, sick time, personal business, holidays, or any other non-project related time.
+
+50
+
+SERVICES TO BE PERFORMED
+
+Consultant agrees to exercise reasonable diligence to perform the following services as required to complete the assigned task(s) in the agreed upon schedule.  Consultant will be working under the direction of Household management.
+
+[                                                         ]
+
+[                                                         ]
+
+By:
+
+By:
+
+Signature:
+
+Signature:
+
+Title:
+
+Title:
+
+Date:
+
+Date:
+
+Form Data for
+
+Close
+
+Edit
+
+Delete
+
+Form Name:
+
+Submitted By:
+
+Log Number:
+
+Status:
+
+Date Created:
+
+51
+
+Comment History:
+
+WorkFlow History:
+
+Decision
+
+Reviewer List
+
+Date Submitted
+
+Date Reviewed
+
+Field Names
+
+Labels
+
+Values
+
+[List field names]
+
+[List labels]
+
+[List values]
+
+52
+
+ATTACHMENT D – DATA PROTECTION PROVISIONS
+
+1.                                                                    DEFINITIONS
+
+1.1                                                             For the purposes of this Attachment D, the following terms shall have the following meaning:
+
+(a)                                                         “Company Representative” means in the case of each of HSBC or the relevant HSBC Group Member and the Consultant or the relevant Consultant Affiliate, the officer or person nominated (or such other officer or person as each party may designate in writing from time to time) to be responsible for day-to-day liaison between the parties and for monitoring the performance of the Services by the Consultant or the relevant Consultant Affiliate;
+
+(b)                                                        “Data Protection Legislation” means the UK Data Protection Act 1998;
+
+(c)                                                         “Personal Data” means any data from which a living individual can be identified that may be transferred by HSBC or other HSBC Group Members, or their respective agents and/or customers to the Consultant and processed by the Consultant in accordance with the terms of this Agreement;
+
+(d)                                                        “Premises” means any premises from which the Consultant or the Consultant Affiliate (as applicable) provides the Services;
+
+(e)                                                         “Processing” means in relation to Personal Data, obtaining, recording or holding the Personal Data or carrying out any operation or set of operations on Personal Data, including:
+
+•                                organisation, adaptation or alteration of the Personal Data; or
+
+•                                retrieval, compilation or use of the Personal Data; or
+
+•                                disclosure of the Personal Data by transmission, dissemination or otherwise making available; or
+
+•                                alignment, combination, blocking, erasure or destruction of the Personal Data;
+
+(f)                                                           “Security Measures” means the standard security procedures and requirements set out, or referred to, in Schedule 1 (or in any substitute schedule agreed by the parties from time to time);
+
+(g)                                                        “System” means the computer hardware and software programmes (if any) utilised from time to time to provide the Services to HSBC or the HSBC Group Member;
+
+53
+
+2.                                                                   PROVISION OF SERVICES
+
+2.1                                                             Each of the parties acknowledge that, to the extent that the provision of Services involve the Consultant or Consultant Affiliate (as applicable) in the processing of Personal Data, the respective rights of data subjects and/or any data protection commissioner or national information commissioner (or any functionary with similar responsibilities) under any relevant Data Protection Legislation shall not be prejudiced in any way by the terms of this Agreement.
+
+2.2                                                             The Consultant or Consultant Affiliate (as applicable) undertakes that at all times during the term of this Agreement:
+
+(i)                                               it will provide the Services in accordance with the provisions of this Agreement and the Security Measures;
+
+(ii)                                                      it will respect the principles set out in the relevant Data Protection Legislation in performing the Services;
+
+(iii)                                         it shall promptly notify the Company Representative of HSBC in writing on becoming aware of the occurrence of any material development or occurrence which may inhibit the Consultant or Consultant Affiliate (as applicable) in its ability to perform its obligations hereunder;
+
+2.3                                                               The Consultant or Consultant Affiliate (as applicable) shall promptly take all necessary steps within its power to comply with any instructions received from HSBC the relevant HSBC Group Member in respect of the Processing of Personal Data. In particular, if at any time HSBC or the relevant HSBC Group Member requests the Consultant or Consultant Affiliate (as applicable) to refrain or desist from Processing any specific Personal Data the Consultant or Consultant Affiliate (as applicable) shall immediately take all necessary steps within its power to comply with HSBC’s or the relevant HSBC Group Member’s request.
+
+2.4                                                               The Consultant or Consultant Affiliate (as applicable) shall maintain a written contingency plan, containing procedures for the continued performance of the Services in the event of a disaster or other failure that results in a significant interruption of the Services at the Premises and shall provide a copy to HSBC or the relevant HSBC Group Member at their request.
+
+3.                                                                     HUMAN RESOURCES
+
+3.1                                                              The Company Representatives shall have responsibility for liaison with each other to ensure:
+
+(i)                                  general compliance by the Consultant or Consultant Affiliate (as applicable) with the terms of this Attachment D; and
+
+(ii)                               any Processing of Personal Data by the Consultant or Consultant Affiliate (as applicable) in relation to the provision of the Services is being undertaken in compliance with the relevant Data Protection Legislation.
+
+54
+
+4.                                                                   SECURITY
+
+4.1                                                             The Consultant or Consultant Affiliate (as applicable) shall provide and maintain the following facilities and services to the Premises under control of the Consultant or Consultant Affiliate (as applicable) (or any Premises controlled by a third party providing the Services and from which the Services are performed) at all times during the term of this Agreement:
+
+(i)                                  an electronic access control system, to ensure that access to the Premises is restricted as provided by paragraph 3 of Schedule 1;
+
+(ii)                               24-hour manned security of the Premises;
+
+(iii)                            a modern functioning intruder, smoke and fire detection systems; and
+
+(iv)                           standby electricity generating capacity, sufficient to support all the electrical equipment (including computer hardware and lighting) utilised within the Premises.
+
+5.                                                                   INTEGRITY OF DATA
+
+5.1                                                       All Personal Data shall be and remain the sole and exclusive property of HSBC or the relevant HSBC Group Member.  On the termination of this Agreement or at any time at the request of HSBC or the relevant HSBC Group Member, any Personal Data then in the possession of the Consultant or Consultant Affiliate (as applicable) shall be immediately returned to HSBC or the relevant HSBC Group Member (as HSBC or the relevant HSBC Group Member directs).  Personal Data shall not be used by the Consultant or Consultant Affiliate (as applicable) for any purpose other than to provide the Services, and shall not be disclosed to any third party, except as provided by Attachment A.
+
+5.2                                                       The Consultant or Consultant Affiliate (as applicable) shall implement strict security procedures in respect of the integrity and confidentiality of the Personal Data whilst in its possession to ensure that the Personal Data will not be recorded, disclosed, processed, deleted, altered, used or otherwise tampered with in an unauthorised or accidental manner.
+
+5.3                                                       Without prejudice to paragraph 5.2 above, the Consultant or Consultant Affiliate (as applicable) shall ensure that adequate security measures and precautions will at all times be in place during its possession or use of the Personal Data to protect the Personal Data in accordance with the relevant Data Protection Legislation.
+
+5.4                                                       Except to the extent necessary for the provision of the Services, none of the Personal Data shall be mechanically or electronically copied or otherwise reproduced by the Consultant or Consultant Affiliate (as applicable), and shall not be altered or supplemented with other data, without the express written permission or at the specific written direction of HSBC or the relevant HSBC Group Member.
+
+55
+
+5.5                                                       Any such Personal Data in any medium external to the System (including without limitation paper copies, discs, CD Roms, magnetic tapes) shall be stored in secure locked cabinets in a secure locked area.
+
+5.6                                                       Any breach or potential breach of the provisions of this Clause 5 shall be immediately notified in writing by the Consultant or Consultant Affiliate (as applicable) to HSBC or the relevant HSBC Group Member.
+
+SCHEDULE 1
+
+STANDARD SECURITY MEASURES
+
+1.                                      BASIC PROCEDURES
+
+(a)                                  The Consultant or Consultant Affiliate (as applicable) shall, and shall procure that the Consultant Personnel shall, at all times during the term of this Agreement comply with the procedures and requirements as to data security and data protection set out in proprietary materials provided by HSBC or the relevant HSBC Group Member (as up-dated) from time to time.
+
+(b)                                 In addition, the Consultant or Consultant Affiliate (as applicable) shall also implement the under-mentioned further security and data protection measures at the Premises under control of the Consultant or Consultant Affiliate (as applicable) (or any Premises controlled by a third party providing the Services and from which the Services are performed):
+
+•                                          an emergency procedure for the termination of data transfer;
+
+•                                          increased checks of the data accesses made by staff;
+
+•                                          all printouts containing customer data will be tightly controlled; and
+
+•                                          installation of an access control system.
+
+2.                                      CONTROL OF PRINTED MATERIAL
+
+Prior to the end of each day, the Consultant or Consultant Affiliate (as applicable) will ensure that all printed material containing customer data, which is not to be held securely overnight is shredded.
+
+The Consultant or Consultant Affiliate (as applicable) will also ensure that no material in any medium external to the System containing customer data, or HSBC’s or the relevant HSBC Group Member’s proprietary materials (e.g. procedures manuals or videos) is removed from the secure processing areas in the Premises.
+
+3.                                      ACCESS CONTROL SYSTEM
+
+An access control system shall be implemented where appropriate for the purpose of restricting operators’ access to data so that an operator may only access data appropriate to the tasks he is performing.
+
+56

@@ -1,0 +1,817 @@
+
+DocuSign Envelope ID: F2FFED7C-CDBC-4148-A33A-F8E50F4E339A
+
+EE matrix
+
+Master Subscription Services Agreement
+
+This Master Subscription Services Agreement (“Agreement”) is between CLM Matrix and Affiliates, a Texas corporation and its affiliates
+
+(collectively “CLM Matrix”), and Parsons Services Company, on behalf of itself and its Affiliates, a Texas corporation (Customer) and is dated
+as of the date of last signature.
+
+1)
+
+2)
+
+3)
+
+4)
+
+CONTRACT LIFECYCLE MANAGEMENT SERVICE. This Agreement provides Customer access to a proprietary online subscription service
+consisting of an Internet based contract lifecycle management system which includes the following functionality:
+
+- Contract Modeling - ability to input contract metadata into the system
+
+- Contract Portal - role-based repository of contract information in tabular form
+
+- Contract Monitoring and Tracking - ability to perform user defined ad hoc reporting
+
+- Rule and Policy Based Workflow - ability for alerts notifications and reminders based on critical contract dates and obligations.
+
+- Template and Clause Library Management and Automation - Automation of contract generation process. (Matrix Enterprise only)
+
+CLM Matrix will provide this functionality through a secure website portal [URL] provided by CLM Matrix within a hosted server
+environment and under the terms below (Service). This Agreement contemplates one or more orders for the Services, which orders are
+governed by the terms of this Agreement and will describe the Services ordered in more detail (which may include a setup statement of
+work). Customer may allow its worldwide employees, third-party auditors, agents, and contractors (the “Authorized Users”) to access the
+Services in compliance with the terms of this Agreement, which access must be for the sole benefit of Customer. Customer and its
+Authorized Users may access and use the Platform (i) only for the transmission, processing, review and routing of information for the
+Customer’s own internal business purposes, and not on an outsourcing basis, for resale, or similarly on behalf of or for the direct or
+indirect benefit of third parties, and (ii) only in accordance with the other terms of the Agreement. Customer is responsible for the
+compliance with this Agreement by its employees and contractors.
+
+ 
+
+USE OF SERVICES.
+
+a). CLM Matrix Responsibilities. CLM Matrix shall (i) use commercially reasonable efforts to make the Services available, except for
+(x) scheduled outages, or (y) unavailability caused by force majeure, (ii) maintain commercially reasonable information security
+measures and policies designed to safeguard the security of Customer Data and protect against known or anticipated threats to the
+security of Customer Data, and (iii) provide customer support for the Services at no additional charge using the Support Portal at:
+https://support.clmmatrix.com/support/clmmatrix1
+
+ 
+
+b). Customer Responsibilities. Customer (i) is responsible for maintenance of Customer Data, (ii) must use commercially reasonable
+efforts to prevent unauthorized access to the Services, and notify CLM Matrix promptly of any such unauthorized access, and (iii)
+may use the Services only in accordance with the CLM Matrix user guide and applicable law. Customer shall not permit any third-
+party users to use the Services in any way whatsoever without the prior written consent of CLM Matrix.
+
+Customer may not (w) sell, resell, rent or lease the Services, (x) use the Services to store or transmit infringing, libelous, or otherwise
+unlawful or tortious material, or to store or transmit material in violation of third-party rights, (y) interfere with or disrupt the
+integrity or performance of the Services, or (z) attempt to gain unauthorized access to the Services or their related systems or
+networks.
+
+PAYMENT TERMS. Customer must pay all undisputed fees within thirty (30) days of the invoice date of a digitally submitted invoice from
+CLM Matrix. Customer is responsible for sales, use and other similar taxes. Should Customer dispute an invoice or part thereof, Customer
+shall notify CLM Matrix and parties will in good faith endeavor to resolve the dispute. Customer shall pay any undisputed portion of the
+invoice in accordance with the terms of this Agreement. Payment for first month service must be received prior to activation of the
+Services.
+
+WARRANTY/SERVICE LEVEL AGREEMENT and REMEDY.
+
+a). CLM Matrix Limited Warranty. CLM Matrix warrants to Customer (i) that commercially reasonable efforts will be made to provide
+access to the Services for a minimum of availability in any given month as provided in the chart below (excluding scheduled outages),
+(ii) the functionality of the Services will not materially decrease, (iii) and the customer support will not materially degrade.
+
+Availability Credit
+-99.5 orhigher= No Credit.
+
+- 99.4 -95% = 5 % of monthly fee.
+- 94.99 - 90% = 10 % of monthly fee.
+- Less than 90% = 15 % of monthly fee.
+
+b). Limited Remedy and Disclaimer. Customer's exclusive remedy and CLM Matrix’s sole cbligation for breach of the warranty in (a)(i)
+immediately above will be for CLM Matrix to provide a credit as provided in the chart above (if this Agreement is not renewed, then
+arefund of fees prepaid by Customer but not used), for the month in question; provided that Customer notifies CLM Matrix of such
+breach within 30 days of the end of the month in question. EXCEPT AS STATED IN SECTION_4(a) THE SERVICES ARE PROVIDED “AS
+IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. CLM Matrix DISCLAIMS AND EXCLUDES ANY AND ALL
+OTHER REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT,
+
+CLM Matrix Master Subscription Services Agreement Rev. 07/01/19 Page 1 of 6
+Copyright © 2019 CLM Matrix. All rights reserved
+
+DocuSign Envelope ID: F2FFED7C-CDBC-4148-A33A-F8E50F4E339A
+
+5)
+
+6)
+
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, IRRESPECTIVE OF ANY COURSE OF DEALING OR PERFORMANCE,
+CUSTOM OR USAGE OF TRADE. CLM MATRIX DOES NOT WARRANT THAT THE SERVICES OR ANY COMPONENT THEREOF WILL BE
+UNINTERRUPTED, THAT ITS USE OR OPERATION WILL BE ERROR OR DEFECT FREE, THAT THE SERVICES OR ANY COMPONENT
+THEREOF WILL ALWAYS BE At IBLE OR AVAILABLE. CUSTOMER WILL BE SOLELY RESPONSIBLE FOR THE SELECTION, USE
+AND SUITABILITY OF THE SERVI AND MATRIX WILL HAVE NO LIABILITY THEREFOR.
+
+ 
+
+  
+
+MUTUAL CONFIDENTIALITY.
+
+a).
+
+b).
+
+c).
+
+Definition of Confidential Information. Confidential Information means all non-public information disclosed by a party
+(Discloser) to the other party (Recipient) pursuant to this Agreement and proprietary information regarding the Services, whether
+orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of
+the information and the circumstances of disclosure (Confidential Information). CLM Matrix’s Confidential Information includes
+the Services.
+
+Protection of Confidential Information. The Recipient must use the same degree of care that it uses to protect the confidentiality
+of its own confidential information of like kind (but in no event less than reasonable care) not to disclose or use any Confidential
+Information of the Disclosing Party for any purpose outside the scope of this Agreement. The Recipient must make commercially
+reasonable efforts to limit access to Confidential Information of Discloser to those of its and its affiliates’ employees, [contractors]
+and agents who need such access for purposes consistent with this Agreement and who have signed confidentiality Agreements with
+Recipient no less restrictive than the confidentiality terms of this Agreement.
+
+Exclusions. Confidential Information excludes information that: (i) is or becomes generally known to the public without breach of
+any obligation owed by Recipient to Discloser, (ii) was known to the Recipient prior to its disclosure by the Discloser without breach
+of any obligation owed by Recipient to the Discloser, (iii) is received from a third party without breach of any obligation owed to
+Discloser, or (iv) was independently developed by the Recipient without use or access to the Confidential Information.
+
+PROPRIETARY RIGHTS.
+
+Reservation of Rights by CLM Matrix. The software, workflow processes, and other technologies provided by CLM Matrix as part of the
+Services including, without limitation, related tutorials and documentation, and also including, without limitation, all improvements,
+enhancements, modifications, Customer-specific upgrades, or updates to the Services, developed by either party, solely or jointly are the
+proprietary property of CLM Matrix and Customer .
+
+7)
+
+a).
+
+b).
+
+c).
+
+Customer Restrictions. Customer may not:
+
+i. reverse engineer the Services or the Licensed Documentation (defined below);
+
+ii. remove or modify any proprietary marking or restrictive legends in the Service; or
+
+iii, access the Service to (w) build a competitive product or service, or (x) copy any feature, function or graphic of the Service for
+competitive purposes,
+
+Customer Data. All uploaded data under Customer's account remains the sole property of Customer, as between CLM Matrix and
+Customer (Customer Data). Customer grants CLM Matrix a non-exclusive term license to use, modify, copy and prepare derivate
+works of the Customer Data for purposes of CLM Matrix performing under this Agreement. CLM Matrix will at any time, but no more
+than once a month, provide the Customer Data to Customer (upon request) for an administrative fee of $500.00.
+
+Licensed Documentation. If a Product User Guide and other CLM Matrix product documentations are provided to the Customer
+they are licensed to Customer as follows: CLM Matrix grants Customer a non-exclusive, worldwide, license for the duration of the
+Services to such material for Customer's internal use solely with the Services, with the right to make additional copies of the material
+for such duration and purpose (Licensed Documentation).
+
+EXCLUSION OF DAMAGES AND LIMITATION OF LIABILITY.
+
+a).
+
+b).
+
+Exclusion of Certain Damages. NEITHER CLM Matrix NOR ANY OF ITS AFFILIATES, DISTRIBUTORS, AGENTS, SUBCONTRACTORS,
+LICENSORS OR SUPPLIERS WILL HAVE ANY LIABILITY WHATSOEVER FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR SPECIAL LOSS OR DAMAGE, INCLUDING WITHOUT LIMITATION DAMAGES FOR ANY
+BUSINESS INTERRUPTION, LOSS OF SALES, PROFITS, BUSINESS, GOODWILL, OR DATA AND ANY FAILURE OF DELIVERY OF THE
+SERVICES, EVEN IF SUCH PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, FINES, COSTS, EXPENSES AND
+OTHER LIABILITIES, AND/OR THE SAME ARE REASONABLY FORESEEABLE.
+
+ 
+
+Limitation of Liability. THE TOTAL LIABILITY OF CLM MATRIX AND ITS AFFILIATES, DISTRIBUTORS, AGENTS,
+SUBCONTRACTORS, LICENSORS AND SUPPLIERS, ARISING OUT OF OR IN RELATION TO THIS AGREEMENT, THE SERVICES, AND
+ANY OTHER CAUSE WHATSOEVER, SHALL NOT EXCEED, IN THE AGGREGATE FOR ANY AND ALL CLAIMS UNDER OR IN RELATION
+TO THIS AGREEMENT, THE TOTAL FEES PAID BY CUSTOMER TO CLM MATRIX IN THE TWELVE-MONTH PERIOD PRECEDING THE
+DATE ON WHICH THE FIRST CLAIM OR CAUSE OF ACTION AROSE, LESS AGGREGATE DAMAGES PREVIOUSLY PAID BY CLM MATRIX
+OR ITS AFFILIATES.
+
+CLM Matrix Master Subscription Services Agreement Rev. 07/01/19 Page 2 of 6
+Copyright © 2019 CLM Matrix. All rights reserved
+
+DocuSign Envelope ID: F2FFED7C-CDBC-4148-A33A-F8E50F4E339A
+
+8) TERM, TERMINATION AND SUSPENSION OF SERVICE.
+
+a). Term. The initial term for this order is one year (“Initial Term”). Parties shall renew said Agreement upon mutual written request
+and negotiation. This Agreement shall automatically be renewed for additional one (1) year terms (each a “Renewal Term” and,
+together with the Initial Term, the “Term”), unless either party gives the other not less than 60 (sixty) days’ prior written notice of
+its intent to terminate this Agreement effective as of the end of the then-current Term
+
+b). Mutual Termination for Material Breach. If either party is in breach of any material term of this Agreement, the other party may
+terminate this Agreement at the end of a written 30-day notice/cure period, if the breach has not been cured.
+
+i. Actions upon Termination.
+(w) Upon any termination as provided in 8(b) above by Customer, CLM Matrix must refund any prepaid fees not earned by CLM
+Matrix covering the remainder of the Term of that order.
+
+(x) Upon any termination as provided in 8(b) above by CLM Matrix, Customer must pay any outstanding and unpaid fees covering
+the remainder of the Term for all work performed through the termination date issuance of an invoice for such work performed
+and destroy all CLM Matrix property. Customer upon request will confirm that it has complied with these requirements.
+
+c). Return of Customer Data. Within 60 days after termination or expiration of an order, this Agreement or both, CLM Matrix will, upon
+request, provide the Customer Data to Customer (to the extent Customer has not already deleted such information from the Services).
+After a 60-day period following such termination, CLM Matrix has no obligation to maintain any of the Customer Data.
+
+Suspension of Service for Violations of Law. CLM Matrix may notify Customer and immediately suspend the Services and remove
+applicable Customer Data upon reasonable knowledge or belief or upon notice from a Government Agency of an alleged illegal conduct
+by Customer as it related to CLM matrix’s Services.
+
+9) GOVERNING LAW AND EXCLUSIVE FORUM. This Agreement shall be governed by and interpreted in accordance with the
+internal substantive laws of the State of New York, without regard to any other laws that would require the application of
+the laws of another jurisdiction. Application of the U.N. Convention on Contracts for the International Sale of Goods is hereby
+excluded. The parties agree that all actions and proceedings arising out of or related to this Agreement shall be brought
+only in a state or federal court located in New York, New York, and the parties hereby consent to such venue and to the
+jurisdiction of such courts over the subject matter of such proceeding and themselves. EACH PARTY HEREBY WAIVES ITS
+RIGHT TO A JURY TRIAL IN CONNECTION WITH ANY DISPUTE OR LEGAL PROCEEDING ARISING OUT OF THIS AGREEMENT
+OR THE SUBJECT MATTER HEREOF.
+
+10) CLM Matrix may use Customer's name and logo in customer lists and related promotional materials describing Customer as a customer
+of CLM Matrix, which use must be in accordance with Customer's trademark guidelines and policies.
+
+MISCELLANEOUS OTHER TERMS. This Agreement constitutes the entire Agreement between the parties, and supersedes all prior or
+contemporaneous negotiations or Agreements, whether oral or written, related to this subject matter. - No modification or waiver of any term
+of this Agreement is effective unless both parties sign it. - Neither party shall have the power to assign, license, or sub-license any of its rights
+or obligations hereunder without the prior written consent of the other party, which shall not be unreasonably withheld. Any assignment,
+license, or sub-license attempted without such consent shall be void. Notwithstanding the foregoing, a party may assign this Agreement to an
+Affiliate (defined below) of such party provided that any such assignment shall not release the assigning party from its obligations under this
+Agreement. “Affiliate” means any entity that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under
+common control with, a party provided it notifies in writing to the Customer of such assignment Sixty (60) days prior. The parties are
+independent contractors with respect to each other. Customer is responsible for licensing all necessary third-party software. - If any term of
+this Agreement is invalid or unenforceable, the other terms remain in effect. - If there is any inconsistency between this Agreement and the
+order, the order will govern. - CLM Matrix rejects additional or conflicting terms of a form purchasing document. If there is an inconsistency
+between this Agreement and an order, the order prevails. - Any terms that by their nature survive termination or expiration of this Agreement,
+will survive.
+
+Parsons Services Company CLM Waa
+DocuSigned by:
+Eddic (dene —
+
+Eddie Cedeno Venkatasubramanian Santhanaraman
+
+Name: Name:
+
+Title: Acting VP Procurement Title: VP - Finance
+
+Date: 478/2020 Date: Mar 31, 2020
+
+CLM Matrix Master Subscription Services Agreement Rev. 07/01/19 Page 3 of 6
+
+Copyright © 2019 CLM Matrix. All rights reserved
+
+DocuSign Envelope ID: F2FFED7C-CDBC-4148-A33A-F8E50F4E339A
+
+CLM Matrix Subscription Services Agreement
+
+Schedule A
+
+Schedule A is attached to and becomes, upon execution by both parties below, a part of the CLM Matrix Subscription Services Agreement between
+such parties and sets forth the specific terms and conditions relating to the Subscription Services listed below:
+
+ 
+
+Effective License Date
+
+Date of signature below
+
+ 
+
+Licensed Software
+
+Matrix Enterprise v16.x SaaS
+
+ 
+
+Software Format
+
+Object
+
+ 
+
+Operating Platform
+
+Microsoft
+
+ 
+
+License Type
+
+Subscription as a Service
+
+ 
+
+Number of Copies of Licensed Material
+
+One (1) production environment.
+
+ 
+
+Separate Dev/Test Configuration Environment
+
+Included
+
+ 
+
+Subscription Term
+
+1-year - Auto renewing annually thereafter with 60-day written cancellation notice required
+
+ 
+
+Base Subscription Fee/Year
+
+$137,544/year
+
+ 
+
+Annual Software Maintenance
+
+Included
+
+ 
+
+User Counts
+
+Contract Administrator: 3
+Contract Contributor: 100
+Contract Consumer: 500
+
+ 
+
+Invoicing and Payment Terms
+
+Subscription Services will be invoiced quarterly beginning upon license date.
+Payment terms are Net 30 days. Past due accts subject to 18% interest or max amt. allowed by law.
+
+ 
+
+Optional CLM Matrix Functionality
+(Identify optional functionality requested
+below. Additional fees may apply.)
+
+0- Graphical BI Reporting Wizard
+
+0- Legacy Metadata Migration Wizard
+0-Legacy Document Migration Wizard
+0 - Multi-Language Wizard
+
+1- Web Service Integration Wizard
+0-Salesforce/Dynamics CRM Wizard
+0—DocuSign Integration Wizard
+0-Single Sign-On
+
+Graphical BI Reporting Wizard - $3,000/year
+
+Professional services required for installation, set-up, testing and configuration.
+
+Legacy Metadata Migration Wizard —$2,400/year
+
+Professional services required for installation, set-up, testing and configuration.
+
+Legacy Document Migration Wizard - $2,400/year
+
+Professional services required for installation, set-up, testing and configuration.
+
+Multi-Language Wizard - $3,600/year
+
+Professional services required for installation, set-up, testing and configuration.
+
+Web Service Integration Wizard - $3,000/year
+
+Professional services required for installation, set-up and configuration.
+
+Salesforce/Dynamics CRM Connector - $3,000/year
+
+~ 40 hours of Professional Services required for installation, set-up and configuration.
+
+DocuSign Integration Wizard - $2,700/year
+
+~ 15 hours of Professional Services required for installation, set-up and configuration.
+
+Single Sign-On — no additional license charge but requires 3 party SSO (ADFS, OKTA etc.) and ~ 15-
+30 hours of Professional Services required for set-up and configuration.
+
+Additional Dev Environment — one Dev environment included in SaaS pricing above. $835/month
+each additional Dev environment.
+
+ 
+
+Total Annual Subscription Fee Including
+Optional Wizards
+
+$137,544/year - includes Web Service Integration Wizard
+
+ 
+
+Training Services
+
+Not included with Subscription Services. Priced separately.
+
+ 
+
+Export Control Restrictions
+
+US Only
+
+ 
+
+Additional Computing Resources
+
+Resources (processor capacity, RAM, etc.) required for seasonal performance tuning, increases in
+user counts, to accommodate document storage growth over time, etc. can be provided upon
+customer request. Additional costs apply.
+
+ 
+
+To Be Delivered To
+
+ 
+
+ 
+
+100 W. WALNUT STREET CA PASADENA, CA 91124
+
+ 
+
+CLM Matrix Master Subscription Services Agreement Rev. 07/01/19
+Copyright © 2019 CLM Matrix. All rights reserved
+
+Page 4 of 6
+
+ 
+
+DocuSign Envelope ID: F2FFED7C-CDBC-4148-A33A-F8E50F4E339A
+
+CLM Matrix MSSA
+Schedule B
+Software Maintenance and Support
+
+Maintenance Fee:
+
+Annual Software Maintenance is included in the monthly software license subscription cost.
+
+Maintenance Coverage:
+
+Under this Maintenance program customers whose monthly software subscription is fully paid will receive the following product
+
+coverage:
+
+a. Access to all new functionality releases for the product licensed typically published as point releases (e.g. v10.x)
+
+b. Access to all bug fix releases for the product licensed typically published as point releases (e.g. 10.x)
+
+c. Access to all new major releases for the product licensed typically published as with major version number change (e.g., 10.x.x
+to 11.x.x)
+
+d. Problem reporting and response times are defined below in the Service Level table below.
+
+Customer Support Overview:
+e 24x 7 Web-based support that offers access to software and utility upgrades, documentation, release notes and technical
+FAQ
+e Email and telephone support
+e¢ On-site support services (additional charges apply)
+
+As part of its SaaS subscription software maintenance agreement, the customer will receive online, email and telephone software
+support for the licensed product as defined in the table in Schedule A. Software support is defined as those issues whose root cause
+is CLM Matrix source code related (software bugs, bug fixes, patches, etc.). Issues involving conflicts with customer system or
+network issues, third party software/hardware, Matrix wizard configuration, Matrix application settings are defined as professional
+services and will be invoiced at the agreed upon professional services hourly rate.
+
+CLM Matrix Master Subscription Services Agreement Rev. 07/01/19 Page 5 of 6
+Copyright © 2019 CLM Matrix. All rights reserved
+
+DocuSign Envelope ID: F2FFED7C-CDBC-4148-A33A-F8E50F4E339A
+
+STANDARD SERVICE LEVELS FOR SOFTWARE SUPPORT
+
+ 
+
+Severity Level
+
+A- Critical
+
+B — Serious
+
+C-—Important
+
+D-Minor
+
+E-Monitor
+
+Definition
+
+Product down
+
+Development down or production impacted but
+not down
+
+Important problem that does not have significant
+current productivity impact
+
+Minor problem that does not have impact on
+current development or productivity
+
+Issues requiring no further action beyond
+monitoring for follow-up as needed
+
+POST IMPLEMENTATION SOFTWARE SUPPORT
+
+Off-Site Support
+
+Online Support
+
+Email/Telephone Support
+
+After Hours Support
+
+Onsite Support
+
+First Response
+
+Immediate upon email notification
+Immediate upon email notification
+Within 4 hours or less upon email
+notification
+
+Within 6 hours or less
+
+Within 8 hours or less
+
+Software Support Availability Pricing
+24/7 Included
+8AM — 5PM CST Included
+Monday - Friday 3 hrs./month software support included with
+Software Maintenance. $225/hour thereafter
+As requested $250/hour
+As requested $225/hour
+
+CLM Matrix Master Subscription Services Agreement Rev. 07/01/19
+Copyright © 2019 CLM Matrix. All rights reserved
+
+Page 6 of 6
+
+EXHIBIT C: PRIVACY AND DATA PROTECTION
+
+Privacy and Data Protection
+
+This exhibit governs instances when CLM Matrix stores, processes or generates data on behalf of Customer or its Affiliates (Hitherto
+referred to as “Parsons”), or has access to a Parsons’ owned/operated information system in connection with this Agreement; project;
+contract; statement of work (SOW); task order; purchase order; or other document governing the provision of information systems,
+services and/or deliverables by CLM Matrix to Parsons.
+
+The requirements in this exhibit are in addition to any confidentiality obligations between Parsons and CLM Matrix. Parsons or the
+applicable Parsons Affiliate who are controller of the information being stored, processed, accessed or transiting the system or Service
+acquired in this Agreement, pursuant to the contract document, may enforce the terms of this exhibit.
+
+Part A: Collecting, Processing and Sharing Parsons Data
+
+CLM Matrix acknowledges and agrees that, in the course of its engagement by Parsons; it may receive or have access to controlled or
+sensitive information in Parsons’ custody. CLM Matrix shall comply with the terms and conditions set forth herein in its collection, receipt,
+transmission, storage, disposal, use and disclosure of such Parsons’ data in accordance with the Agreement. CLM Matrix shall implement
+appropriate organizational, procedural, technical, and physical measures (controls) to ensure the availability, integrity and confidentiality
+of Parsons’ data and to prevent accidental, unauthorized or unlawful destruction, alteration, disclosure or access, modification or loss;
+misuse; or unlawful processing of Parsons’ data. CLM Matrix is responsible for compliance with this appendix by all CLM Matrix personnel
+and its subcontractors.
+
+Part B: Information Security Controls
+Note: Any words following the terms “including,” “include,” “e.g.,” “for example” or any similar expression are for illustration purposes
+only.
+
+1.0 Organizational and Security Controls
+
+11 Security Program Governance, Policies and Technologies
+
+CLM Matrix will establish and maintain an information security program and provide all contracted services, using security technologies
+and techniques inline with industry practices, e.g., (National Institute of Standards and Technology (NIST), Control Objectives for
+Information and Related Technology (COBIT) or International Organization for Standardization (ISO)) including those relating to the
+prevention and detection of fraud and any other inappropriate use or access of systems and networks. In the event CLM Matrix processes
+Parsons’ data that is subject to additional regulatory, contractual or legal requirements, the parties agree to amend this exhibit to align
+with such compliance requirements.
+
+CLM Matrix shall maintain, document, communicate, upon request, and comply with written information security policies and procedures
+consistent with the requirements of this appendix.
+
+1.2 Network and Systems Security
+
+CLM Matrix will implement and use network management and maintenance applications and tools, appropriate fraud prevention and
+detection, and data confidentiality/protection/encryption technologies. This shall include mechanisms to identify and remediate
+vulnerabilities, and apply security patches. CLM Matrix will also logically separate different customers’ data. Additionally, CLM Matrix will
+implement and follow security best practices for system and network administration in accordance with recognized standards
+
+1.3 Physical Access and Protection
+
+CLM Matrix will implement physical security practices in accordance with best practices. Data centers as well as facilities, including cargo
+handling, storage facilities and workspaces, must be protected against unauthorized access. Physical access must be monitored,
+recorded, and controlled with physical access rights reviewed annually.
+
+CLM Matrix will maintain adequate controls around issuance and removal of employee, visitor and vendor identification badges, if utilized.
+
+Any back-up media containing Parsons’ data stored at CLM Matrix's site shall be kept in a secure location with restricted physical access
+and be encrypted if technically feasible. If off-site media storage is used, CLM Matrix shall have a media check-in/check-out process with
+locked storage for transportation. Unless a disaster recovery (DR) program is otherwise set forth in more detail elsewhere in the contract
+document, CLM Matrix shall maintain a DR program for all CLM Matrix information systems and facilities used to provide Services under
+the contract document to Parsons. The DR program shall be designed to ensure that CLM Matrix has a methodology by which a system
+can continue to function through an operational interruption or disaster.
+
+1.4 Information Access
+
+CLM Matrix and its Personnel shall comply with these terms regarding data access, privacy and security, including those prohibiting or
+restricting local, network or remote access to the Parsons' systems and data in the performance of the Services. Access to systems and
+data should only be in connection with the obligations provided in this agreement. Parsons’ data shall not be processed on personal
+accounts (e.g., individual email or cloud services accounts) or on personally-owned computers, devices, or media.
+
+1.5 Identity and Data Access Management
+
+Parsons will authorize, and CLM Matrix will issue, any necessary information access mechanisms, including access identities (IDs) and
+passwords to Parson's system if necessary for CLM Matrix to provide the Services, and CLM Matrix agrees that the Personnel to whom
+they are issued will use the same mechanisms. CLM Matrix will provide these Personnel only with the minimum level of access necessary
+to perform the tasks and functions for which they are responsible. CLM Matrix will provision an individually assigned account that requires
+periodic password changes in automated systems.
+
+1.6 Security Monitoring, Incident Response
+CLM Matrix will have policies and procedures for security monitoring and incident response, define points of contact on for both Suppler
+and Parsons; establish monitoring and response procedures; set escalation thresholds; and conduct awareness training.
+
+1.7 Auditing
+Parsons reserves the right to conduct an audit, upon 90 days advance notice, of CLM Matrix's compliance with the requirements in this
+agreement.
+
+1.8 Safety
+CLM Matrix understands that safety is a high priority and a material element of how the CLM Matrix delivers Services. CLM Matrix,
+therefore, agrees to follow Parsons’ published and/or posted safety policies when at the Parsons’ facilities.
+
+2.0 Privacy Controls
+
+2.1 Notification and Mitigation
+
+In the event of any impermissible disclosure, loss or destruction of information subject to this exhibit, CLM Matrix must promptly notify
+Parsons and take all reasonable steps to mitigate any potential harm or further disclosure, loss or destruction of such confidential
+information.
+
+Part C: Termination
+
+CLM Matrix shall within 30 (thirty) days of termination of the Agreement, or if requested during the Term of the Agreement, cease all
+processing of Parsons data and return to Parsons or destroy all copies of Parsons data in its possession. In lieu of returning copies,
+Parsons may, at its sole discretion, require CLM Matrix to destroy all copies of Parsons’ data, using agreed upon methods to ensure such
+Parsons data is not recoverable, and certify, upon request, to such destruction.
+
+CLM Matrix may continue to retain Parsons data beyond the period prescribed where required by law, provided that (i) CLM Matrix notifies
+Parsons prior to the Agreement’s termination or expiration of the obligation, including the specific reasons for such retention; (ii) CLM
+Matrix has a documented retention period and secure deletion procedure for such copies and legally required copies retained only to the
+end of their legally required retention period; (iii) following such period, all copies and back-up copies are deleted in such a manner that
+they are not recoverable; (iv) CLM Matrix performs no processing of Parsons data other than that necessitated by retaining or deleting
+the relevant copies; and (v) CLM Matrix continues to comply with all the requirements of this exhibit in relation to any such retained
+Parsons data until the same is securely deleted and a proof of such disposal provided to Parsons.
+
+Termination or expiration of the Agreement, for any reason, shall not relieve the CLM Matrix from obligations to continue to protect
+Parsons’ data against the impermissible disclosure in accordance with the terms of the Agreement and this exhibit until such a time as
+Parsons’ data has been returned or destroyed, as applicable.
+
+Part D: Supply Chain Security Compliance
+
+1. Industry Certification
+CLM Matrix must ensure that all CLM Matrix’s and applicable subcontractor facilities involved in the distribution, handling, warehousing,
+transporting or shipping of Parsons goods meet all security standards documented above and all applicable local regulations.
+
+Prior to Parsons acquiring systems and/or services and execution of this Agreement, the CLM Matrix will provide a letter verifying its
+supply chain security certification in any industry recognized program it participates in. If not certified, CLM Matrix must complete a
+Parsons Third Party Security and Compliance Questionnaire to confirm that its procedures and security measures comply with minimum
+criteria established by Parsons. CLM Matrix will send completed questionnaire to the Parsons’ business sponsor for review by Parsons
+Security organization.
+
+2. Subcontractor Compliance
+CLM Matrix agrees to use certified subcontractors to the extent possible. CLM Matrix shall have documented procedures for the selection
+of its subcontractors. In the event, that a subcontractor cannot comply with these terms, CLM Matrix may use companies that have agreed
+in writing to follow these supply chain security guidelines and will promptly notify Parsons of such usage. If no subcontractor who can
+comply is available, CLM Matrix will promptly contact Parsons for direction.
+
+Part E: Miscellaneous
+
+Parsons may require CLM Matrix to provide certain personal information such as the name, address, telephone number, and email
+address of CLM Matrix’s representatives to facilitate the performance of the contract document, and Parsons and its contractors may
+store such data in databases located and accessible globally by their personnel and use it for necessary purposes in connection with the
+performance of the Agreement, including but not limited to, CLM Matrix payment administration. Parsons will be the controller of this data
+for legal purposes, and agrees to use reasonable technical and organizational measures to ensure that such information is processed in
+conformity with applicable data protection laws. CLM Matrix may obtain a copy of the CLM Matrix personal information by written request
+or submit updates and corrections by written notice to Parsons. Parsons will comply at all times with all federal, state or local law,
+regulation pertaining to privacy of such information.
+
+Part F: Parsons Definitions
+
+Controlled Information (Cl): Information where an applicable federal, state or local law, regulation or government-wide policy requires
+protection or restricts access. Disclosure of this information could result in fines, penalties, suspension, debarment or criminal prosecution.
+Examples include, but are not limited to: Personal Identifiable Information (PII), information covered by the Health Insurance Portability
+and Accountability Act (HIPAA), Controlled Unclassified Information (CUI), International Traffic in Arms Regulations (ITAR) and Export
+Administration Regulations (EAR).
+
+a. Personal Information (SPI): A category of Cl and includes any information that relates to an identified or identifiable natural person
+
+(data subject), as defined under applicable law. Legal entities are data subjects required by law.
+
+b. Sensitive Personal Information. A category of Privacy Information (Pl) considered to be especially sensitive and includes medical
+records and other personal health or biometric information, including protected health information (PHI), as defined in and subject to
+the U.S. Health Insurance Portability and Accountability Act (HIPAA) of 1996; personal bank account, payment card information, and
+other financial account information. This includes: credit report information: with or without any required security code, access code,
+personal identification number, or password that would permit access to an individual's financial account, customer bank account,
+and payment card information; government issued identification number (including social security number, driver's license number
+or state-issued identified number); and special data categories of data under applicable data protection law (such as race, nationality,
+political opinions, trade union membership, home life, and sexual orientation).
+
+Controlled Technical Information: Technical information with military or space application that is subject to controls on the access, use,
+reproduction, modification, performance, display, release, disclosure, or dissemination. controlled technical information would meet the
+criteria, if disseminated, for distribution statements B through F using the criteria set forth in DoD Instruction 5230.24, Distribution
+Statements on Technical Documents. The term does not include information that is lawfully publicly available without restrictions.
+
+Enterprise IT Assets: All information processing, storage, networking, and communications equipment, including printers, copiers, and
+end user devices (portable or not); those owned and/or operated by Parsons and housed within Parsons’ physical facilities; or provided
+by third parties under contract, and information that resides on or transits through them.
+
+Export Control Information: Unclassified information concerning certain items, commodities, technology, software, or other information
+whose export could reasonably be expected to adversely affect the United States national security and nonproliferation objectives. To
+include dual use items; items identified in export administration regulations, international traffic in arms regulations, and munitions list;
+license applications; and sensitive nuclear technology information.
+
+Information System: A discrete set of information resources organized for the collection, processing, maintenance, use sharing,
+dissemination, or disposition of information. Information systems also include specialized systems such as industrial/process control
+systems, telephone switching, and private branch exchange (PBX) systems and environmental control systems.
+
+Mobile Devices: Tablets, smartphones, and similar devices running mobile operating systems. Laptops are not considered Mobile
+Devices.
+
+Parsons: Parsons Corporation or a Parsons Corporation Affiliate signing the contract document with CLM Matrix.
+Process(ing): To perform any operation or set of operations on Parsons data, whether or not by automatic means, including but not
+
+limited to, collecting, recording, organizing, storing, adapting or altering, retrieving, accessing, consulting, using, disclosing by
+transmission, disseminating, or otherwise making available, aligning or combining, blocking, erasing, or destroying.
+
+Security Incident: An occurrence that actually or potentially (‘potentially’ in this instance means an event which causes CLM Matrix to
+reasonably believe that Parsons Cl under CLM Matrix’s control has been subject to unauthorized access in a manner which would require
+reporting the event to Parsons under a data protection law) results in adverse consequences or compromise to an information system or
+information that the system processes, stores, or transmits, and may require a response action to mitigate the consequences..
+
+Sensitive Information (SI): Information that is marked or offered as proprietary, sensitive or company confidential or is valuable to either
+party.
+
+Examples include, but are not limited to: Proposal materials, pricing or estimating information, financial information, a party's intellectual
+property, merger and acquisition documents, confidential customer information and information identified as company confidential or
+sensitive by the corporation or a business unit.
+
+CLM Matrix: Organization or individual that enters into an agreement with the Parsons for the supply of a product or service. This
+includes all suppliers in the supply chain. Includes (i) developers or manufacturers of information systems, system components, or
+information system services; (ii) vendors; and (iii) product resellers. (From: NIST 800-167)
+
+CLM Matrix Information System(s) means any CLM Matrix systems and/or computers used to process Parsons’ data pursuant to the
+contract document, which includes laptops and network devices, cloud services, Software as a Service (SaaS), Infrastructure as a Service
+(laaS), and Platform as a Service (PaaS).
+
+CLM Matrix Personnel means all persons or entities providing services and/or deliverables under the contract document, including CLM
+Matrix's employees, permitted Affiliates, suppliers, contractors, subcontractors and agents, as well as anyone directly or indirectly
+employed or retained by any of them to provide Services.
+
+DocuSign Envelope ID: F2FFED7C-CDBC-4148-A33A-F8E50F4E339A
+
+ 
+
+ 
+
+Parsons (CLM) MSSA 033120
+
+Final Audit Report 2020-03-31
+
+Created: 2020-03-31
+By: Lisa.Coppola@wolterskluwer.com
+Status: Signed
+
+Transaction ID: CBJCHBCAABAA-NpTyR8ugY Gtw--baHCrqoAv6cV0zmuu
+
+"Parsons (CLM) MSSA 033120" History
+
+5
+
+B
+
+ 
+
+Document created by Lisa.Coppola@wolterskluwer.com
+2020-03-31 - 5:15:04 PM GMT- IP address: 99.12.220.249
+
+Document emailed to Venkatasubramanian Santhanaraman (v.santhanaraman@wolterskluwer.com) for
+signature
+2020-03-31 - 5:18:02 PM GMT
+
+Email viewed by Venkatasubramanian Santhanaraman (v.santhanaraman@wolterskluwer.com)
+2020-03-31 - 5:18:29 PM GMT- IP address: 76.31.157.100
+
+Document e-signed by Venkatasubramanian Santhanaraman (v.santhanaraman@wolterskluwer.com)
+Signature Date: 2020-03-31 - 5:18:50 PM GMT - Time Source: server- IP address: 76.31.157.100
+
+Signed document emailed to christopher.fitch@wolterskluwer.com, Venkatasubramanian
+Santhanaraman (v.santhanaraman@wolterskluwer.com), elmslegalreviewreq@wolterskluwer.com,
+Lisa.Coppola@wolterskluwer.com, and 3 more
+
+2020-03-31 - 5:18:50 PM GMT
+

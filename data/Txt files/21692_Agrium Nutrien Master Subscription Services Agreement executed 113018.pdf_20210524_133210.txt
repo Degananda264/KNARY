@@ -1,0 +1,1121 @@
+
+ 
+
+Bi patriy
+
+Master Subscription Services Agreement
+
+This Master Subscription Services Agreement (“Agreement”) is between CLM Matrix, a Texas corporation (CLM) and Agrium U.S, Inc. a
+
+Colorado corporation (Customer), and is dated as of the date of last signature.
+
+Whereas, CLM is in the business of providing web hosted SaaS solutions; and
+
+Whereas, Customer requires such services with respect to its information technology needs; and
+
+Now, therefore, In consideration of the mutual covenants and agreements set forth in this Agreement, and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto intending to be legally bound by the terms of
+this Agreement agree as follows:
+
+1)
+
+2)
+
+3)
+
+4)
+
+CONTRACT LIFECYCLE MANAGEMENT SERVICE. CLM shall provide Customer’s User (as defined below) access to a proprietary online
+subscription service consisting of an Internet based contract lifecycle management system which includes the following functionality:
+
+- Contract Modeling ~ ability to input contract metadata into the system
+
+- Contract Portal - role based repository of contract information in tabular form
+
+- Contract Monitoring and Tracking - ability to perform user defined ad hoc reporting
+
+- Rule and Policy Based Workflow - ability to set up alerts notifications and reminders based on critical contract dates and
+obligations.
+
+- Software Maintenance and Service Level Support
+
+collectively, the “Service(s)".
+
+CLM will provide the Service through a [URL] provided by CLM within a hosted server environment and under the terms below. This
+Agreement contemplates one or more arders for the Services, which orders are governed by the terms of this Agreement and will describe
+the Services ordered in more detail (which may include a setup statement of work). Customer may access the Services in compliance with
+the terms of this Agreement, which access must be for the sole benefit of Customer, Customer is responsible for the compliance with this
+Agreement by its employees and contractors.
+
+“User” means a named individual to whom Customer has expressly authorized and granted access to use the Services on Customer’s
+behalf, regardless of whether or not the User actually accesses the Service. Users may be Customer's or its affiliates’, employees,
+consultants, contractors or agents. If Customer rescinds a User's access to the Service, Customer may transfer the User's seat to another
+Customer employee, consultant, agent or contractor,
+
+USE OF SERVICES,
+
+a). CLM Responsibilities. CLM must (i) use commercially reasonable efforts to make the Services available, except for (x) scheduled
+outages, or (y) unavailability caused by force majeure, (il) use commercially reasonable efforts to protect the Customer Data from
+unauthorized access, and (iil) provide customer support for the Services at no additional charge.
+
+b). Customer Responsibilities, Customer (1) is responsible for maintenance of Customer Data, (ii) must use commercially reasonable
+efforts to prevent unauthorized access to the Services, and notlfy CLM promptly of any such unauthorized access, and (III) may use
+the Services only In accordance with the CLM user gulde and applicable law.
+
+Customer may not (w) sell, resell, rent or lease the Services, (x) use the Services to knowingly store or transmit infringing, libelous,
+or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party rights, (y) intentionally interfere
+with or disrupt the integrity or performance of the Services, or (z) attempt to gain unauthorized access to the Services or their related
+systems or networks.
+
+PAYMENT TERMS, Customer must pay all fees within forty-five (45) days of receipt of an undisputed invoice. Customer is responsible
+for applicable sales, use and other similar taxes. Should Customer dispute an invoice or part thereof, Customer shall notify CLM and
+parties will in good faith endeavor to resolve the dispute. Customer shall pay any undisputed portion of the invoice in accordance with
+the terms of this Agreement. Payment for first month service must be received prier to activation of the Services.
+
+WARRANTY and REMEDY.
+a). CLM Limited Warranty. CLM warrants to Customer (i) that commercially reasonable efforts will be made to maintain the online
+avallability of the Services for a minimum of availability in any given month as provided in Schedule B (excluding scheduled outages),
+
+(il) the functlonallty of the Services will not decrease, (iii) and the customer support will not degrade, as set forth in Schedule B.
+
+Further, CLM warrants that: (i) it possesses the business, professional, and technical expertise to perform the Services; (ii) it or its
+subcontractor possess the equipment, facilities, and employees to perform the Services; (iil) it shall perform the Services in
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 1 of 13
+Copyright © 2019 CLM Matrix. All rights reserved
+
+1TA48276 = Approved by Agrium US Legal
+
+5)
+
+b).
+
+c).
+
+compliance with all applicable laws; (iv) CLM, its applicable subcontractors, will at all times maintain al! applicable permits, licenses,
+certificates, or approvals required by applicable laws to perform the Services; (v) it will use reasonable security measures consistent
+with best practices in the industry to protect Customer's Data, Confidential Information, cardholder data and customer information;
+(vi) if applicable, each deliverable will constitute original development by CLM for Customer's possession and use as intended and
+will not infringe any patent, copyright, trademark, trade secret or other intellectual property rights of any third party; and (vii) ithas
+no other agreement or relationship or commitment to any person or entity that conflicts with this Agreement.
+
+. Except for CLM‘s indemnification obligations hereunder or as otherwise provided in this
+Agreement, including Section 11, Customer's exclusive remedy and CLM’s sole obligation for breach of the warrantyherein will be
+for CLM to provide a credit as provided in Schedule B (if this Agreement is not renewed, then a refund), for the month in question;
+provided that Customer notifies EXCEPT AS EXPRESSLY PROVIDED HEREIN, CLM of such breach within 90 days of the end of the
+month in question, EXCEPT AS OTHERWISE PROVIDED IN THIS AGREEMENT, INCLUDING SECTION 11, CLM DISCLAIMS ALL OTHER
+WARRANTIES, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY THAT SERVICES WILL BE UNINTERRUPTED, ERROR FREE OR
+WITHOUT DELAY, AND THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Each party represents and warrants to the other party that it will comply with all
+applicable laws, including foreign export controls, regarding its performance under this Agreement, including without limitation
+privacy related laws.
+
+MUTUAL CONFIDENTIALITY.
+
+aj.
+
+b).
+
+c).
+
+. Confidential Information means all confidential information disclosed by a party
+(Discloser) to the other party (Recipient), including but not limited to certain secret, confidential, and other valuable information
+of Discloser, which information includes business plans, financial information, marketing information, software programs, software
+source documents, formulae, trade secrets, know how, or Customer Data, whether orally or in writing, that is designated as
+confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of
+disclosure (Confidential Information). CLM's Confidential Information includes the Services.
+
+. The Recipient must use the same degree of care that it uses to protect the confidentiality
+of its own confidential information of like kind (but in no event less than reasonable care) not to disclose or use any Confidential
+Information of the Disclosing Party for any purpose outside the scope of this Agreement. The Recipient must make commercially
+reasonable efforts to limit access to Confidential Information of Discloser to those of its employees, [contractors] and agents who
+need such access for purposes consistent with this Agreement and who are bound by confidentiality obligations to Recipient no less
+restrictive than the confidentiality terms of this Agreement.
+
+Exclusions. Confidential Information excludes information that: (i) ls or becomes generally known to the public without breach of
+any obligation owed to Discloser, (ii) was known to the Recipient prior to its disclosure by the Discloser without breach of any
+obligation owed to the Discloser, (iii) is received from a third party without breach of any obligation owed to Discloser, or (iv) was
+independently developed by the Recipient without use or access to the Confidential Information.
+
+dd). Data Security. CLM shall at all times during the Term provide and maintain up-to-date security with respect to (a) the Services, (b)
+
+e).
+
+CLM's physical facilities, and (c) CLM's networks, to prevent unauthorized access or “hacking” of Customer Confidential Information.
+CLM shall provide security for [ts networks and all internet connections consistent with best practices, and CLM shall promptly install
+all patches, fixes, upgrades, updates and new versions of any security software it employs. CLM shall maintain appropriate
+safeguards to restrict access to Customer's Confidential Information te those employees, agents or service providers of CLM who
+need the information to carry out the purposes for which it was disclosed to CLM. For information disclosed in electronic form, CLM
+agrees that appropriate safeguards including but not limited to the use of multi-factor authentication, electronic barriers (e.g,
+“firewalls” or similar barriers) and password protected access to Customer's Confidential Information. For information disclosed in
+written form, CLM agrees that appropriate safeguards Include secured storage of Customer's Confidential Information. CLM also will
+establish and maintain any additional physical, electronic and procedural controls and safeguards to protect the Customer
+Confidential Information from unwarranted disclosure as may be required for Customer to comply with all applicable federal,
+international and state laws and regulations now In effect or hereafter imposed, passed or promulgated.
+
+In the event of any reasonably suspected disclosure or loss of, inability to account for, or unauthorized access to any Confidential
+Information of the disclosing Party, the receiving Party shall (a) notify the disclosing Party promptly upon becoming aware thereof,
+and (b) take any actions reasonably requested by, and provide all reasonable cooperation with, the disclosing Party to minimize the
+disclosure or loss and mitigate any damage associated with such disclosure or loss.
+
+Remedies. CLM acknowledges and agrees that remedy at law for a breach or threatened breach of any Of the provisions under this
+
+Section 5 would be inadequate and, in recognition of this fact, in the event of a breach or threatened breach by CLM of any of the provisions
+containted in this Section S, Customer, without posting any bond, shall be entitied to obtain provisional equitable relief in the form of
+temporary restraining order and/or temporary injunction or any other provisional equitable remedy which may then be available, and
+CLM hereby agrees not to consent same, Nothing herein contained shall be construed as prohibiting Customer from pursuing any other
+remedies available to it from such breach or threatened breach. Pursuit of any remedy at law or in equity shall not be deemed as an
+election of remedies.
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 2 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+
+1TA48276 ~ Approved by Agrium US Legal
+
+6) PROPRIETARY RIGHTS.
+
+a).
+
+b).
+
+c).
+
+d).
+
+e).
+
+Beservation of Rights by CLM. The software, workflow processes, and other technologies provided by CLM as part of the Services
+are the proprietary property of CLM and its licensors, and all right, title and interest in and to such Items, including all associated
+intellectual property rights, remain only with CLM. CLM grants no rights unless expressly provided in this Agreement.
+
+are Customer may not:
+reverse engineer the Services or the Licensed Documentation (defined below);
+
+5 remove or modify any proprietary marking or restrictive legends In the Service; or
+
+ili. access the Service to (w) build a competitive product or service, or (x} copy any feature, function or graphic of the Service for
+competitive purposes.
+
+Customer Data. All uploaded data under Customer's account remains the sole property of Customer, as between CLM and Customer
+(Customer Data).
+
+Licensed Documentation, The Product User Guide and other CLM provided product documentation is licensed to Customer as
+follows: CLM grants Customer a non-exclusive, worldwide, and fully paid-up license for the duration of the Services to such material
+for Customer's internal use solely with the Services, with the right to print and make additional coples of the material for such
+duration and purpose (Licensed Documentation).
+
+Reservation of Rights by Customer. Customer's trademarks are the sole property of Customer or its subsidiaries and affiliates and
+CLM does not have any right, title or interest in any of the trademarks, including reproduction of the trademarks. CLM acknowledges
+that (i) all of the Customer trademarks have great value and good will; and (ii) if CLM breaches this Section, injury to Customer would
+be irreparable and injunctive relief to protect Customer's interest would be appropriate, without limiting Customer's other remedies
+allowed by law. CLM must not use any Customer trademarks without obtaining prior written consent from Customer.
+
+7) EXCLUSION OF DAMAGES AND LIMITATION OF LIABILITY.
+
+a).
+
+b).
+
+Exclusion of Certain Damages. EXCEPT FOR A PARTIES BREACH OF ITS OBLIGATIONS UNDER SECTION 5 OR A BREACH OF
+SECTION 6(b) BY CUSTOMER, NEITHER PARTY iS LIABLE FOR ANY INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, WITHOUT LIMITATION, COSTS OF DELAY, LOSS OF DATA OR INFORMATION, AND ANY FAILURE OF DELIVERY OF
+THE SERVICES),
+
+. WITH THE EXCEPTION OF A PARTY'S LIABLITY FOR INDEMNIFICATION OR BREACH OF SECTION 7{B) BY
+CUSTOMER, EACH PARTY'S LIABILITY FOR ALL DAMAGES RELATING TO THIS AGREEMENT (WHETHER IN CONTRACT, TORT OR
+OTHERWISE) WILL NOT EXCEED THE ACTUAL AMOUNT PAID BY CUSTOMER WITHIN THE PRECEDING 12 MONTHS UNDER THIS
+AGREEMENT.
+
+8) TERM, TERMINATION AND SUSPENSION OF SERVICE,
+
+a).
+
+b).
+
+c).
+
+Term. This Agreement continues until all orders have expired or are terminated. Orders may have durations specified on the order.
+The initial term for this Agreement is Forty-eight (48) months (“Term”), unless earlier terminated as provided below. The Term
+may be extended for one (1) year renewals, upon mutual written agreement between the parties.
+
+Mutual Termination for Material Breach. If either party is in breach of any material term of this Agreement, the other party may
+
+terminate this Agreement at the end of a written 30-day notice/cure period, if the breach has not been cured.
+
+i. Actions upon Termination.
+(w) Upon any termination as provided in 8{b) above by Customer, CLM must refund any prepaid fees covering the remainder of
+the Term of that order.
+
+(x) Upon any termination as provided in 8(b) above by CLM, Customer must pay any unpaid fees for Services rendered up to the
+date of termination and prorate portion of annual subscription fee for Services actually used. Customer upon request will
+confirm that It has complied with these requirements.
+
+Return of Customer Data. Commencing upon any notice of this Agreement by either Party (other than termination by CLM under
+Section 8c), and for a maximum period of six (6) months thereafter, CLM will, upon Customer's request, continue to provide the
+Services, which were provided by CLM prior to such expiration or termination (at the same fees that Customer was paying prior to
+the notice of termination of this Agreement), and any new services requested by Customer that may be required for the Services to
+continue without interruption or adverse effect and to facilitate the orderly transfer or migration of the Customer Data to Customer
+or a third party service provider, as applicable (collectively, “Termination Assistance”). Termination Assistance shall include the
+assistance described in any SOW and the following:
+i. CLM will provide to Customer: (i} in writing, all applicable requirements, standards and documentation relating
+to Customer or the transition of the Services; (ii) all Customer Data, in a format reasonably designated by
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 3 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+
+ITA48276 ~ Approved by Agrium US Legal
+
+Customer; and (iii) any other information, including data dictionaries, that Customer deems necessary to use the
+Customer Data or convert the Customer Data for use on another system.
+
+ii, The services described in this Section will be provided to Customer. If Customer requests any additional services
+other than those listed above, the fees for those services will be negotiated between the parties and subject to a
+separate SOW.
+
+9) GOVERNING LAW AND EXCLUSIVE FORUM. This Agreement Is governed by the State of Delaware, substantive laws, without regard to
+
+10)
+
+11
+
+12
+
+13
+
+14)
+
+14)
+
+=
+
+=
+
+=
+
+=
+
+=
+
+conflict of laws principles. Any dispute arising out of or related to this Agreement must be brought in the state and federal courts for State
+of Delaware. Customer consents to the personal jurisdiction of such courts and waives any claim that it is an inconvenient forum. The
+prevailing party in litigation is entitled to recover its attorneys’ fees and costs from the other party.
+
+MISCELLANEOUS OTHER TERMS. This Agreement constitutes the entire Agreement between the parties, and supersedes all prior or
+contemporaneous negotiations or Agreements, whether oral or written, related to this subject matter. - No modification or waiver of any
+term of this Agreement is effective unless both parties sign it. - Neither party may assign or transfer this Agreement or an order to a third
+party, except that the Agreement with all orders may be assigned as part of a merger, or sale of all or substantially all of the business or
+assets, of a party. This Agreement shall be binding upon and inure to the benefit of the Parties hereto and their successors and permitted
+assigns.- The parties are independent contractors with respect to each other. - [f any term of this Agreement is invalid or unenforceable,
+the other terms remain in effect. - If there is any inconsistency between this Agreement and the order, the order will govern. - CLM rejects
+additional or conflicting terms of a form purchasing document. If there is an Inconsistency between this Agreement and an order, this
+Agreement shall prevail. - Any terms that by their nature survive termination or expiration of this Agreement, will survive.
+
+ACCEPTANCE TESTING, CLM Matrix warrants that for a period of one hundred eighty (180) days from the initiation of the Service (the
+“Warranty Period”), the Services will operate substantially in accordance with the applicable Documentation. Without limiting either
+party's rights or obligations in Schedule B, CLM Matrix does not warrant that the functions contained in the Service will meet Licensee's
+requirements or that the operation of the Service will be uninterrupted or error free. If, during the Warranty Period, the Service does not
+operate substantially in accordance with such Documentation, Licensee may so Inform CLM Matrix In writing and provide to it, such
+information and materials as CLM Matrix may reasonably request to document and reproduce such problem and to verify whether any
+proposed solution corrects such problem, Such information may include a written explanation of such problem, a written description of
+the operating environment, and (if permitted) a copy of any software program used with the Services, Following the receipt of such
+information and materials, if CLM Matrix determines that the Services do not operate substantially in accordance with such
+Documentation, then CLM Matrix will at its election, (a) modify the Services so that it does operate substantially in accordance with such
+Documentation, (b) replace the Services or functionality with other CLM Matrix technology offering substantially similar functionality or,
+(c) i (a) or (b) is not commercially feasible, refund the subscription fee paid by Licensee to CLM Matrix during Acceptance Testing. In the
+event CLM Matrix furnishes a correction or cure pursuant to clause (a), CLM Matrix shall warrant such correction or cure for the remainder
+of the original Warranty Period or thirty (30) days, whichever is longer. This Warranty shall not apply to Services that have been modified,
+used improperly or used in an operating environment inconsistent with recommendations by CLM Matrix.
+
+LICENSE GRANT. Subject to the payment of fees described herein, CLM hereby grants to Customer and User, a non-exclusive, royalty-
+free and worldwide license to use, display, and execute the Service during the Term and any renewals, if any.
+
+RENAMED, REPACKAGED, RE-BUNDLED OR RE-BRANDED. Should the Service provided to Customer under this Agreement be
+renamed, repackaged, re-bundled or re-branded for any reason including, but not limited to, a merger or acquisition of CLM, then
+Customer shall be entitled to the same number of licenses to use, access, and benefit from the renamed, repackaged, re-bundled or re-
+branded Service as Customer currently has a subscription to at no additional charge to Customer so long as the renamed, repackaged, re-
+bundled or re-branded Service is functionally equivalent at the license level, ata minimum, and the same conditions of use apply as to the
+prior Service.
+
+SUBCONTRACTORS. CLM will be solely responsible for the Services performed by its subcontractors, if any, while providing the Services
+pursuant to this Agreement. All Services, including such Services provided remotely must be performed within the United States or
+Canada.
+
+. INDEMNITY. Except as provided for herein, CLM shall indemnify, defend and hold harmless Customer, its and their employees, affiliates,
+
+officers, agents, and representatives, from any damage, loss, or claim arising out of any act or omission of CLM, its or their employees,
+agents, or representatives, in connection with the performance of the Services required hereunder or the breach of any term hereof.
+
+CLM shall indemnify, defend and hold harmless Customer, its and their employees, affillates, officers, agents, and representatives from all
+injuries, losses and llabilities in any way arising from any claim that the Services or deliverables misappropriate or infringe any patent,
+copyright, trademark, trade secret or other proprietary rights of a third party. [fa final injunction is obtained against Customer’s use of
+the deliverables, or if CLM reasonably believes that Customer's use of the deliverables could be enjoined, or if, in CLM’s opinion, any
+deliverable is likely to become the subject of a claim of infringement, CLM will, at its option and expense (i) procure for Customer the right
+to continue using the deliverables as provided in this Agreement; (ii) replace or modify the deliverables so that they are non-infringing
+(so long as the functionality of the deliverables is essentially unchanged) or, if neither of the previous two options are commercially
+feasible for CLM; (iii) terminate the rights granted under this Agreement with respect to the deliverables and refund to Customer the
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 4 of 13
+Copyright © 2019 CLM Matrix. All rights reserved
+
+1TA48276 ~ Approved by Agrium US Legal
+
+amount paid to CLM for the deliverables and related Services. Notwithstanding the foregoing, CLM will not be liable to Customer to the
+extent that any Infringement or clalm of infringement Is based solely on (i) Customer's combination, operation or use of a deliverable with
+equipment or software not supplied or approved for use by CLM where the deliverable itself would not be infringing, or (il) modifications
+of a deliverable by anyone other than CLM where the unmodified version of the deliverable would not be infringing.
+
+15) INSURANCE. CLM, at its expense, at all times prior to the termination or expiration of this Agreement, shall provide and maintain the
+insurance policies having the coverages described in thls Section 15. The coverage of all policies shall be primary, and not in excess of, or
+contributory with, any other policies of Customer and, with respect to the coverages other than Workers’ Compensation Insurance,
+Customer and its affiliates shall be named as additional insureds. Prior to the commencement of performance of any Services hereunder,
+CLM shall furnish to Customer certificates of insurance from its insurance carrier showing that the required insurance Is in force, the
+amount of the carrier's liability thereunder, and further providing that the insurance will not be canceled, nonrenewed or materially
+altered until after written notice of such cancellation, nonrenewal or material alteration has been sent to Customer. Aggregate limits in
+the policies will not be impaired as of the date of this Agreement.
+
+a. Workers’ Compensation Insurance to cover the statutory limit requirements of all applicable state laws in effect in any
+jurisdiction in which any of the Services are to be performed hereunder to cover all of CLM’s employees engaged in the
+Services; and Employer's Liability Insurance In the minimum limits of One Million Dollars ($1,000,000), with an all-states
+endorsement, for each accident, covering injury or death to any employee which may be outside the scope of applicable
+Workers’ Compensation coverage.
+
+b. Commercial General Liability Insurance, with minimum limits of One Million Dollars ($1,000,000) for injury to or death of
+
+any person or persons, for property damage, for personal injury and advertising liability, and for contractual liability
+coverage Insuring the Indemnity provisions of this Agreement.
+
+c Comprehensive Automobile Liability Insurance arising out of the ownership, maintenance or use of owned, non-owned and
+hired automobiles and trucks used by CLM (its agents and employees) in connection with the Services hereunder, with a
+combined limit for bodily injury and property damage of not less than One Million Dollars ($1,000,000) per occurrence.
+
+d. Professional Liability/Errors and Omissions Insurance. To cover the acts or omissions of all employees providing Services
+
+of a professional nature under this Agreement, CLM shall maintain coverage for a period of not less than two (2) years after
+the expiration or earller termination of this Agreement.
+
+e. Cyber risk liability, including network security and privacy liability and network interruption insurance, for loss or damage
+due to a failure or violation of the security of a computer system, physical theft of hardware controlled by CLM on which
+electronic data Is stored, or any failure to protect confidential information, Including that which results in an identity theft
+or other wrongful emulation of the identity of an individual, faiture to disclose an event in violation of any security breach
+notice Law, or violation of any other Law alleged In connection with such loss. Such insurance will include minimum limits
+per claim of $2,000,000 and an aggregate limit of $2,000,000.
+
+16) NOTICES. All notices, directions or specifications of the Services, reports, records, or other communications which are required or
+permitted to be given to the Parties under this Agreement shall be sufficient in all respect If given in writing and delivered in person, by
+telecopy, by overnight courier, by e-mail, or by registered or certified mail, postage prepaid, return receipt requested, to the receiving
+Party at the address for such Party set forth below. Notice shall be deemed given on the date of delivery, in the case of personal delivery
+or telecopy, or on the delivery or refusal date, as specified on the return receipt, in the case of overnight courier or registered or certified
+mail.
+
+If to CLM: CLM Matrix
+Attn: Legal Department
+4808 Forest Hill Drive, Suite 2G
+Flower Mound, Texas 75028-3120
+
+If to Customer: Nutrien Ag Solutions, Inc.
+Attn: Legal Department
+3005 Rocky Mountain Ave.
+Loveland, Colorado 80538
+Email: contracts@nutrien.com
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 5 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+1TA4B276 - Approved by Agrium US Legal
+
+. Digitally signed by Timothy
+AGRIUM U.S. INC. CLM Matrix Timothy B. Cabeootesti 981921:26
+‘ ate; . att
+Sparks 40700"
+Fane :
+Name: LAWMEAZE Seon Cateo Name: _ Timothy B. Sparks
+Title: VO ReraAte LT
+Date: \(- Se : 1S
+
+Title: __CEO
+
+Date: November 28, 2018
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 6 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+
+1TA4B276 ~ Approved by Agrium US Legal
+
+CLM Matrix Subscription Services Agreement
+
+Schedule A
+
+Schedule A is attached to and becomes, upon execution by both parties below, a part of the CLM Matrix Subscription Services Agreement between
+such parties and sets forth the specific terms and conditions relating to the Subscription Services listed below:
+
+   
+
+Effective License Date
+Licensed Software
+Software Format
+
+Operating Platform
+
+ 
+
+    
+ 
+
+ 
+
+  
+    
+
+Date of signature below
+Matrix Enterprise v16.x SaaS
+
+Microsoft
+
+ 
+
+ 
+
+License Type
+
+ 
+
+Subscription Service
+
+ 
+
+Number of Copies of Licensed Material
+Separate Dev/Test Configuration Environment
+Subscription Term
+
+Base Subscription Fee/Month
+
+ 
+
+Optional Wizards
+
+ 
+
+One (1) production environment.
+Included
+48 months
+
+ 
+
+  
+       
+  
+ 
+ 
+
+ 
+
+$19,834/mo. initial base subscription + $975/mo. for Optional Wizards outlined below
+($20,809/mo. total base subscription + optional wizards)
+
+ 
+
+ 
+
+Legacy Metadata Migration Wizard - $125/mo., Legacy Document Migration Wizard - $125/mo.,
+Web Service Integration Wizard - $250/mo., DocuSign Integration Wizard - $225/mo., Single-Sign
+On (AD SSO} Setup
+
+ 
+
+ 
+
+Annual Software Maintenance
+
+Included
+
+ 
+
+Initial User Counts
+
+Invoicing and Payment Terms
+
+Additional Users
+
+  
+
+Contract Administrator: §
+Contract Contributor (Full): 2,000
+Contract Consumer (Read Only): 0
+
+ 
+
+Subscription Services will be invoiced quarterly beginning upon license date. Payment terms are
+
+Net 45 days.
+
+Additional users can be added as needed in the future for the prices below.
+Matrix Enterprise Matrix Fast Track
+
+$95/mo. Contract Administrator $43/mo. Contract Administrator
+$16/mo. Contract Contributor $13/mo. Contract Contributor
+$11/mo. Contract Consumer $8/mo. Contract Consumer
+
+ 
+
+Optional CLM Matrix Functionality
+(Identify optional functionality requested
+below. Additional fees may apply.)
+
+0~ Graphical 8! Reporting Wizard
+
+1 - Legacy Metadata Migration Wizard
+1—Legacy Document Migration Wizard
+O- Multi-Language Wizard
+
+1- Web Service Integration Wizard
+0-SalesForce/Dynamics CRM Wizard
+1- DocuSign Integration Wizard
+1-Single Sign-On
+
+Training Services
+Additional Computing Resources
+
+ 
+
+To Be Delivered To
+
+Graphical BI Reporting Wizard - $250/mo.
+
+~SO hours of Professional services required for installation, set-up, testing and configuration.
+Legacy Metadata Migration Wizard —-$125/mo.
+
+~50 hours of Professional services required for installation, set-up, testing and configuration.
+Legacy Document Migration Wizard - $125/mo.
+
+~50 hours of Professional services required for installation, set-up, testing and configuration.
+Multi-Language Wizard - $250/mo.
+
+~50 hours of Professional services required for installation, set-up, testing and configuration.
+Web Service Integration Wizard - $250/mo.
+
+~ 50 hours Professional services required for installation, set-up and configuration.
+SalesForce/Dynamics CRM Connector - $250/mo.
+
+~ 40 hours of Professional Services required for installation, set-up and configuration.
+DocuSign Integration Wizard - $225/mo.
+
+~ 1S hours of Professional Services required for installation, set-up and configuration.
+
+Single Sign-On — no additional license charge but requires 3 party SSO (ADFS, OKTA etc.) and ~
+15-30 hours of Professional Services required for set-up and configuration.
+
+Additional Dev Environment — one Non-Production Dev Environment included in SaaS pricing
+above. If desired, additional Dev Environments $575/mo. each.
+
+Not included with Subscription Services. Priced separately.
+
+Resources (processor capacity, RAM, etc.) required for seasonal performance tuning, increases in
+user counts, to accommodate document storage growth over time, etc. can be provided upon
+customer request. Additional costs apply.
+
+Insert Customer Mailing Address
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18
+
+Copyright © 2018 CLM Matrix. All rights reserved
+
+Page 7 of 13
+
+ITA48276 - Approved by Agrium US Legal
+
+ 
+
+Pricing, Billing and Calculation of Additional Users Detail
+
+Base user count of 2,000 at $19,834/mo. for a 4 year subscription term.
+
+y Billing for the base subscription price of $19,834/mo. will be quarterly (for 3 months} in advance of each quarter
+
+Y Additional users above 2,000 and up to 7,000 users are priced additionally at $4/user/mo. and added and invoiced in minimum blocks of
+soo.
+
+¥ Additional users 7,001 and above are priced additionally at $3/user/mo. and added and invoiced in minimum blocks of 500.
+
+~ New users are calculated as total user count, less previous base number of users. As an example, if at any point in the quarter the user
+count exceeds the then current total licensed number of users, then the new user count will be the previous user count plus the new
+users rounded up to the nearest 500. If <500 extra users the customer will be invoiced for an extra block of S00 users for the preceding
+quarter and each remaining quarter of the subscription term. If >500 extra users then the customer will be invoiced for the next highest
+block of 500 users rounded up to the nearest 500 users for the preceding quarter and each remaining quarter of the subscription
+term). Prices for extra users described above and dependent upon volume threshold met.
+
+¥ — User counts determined as user count high for the quarter and applied across the entire quarter
+
+¥ — Nutrien shall have the right to preload an unlimited number of users in the system prior to actual use, which shall be solely determined
+by Customer
+
+¥ — Billing will be in month 2 of the prior quarter
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 8 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+ITA48276 ~ Approved by Agrium US Legal
+
+CLM Matrix MSSA
+Schedule 8
+Software Maintenance and Service Level Support
+
+1, SUPPORT SERVICES
+
+Li Telephone Support (Help Desk). CLM shall provide telephone support through CLM's support help desk phone number
+at 713 320-7756. CLM shall staff and maintain the telephone support line 9 hours a day, 5 days a week.
+
+1.2 E-Mall Support. CLM shall provide e-mail support in English through the CLM Support help desk email address
+cbarry@clmmatrix.com. CLM shall also accept Customer feedback and comments through the email address.
+
+13 Escalation Policy. If Customer feels that an issue merits additional attention, or if any response or follow-up time is not
+being met, then Customer may escalate the matter by contacting a CLM Support Manager at (713 320-7756]. If CLM Support Manager does not
+resolve the issues in Customer's reasonable opinion, then the matter may be further escalated by contacting a CLM President at 713 875-8278.
+
+14 Support Process. CLM shall make support services available to Customer according to the following process:
+(A) Users will contact Customer's CLM Administrator/Internal help desk.
+(B) If Customer's CLM Administrator/internal help desk cannot resolve the issue, the problem will be escalated by
+Customer's Administrator/internal help desk to CLM at hitps://suppert.climmatrix.com/support/clmmatrixi.
+(Cc) In all communications between the parties, CLM and Customer will identify issues with a written summary of the
+
+issue, screenshots and any other pertinent information to speed troubleshooting of the issue.
+
+(D) CLM will communicate status updates (follow ups, resolutions, or work-arounds) to Customer via email or
+telephone. CLM shall copy Customer on all Severity 1 and Severity 2 tickets.
+
+15 Customer's Authorized Personnel. Support services are currently available to Customer's Users. Users are administered
+and authorized by Customer.
+
+Off-Site Support Software Support Availability Pricing
+Online Support* 24/7 Included
+Email/Telephone Support* 8AM — SPM CST Included
+Monday - Friday 10 hrs./month software support included with
+Software Maintenance. $225/hour thereafter
+After Hours Support As requested $250/hour
+(i.e. Calls placed to CLM after
+5PM CST)
+Onsite Support As requested $225/hour
+
+ 
+
+“As part of its SaaS subscription software maintenance agreement, Customer will receive online, email and telephone software support for the
+licensed product as defined herein. Software support is defined as those issues whose root cause is CLM Matrix source code related (software
+bugs, bug fixes, patches, etc.), Issues involving conflicts with customer system or network issues, third party software/hardware, Matrix
+wizard configuration, Matrix application settings are defined as professional services and will be invoiced at the agreed upon professional
+services hourly rate.
+
+2. SEVERITY AND RESPONSE TIME
+
+2.1 Issue Severity Response Times and Resolution. All issues reported to the CLM customer support department are
+classified and directed to the appropriate team for resolution. Customer and CLM’s support representative will jointly determine the severity
+level based on the business impact, description, and definitions in the table belaw. Customer must report Severity 1 and 2 issues by telephone,
+Customer may report Severity 3 and 4 issues through any authorized means. Once Customer has reported the issues to CLM, CLM shall respond
+and resolve the Issue within the timeframes in the table below. CLM will use commercially reasonable efforts to respond to each case within
+the applicable response time described in the table below, depending on the Severity Level set on the case. Severity Level 1 Target Initial
+Response times are 24x7, including weekends and holidays. Severity Level 1 cases must be submitted via telephone as described above.
+Severity Level 1 target response times do not apply to cases submitted via email or the help portal. Severity Level 2, 3, and 4 target initial
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 9 of 13
+
+Copyright © 2018 CLM Matrix. All rights reserved
+1TA48276 - Approved by Agrium US Legal
+
+response times Include CST business hours only and exclude weekends and holidays, Reproducible errors that cannot promptly be resolved
+will be escalated to appropriate CLM resources for further investigation and analysis,
+
+          
+     
+
+ 
+
+ 
+
+  
+ 
+ 
+ 
+   
+  
+ 
+
+      
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Severity | Business Description Definition Initial Escalation Resolution | SLA
+Level Impact Response
+Time
+Severity 1 | Critical Production Customer Immediate, CLM immediately | CLM shall 100% of
+system down business or within 1 notifies Chuck resolve or incidents
+operations hour Barry and provide a resolved ora
+halted and users Customer workaround | workaround
+are unable to [ within 4 provided
+complete daily hours within 4 hours
+operations of Incident
+report
+Severity 2 | Urgent Severe Customer cannot | Within 1 CLM immediately | CLM shall 100% of
+functionality perform key hour notifies Chuck resolve or incidents
+loss business Barry and provide a resolved ora
+functions (e.g. Customer workaround | workaround
+inability to (______] | within 8 provided
+submit certain hours within 8 hours
+contracts for of Incident
+legal review report
+Severity 3 | Medium-High | Limited Issue impacts Within 4 CLM immediately | CLM shall 100% of
+functionality business hours notifies Chuck provide a incidents
+loss operations (e.g. Barry and Resolution resolved ora
+a business Customer ora workaround
+process [ workaround | provided
+workaround within 24 within 24
+may be hours hours of
+| available’ | (ncident report
+Severity 4 | Low Minor Issue has Within 8 CLM immediately | CLM shall 100% of
+functionality minimal impact | hours notifies Chuck provide a incidents
+loss, or FAQ or | on business Barry and Resolution resolved ora
+documentation | operations Customer ora workaround
+problem ] | workaround | provided
+within 3 within 3
+working working days
+days
+2.2 CLM Response. CLM shall assign an issue tracking number within the initial response time. CLM shall provide status
+
+updates to Customer with new information at regular intervals according to the follow-up time. Customer's initial reporting call and CLM's
+initial response are not considered follow-ups.
+
+3. MAINTENANCE & DOWNTIME
+3.1 Maintenance Fee. Annual Software Maintenance is included in the monthly Services subscription cost.
+3.2 Standard Maintenance Window. CLM shall perform bi-weekly Software maintenance within the standard maintenance
+
+window defined below. CLM may change the standard maintenance window with Customer's written consent.
+
+Standard Maintenance Window
+Loy | time
+Saturday-Sunday | 6PM MST - 6AM EST
+
+3.3 Schedule Maintenance. CLM may perform a maximum of 4 hours of quarterly scheduled maintenance. CLM must conduct
+all scheduled maintenance within the first 2 weeks of the 2nd calendar month of each calendar quarter, and within the standard maintenance
+window. CLM shall propose an annual schedule of scheduled maintenance before the beginning of each calendar year, which stall be approved
+by Customer. CLM’s scheduled maintenance hours do not apply toward any service credit reimbursements.
+
+   
+   
+   
+
+3.4 Additional Downtime. If CLM requires downtime In addition to the quarterly common infrastructure maintenance, then
+CLM shall obtain Customer's approval at least 5 business days before these additional maintenance periods.
+
+CLM Matrix Master Subscription Services Agreement Rev, 01/31/18 Page 10 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+ITA48276 - Approved by Agrium US Legal
+
+35 Maintenance Factors. The parties shall cooperate to review the maintenance periods for each CLM application, taking
+into consideration the following factors:
+
+{A) Need to align down-time with other systems;
+(B) Changes from Daylight Savings time to Standard time; and
+(Cc) Changes in geographic usage to minimize impact of downtime on greatest number of active users.
+(D) Maintenance must occur during Custamer's non-busienss hours (outside of Monday-Saturday 6AM EST-6PM
+MST).
+3.6 Monthly Uptime and Downtime Reports. CLM shall measure system up-time by internally deployed tools or through
+
+third-party service provider. CLM shall submit monthly reports with supporting evidence to Customer by the Sth business day of the following
+month providing the details of Customer's true system uptime and downtime for each Service. Customer shall have S business days to confirm
+or dispute CLM's report. In addition, the monthly report shall include a detailed list of all Incidents, resolution status, RCA, resolution SLA
+status and improvement plan to ensure the incident does not reoccur.
+
+3.7 Outage. Any time the Software is unavailable to Customer for 5 minutes or more other than for scheduled maintenance is
+an “Outage.” CLM shall notify Customer of any Outage within 15 minutes after discovery. Customer is responsible for notifying Customer's
+Users of any Outage.
+
+3.8 Maintenance Coverage. Under this Maintenance program customers whose monthly software subscription is fully paid will receive
+the following product coverage:
+
+Access to all new functionality releases for the product licensed typically published as point releases (e.g. v10.x)
+
+Access to all bug fix releases for the product licensed typically published as point releases (e.g. 10.x)
+
+Access to all new major releases for the product licensed typically published as with major version number change (e.g., 10.x.x to 11.x.x)
+Problem reporting and response times are defined below in the Service Level table below.
+
+aoore
+
+4, SYSTEM RESPONSE TIME
+Web App Page Load Response Time. CLM shall measure its web application page load response times and provide Customer with
+monitoring tools to do the same at no cost to Customer.
+5. DISASTER RECOVERY
+5.1 Disaster Recovery Elements. CLM shall provide the following disaster recovery elements.
+(A) Fault-tolerant Tier 3 data centers
+
+(B) Daily hot backups
+
+(C) Secure off-site data storage, with semi-annual testing of data restoration
+(D) Standard 99.5% uptime
+{E) 24x7x365 Global Support Coverage
+5.2 System Recovery. CLM shall restore Customer to full functionality within 48 hours after the onset of any disaster, with all
+
+data from the last backup, including state, analytics, and historical data.
+
+5.3 Data Recovery. CLM shall use reasonable efforts to ensure that no more than 24 hours of data is lost in between the last
+backup and the disaster. CLM shall use reasonable efforts to recover and restore data and transactions that occurred between the last backup
+and the disaster.
+
+5.4 DNS Reset. CLM shall use reasonable efforts to ensure that revised DNS records are reset and digital certificates are
+available to Customer; however, CLM is not responsible for users or systems with cached DNS records or invalid security certificates resulting
+in these users or systems pointing to the primary site after DNS fallover that may have been destroyed or corrupted in the disaster event.
+
+6. CREDITS
+
+6.1 Service Credit Reimbursements. CLM shall reimburse Customer for failure to comply with the service level requirements,
+as follows, The service credit reimbursements amounts are cumulative and will be calculated separately for each Service.
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 11 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+1TA48276 ~ Approved by Agrium US Legal
+
+ 
+   
+    
+  
+ 
+ 
+  
+
+Reimbursement (% Monthly
+Fees, or US Dollar Amount;
+
+ 
+
+Definition
+
+  
+
+ 
+
+ 
+ 
+  
+
+Actual uptime minutes per month divided
+by total number of minutes in that month.
+
+ 
+  
+    
+ 
+ 
+
+99.5% - 95%: 5% of monthly
+fees
+
+94,99% - 90%: 10% of monthly
+fees
+
+    
+    
+ 
+  
+  
+
+ 
+ 
+  
+
+Four (4) hours of scheduled maintenance
+per calendar quarter are allowed.
+Additional defined maintenance can be
+performed upon pre-approval by the
+customer and will not negatively impact
+availability SLA
+
+ 
+   
+ 
+ 
+  
+  
+   
+ 
+  
+
+  
+
+Uptime Percentage
+
+   
+ 
+  
+  
+
+<90.0%: 15% of monthly fees
+and right to terminate this
+Agreement (*See below)
+
+   
+      
+   
+
+Time elapsed from a disaster to recovery of » 48 hours: 10% of monthly fees
+the Services, including data recovery from aden
+the last backu per inciden
+
+Hours of data lost since the last backup thous > 24 hours: 10% of monthly fees
+before a disaster 24 hours per incident
+
+* In addition to the applicable Reimbursement, if in any given month, Uptime Percentage is below 90%, notwithstanding Section B(b),
+Customer has right to immediately terminate this Agreement upon written notice to CLM.
+
+    
+
+  
+
+Data Recovery Time
+
+6.2 Downtime Exclustons. For the purposes of calculating the service credit reimbursements, CLM's downtime does not
+include scheduled maintenance, or any downtime caused by the following:
+(A) Customer-provided content or programming errors;
+(B) system administration, commands or file transfers performed by or for Customer or its users;
+(C) work or activities performed at Customer's request;
+(D) untimely Customer response time to incidents that require Customer participation for source identification or
+
+issue resolution;
+
+(E) Customer breach of its material obligations under the Order Form or other agreements incorporated therein; or
+(F) failure of Customer or User hardware or software.
+(G) any unavailability caused by circumstances beyond CLM‘s reasonable control, including, for example, an act of
+
+God, act of government, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem (other than
+one involving CLM employees), Internet service provider failure or delay, or denial of service attack.
+
+63 Termination. In addition to any service credit reimbursements, Customer may terminate any Service where the service
+levels meet the following termination thresholds:
+
+ 
+
+Description Termination Threshold
+
+ 
+
+System/Application avaltability Is
+
+Uptime Percentage < 95.0% in any 60-day period
+< 99.5.0% in any 120-day period
+
+ 
+
+< 95% of all Incidents combined are resolved within
+SLAs in any 60-day period
+
+Data Recovery Time | > 72 hours in any one occurrence |
+
+Data Lost > 48 hours in any one occurrence
+
+6.4 Credit Options, Customer may elect to take the service credit reimbursements in the form of a discount against the
+monthly fees or a credit agalnst additional business of any kind.
+
+Incident Resolution
+
+ 
+
+ 
+
+ 
+
+7. METRICS, REPORTS, AND REVIEWS
+
+71 Metrics. CLM shall provide the following metrics and reports to Customer upon request. Information will be measured
+weekly and reported monthly, except where indicated otherwise.
+
+CLM Matrix Master Subscription Services Agreement Rev, 01/31/18 Page 12 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+1TA48276 - Approved by Agrium US Legal
+
+ 
+
+Item _| Metric Description Metric Details
+
+System Uptime Monthy Application Availability (All functionality)
+
+Help Desk Compliance Time to Acknowledge
+Time to Resolve/Provide workaround
+Problem Description
+Root Cause Analysis
+
+Problem Resolution
+
+ 
+
+3 Customer Support Tickets (shall be available on | Case Volume
+the Customer Support Portal) Count of Issues resolved for the week
+Count of total outstanding issues
+
+4 Downtime Compliance Total Outage Time
+
+Total Number of Occurrences
+
+Outages, broken out into Regular Maintenance Outages
+and Approved Outages
+
+ 
+
+7.2 Policies and Procedures. CLM shall provide the following policies and procedures to Customer:
+
+Description
+Data Back-up Frequency and Media retention plan,
+
+Relevant CERT Advisory and System Maintenance
+
+Intrusion Detection
+Description of processes and tools used in reporting
+
+Description of CLM procedures ta track network laten:
+
+ 
+
+73 Service Level Reviews. CLM will initiate and schedule quarterly service level reviews with Customer regarding the
+following:
+
+ 
+
+Service performance
+
+Major Issues and thelr resolution
+
+ 
+
+ 
+
+Upcoming revisions, changes to services, and strategic planning (enhancement requests and software
+errors)
+
+ 
+
+s | Scorecard metrics / corrective action plans
+
+CLM Matrix Master Subscription Services Agreement Rev. 01/31/18 Page 13 of 13
+Copyright © 2018 CLM Matrix. All rights reserved
+ITA48276 - Approved by Agrium US Legal
+
+

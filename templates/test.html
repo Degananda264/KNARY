@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Search Engine</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='./style.css') }}">
+  
+</head>
+
+<body style="height:100%; width:100%; overflow:auto;">
+ <div class="content">
+	<h2> K-NARY Search Engine</h2>
+
+     <!-- Form to enter new data for predictions  -->
+    <form action="{{ url_for('predict')}}"method="POST">
+      <input type="number" name="Contracts Expiring in next 'n' days" placeholder="Contracts Expiring in next 'n' days" />
+    	<input type="text" name="Contract Party Name" placeholder="Contract Party Name" />
+		<input type="text" name="Alternate Dispute Resolution Terms " placeholder="Alternate Dispute Resolution Terms" />
+
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Search</button>
+    </form>
+
+   <br>
+   <br>
+  
+   
+ </div>
+ {{pred}}
+
+</body>
+</html>

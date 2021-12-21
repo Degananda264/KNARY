@@ -1,0 +1,277 @@
+EXHIBIT 10(vi)
+
+DELTA INVENTORY SUPPLY AGREEMENT
+
+THIS DELTA INVENTORY SUPPLY AGREEMENT (this “Agreement”) is made as of this 1st day of December, 2006 (the “Effective Date”), by and between United Launch Alliance, L.L.C., a Delaware limited liability company (“ULA”) and The Boeing Company, a Delaware corporation (“Boeing”). ULA and Boeing are sometimes referred to herein as a “Party” or collectively as the “Parties.”
+
+RECITALS
+
+WHEREAS, Boeing, Lockheed Martin Corporation, a Maryland corporation (“Lockheed Martin”), and ULA entered into a Joint Venture Master Agreement dated as of May 2, 2005 (as amended, the “Master Agreement”), which provides, among other things, for the formation of a joint venture, ULA, to develop and manufacture integrated ELV Systems and supply related Launch Services to the U.S. Government upon the terms and subject to the conditions of the Master Agreement;
+
+WHEREAS, ULA has, as part of its charter, authority to manufacture and sell Launch Services to the U.S. Government using the Delta II and Delta IV launch vehicles developed by Boeing;
+
+WHEREAS, in connection with the Closing of the transactions contemplated by the Master Agreement, Boeing has licensed certain Delta technology to ULA and has contributed or caused to be contributed certain assets of its ELV Business to ULA (other than the Excluded Inventory, as defined below); and
+
+WHEREAS, the Master Agreement requires that Boeing and ULA enter into this Agreement;
+
+NOW THEREFORE, in consideration of the mutual promises and undertakings contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows:
+
+AGREEMENT
+
+ARTICLE 1 DEFINITIONS; EXCLUDED INVENTORY
+
+1.1 General. As used herein, terms that are capitalized have the definitions ascribed to them by the Master Agreement, except as those definitions may be varied by the terms of this Agreement.
+
+1.2 “Tooling” means jigs, dies, fixtures, molds, patterns, taps, gauges, other equipment and manufacturing aids, all components of these items, and replacements of these items, which are of such a specialized nature that without substantial modification or alteration their use is limited to the development or production of particular supplies or parts thereof or to the performance of particular services.
+
+1.3 Excluded Inventory. On the Closing Date, pursuant to the terms and conditions of the Boeing Contribution and Assumption Agreement, Boeing contributed or caused to be contributed to ULA the Boeing Contributed Assets. These assets included some items of inventory but excluded the “Excluded Inventory,” as defined in the Master Agreement. The Parties acknowledge and agree that the Excluded Inventory subject to this Agreement shall be determined in accordance with the following principles and procedures:
+
+1.3.1 Excluded Inventory shall not include any Tooling.
+
+1.3.2 Promptly following the Closing Date, Boeing shall prepare and submit to ULA and Lockheed Martin a statement setting forth Boeing’s Proposed Adjusted Net Working Capital Amount in accordance with Section 3.04 of the Master Agreement. The amount of inventory included in Boeing’s Proposed Adjusted Net Working Capital Amount and in Boeing’s Adjusted Net Working Capital Amount (which may be a positive or negative number) will equal the aggregate value of the inventory of Boeing’s ELV Business (including the Excluded Inventory), minus $1,860,000,000.
+
+1.3.3 The value of the inventory of Boeing’s ELV Business shall be determined in accordance with the accounting principles, policies, practices, methods and procedures, applied on a consistent basis in accordance with past practice, utilized in the preparation of Boeing’s Opening Statement as disclosed in the Notes to such Opening Statement, except as otherwise set forth in the Notes to such Opening Statement.
+
+1.3.4 The agreed-upon value of the Excluded Inventory subject to this Agreement shall be $1,860,000,000.
+
+ARTICLE 2 OWNERSHIP OF EXCLUDED INVENTORY
+
+2.1 Transfer and Assignment. Boeing hereby transfers and assigns to ULA all of its right, title and interest in and to the Excluded Inventory, including its rights under any warranties from suppliers of items of Excluded Inventory to the extent that such rights are assignable; provided that Boeing shall use reasonable commercial efforts to take all actions and execute all documents reasonably necessary to assign its rights under any such warranties.
+
+2.2 Acceptance. ULA hereby accepts (i) all of Boeing’s right, title and interest in and to the Excluded Inventory and (ii) subject to the provisions of Section 5.1, all risk of loss with respect to the Excluded Inventory.
+
+ARTICLE 3 REPRESENTATIONS AND WARRANTIES
+
+3.1 Title; Condition. Boeing represents and warrants that (i) it had, immediately prior to the transfer and assignment to ULA pursuant to Article 2, good title to items in the Excluded Inventory and (ii) the items of Excluded Inventory, to the extent consisting of tangible property, are in good operating condition (normal wear and tear excepted), and normal maintenance and repair on such items has not been deferred.
+
+2
+
+3.2 DISCLAIMER OF WARRANTIES. THE PARTIES HERETO ACKNOWLEDGE AND AGREE THAT NO REPRESENTATION OR WARRANTY HAS BEEN MADE OR RELIED UPON BY ANY PARTY HERETO OTHER THAN THOSE EXPRESSLY SET FORTH IN THIS AGREEMENT OR THE MASTER AGREEMENT. WITHOUT LIMITING THE GENERALITY OF THE DISCLAIMER SET FORTH IN THE PRECEDING SENTENCE, EACH PARTY, ON ITS OWN BEHALF AND ON BEHALF OF ITS RESPECTIVE SUBSIDIARIES, EXPRESSLY DISCLAIMS ANY IMPLIED WARRANTIES, INCLUDING WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE AND WARRANTIES OF MERCHANTABILITY.
+
+3.3 Survival. The representations and warranties of Boeing set forth in Section 3.1 shall survive the Closing for a period of two years from the Closing Date.
+
+ARTICLE 4 PURCHASE OF EXCLUDED INVENTORY
+
+4.1 Price and Payment Schedule. Within 30 days after each launch or other event that consumes one or more Delta IV common booster cores, commencing on the earlier of (x) the consumption of the eighth such common booster core consumed on or after January 1, 2007 or (y) March 31, 2009, ULA will pay Boeing $60,000,000 for each such common booster core, provided that in no event will payments be made under this Agreement in respect of more than 31 such common booster cores.
+
+4.2 Taxes. ULA will bear any personal property or other taxes relating to the Excluded Inventory. The Parties acknowledge that the purchase price does not include any value added tax, sales tax or similar tax. ULA agrees to either pay such taxes or reimburse Boeing for any such taxes that Boeing must pay as a result of the sale of the items of Excluded Inventory to ULA. Boeing shall cooperate with ULA and provide documentation reasonably necessary to lessen taxes for which ULA is responsible under this provision or to support a claim of tax exemption, where applicable.
+
+4.3 Payment. ULA will make all payments to Boeing by unconditional wire transfer of immediately available funds in United States Dollars to a bank account in the United States designated by Boeing. Boeing shall not be required to invoice ULA as a condition precedent for ULA’s obligation to make payments.
+
+4.4 Payment On March 31, 2021. On March 31, 2021, ULA will pay to Boeing an amount equal to the product of (x) $60,000,000 and (y) the amount, if any, by which 31 exceeds the number of Delta IV common booster cores in respect of which ULA has made payments to Boeing pursuant to this Agreement prior thereto.
+
+4.5 Payment Upon Full Recovery of Excluded Inventory. If, at any time prior to March 31, 2021, all inventory constituting Boeing Contributed Assets and Excluded Inventory has been recovered and payment in full has been received by ULA as a result of any event other
+
+3
+
+than normal consumption through the provision of Launch Services, including but not limited to Delta Program termination, sale of the Delta launch vehicle business or reimbursement by Boeing to ULA under the provisions of Section 6 of Schedule 11.02(b) to the Master Agreement, the payment specified in Section 4.4 of this Agreement shall become immediately due and payable by ULA to Boeing.
+
+4.6 Payment From ULA Credit Arrangements. Notwithstanding the foregoing provisions of this Article 4, but without limiting ULA’s obligation to make any payment otherwise required pursuant to the terms and provisions of this Agreement as and when such payment is due, it is understood and agreed that for a period of five years from the date of this Agreement, without the prior written agreement of Lockheed Martin and Boeing, ULA will not make payments pursuant to Section 4.1 of this Agreement with the proceeds of borrowings under the Member Revolving Credit Agreement, the Initial Company Financing Arrangement or any other revolving credit agreement or similar financing arrangement that replaces or supplements the Member Revolving Credit Agreement, the Initial Company Financing Arrangement or any subsequent replacement or supplemental agreement to support ULA’s working capital and other financing needs (any of the foregoing, a “ULA Financing Arrangement”), except as follows:
+
+(i) ULA may use the proceeds of borrowings under one or more ULA Financing Arrangements in an aggregate amount of $300,000,000 to make payments pursuant to Section 4.1 of this Agreement without limitation; and
+
+(ii) from and after the time that aggregate payments of $300,000,000 pursuant to Section 4.1 of this Agreement have been made with the proceeds of borrowings under one or more ULA Financing Arrangements as provided in the preceding clause (i), ULA may use the proceeds of borrowings under one or more ULA Financing Arrangements to make payments pursuant to Section 4.1 of this Agreement, but only to the extent that the aggregate amount of borrowings outstanding under the ULA Financing Arrangements, after all or a portion of any payment then due pursuant to Section 4.1 of this Agreement is made, do not exceed $300,000,000.
+
+It is the intention of the parties hereto that from and after the expiration of the five-year period covered by the foregoing provisions of this Section 4.6, ULA will adopt, subject to approval of the Members, a financing plan that ensures that working capital is available to fund operations above and beyond amounts available for payments pursuant to Section 4.1 of this Agreement; provided, however, that, following such five-year period, until such a financing plan is agreed to and implemented by the Company and the Members, ULA may use the proceeds of borrowings under one or more ULA Financing Arrangements to make payments pursuant to Section 4.1 of this Agreement, but only to the extent that the aggregate amount of borrowings outstanding under the ULA Financing Arrangements, after all or a portion of any payment then due pursuant to Section 4.1 of this Agreement is made, do not exceed 80% of the aggregate credit capacity represented by all of the then existing ULA Financing Arrangements. It is understood and agreed that the foregoing provisions of this Section 4.6 shall not detract from Boeing’s right to receive payments from ULA as and when due pursuant to Section 4.1 of this Agreement, which right shall rank pari passu with the rights of other parties (including Lockheed Martin) to receive payments due from ULA.
+
+4
+
+ARTICLE 5 OTHER TERMS AND CONDITIONS.
+
+5.1 Indemnification.
+
+5.1.1 ULA hereby indemnifies Boeing, its Affiliates and its Representatives (together with their respective successors and permitted assigns) against, and agrees to defend and hold them harmless from, any and all Damages incurred or suffered by any of them arising out of, resulting from or related to any Third Party Claim with respect to any defect in an Excluded Inventory item, including claims arising from a launch failure.
+
+5.1.2 In addition to and without limiting the other provisions of this Section 5.1, each Party hereby indemnifies the other Party, and each of its Affiliates and their Representatives (together with their respective successors and permitted assigns) against, and agrees to defend and hold them harmless from, any and all Damages incurred or suffered by any of them arising out of, resulting from or related to any breach by such indemnifying Party of any representation, warranty, covenant or agreement made or to be performed by such indemnifying Party pursuant to this Agreement; provided that Boeing’s obligation to indemnify ULA for any breach of the representations and warranties set forth in Section 3.1 shall be subject to (i) the provisions of Section 5.16 and (ii) the limitations set forth in Section 11.04 of the Master Agreement as if such indemnification was provided thereunder for a breach of a representation or warranty set forth in the Master Agreement.
+
+5.2 Term and Termination. This Agreement will be effective as of the Closing Date and shall continue until the earliest of (i) the final payment by ULA to Boeing pursuant to Section 4.1 in respect of the launch or other event occurring that consumes the last of the Delta IV common booster cores constituting Excluded Inventory, (ii) March 31, 2021, (iii) the payment by ULA to Boeing pursuant to Section 4.5 of the amount specified in Section 4.4, or (iv) the mutual written agreement of the Parties to terminate this Agreement; provided that the termination of this Agreement shall not relieve the Parties of any obligations existing hereunder at the time termination is effective under this Section 5.2.
+
+5.3 Notices.
+
+5.3.1 Authorized Representatives. Each Party shall appoint an authorized representative (an “Authorized Representative”) for purposes of delivery and receipt of all notices, requests and other communications hereunder. Boeing’s initial Authorized Representative shall be the Chief Financial Officer of Boeing Integrated Defense Systems. Boeing may designate a new person as Boeing’s Authorized Representative at any time by delivery of written notice to ULA. ULA’s initial Authorized Representative shall be the Chief Financial Officer of ULA. ULA may
+
+5
+
+designate a new person as ULA’s Authorized Representative at any time by delivery of written notice to Boeing. All notices, requests and other communications delivered hereunder shall be in writing (including telecopy or similar writing) and shall be delivered to the Party’s Authorized Representative.
+
+5.3.2 Disputes. Notwithstanding the provisions of Section 5.3.1, all notices, requests and other communications with respect to disputes arising hereunder shall be in writing (including telecopy or similar writing) and shall be given as follows:
+
+if to ULA:
+
+United Launch Alliance, L.L.C.
+
+12257 South Wadsworth Blvd.
+
+Littleton, Colorado 80125
+
+Attention: Chief Executive Officer
+
+Telecopy: (303) 977-1145
+
+with copies (which shall not constitute notice) to:
+
+United Launch Alliance, L.L.C.
+
+12257 South Wadsworth Blvd.
+
+Littleton, Colorado 80125
+
+Attention: General Counsel
+
+Telecopy: (303) 977-1145
+
+if to Boeing:
+
+The Boeing Company
+
+100 North Riverside
+
+Chicago, Illinois 60606
+
+Attention: Vice President, Corporate and Strategic Development
+
+Telecopy: (312) 544-2755
+
+with copies (which shall not constitute notice) to:
+
+The Boeing Company
+
+100 North Riverside
+
+Chicago, Illinois 60606
+
+Attention: Senior Vice President and General Counsel
+
+Telecopy: (312) 544-2121
+
+or to such other address or telecopy number and with such other copies as each Party may hereafter specify in writing to the other Parties. Each such notice, request or other communication shall be effective (i) if given by telecopy, when such telecopy is transmitted to the telecopy number specified in this Section 5.3.2 and evidence of receipt is received or (ii) if given by any other means, upon delivery or refusal of delivery at the address specified in this
+
+6
+
+Section 5.3.2. Copies of all notices, requests and other communications with respect to disputes arising hereunder shall also be delivered to Lockheed Martin as follows:
+
+Lockheed Martin Corporation
+
+6801 Rockledge Drive
+
+Bethesda, Maryland 20817
+
+Attention: Senior Vice President and General Counsel
+
+Telecopy: (301) 897-6791
+
+with a copy to:
+
+Lockheed Martin Space Systems Company
+
+12257 South Wadsworth Blvd. MS-5120
+
+Littleton, Colorado 80125-8500
+
+Attention: Vice President and General Counsel
+
+Telecopy: (303) 971-4684
+
+and to:
+
+Lockheed Martin Corporation
+
+6801 Rockledge Drive
+
+Bethesda, Maryland 20817
+
+Attention: Marian S. Block
+
+Telecopy: (301) 897-6587
+
+or to such other address or telecopy number and with such other copies as Lockheed Martin may hereafter specify in writing to the Parties.
+
+5.4 Amendments; Waivers. No provision of this Agreement may be amended or waived unless such amendment or waiver is in writing and signed, in the case of an amendment, by each of the Parties, or in the case of a waiver, by the Party against whom the waiver is to be effective, and in the case of an amendment or waiver of Sections 4.6, 5.3 and 5.17, such amendment or waiver is consented to in writing by Lockheed Martin. No failure or delay by any Party in exercising any right, power or privilege under this Agreement shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege.
+
+5.5 Successors and Assigns. The provisions of this Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns. No Party may assign, delegate or otherwise transfer any of its rights or obligations under this Agreement without the prior written consent of the other Party; provided, that any Party may assign its rights under this Agreement without the other Party’s prior written consent upon written notice to the other Party (i) to any of its direct or indirect wholly owned domestic Subsidiaries (provided that if any such Subsidiary assignee, delegatee or transferee shall at any time cease to be a direct or indirect wholly owned domestic Subsidiary of the assignor, delegator or transferor, as the case may be, the exception set forth in this clause (i) shall no longer apply
+
+7
+
+and such assignment, delegation or transfer shall be void unless otherwise permitted under this Section 5.5) or (ii) in connection with the transfer or sale of all or substantially all of its assets or business or its merger or consolidation with another Person. Notwithstanding the foregoing, no assignment, delegation or other transfer of rights under this Agreement shall relieve the assignor of any liability or obligation hereunder. Any attempted assignment, delegation or transfer in violation of this Section 5.5 shall be void.
+
+5.6 Construction. As used in this Agreement, any reference to the masculine, feminine or neuter gender shall include all genders, the plural shall include the singular, and singular shall include the plural. Unless the context otherwise requires, the term “party” when used in this Agreement means a party to this Agreement. References in this Agreement to a party or other Person include their respective successors and permitted assigns. The words “include,” “includes” and “including” when used in this Agreement shall be deemed to be followed by the phrase “without limitation” unless such phrase otherwise appears. Unless the context otherwise requires, references in this Agreement to Sections and Exhibits shall be deemed references to Sections of, and Exhibits to, this Agreement. Unless the context otherwise requires, the words “hereof,” “hereby” and “herein” and words of similar meaning when used in this Agreement refer to this Agreement in its entirety and not to any particular Section or provision of this Agreement. With regard to each and every term and condition of this Agreement, the Parties understand and agree that the same have or has been mutually negotiated, prepared and drafted, and that if at any time the Parties desire or are required to interpret or construe any such term or condition or any agreement or instrument subject hereto, no consideration shall be given to the issue of which Party actually prepared, drafted or requested any term or condition of this Agreement.
+
+5.7 Entire Agreement; Conflicts. This Agreement, together with the Master Agreement and the other Transaction Documents, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements, understandings and negotiations, both written and oral, between the Parties with respect to the subject matter hereof. In the event of any conflict or inconsistency between the terms of this Agreement and the Master Agreement or the Operating Agreement, the terms of the Master Agreement or the Operating Agreement, as the case may be, shall control.
+
+5.8 Governing Law. This Agreement shall be construed in accordance with and governed by the laws of the State of Delaware (without regard to the choice of law provisions thereof).
+
+5.9 Counterparts; Effectiveness. This Agreement may be signed in any number of counterparts, each of which shall be deemed an original, with the same effect as if the signatures hereto were upon the same instrument. This Agreement shall become effective when each Party shall have received a counterpart hereof signed by the other Party.
+
+5.10 Severability. Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions of this Agreement or affecting the validity or enforceability of such provision in any other jurisdiction. To the
+
+8
+
+extent any provision of this Agreement is determined to be prohibited or unenforceable in any jurisdiction, the Parties agree to use reasonable commercial efforts to substitute one or more valid, legal and enforceable provisions that, insofar as practicable, implement the purposes and intent of the prohibited or unenforceable provision.
+
+5.11 Captions. The captions herein are included for convenience of reference only and shall be ignored in the construction or interpretation hereof.
+
+5.12 Disclaimer of Agency. This Agreement shall not constitute either Party as a legal representative or agent of the other Party, nor shall a Party have the right or authority to assume, create or incur any liability or any obligation of any kind, expressed or implied, against or in the name or on behalf of the other Party, unless otherwise expressly permitted under this Agreement, the Operating Agreement or a separate agreement in writing between the Parties.
+
+5.13 Dispute Resolution. Any dispute between the Parties arising under this Agreement will be resolved in accordance with the procedures set forth in Annex A hereto.
+
+5.14 Jurisdiction. Without limiting the provisions of Section 5.13, any suit, action or proceeding seeking to enforce any provision of, or based on any matter arising out of or in connection with, this Agreement shall be brought in the United States District Court for the District of Delaware (or, if subject matter jurisdiction is unavailable, in the state courts of the State of Delaware), and each of the Parties hereby consents to the exclusive jurisdiction of such courts (and of the appropriate appellate courts) in any such suit, action or proceeding and waives any objection to venue laid therein. Process in any such suit, action or proceeding may be served on any Party anywhere in the world, whether within or without the State of Delaware. Without limiting the foregoing, the Parties agree that service of process upon such Party at the address referred to in Section 5.3, together with written notice of such service to such Party, shall be deemed effective service of process upon such Party.
+
+5.15 Performance. Each Party shall cause to be performed and hereby guarantees the performance of, all actions, agreements and obligations set forth herein to be performed by any Subsidiary of such Party.
+
+5.16 Transaction Document. This Agreement shall constitute a Transaction Document for purposes of the Master Agreement, including Section 13.16 thereof.
+
+5.17 Enforcement of Claims; Third Party Beneficiaries. In addition to and without limiting the right of ULA to enforce its own rights and remedies under this Agreement, Lockheed Martin shall have the right to enforce ULA’s rights and remedies under this Agreement on behalf of ULA. Lockheed Martin shall be a third party beneficiary of this Agreement for purposes of Section 4.6, Section 5.3 and this Section 5.17. Except as expressly provided in this Section 5.17, this Agreement is not intended to and does not confer upon any Person other than the Parties (and their successors and permitted assigns) any rights or remedies hereunder.
+
+[Remainder of page intentionally left blank.]
+
+9
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed by their respective authorized representatives as of the day and year first above written.
+
+UNITED LAUNCH ALLIANCE, L.L.C.
+
+By:
+
+Name:
+
+Michael C. Gass
+
+Title:
+
+President and Chief Executive Officer
+
+THE BOEING COMPANY
+
+By:
+
+Name:
+
+Joseph T. Lower
+
+Title:
+
+Vice President, Corporate and Strategic Development
+
+10
+
+Annex A
+
+Dispute Resolution Procedures
+
+(a) In the event of any controversy or claim between the Parties arising out of, relating to or in connection with any provision of this Agreement, or the rights or obligations of the Parties hereunder, the Parties shall try to settle their differences amicably between themselves.
+
+(b) Either Party may initiate such informal dispute resolution by sending written notice of the dispute to the other Party, and within 10 days after such notice, senior management level representatives of the Parties, or other representatives of the Parties who have been delegated authority to resolve the dispute, shall meet, in person or by telephone, for attempted resolution by good faith negotiations. If such representatives do not resolve such dispute within 45 days of receipt of the dispute notice for any reason, the Parties agree to seek the assistance of the members of the Board of Directors of ULA in resolving the dispute; provided that the Parties shall not be bound by any decision of the Board of Directors. If the Parties have not resolved the dispute within 30 days after seeking the assistance of the Board of Directors of ULA, then the Parties agree to submit the dispute to final and binding arbitration before a panel of three arbitrators in New York, New York under the Commercial Arbitration Rules of the American Arbitration Association (the “AAA Rules”).
+
+(c) Arbitration will be commenced by a Party filing a demand for arbitration pursuant to the AAA Rules (an “Arbitration Demand”). That Party also shall send a copy of the Arbitration Demand to the other Party. Each Party to the dispute shall select an arbitrator within 10 days of the date of the Arbitration Demand and shall so notify the other Party in writing, or, if a Party to the dispute fails to select an arbitrator within such 10 day period, the American Arbitration Association (the “AAA”) shall make such appointment within five days thereafter and shall notify the Parties in writing. Within 10 days from their appointment, the two arbitrators thus appointed shall select a third arbitrator, who shall act as the chairman of the panel, and shall notify the Parties in writing of his or her selection. If the two arbitrators fail to agree on a third arbitrator within 10 days of their selection, the AAA shall make the appointment within five days thereafter and shall notify the Parties in writing. If an arbitrator so selected becomes unable to serve, his or her successors shall be similarly selected or appointed.
+
+(d) The arbitration shall be conducted pursuant to the Federal Arbitration Act and such procedures as the Parties may agree, or, in the absence of such agreement, pursuant to the AAA Rules. The arbitrators will agree to comply with the Federal Arbitration Act and the procedures agreed to by the Parties, or if applicable, the AAA Rules (including any and all of the time deadlines governing the arbitrators’ conduct set forth in the Federal Arbitration Act, the procedures agreed to by the Parties and the AAA Rules, as applicable) and the terms of this Annex A. The arbitrators shall have case management authority and shall resolve the dispute in final within 180 days from the commencement of the arbitration. In the event the arbitrators fail to resolve the dispute in final within 180 days from the commencement of the arbitration, either Party may serve a written notice to the arbitrators and to the other Party that requires the arbitrators to resolve the dispute in final within 30 days of service of such written notice, provided that if the Party not serving the written notice asserts that the failure to resolve the dispute within such 180-day period was due to delay by the Party serving the written notice, such
+
+30-day period shall be extended by the number of days, if any, that the arbitrators (by written decision issued within such 30-day period) determine the Party serving the written notice was dilatory. If the arbitrators fail to resolve the dispute within such 30 (or extended) - day period, either Party may remove the case from arbitration and file the action as a lawsuit in accordance with Section 5.14 of this Agreement. In the event a Party removes the case from arbitration pursuant to the provisions hereof, each Party hereby waives any objection that it may now or hereafter have to such removal or that such dispute continues to be subject to arbitration. For purposes of calculating the effects of any statutes of limitations, any lawsuit initiated pursuant to this provision will be deemed to have been filed on the date that the arbitration was commenced, as established by the Federal Arbitration Act or the AAA Rules, if applicable.
+
+(e) The Parties agree that each shall have the right to conduct discovery and present evidence in accordance with the following rules. Each Party shall be allowed to conduct reasonable discovery through written document requests and depositions, the nature and extent of which discovery shall be determined by the Parties; provided, that if the Parties cannot agree on the terms of discovery, the nature and extent thereof will be determined by the arbitrators who will take into account the needs of the Parties and the purposes of arbitration to make discovery expeditious and cost effective. Access to any confidential or proprietary financial or other information produced in discovery will be limited to the discovering Party’s lawyers and other experts and a limited number (to be agreed by the Parties) of senior managers of the discovering Party, who will be obligated to preserve the confidentiality of such information on reasonable and customary terms. Each Party shall provide to the other, reasonably in advance of the hearing, copies of all documents which a Party intends to present at the hearing. Each Party shall be entitled to make an oral presentation to the arbitrators.
+
+(f) The Parties agree that a judgment may be entered on the arbitrators’ award in any court of competent jurisdiction. The arbitrators in reviewing any claim under this Agreement shall have the exclusive authority to determine any issues as to the arbitrability of any such claim or related disputes hereunder. In reaching a decision, the arbitrators shall interpret, apply and be bound by this Agreement and by Applicable Law. The arbitrators shall have no authority to add to, detract from or modify this Agreement or any Applicable Law in any respect. The arbitrators may grant any remedy or relief that a court of competent jurisdiction could grant, except that the arbitrators may not grant any relief or remedy greater than that sought by the Parties, nor any special, indirect, punitive or consequential damages, including lost profits and opportunity costs (except in each case to the extent assessed in connection with claims by other Persons).
+
+(g) Any up-front costs of the arbitrators shall be borne equally by the Parties engaged in such dispute; provided, however, that the non-prevailing Party in any such arbitration shall pay, and to the extent applicable reimburse the prevailing Party for, the costs and expenses of the arbitrators, including costs and expenses payable to the AAA and to the arbitrators; and provided further, that in the event each Party prevails as to certain claims in connection with any such arbitration, the fees of the arbitrators shall be paid and/or reimbursed in accordance with the decision of the arbitrators. Each Party shall bear its own costs incurred in connection with attorneys’ fees and related expenses.
+
+(h) Notwithstanding the provisions of this Annex A, (i) nothing in this Agreement shall limit or in any way restrict the ability of any Party to seek injunctive or other equitable relief in a court or other judicial body, and (ii) this Annex A shall not apply to, and the Parties shall have no obligation to submit to arbitration, any deadlock of the Members on any matter requiring unanimous consent of the Members under the Operating Agreement, including pursuant to Section 7.02(b) of the Operating Agreement, or any Board deadlock on any matter requiring approval by majority vote of the entire Board, including pursuant to Section 6.02(b)(ii) of the Operating Agreement.

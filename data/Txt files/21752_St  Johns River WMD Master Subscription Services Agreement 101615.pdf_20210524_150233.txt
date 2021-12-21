@@ -1,0 +1,1027 @@
+
+Bi matrix Customer Contract 28378
+
+Master Subscription Services Agreement
+
+This Master Subscription Services Agreement (“Agreement”) is between CLM Matrix, a Texas corporation (CLM) and the St. johns
+
+River Water Management District (Customer), and is effective as of the date of last signature.
+
+1)
+
+2)
+
+3)
+
+4)
+
+CONTRACT LIFECYCLE MANAGEMENT SERVICE. This Agreement provides Customer access to a proprietary online subscription
+service consisting of an Internet based contract lifecycle management services which includes, at a minimum, the following
+functionality:
+
+Contract Modeling - ability to input contract metadata into the system
+Contract Portal - role based repository of contract information in tabular form
+
+- Document Generation - ability to generate solicitation and contract documents
+
+- Contract Monitoring and Tracking — ability to perform user defined ad hoc reporting
+
+- Rule and Policy Based Workflow ~ ability to set up alerts notifications and reminders based on critical contract dates and
+obligations.
+Data Exchange - ability to receive from and transmit data to Customer's financial and content management systems
+Document Transfer - CLM Matrix will enhance the Web Service Wizard and Web Service features to include the capability
+to send the URL of a Workflow’s Document Library to a Web Service end-point. The details of these feature changes will be
+coordinated with SJRWMD staff during development to ensure usability with SI]RWMD systems and methods. This capability
+will be included in Matrix V13 and V15 baselines. The URL will be the specific contract Document Library URL for the given
+workflow; the workflow in which the Web Service is executed. This is consistent with the execution of current Web Service
+messages as a synchronous exchange with the addition of capability to send URL. The Document Library to which the URL
+points may be empty or may contain more than one document. Using Web Service Wizard to configure and setup URL and
+other Metadata in a message, will result in sending the Document Library URL to a St. Johns River Water Management
+District (S]RWMD) end-point. CLM Matrix will not be involved in the creation or management of that SJRWMD end point to
+which the URL is sent. This is the responsibility of SJRWMD, and it is the SJRWMD end-point to determine the document
+name to retrieve, and to retrieve the document from the URL's location. CLM Matrix obligation is to provide this capability in
+a V13/V15 release as stated herein to SJRWMD by end of December 2015. SJRWMD will use this V13/V15S to test and verify
+the SJRWMD end-point.
+
+CLM will provide this functionality through a [URL] provided by CLM within a hosted server environment and under the terms
+below (Service). This Agreement contemplates one or more orders for the Services, which orders are governed by the terms of
+this Agreement and will describe the Services ordered in more detail (which may include a setup statement of work). Customer
+may allow its employees and contractors to access the Services in compliance with the terms of this Agreement, which access must
+be for the sole benefit of Customer. Customer is responsible for the compliance with this Agreement by its employees and
+contractors.
+
+USE OF SERVICES.
+
+a). CLM Responsibilities. CLM must (i) use commercially reasonable efforts to make the Services available, except for (x)
+scheduled outages, or (y) unavailability caused by force majeure, (ii) use commercially reasonable efforts to protect the
+Customer Data from unauthorized access, and (iii) provide customer support for the Services at no additional charge, as
+further detailed at: http://www.clmmatrix.com/support
+
+b). Customer Responsibilities, Customer (i) is responsible for Customer Data, (ii) must use commercially reasonable efforts to
+prevent unauthorized access to the Services, and notify CLM promptly of any such unauthorized access, and (iii) may use the
+Services only in accordance with its user guide and applicable law.
+
+Customer may not (w) sell, resell, rent or lease the Services, (x) use the Services to store or transmit infringing, libelous, or
+otherwise unlawful or tortious material, or to store or transmit material in violation of third-party rights, (y) interfere with
+or disrupt the integrity or performance of the Services, or (z) attempt to gain unauthorized access to the Services or their
+related systems or networks.
+
+PAYMENT TERMS. CLM shall submit quarterly invoices by e-mail to acctpay@sjrwmd.com. Customer must pay all fees within 45
+days of receipt of an approved invoice. Customer is responsible for sales, use and other similar taxes. Should Customer dispute
+an invoice or part thereof, Customer shall notify CLM and parties will in good faith endeavor to resolve the dispute. Customer shall
+pay any undisputed portion of the invoice in accordance with the terms of this Agreement. Payment for first quarter service must
+be received prior to activation of the Services.
+
+WARRANTY /SERVICE LEVEL AGREEMENT and REMEDY.
+
+a). CLM Limited Warranty. CLM warrants to Customer (i) that commercially reasonable efforts will be made to maintain the
+online availability of the Services for a minimum of availability in any given month as provided in the chart below (excluding
+
+CLM Matrix Software License Agreement. Rev. 010214 Page 1 of 5
+Copyright © 2014 CLM Matrix. All rights reserved
+
+5)
+
+6)
+
+b).
+
+Customer Contract 28378
+
+scheduled outages), (ii) the functionality of the Services will not materially decrease, (iii) and the’customer support will not
+materially degrade.
+
+Availability Credit
+- 99.5 - 95% = 5 % of monthly fee.
+= 94.99 - 90% = 10 % of monthly fee.
+
+- Less than 90% = 15 % of monthly fee.
+
+. Customer's exclusive remedy and CLM’s sole obligation for breach of the warranty in
+(a)(i) immediately above will be for CLM to provide a crédit as provided in. the chart above (if this Agreeméntis'not renewed,
+then a refund), for the month in question; provided that Customer notifies CLM of such breach-within 30°days of the end of
+thé month inquestion. CLM DISCLAIMS ALL OTHER WARRANTIES, INCLUDING, WITHOUT'LIMITATION, ANY WARRANTY
+THAT SERVICES WILL BE UNINTERRUPTED, ERROR FREE OR WITHOUT DELAY, AND THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Each party‘represents and warrants to the other party that it will comply with
+all applicable laws, including foreign export controls, regarding its performance under this Agreement, including without
+limitation privacy related and Florida's Public Records laws.
+
+MUTUAL CONFIDENTIALITY.
+
+a).
+
+b).
+
+°.
+
+Definition of Confidential Information. Confidential Information means all confidential information disclosed by a party
+(Discloser) to the other party (Recipient), whether orally or in writing, that is designated’as confidential or that reasonably
+should be understood to be confidential given the nature of the information and the circumstances of disclosure
+(Confidential Information). CLM’s Confidential Information includes the Services.
+
+Protection of Confidential Information. The Recipient must use the same degree of care that it uses to protect the
+confidentiality of its own.confidential information of like kind (but-in no event less than reasonable care) not to disclose or
+use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement. The Recipient
+must make‘commercially reasonable efforts to limit access to.Confidential Information of Discloser to those of its:employees,
+[contractors] and agents who need such access for purposes consistent with this Agreement .and who have signed
+confidentiality Agreements, with Recipient no less restrictive than the confidentiality terms of this Agreement.
+
+Exclusions. Confidential Information excludes information that: (i) is or becomes generally known to the public without
+breach of any obligation owed to Discloser, (ii) was known to the Recipient prior to its disclosure by the Discloser without
+breach of any obligation owed to the Discloser, (iii) is received from a third party withoutbreach of‘any-obligation owed to
+Dis¢loser, (iv) was indépendently developed by the Recipient without use or access to the Confidential Information, (v)
+required to be disclosed pursuant to state or federal law, or (vi) information that is not deemed confidential under Florida's
+Public Records Law. . '
+
+PROPRIETARY RIGHTS.
+
+a).
+
+b).
+
+c).
+
+d).
+
+Reservation of Rights by CLM. The software, workflow processes, and other technologies provided by CLM as part of the
+Services are the proprietary property’of CLM and its licensors, and all right, title and interest in and to'such items, including
+all associated intellectual property rights, remain only with CLM. CLM grants no rights unless expressly provided inthis
+Agreement.
+
+Customer Restrictions. Customer may not:
+
+i. reverse-engineer the:Services or the Licensed Documentation (defined below);
+
+ii. remove or modify any proprietary marking or restrictive legends:in the Service; or
+
+iii, access:the Service to (w) build:a-competitive, product or service, or (x) copy any feature, functionior. graphic of the Service
+for competitive purposes.
+
+Customer Data. All uploaded data under Customer's account remains the sole-property of Customer, as between CLM and
+Customer (Customer Data). Customer grants CLM.a non-exclusive term license to use, modify, copy'and prepare-derivate -
+works of the.Customer Data for purposes of CLM performing under this Agreement. CLM will at'aiy time, but;no more than
+one a month, provide the Customer Data to Customer (upon request) for an administrative fee of $500.00, excepting the
+automated exchange:of updated data and documents via web’ services. CLM may use during and after: this Agreement all
+aggregate non-identifiable'information and.data in the Services for purposes of enhancing the Services, technical supportand
+other business purposes. .
+
+Licensed Documentation, The Product User Guide'and other CLM provided product documentation is.licenséd to Customer
+as follows: CLM grants Customer a non-exclusive, worldwide, license for the duration of the Services to such material for
+Customer's internal use solely with the Services, with the right to make additional copies of the material for such duration
+and purpose (Licensed Documentation).
+
+CLM Matrix Software License Agreement. Rev. 010214 Page 2 of S
+Copyright © 2014 CLM Matrix. All rights reserved
+
+Customer Contract 28378
+
+ 
+
+7) EXCLUSION OF DAMAGES AND LIMITATION OF LIABILITY.
+
+a). Exclusion of Certain Damages. EXCEPT FOR A VIOLATION OF CLM’S INTELLECTUAL PROPERTY RIGHTS, NEITHER PARTY
+1S LIABLE FOR ANY INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, COSTS OF
+DELAY, LOSS OF DATA OR INFORMATION, AND ANY FAILURE OF DELIVERY OF THE SERVICES).
+
+b). Limitation of Liability. CLM’S LIABILITY FOR ALL DAMAGES RELATING TO THIS AGREEMENT (WHETHER IN CONTRACT,
+TORT OR OTHERWISE) DOES NOT EXCEED THE ACTUAL AMOUNT PAID BY CUSTOMER WITHIN THE PRECEDING 12
+MONTHS UNDER THIS AGREEMENT.
+
+c). Customer’s liability is limited by sovereign immunity, is capped by the limited waiver set forth in section 768.28, Florida
+Statutes, and is also governed by the procedures set forth in that statute.
+
+8) TERM, TERMINATION AND SUSPENSION OF SERVICE.
+
+a). Term. This Agreement continues until all orders have expired or are terminated. Orders may have durations specified on the
+order (Term). Initially, this Agreement will consist of five 12-month Terms (October 1 - September 30, each coinciding with
+Customer’s fiscal year terms), At the end of the initial five 12-month Terms, the subscription fees and terms will be subject to
+annual re-negotiation, and providing that such fees and terms are mutually satisfactory, the parties may opt to continue the
+Agreement through annual written affirmation by the parties.
+
+b). Mutual Termination for Material Breach. If either party is in breach of any material term of this Agreement, the other party
+may terminate this Agreement at the end of a written 30-day notice/cure period, if the breach has not been cured
+i. Actions upon Termination.
+
+(w) Upon any termination as provided in 8(b) above by Customer, CLM must refund any prepaid fees covering the
+remainder of the Term of that order.
+
+(x) Upon any termination as provided in 8(b) above by CLM, Customer must pay any unpaid fees covering the remainder
+of the Term of all orders, and destroy all CLM property. Customer upon request will confirm that it has complied with
+these requirements.
+
+c). Return of Customer Data. Within 60 days after termination or expiration of an order, this Agreement or both, CLM will,
+upon request, provide the Customer Data to Customer (to the extent Customer has not already deleted such information from
+the Services). After a 60-day period after termination, CLM has no obligation to maintain any of the Customer Data.
+
+d). Suspension of Service for Violations of Law. CLM may immediately suspend the Services and remove applicable Customer
+Data if it in good faith believes that, as part of using the Services, Customer may have violated a law. CLM may try to contact
+Customer in advance, but it is not required to do so.
+
+e). Funding Contingency. This Agreement is at all times contingent upon funding availability by Customer's Governing Board
+Agreements that extend for a period of more than one Fiscal Year are subject to annual appropriation of funds in the sole
+discretion and judgment of Customer's Governing Board for each succeeding Fiscal Year term. Should the services not be
+funded, in whole or in part, in the current Fiscal Year or succeeding Fiscal Years, Customer shall so notify CLM and this
+Agreement shall be deemed terminated for convenience five days after receipt of such notice. For the purpose of this
+Agreement, “Fiscal Year” is defined as the period beginning on October 1 and ending on September 30.
+
+9) PROJECT MANAGEMENT
+
+(a) The Project Managers listed below shall be responsible for overall coordination ahd management of the Services
+
+provided under this Agreement. Either party may change its Project Manager upon three business days’ prior written
+notice to the other party. Written notice of change of address shall be provided wr eee eo shall
+be in writing to the Project Managers at the addresses below and shall be sént by one of the following methods: (1)
+national overnight courier or (2) e-mail. Notices via overnight courier are deemed.delixered one business.day after
+having been deposited with the courier. Notices via e-mail are deemed delivered on the date transmitted and received.
+Marlise Viljoen, Project Manager Edward Pecelli, Project Manager
+St. Johns River Water Management District CLM Matrix
+4049 Reid Street 4808 Forest Hills Dr., Suite 2G
+Palatka, Florida 32177 Flower Mound, Texas 75028
+Phone: (386) 329-4226 Phone: (856) 287-2898
+E-mail: mviljoen@sjrwmd.com E-mail: epecelli@clmmatrix.com
+
+CLM Matrix Software License Agreement. Rev. 010214 Page 3 of S
+
+Copyright © 2014 CLM Matrix. All rights reserved
+
+Customer Contract 28378
+
+(b) Customer's Project Manager shall have sole responsibility for transmitting instructions, receiving information, and
+communicating Customer policies and decisions regarding all matters pertinent to performance of the services.
+
+10) INSURANCE. Each party shall also acquire and maintain throughout the term of this Agreement such general liability, automobile
+insurance, and workers’ compensation insurance as required by law and/or their current rules and regulations.
+
+ 
+
+11) ROYALTIES AND PATENTS. CLM certifies that, to the best of its information and belief, the services do not infringe on any patent
+rights. Unless provided otherwise herein, CLM shall: (1) pay all royalties, patent, and license fees necessary for the services; (2)
+defend all suits or claims for infringement of any patent rights, and (3) save and hold Customer harmless from loss on account
+thereof; If CLM obtains information that the process or article so specified is a patent infringement, it shall be responsible for such
+loss unless it promptly so notifies Customer.
+
+12) GOVERNING LAW AND EXCLUSIVE FORUM. The St. Johns River Water Management District is a statutory political subdivision
+of the state of Florida created and governed by the laws of that state. Except when the laws of the state of Texas conflict with those
+of the state of Florida, this Agreement is governed by the laws of the state of Texas. Each party shall bear its own attorneys’ fees,
+including appeals, and costs, and for civil proceedings, the parties hereby consent to trial by the court and waive the right to jury
+trial.
+
+13) MISCELLANEOUS OTHER TERMS. This Agreement constitutes the entire Agreement between the parties, and supersedes all
+prior or contemporaneous negotiations or Agreements, whether oral or written, related to this subject matter. No modification or
+waiver of any term of this Agreement is effective unless both parties sign it. Neither party may assign or transfer this Agreement
+or an order to a third party, except that the Agreement with all orders may be assigned as part of a merger, or sale of all or
+substantially all of the business or assets, of a party. The parties are independent contractors with respect to each other. If any
+term of this Agreement is invalid or unenforceable, the other terms remain in effect. CLM rejects additional or conflicting terms of
+a form purchasing document. If there is an inconsistency between this Agreement and an order, the order prevails. Any terms that
+by their nature survive termination or expiration of this Agreement, will survive. CLM may use Customer's name in customer lists
+and related promotional materials describing Customer as a customer of CLM, which use must be in accordance with Customer's
+trademark guidelines and policies.
+
+  
+
+Ti 7 B Digitally signed by Timothy B. Sparks
+© DN: cn=Timothy B. Sparks, o=CLM
+
+Matrix, ou=CEO,
+
+email=tsparks@clmmatrix.com, c=US
+pa rKS Date: 2015.10.16 16:37:04 -05'00'
+
+ 
+
+Name: _Ann B. Shortelle. Ph.D. Name: _ Timothy B, Sparks
+
+Title: Executive Director Title: CEQ ——
+Date: /6 l@ 1S Date: _ October 16, 2015
+
+Email ‘Signed’ Agreement to: tsparks@clmmatrix.com
+
+ 
+
+CLM Matrix Software License Agreement. Rev. 010214 Page 4 of 5
+Copyright © 2014 CLM Matrix. All rights reserved
+
+Customer Contract 28378
+
+CLM Matrix Subscription Services Agreement
+
+Schedule A
+
+Schedule A is attached to and becomes, upon execution.by both parties below, a part of the:CLM.Matrix Subscription Services Agreement
+between such parties and sets forth the specific terms:and conditions relating to the Subscription Services listed below:
+
+ 
+
+Effective License Date
+
+October 1, 2015
+
+ 
+
+Licensed Software
+Software Format
+Operating Platform
+
+ 
+
+ 
+
+CLM Matrix Enterprise v15.x
+Object
+Microsoft
+
+ 
+
+ 
+
+License Type
+
+Number of Copies of Licensed Material
+Subscription Term
+
+Subscription Fee/Month
+
+ 
+
+ 
+
+User Counts
+
+ 
+
+    
+
+Subscription Service
+
+One (1) production environment.
+
+Five 12-month fiscal year periods (60 months)
+Year 1 = $3,031 per month
+
+Year 2 through 5 = $3,594 per month
+Year 1:
+
+Contract Administrator: 4
+
+Contract Contributor: 182
+
+Contract Consumer: 0
+
+Years.2 through 5:
+
+Contract Administrator: 4
+Contract.Contributor: 210
+
+Contract Consumer: 0
+
+ 
+
+Invoicing and Payment Terms
+
+ 
+
+Subscription Services will be invoiced quarterly beginning upon license date.
+Payment terms are Net 45 days.
+
+ 
+
+Additional Users
+
+Additional Matrix-Add-On Components
+(Identify optional Add-Ons requested below;
+additional fees may apply)
+
+O-ARX/CoSign Digital Signature
+
+1- Graphical Reporting
+
+1- Historical 'Contract Data Migration Wizard
+1—Historical'Contract Document Migration Wizard
+0.- Multi-Language Wizard
+
+0-MS Dynamics CRM:Connector
+
+1- Report Center
+
+0 ~SalesForce:CRM Connector
+
+1- Web Services Wizard
+
+Training Services
+Annual Software Maintenance
+
+Additional users can be added as needed in:the future for the prices below.
+
+Matrix Enterprise Matrix Fast Track
+
+$95/mo. Contract Administrator $43/mo. Contract Administrator
+
+$13/mo. Contract Contributor $13/mo. Contract Contributor
+
+$8/mo. Contract Consumer $8/mo. Contract Consumer
+
+Report Center - Price included in monthly fee for Matrix Subscription Services.
+Professional services required installation; testing and configuration.
+
+Graphical Reporting - Price.included in.monthly fee for Matrix Subscription Services.
+Professional services required for installation, set-up, testing and:configuration.
+Historical Contract Data Migration Wizard — Price included in monthly fee for Matrix
+Subscription Services.
+
+Professional services required for installation, set-up, testing and configuration.
+Historical Contract Document Migration Wizard - Price included in monthly fee for
+Matrix Subscription Services.
+
+Professional services required for installation, set-up, testing and configuration.
+Multi-Language Wizard - $5,000 (Added to contract amount, if this service is requested
+by Customer.)
+
+Professional services required for installation, set-up, testing and configuration.
+
+Web Services Wizard - Price included in monthly fee for Matrix Subscription Services.
+Professional services required for installation, set-up and configuration.
+
+Not included with Subscription Services, priced separately.
+
+Included
+
+ 
+
+ 
+
+Export Control Restrictions
+
+US Only
+
+ 
+
+To Be Delivered To
+
+ 
+
+CLM Matrix Software License Agreement Rev. 010214
+Copyright © 2014 CLM Matrix. All rights reserved
+
+ 
+
+St. Johns River Water Management District
+4049 Reid Street, P.O. Box 1429
+Palatka, FL 32178-1429
+
+ 
+
+ 
+
+Page 5 of 5
+
+Bnatrix
+
+1. AGREEMENT. This Master Consulting Agreement (this “Agreement’) by and
+between St. Johns River Water Management District ("Customer") and CLM
+Matrix, a Texas corporation (‘CLM Matrix") (each, a “Party”, and collectively,
+“Parties") is made and entered into when duly executed by both Parties (the
+“Effective Date"). CLM Matrix will provide to Customer Consulting Services
+("Services’) in accordance with the terms and conditions stated in this Agreement
+and more specifically described in the attached Statement of Work (‘SOW’).
+
+2. TERM. This Agreement will begin on the Effective Date and continue through
+60 months (the, “Term*) subject to the termination rights herein. At the end of the
+Term, any SOW already executed by the parties shall remain in effect and this
+Agreement shall continue in effect as to such SOW.
+
+3. TERMINATION. If either party materially breaches a material provision of this
+Agreement, the other party may terminate this Agreement upon thirty (30) days'
+notice unless the breach is cured within the notice period. Either Party may
+terminate this Agreement at any time, with or without cause, upon thirty (30) days’
+Notice. Customer shall, upon termination, pay CLM Matrix all unpaid amounts due
+for Services completed prior to notice of termination
+
+4. SOW. All CLM Matrix Services shall be rendered pursuant to SOWs. To the
+extent of any conflict or inconsistency between the terms and conditions of a
+specific SOW and the terms and conditions of this Agreement, the terms and
+conditions of the SOW will control. Each SOW shall be in writing, signed by both
+parties, and refer specifically to this Agreement. Both parties recognize that certain
+SOWs may require periodic amendments, including adjustments to either party's
+Staffing and/or fees. If such adjustments are necessary, both parties will use all
+commercially reasonable efforts to accommodate such adjustments as they arise
+Any amendments must be in writing and signed by both parties.
+
+5, PROJECT ORGANIZATION. Each Project shall be organized and staffed by
+CLM Matrix as set forth in the mutually agreed upon SOW. Both parties recognize
+that certain SOW may require periodic adjustments to either party's staffing and/or
+fees. If such adjustments are necessary, both parties will use their best efforts to
+accommodate such adjustments as they arise. Any adjustments must be agreed
+to in writing by both parties.
+
+6. NON DISCLOSURE. Customer shall treat CLM Matrix Proprietary Information
+(as defined herein) as confidential and will exercise reasonable care to protect it,
+using not less than the degree of care taken by Customer in the protection of its
+own confidential information. Without CLM Matrix prior written permission,
+Proprietary Information will not be (i) disclosed to anyone, (ii) used for Customer's
+benefit, or (iii) copied or removed from Customer's premises. Proprietary
+Information of CLM Matrix shall mean and include all software programs belonging
+to CLM Matrix, its affiliates, its current and potential customers and corporate
+partners, acquisitions and potential acquisitions, and its licensors and licensees,
+whether in written or on magnetic media, and all Matrix Software documentation,
+procedures manuals, process stencils; process maps , source code, working
+Papers and other documentation, methodologies reduced to writing, ‘written
+Strategic business plans or financial information, sales and marketing plans and
+information (including, without limitation, any~erd~el-business,-financial, and
+contractual information regarding existing and prospective customers, corporate
+partners and acquisitions of CLM Matrix), and information related to the foregoing
+that has been reduced to writing. Proprietary Information shal! also include
+personal and contact information regarding CLM Matrix employees. Proprietary
+Information of CLM Matrix does not include the fofiowing: (i) any ideas, innovations
+information, techniques, procedures or methodologies developed by Customer
+prior to this engagement with Customer; (ii) any information previously known to
+Customer without obligation of confidentiality; (iii) any information that is or
+becomes available to or known by persons in the contract lifecycle management
+industry through no fault or wrongdoing of Customer; (iv) any information
+developed independently by Customer without reference to Proprietary
+Information, or (v) information required to be disclosed pursuant to state or federal
+law; or (vi) information that is not deemed confidential under Florida's Public
+Records Law. CLM Matrix shall treat and shall obligate its personnel to treat, as
+confidential and proprietary to Customer, all Proprietary Information of Customer
+identified by Customer in writing as confidential or proprietary
+
+ 
+
+©2015 CLM Matrix. All Rights Reserved
+Master Consulting Agreement - v0315
+
+Customer Contract 28378
+
+MASTER CONSULTING AGREEMENT
+
+7. OWNERSHIP. All of the data provided to CLM Matrix by Customer remains the
+sole property of Customer and will be safeguarded by CLM Matrix against loss,
+disclosure, unauthorized access or alteration under reasonable security procedures,
+consistent with those generally employed by other consulting organizations.
+Customer acknowledges that CLM Matrix shall have exclusive ownership of all
+work product, documentation, computer programs, source code, software
+products, reports, or other work product reduced to written, magnetic, or other
+tangible form (“Work Product’) that are developed, discovered, conceived, or
+introduced by CLM Matrix in the course of providing services under this
+Agreement. Customer hereby assigns to CLM Matrix, without further
+consideration, sole night, title and interest (including, without limitation, all copyright
+fights) in and to all programming, code, documentation and other written product,
+methodologies, processes, training materials, inventions, software, ideas and
+other information and Work Product developed or generated by or on behalf of
+CLM Matrix during the course of its and any of its subcontractors’ performance
+under this Agreement, including any and all patents, copyrights, trade secrets and
+other proprietary rights related thereto. Customer agrees to execute and deliver,
+or cause to be executed and delivered, all documents and instruments requested
+by CLM Matrix to evidence the foregoing assignment.
+
+8. COMPENSATION. Professional fees shall be paid on an hourly rate basis,
+unless specified differently ina SOW Rates for hourly professional fees will be
+specified in the applicable SOW. Professional fees on fixed-fee SOW shall be paid
+as described in the SOW
+
+9. REIMBURSABLE EXPENSES. In addition to, and distinct from, professional
+fees as described above, Customer will also reimburse CLM Matrix, in accordance
+with the rates included in Customer's travel policy, for all pre-approved and
+reasonable out-of-pocket travel and project expenses. Additional detail on
+feimbursabie expenses will be included in the SOW. CLM Matrix will use
+commercially reasonable efforts to minimize reimbursable expenses. CLM Matrix
+will submit monthly, detailed invoices with sufficient documentation and unless
+other provisions are included in the SOW, Customer shall pay CLM Matrix for its
+pre-approved reasonable out-of-pocket expenses on a net 45 days basis following
+submission of an adequate accounting for such expenses in accordance with
+Customer policies from time to time in effect
+
+10. CLM MATRIX PERSONNEL. It is expressly understood that personne!
+provided by CLM Matrix for the purpose of performing services under this
+Agreement are the employees or subcontractors of CLM Matrix and under no
+circumstances will be considered employees of Customer. CLM Matrix will be
+responsible for any and all applicable payroll and employment taxes and employee
+insurance, and Customer will have no liability therefore. Upon the request of
+Customer and for good cause, CLM Matrix shall immediately remove from the
+project any CLM Matrix personnel. CLM Matrix shall thereafter have a reasonable
+time to replace such person so removed. Services performed under the terms of
+this Agreement will be performed virtually and/or at locations stipulated in the
+SOW.
+
+11. NO-HIRE AGREEMENT. Notwithstanding anything herein to the contrary, during
+the SOW Term and for a period of twelve (12) months after the expiration or
+termination of this SOW (the “Restricted Period”), Customer shall not, and shall
+not authorize or permit any other person or entity to, directly or indirectly, knowingly
+solicit or attempt to solicit, hire or engage any person who is an employee,
+independent contractor, representative or agent of CLM Matrix or its affiliates
+(collectively, the “Covered Individuals’) and who provided Services hereunder
+12. WARRANTY AND LIMITATION OF LIABILITY. CLM Matrix warrants that it
+has the legal power to enter into this Agreement. CLM Matrix warrants that there
+is NO pending litigation involving CLM Matnx that may impair or interfere with
+Customer's right to use the Services. CLM Matrix warrants that the Project will be
+performed in a workmanlike and professional manner consistent with the level of
+care and skill ordinarily exercised by providers of services providing similar
+services under similar conditions. CLM Matrix warrants thal all candidates are
+experienced and fully qualified to engage in the activities and perform the services
+required under this Agreement, and that all applicable licensing and operating
+fequirements imposed or required under federal, state or county law, and all
+applicable accreditation and other standards of quality generally accepted in the
+
+el macrix
+
+field of the activities of such candidates are complied with and satisfied. in the
+event that CLM Matrix breaches this warranty, Customer shall notify CLM Matrix
+in writing and shall specifically describe the deficiency. CLM Matrix agrees to
+promptly re-perform such Services that failed to meet this standard of care. If the
+Services as re-performed continue to fail to meet this standard of care, CLM Matrix
+and Customer shall mutually determine whether additional attempts at re-
+performance will be rnade or whether CLM Matrix shall refund to Customer the
+entire amount invoiced by CLM Matrix and paid by Customer for the deficient
+Services. Customer must make any claim for breach of this warranty by written
+notice to CLM Matrix within thirty (30) days of performance or re-performance of
+such Services. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT,
+CLM MATRIX EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND
+REPRESENTATIONS OF ANY KIND OR NATURE WITH RESPECT TO THE
+CLM MATRIX PERSONNEL PROVIDED, SERVICES PERFORMED OR
+DELIVERABLES DELIVERED UNDER THIS AGREEMENT, WHETHER
+EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF FITNESS
+FOR A PARTICULAR PURPOSE, MERCHANTABILITY, NON-INFRINGEMENT,
+TITLE OR OTHERWISE. EXCEPT WITH RESPECT TO A PARTY'S INDEMNITY
+OBLIGATIONS UNDER THIS AGREEMENT RELATED TO THIRD PARTY
+CLAIMS, EACH PARTY'S TOTAL LIABILITY FOR DAMAGES (REGARDLESS
+OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING
+NEGLIGENCE), STRICT LIABILITY OR OTHERWISE) WILL IN NO EVENT
+EXCEED THE AGGREGATE AMOUNT OF THE FIRST YEAR'S ACTUAL FEES
+PAID TO CLM MATRIX UNDER THIS AGREEMENT. NEITHER PARTY SHALL
+BE RESPONSIBLE FOR ANY DIRECT OR INDIRECT, CONSEQUENTIAL
+SPECIAL OR PUNITIVE DAMAGES SUFFERED BY THE OTHER PARTY OR
+ANY OTHER PARTY EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES, REGARDLESS OF THE TYPE OF CLAIM OR THE NATURE OF THE
+CAUSE OF ACTION
+
+13. INDEMNIFICATION. CLM Matrix and Customer shall each indemnify, defend
+and hold harmless the other (and its respective, officers, directors, employees,
+agents, members, subsidiaries and affiliates) on a current basis from and against
+any third-party claims for loss, damage, expense (including attorneys’ fees)
+liability, and claims for death or personal injury or physical damage to property
+caused by the indernifying party, its employees, agents, or subcontractors.
+Customer's liability is limited by sovereign immunity, is capped by the limited
+waiver set forth in §768.28, Fla. Stat., and is governed by the procedures set forth
+in that statute. Each party shall promptly, and in writing, notify the other party of
+any such claim made against it by any third party, and shall take action as may be
+necessary to avoid default or other adverse consequences until such time as the
+other party has a reasonable opportunity to assume the defense of the claim. The
+
+©2015 CLM Matrix. All Rights Reserved
+Master Consulting Agreement - v0315
+
+Customer Contract 28378
+
+MASTER CONSULTING AGREEMENT
+
+party obligated to defend under this Section shall have the right to select counsel
+and to control such defense. The other party and its personnel shall cooperate
+and participate as required for such defense.
+14. NOTICES. Notices must be in writing and are deemed delivered when
+personally delivered or received by fax, email, overnight courier, or certified mail
+return receipt requested, at the location below (or such location a Party designates
+by written notice to the other Parties): (a) If to CLM Matrix, to CLM Matrix, Attn: Legal,
+4808 Forest Hill Drive, Suite 2G, Flower Mound, TX 75028, 800-961-6534,
+e/admin@cimmatrix.com, and (b) if to Customer, Marlise Viljoen 386.329.4226,
+41386.329.4546, e/ mviljoen@sjnwmd.com.
+15. ADDITIONAL TERMS. This Agreement, including any attachments or
+amendments, sets forth the full and complete agreement of the parties, and both
+parties warrant that there have been no other promises, obligations, or
+undertakings, oral or written. This Agreement can be modified only by a written
+document signed by both parties. The captions and headings throughout this
+Agreement are for convenience and reference only, and do not affect the meaning
+or intent of this Agreement. If any section or clause contained in this Agreement
+is found to be invalid by a court of competent jurisdiction, the remaining sections
+and clauses shall remain in full force and effect. Neither party shall be responsible
+for any delay or failure in performance, at any time during the term of this
+Agreement, caused by flood, riot, insurrection, fire, earthquake, strike, explosion,
+war, act of God, or any other force or cause beyond the control of the party claiming
+the protection of this section. The St. Johns River Water Management District is
+a statutory political subdivision of the state of Florida created and governed by the
+laws of that state. Except when the laws of the State of Texas conflict with those
+of the State of Florida, this Agreement is governed by the laws of the State of
+Texas. The following provisions of this Agreement shall survive its termination:
+Bilateral No-Hire Agreement, Non-Disclosure, Ownership, Warranty and Limitation
+of Liability, Indemnification, and Choice of Law. This Agreement may be executed
+in any number of counterparts, each of which will be deemed to be an original, and
+all of which together will constitute one and the same instrument. This Agreement
+may be executed by electronic transmission, and an electronically transmitted
+signature will be treated like an original signature.
+16. AUTHORIZED SIGNATURES.
+Customer: St. Johns River
+
+  
+
+    
+ 
+ 
+
+ame
+Printed: _Ann B. Shortelle. Ph.D. Printed: _ Timothy B. Sparks
+
+Title: Executive Director Title: CEO
+Date: 7° J/4 7/5 Date:
+
+ 
+
+TOTEITS
+
+ 
+
+BB natrix
+
+Customer Contract 28378
+
+MASTER CONSULTING AGREEMENT
+
+SOW #SJRWMD 14
+
+This SOW (“SOW’) is attached to the Master Consulting Agreement dated October
+1, , 2015 by and between CLM Matrix and Customer and incorporated therein for all
+purposes as of the date this SOW is executed by both Parties (“SOW Effective
+Date"). In addition to the terms and conditions of the Agreement, the following terms
+and conditions apply with respect to the services described on this SOW. All terms
+not defined herein have the same meanings as set forth in the Agreement.
+
+1. AGREEMENT. For adequate consideration, this Statement of Work (‘SOW’) is
+made effective October 1", 2015 (the “Effective Date’), by and between CLM Matrix
+(CLM Matrix") and St. Johns River Water Management District (‘Customer’), a
+Political subdivision of the state of Florida (each, a “Party”, collectively, Parties”)
+Subject to the terms and conditions of this Agreement, including the payment of all
+fees and expenses, Customer agrees to purchase the services described herein and
+signed by both Parties (“Services”) at the pricing set forth herein. All such Services
+are subject to the terms and conditions of this Agreement. Except as may be expressly
+set forth in an Exhibit, Customer shall retain responsibility for all other services
+operations, systems and personnel necessary for the operation of Customer's
+information technology systems. Customer may request Services to be provided by
+CLM Matrix under the applicable SOW that are outside the scope of the Services
+described herein (the “Additional Services"). CLM Matrix shall provide the
+Additional Services, subject to the Parties executing a Project Change Request
+(a PCR’) describing the terms and fees associated with such Additional Services,
+and any such PCR shall be attached to the applicable SOW.
+
+2. TERM AND TERMINATION. The initial term begins upon the Effective Date and
+continues through completion of the services (‘Term’). The Term is subject to
+termination nights herein. If a Party (a) fails to perform a material term of this
+Agreement and such failure is not cured within thirty (30) days (or such other time
+period agreed in writing by the Parties) following receipt of a written default notice
+from the other Party reasonably specifying the nature of the default; or (b) a Party
+becomes the subject of a voluntary proceeding relating to insolvency, receivership,
+liquidation, bankruptcy or composition for the benefit of creditors and such petition or
+proceeding is not dismissed within sixty (60) days of filing, the other Party may
+terminate the affected SOW(s) for cause by giving written notice to the defaulting
+Party. This Agreement will continue in effect with respect to all other SOW that are
+not the subject of such default. Notwithstanding the foregoing, the cure period for
+failure of Customer to pay amounts due under this Agreement is 45 days. CLM
+Matrix may terminate this Agreement for convenience upon thirty (30) days prior
+written notice to Customer. Customer is liable Tor any Unpaid Tees and expenses
+associated for the terminated SOW(s) incurred up to the time of termination. In the
+event of cancellation by Customer solely for-convenience CLM Matrixwilhbe paid
+the undisputed billable hours and expenses at the time of cancellation
+
+3. COMPENSATION. Unless otherwise specified in an Exhibit, invoices shall be sent
+to: acctpay@sjnwmd.com. Consulting Services shall be billed on a time and materials
+basis. Customer shall pay to CLM Matrix, as compensation for the services to be
+rendered, the sum of $225 per hour for hours actually worked. Services and
+expenses will be billed monthly and are due and payable forty-five (45) days following
+the invoice date. Unless otherwise specified in an Exhibit, Customer will reimburse
+CLM Matrix for all pre-approved, undisputed out-of-pocket expenses reasonably
+incurred in rendering Services to Customer. Expenses may include, but are not limited
+to, travel and transportation expenses, lodging and meals, and the cost of any
+shipping, , printing of process charts at $8.50 sq. ft. and other related expenses subject
+to Customer's travel expense reimbursement policies, a copy of which will be provided
+to CLM Matrix. CLM Matrix shall use its best efforts to minimize expenses for a project.
+If not otherwise specified in the applicable Exhibit Customer shall incur a late fee on
+fees and expenses not paid to CLM Matnx as provided in this Agreement at the
+Maximum amount chargeable by Florida law. Customer shall pay all reasonable
+expenses incurred by CLM Matrix in enforcing any collection of fees or other nghts
+under this Agreement including ail expenses of any legal proceeding related thereto
+
+©2015 CLM Matrix. All Rights Reserved
+Master Consulting Agreement - v0315
+
+(including reasonable attomey fees). Quoted fees and expenses do not include sales
+or use type taxes, value added tax ("VAT") and similar taxes (including similar foreign
+taxes) (collectively, ‘Taxes"). CLM Matrix will invoice Customer for Taxes applicable
+fo the fees and expenses, if any, and Customer shall pay such Taxes within thirty (30)
+days of the applicable invoice date. CLM Matrix will remit any and all Taxes paid by
+Customer to the appropriate taxing authority. Purchases by Customer shall be tax
+exempt to the extent allowable pursuant to applicable law provided Customer provides
+a valid tax exemption certificate to CLM Matrix prior to such purchase. Customer will
+promptly notify CLM Matrix of any material change in Customer's tax exempt status.
+Each monthly invoice shall include a list of each hourly rate SOW worked on and,
+for each such SOW, a list of the personnel performing services, the job
+classifications, the hourly rate charged for each and a description of expenses.
+CLM Matrix shall maintain time records for all Consultant personnel assigned to the
+Project that shall indicate the name of the individual, job title, date, number of hours
+worked, and the task worked on. Such records shall be made available by CLM
+Matrix upon the request of Customer. Customer shall pay CLM Matrix all undisputed
+invoices presented Consultant under this Agreement within forty-five (45) days of
+the receipt of such invoices.
+
+4, NON-DISCLOSURE.
+
+(a) Except as otherwise required by law, the Party to whom disclosure is made
+(‘Recipient’) shall not, and shall cause each of its directors, officers, employees,
+agents and representatives (collectively, Representatives’) not to, (i) disclose
+the Confidential Information (defined below) to any person or entity other than
+Representatives of Recipient that need to know the Confidential Information for
+the purposes contemplated by this Agreement; or (ii) use the Confidential
+Information for any purpose other than the purposes contemplated by this
+Agreement. The Party disclosing the Confidential Information (“Discloser’) shali
+take reasonable steps to prevent unauthorized use, copying and disclosure of the
+Confidential Information by such persons.
+
+(b) Promptly upon the written request of Discloser, Recipient shall, and shall cause
+its Representatives to, retum to Discloser or destroy all Confidential Information.
+“Confidential Information” means (i) a Party's trade secrets, inventions,
+passwords, ideas, processes, formulas, data, works of authorship, know-how,
+improvements, discoveries, development, new products, business plans,
+business processes and procedures, budgets, unpublished financial statements
+and financial projections, pricing and cost information, fees, suppliers, customers
+and customer prospects; (ii) the Services; and (iti) all other information of
+competitive or commercial value, or otherwise of a confidential or propnetary
+nature disclosed by Discloser to Recipient in connection with this Agreement that
+Discloser has designated confidential, provided such designation conforms to the
+requirements of Florida's Public Records Law. Confidential Information excludes
+information that becomes generally publicly available other than as a result of
+disclosure by Recipient or any of its Representatives, becomes available to
+Recipient on a non-confidential basis from a third-party that is not bound by a
+similar duty of confidentiality, is independently developed by Recipient without
+use or reference to Discloser's Confidential Information, information required to
+be disclosed pursuant to state or federal !aw, or information that is not deemed
+confidential under Florida's Public Records Law.
+(d) Recipient may disclose Confidential Information to the extent required by law, but
+shall provide Discloser prompt notice to allow Discloser an opportunity to seek a
+protective order or other relief
+
+Cc
+
+5. PROJECT ORGANIZATION. Prior to project start, Customer shall assign a full
+time CLM Program Manager (“Program Manager’), who shall be responsible for
+managing the Customer's project performance of its obligations under the terms of
+the applicable SOW. In addition, this person will act as Matrix Software
+Administrator (“Administrator”) responsible for assisting in the definition of the
+contract process workflow, configuration of the software and acting as first and
+
+B matrix
+
+second level of support for the Matrix Software. CLM Matrix shall designate an
+employee of sufficient management rank as Customer Project Manager (“Project
+Manager’), who shall represent CLM Matrix and have responsibility for ensuring
+that Customer performs its obligations under this Agreement and the SOW. The
+Program Manager and CLM Matrix Project Manager will hold joint responsibility for
+planning status meetings and will discuss issues as they arise. Formal telephone or
+personal meetings between the Project Manager and CLM Matrix Project Manager
+will be scheduled as deemed appropriate.
+
+6. DESCRIPTION OF SERVICES. CLM Matrix shall, upon request of Customer,
+perform the following tasks (i.e., the assistance to be rendered and/or the services
+to be performed, and/or resources to be provided, and/or applicable deliverables,
+and/or obligations to be discharged by CLM Matrix)
+
+Consulting Services shall include the following deliverables:
+
+e Installation of Matrix Software
+
+e Requirements Definition including Contract Process Map with applicable
+phases, steps, tasks, rules, policies, notifications and alerts
+
+Configuration of Matrix Software system to approved Contract Process Map
+Initial testing and validation of system configuration
+
+System deployment to production environment
+
+Administrator and “Train the Trainer” in conjunction with Contributor training
+Consulting Services not included as deliverables are Initial Rollout Support and Post
+Deployment Support. Customer is responsible for licensing all necessary third-party
+software, which must be identified by CLM Matrix.
+
+ 
+       
+
+    
+
+   
+
+A. Matrix Software License first 12
+months
+Months
+
+13 to 60
+
+$3,031
+
+  
+  
+   
+ 
+
+  
+  
+
+   
+
+$3,594
+
+Cost
+Included
+
+ 
+
+B. Annual Software Maintenance |
+
+i |
+
+©2015 CLM Matrix. All Rights Reserved
+Master Consulting Agreement - v0315
+
+ 
+
+Customer Contract 28378
+
+MASTER CONSULTING AGREEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C._ Matrix Software Installation Each 1 $1,750
+
+D._CLM Consulting Services $225)hr. 175 est. $ 39,375
+Optional: |
+
+E. 2-Day CLM Administrator Training Each 1 Cost
+
+(includes travel cost) included
+
+in service
+
+hours
+
+F. Train the Trainer (includes travel | Each 1 Cost
+
+cost) included
+
+G. UAT/End User Support Day 1 Cost
+
+included
+
+in service
+
+hours
+
+H. Travel Budget LS 1 $2,500
+
+The Matrix Software Installation fixed fee of $1,750 assumes a dedicated server
+installation per CLM Matrix installation Instructions and Matrix Technical
+Prerequisites. The 175 hours under Item 6.C above are allocated as follows (1) 30
+professional service hours to CLM Matrix for work on the Web Service Wizard,
+Matrix Historical Data Migration Wizard and Matrix Historical Document Migration
+Wizard; (2) 25 professional service hours for work as directed by the Customer to
+be completed within the first 12 month period, and (3) 120 professional service hours
+for other work associated with software implementation. Additional professional
+service hours, if needed, will be added through an amendment to the SOW
+
+7, AUTHORIZED SIGNATURES. hy
+
+Timot
+Custom johns RiverAVater CLM Mgire k
+Managém, 5 Ly - SParKS «: »
+long LCL, he Iyer le —
+Printed: Ann B. Shortelle, Ph.D. Printed: _limothy B. Sparks
+
+CE
+
+Title: Executive Director Title:
+Date: e Date:
+
+  
+
+ 
+
+10/16/15
+
+*) for and legality
+
+Y
+

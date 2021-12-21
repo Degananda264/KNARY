@@ -1,0 +1,360 @@
+
+Bi matrix
+
+ 
+
+Master Subscription Services Agreement
+
+This Master Subscription Services Agreement (“Agreement”) is between CLM Matrix, a Texas corporation (CLM) and the entity or
+
+individual signing below (Customer), and is dated as of the date of last signature.
+
+1) CONTRACT LIFECYCLE MANAGEMENT SERVICE. This Agreement provides Customer access toa proprietary online subscription service
+consisting of an Internet based contract lifecycle management services which includes the following functionality:
+
+- Contract Modeling - ability to input contract metadata into the system
+
+- Contract Portal - role based repository of contract information in tabular form
+
+- Contract Monitoring and Tracking - ability to perform user defined ad hoc reporting
+
+- Rule and Policy Based Workflow - ability to set up alerts notifications and reminders based on critical contract dates and
+
+obligations.
+
+CLM will provide this functionality through a [URL] provided by CLM within a hosted server environment and under the terms below
+
+(Service). This Agreement contemplates one or more orders for the Services, which orders are governed by the terms of this Agreement
+
+and will describe the Services ordered in more detail (which may include a setup statement of work). Customer may allow its employees
+
+and contractors to access the Services in compliance with the terms of this Agreement, which access must be for the sole benefit of
+
+Customer. Customer is responsible for the compliance with this Agreement by its employees and contractors.
+
+2) USE OF SERVICES.
+
+a). CLM Responsibilities. CLM must (i) use commercially reasonable efforts to make the Services available, except for (x) scheduled
+outages, or (y) unavailability caused by force majeure, (ii) use commercially reasonable efforts to protect the Customer Data from
+unauthorized access, and (iii) provide customer support for the Services at no additional charge, as further detailed at:
+http://www.clmmatrix.com/support
+
+b). Customer Responsibilities. Customer (i) is responsible for Customer Data, (ii) must use commercially reasonable efforts to prevent
+
+unauthorized access to the Services, and notify CLM promptly of any such unauthorized access, and (iii) may use the Services only in
+accordance with its user guide and applicable law.
+Customer may not (w) sell, resell, rent or lease the Services, (x) use the Services to store or transmit infringing, libelous, or otherwise
+unlawful or tortious material, or to store or transmit material in violation of third-party rights, (y) interfere with or disrupt the
+integrity or performance of the Services, or (z) attempt to gain unauthorized access to the Services or their related systems or
+networks.
+
+3) PAYMENT TERMS. Customer must pay all fees within thirty (30) days of receipt of an invoice. Customer is responsible for sales, use and
+other similar taxes. Should Customer dispute an invoice or part thereof, Customer shall notify CLMM and parties will in good faith
+endeavor to resolve the dispute. Customer shall pay any undisputed portion of the invoice in accordance with the terms of this Agreement.
+Payment for first month service must be received prior to activation of the Services.
+
+4) WARRANTY/SERVICE LEVEL AGREEMENT and REMEDY.
+
+a). CLM Limited Warranty. CLM warrants to Customer (i) that commercially reasonable efforts will be made to maintain the online
+availability of the Services for a minimum of availability in any given month as provided in the chart below (excluding scheduled
+outages), ({i) the functionality of the Services will not materially decrease, (iii) and the customer support will not materially degrade.
+
+Availability Credit
+
+- 99.5 - 95% = 5 % of monthly fee.
+- 94,99 - 90% = 10 % of monthly fee.
+- Less than 90% = 15% of monthly fee.
+
+b). Limited Remedy and Disclaimer. Customer’s exclusive remedy and CLM’s sole obligation for breach of the warranty in (a)(i)
+immediately above will be for CLM to provide a credit as provided in the chart above (if this Agreement is not renewed, thena refund),
+for the month in question; provided that Customer notifies CLM of such breach within 30 days of the end of the month in question.
+CLM DISCLAIMS ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY THAT SERVICES WILL BE
+UNINTERRUPTED, ERROR FREE OR WITHOUT DELAY, AND THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE.
+
+c). Mutual Compliance with Laws Warranty. Each party represents and warrants to the other party that it will comply with all
+applicable laws, including foreign export controls, regarding its performance under this Agreement, including without limitation
+privacy related laws.
+
+5) MUTUAL CONFIDENTIALITY.
+
+CLM Matrix Software License Agreement. Rev. 010217 Page 1 of 4
+
+Copyright © 2017 CLM Matrix. All rights reserved
+
+a). efinition ential Information. Confidential Information means all confidential information disclosed by a party
+(Discloser) to the other party (Recipient), whether orally or in writing, that is designated as confidential or that reasonably should
+be understood to be confidential given the nature of the information and the circumstances of disclosure, including all Customer Data
+(collectively, Confidential Information). CLM’s Confidential Information includes the Services.
+
+b). Protection of Confidential Information. The Recipient must use the same degree of care that it uses to protect the confidentiality
+
+of its own confidential information of like kind (but in no event less than reasonable care) not to disclose or use any Confidential
+Information of the Disclosing Party for any purpose outside the scope of this Agreement. The Recipient must make commercially
+reasonable efforts to limit access to Confidential Information of Discloser to those of its employees, [contractors] and agents who
+need such access for purposes consistent with this Agreement and who have signed confidentiality Agreements with Recipient no
+less restrictive than the confidentiality terms of this Agreement.
+
+c). Exclusions. Confidential Information excludes information that: (i) is or becomes generally known to the public without breach of
+any obligation owed to Discloser, (ii) was known to the Recipient prior to its disclosure by the Discloser without breach of any
+obligation owed to the Discloser, (iii) is received from a third party without breach of any obligation owed to Discloser, or (iv) was
+independently developed by the Recipient without use or access to the Confidential Information.
+
+6) PROPRIETARY RIGHTS.
+
+a). Reservation of Rights by CLM. The software, workflow processes, and other technologies provided by CLM as part of the Services
+are the proprietary property of CLM and its licensors, and all right, title and interest in and to such items, including all associated
+intellectual property rights, remain only with CLM. CLM grants no rights unless expressly provided in this Agreement.
+
+b). pustomer Restrictions Customer may not:
+
+reverse engineer the Services or the Licensed Documentation (defined below);
+
+ih remove or modify any proprietary marking or restrictive legends in the Service; or
+
+iii. access the Service to (w) build a competitive product or service, or (x) copy any feature, function or graphic of the Service for
+competitive purposes.
+
+c). Customer Data. All uploaded data under Customer's account remains the sole property of Customer, as between CLM and Customer
+(Customer Data). Customer grants CLM a non-exclusive term license to use, modify, copy and prepare derivate works of the
+Customer Data for purposes of CLM performing under this Agreement. CLM will at any time, but no more than once a month, provide
+the Customer Data to Customer (upon request) for an administrative fee of $500.00. CLM may use during and after this Agreement
+all aggregated, anonymized and non-identifiable information and data in the Services for purposes of enhancing the Services,
+technical support and other business purposes.
+
+d). Licensed Documentation. The Product User Guide and other CLM provided product documentation is licensed to Customer as
+follows: CLM grants Customer a non-exclusive, worldwide, license for the duration of the Services to such material for Customer's
+internal use solely with the Services, with the right to make additional copies of the material for such duration and purpose (Licensed
+Documentation).
+
+7) EXCLUSION OF DAMAGES AND LIMITATION OF LIABILITY.
+
+a). Exclusion of Certain Damages. EXCEPT FOR A VIOLATION OF CLM’S INTELLECTUAL PROPERTY RIGHTS OR A FAILURE TO
+PROTECT CONFIDENTIAL INFORMATION AS SET FORTH IN SECTION 5, NEITHER PARTY IS LIABLE FOR ANY INDIRECT, SPECIAL,
+OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, COSTS OF DELAY, LOSS OF DATA OR INFORMATION, AND
+ANY FAILURE OF DELIVERY OF THE SERVICES).
+
+b). Limitation of Liability. EXCEPT FOR A FAILURE TO PROTECT CONFIDENTIAL INFORMATION AS SET FORTH IN SECTION 5, CLM’S
+LIABILITY FOR ALL DAMAGES RELATING TO THIS AGREEMENT (WHETHER IN CONTRACT, TORT OR OTHERWISE) DOES NOT
+EXCEED THE ACTUAL AMOUNT PAID BY CUSTOMER WITHIN THE PRECEDING 12 MONTHS UNDER THIS AGREEMENT.
+
+8) TERM, TERMINATION AND SUSPENSION OF SERVICE.
+
+a). Term. This Agreement continues until all orders have expired or are terminated. Orders may have durations specified on the order
+(Term). The initial term for this order is 48 months.
+
+b). Mutual Termination for Material Breach. If either party is in breach of any material term of this Agreement, the other party may
+terminate this Agreement at the end ofa written 30-day notice/cure period, if the breach has not been cured.
+
+i. Actions upon T. tion.
+(w) Upon any termination as provided in 8(b) above by Customer, CLM must refund any prepaid fees covering the remainder of
+the Term of that order.
+CLM Matrix Software License Agreement. Rev. 010217 Page 2 of 4
+
+Copyright © 2017 CLM Matrix. All rights reserved
+
+9)
+
+10)
+
+(x) Upon any termination as provided in 8(b) above by CLM, Customer must pay any unpaid fees covering the remainder of the
+Term of all orders, and destroy all CLM property. Customer upon request will confirm that it has complied with these
+requirements,
+
+c). Return of Customer Data, Within 60 days after termination or expiration of an order, this Agreement or both, CLM will, upon
+request, provide the Customer Data to Customer (to the extent Customer has not already deleted such information from the Services).
+After a 60-day period after termination, CLM has no obligation to maintain any of the Customer Data.
+
+d). Suspension of Service for Violations of Law. CLM may immediately suspend the Services and remove applicable Customer Data if
+
+it in good faith believes that, as part of using the Services, Customer may have violated a law. CLM may try to contact Customer in
+advance, but it is not required to do so.
+
+GOVERNING LAW AND EXCLUSIVE FORUM. This Agreement is governed by the State of Texas, substantive laws, without regard to
+conflict of laws principles. The prevailing party in litigation is entitled to recover its attorneys’ fees and costs from the other party.
+
+MISCELLANEOUS OTHER TERMS. This Agreement constitutes the entire Agreement between the parties, and supersedes all prior or
+contemporaneous negotiations or Agreements, whether oral or written, related to this subject matter. - No modification or waiver of any
+term of this Agreement is effective unless both parties sign it. - Neither party may assign or transfer this Agreement or an order toa third
+party, except that the Agreement with all orders may be assigned as part of a merger, or sale of all or substantially all of the business or
+assets, of a party. - The parties are independent contractors with respect to each other. - If any term of this Agreement is invalid or
+unenforceable, the other terms remain in effect. - If there is any inconsistency between this Agreement and the order, the order will
+govern. - CLM rejects additional or conflicting terms ofa form purchasing document. If there is an inconsistency between this Agreement
+and an order, the order prevails. - Any terms that by their nature survive termination or expiration of this Agreement, will survive. CLM
+may use Customer's name and logo in customer lists and related promotional materials describing Customer as a customer of CLM, which
+use must be in accordance with Customer’s trademark guidelines and policies.
+
+Duck Creek Technologies LLC CLM Matrix
+
+Ua A Ck. plata Timothy B_ Sparks
+
+Name: Vincent A. Chippari Name: _ Timothy B. Sparks
+
+Title: _CFO Title: __CEO
+
+Date: __ August 16, 2017
+
+Date: August 16, 2017
+
+Email ‘Signed’ Agreement to: tsparks@clmmatrix.com
+
+CLM Matrix Software License Agreement. Rev. 010217 Page 3 of 4
+Copyright © 2017 CLM Matrix. All rights reserved
+
+CLM Matrix Subscription Services Agreement
+
+Schedule A is attached to and becomes, upon execution by both parties below, a part of the CLM Matrix Subscription Services Agreement between
+
+Schedule A
+
+such parties and sets forth the specific terms and conditions relating to the Subscription Services listed below:
+
+ 
+
+Effective License Date
+
+Date of signature below
+
+ 
+
+Licensed Software
+
+Matrix Enterprise v15.x SaaS
+
+ 
+
+Software Format
+
+Object
+
+ 
+
+Operating Platform
+
+Microsoft
+
+ 
+
+License Type
+
+Subscription Service
+
+ 
+
+Number of Copies of Licensed Material
+
+One (1) production environment.
+
+ 
+
+Subscription Term
+
+48 Months
+
+ 
+
+Subscription Fee/Month
+
+$4,217/month
+
+ 
+
+User Counts
+
+Contract Administrator: 4
+Contract Contributor: 23
+Contract Consumer: 64
+
+ 
+
+Invoicing and Payment Terms
+
+Subscription Services will be invoiced quarterly beginning upon license date.
+Payment terms are Net 30 days.
+
+ 
+
+Additional Users
+
+Additional users can be added as needed in the future for the prices below.
+Matrix Enterprise Matrix Fast Track
+
+$95/mo. Contract Administrator $43/mo. Contract Administrator
+$13/mo. Contract Contributor $13/mo. Contract Contributor
+$8/mo. Contract Consumer $8/mo. Contract Consumer
+
+ 
+
+Additional CLM Matrix Functionality
+(Identify optional functionality requested
+below. Additional fees may apply.)
+
+QO - Report Center
+
+0 - BI Graphical Report Wizard
+
+0 - Legacy Metadata Migration Wizard
+O—Legacy Document Migration Wizard
+0 - Multi-Language Wizard
+
+0 - Web Service Integration Wizard
+
+Report Center - Price included with CLM Matrix Subscription Services.
+Professional services required installation, testing and configuration.
+BI Graphical Report Wizard - $225/mo.
+
+Professional services required for installation, set-up, testing and configuration.
+
+Legacy Metadata Migration Wizard — $200/mo.
+
+Professional services required for installation, set-up, testing and configuration.
+
+Legacy Document Migration Wizard - $200/mo.
+
+Professional services required for installation, set-up, testing and configuration.
+
+Multi-Language Wizard - $250/mo.
+
+Professional services required for installation, set-up, testing and configuration.
+
+Web Service Integration Wizard - $250/mo.
+Professional services required for installation, set-up and configuration.
+
+ 
+
+Training Services
+
+Not included with Subscription Services, priced separately.
+
+ 
+
+Annual Software Maintenance
+
+Included
+
+ 
+
+Export Control Restrictions
+
+US Only
+
+ 
+
+ 
+
+To Be Delivered To
+
+ 
+
+51 Sleeper Street, Boston, MA 02210
+
+ 
+
+ 
+
+CLM Matrix Software License Agreement. Rev. 010217
+
+Copyright © 2017 CLM Matrix. All rights reserved
+
+Page 4 of 4
+

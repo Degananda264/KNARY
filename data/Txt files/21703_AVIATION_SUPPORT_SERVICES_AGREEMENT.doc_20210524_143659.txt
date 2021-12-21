@@ -1,0 +1,423 @@
+AVIATION SUPPORT SERVICES AGREEMENT
+
+This Aviation Support Services Agreement (this “Agreement”) is entered into as of this 28th day of December, 2018 (the “Effective Date”), by and between Brim Equipment Leasing, Inc., an Oregon corporation (“BRIM”), and Cobra Aviation Services LLC, a Delaware limited liability company (“COBRA”). BRIM and COBRA shall each be individually referred to herein as a “Party” and, collectively, as the “Parties.”
+
+W I T N E S S E T H:
+
+WHEREAS, COBRA provides aviation support services including aviation consulting, sales, customer relations, marketing, trip support services, general administration and accounting services, human resources, and other operational support services (the “Support Services”); and
+
+WHEREAS, BRIM wishes to obtain certain services from COBRA and COBRA wishes to provide such services to BRIM, subject to the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained in this Agreement and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound, agree as follows:
+
+1.DEFINITIONS
+
+In this Agreement, except where the context or subject matter is inconsistent therewith, the following terms shall have the following meanings:
+
+“Affiliate” shall mean, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such Person. The term “control” (including the terms “controlled by” and “under common control with”) means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise.
+
+“Agreement” shall mean this document and the annexed schedules which are incorporated herein together with any future written and executed amendments.
+
+“Business Day” shall mean any day except Saturday, Sunday or any other day on which commercial banks located in Oklahoma City, Oklahoma are authorized or required by Law to be closed for business.
+
+“Change of Control” shall mean, with respect to any Person, each of (a) any merger, consolidation, amalgamation or other business combination with or into another entity, in which the equity holders of such Person immediately prior to such transaction cease to own, in the aggregate, more than 50% of the voting securities of the entity surviving or resulting from such transaction (or the ultimate parent thereof), (b) the sale of all, or substantially all, of such Person’s assets, whether in a single transaction or series of related transactions, other than to an entity, or to a wholly-owned direct or indirect Subsidiary of an entity, that is owned in substantially the same proportions by the equity holders of such Person (or their respective ultimate parents) immediately prior to such asset sale, and (c) any sale of such Person’s voting securities, whether in a single transaction or series of related transactions, following which the equity holders of such Person
+
+immediately prior to such transaction(s) cease to own, in the aggregate, more than 50% of the voting securities of such Person (or the ultimate parent thereof).
+
+“Claim” means any claim, action, cause of action, demand, lawsuit, arbitration, inquiry, audit, notice of violation, proceeding, litigation, citation, summons, subpoena or investigation of any nature, civil, criminal, administrative, regulatory or otherwise, whether at law, in equity or under contract.
+
+“Confidential Information” means any information, disclosed by the Disclosing Party or its Affiliates to the Receiving Party or its Affiliates under, or in connection with, this Agreement on or after the Effective Date, including (a) information relating to the Disclosing Party’s and its Affiliates’ ideas, affairs, concepts, processes, techniques, employees, businesses, strategies, inventions, forecasts, discoveries, operations, methodologies, know-how, financial condition and marketing or development plans; (b) this Agreement’s terms and conditions; (c) information concerning any breach under, or any dispute between the parties regarding, this Agreement; (d) any third party’s confidential information disclosed by the Disclosing Party to the Receiving Party under, or in connection with, this Agreement; (e) Disclosing Party’s software, copyrights, trade secrets and other intellectual property rights, including third party software; and (g) any other information, whether oral, written, visual or electronic and whether proprietary to the Disclosing Party or not, that reasonably is understood to be confidential or proprietary, whether or not identified as such at the time of its disclosure. Notwithstanding anything in this Agreement to the contrary, no information will be “Confidential Information” if such information (a) is, as of the Effective Date, generally available to the public or, after the Effective Date, becomes generally available to the public other than as a result of a disclosure by the Receiving Party or any of its Representatives in violation of this Agreement, (b) is, as of the Effective Date, generally available to Persons engaged in the utility helicopter industry or, after the Effective Date, becomes generally available to Persons engaged in the utility helicopter industry other than as a result of a disclosure by the Receiving Party or any of its Representatives in violation of this Agreement, (c) was in Receiving Party’s possession, on a non-confidential basis, prior to the disclosure of such information pursuant to this Agreement, (d) becomes available to Receiving Party, on a non-confidential basis, from a source other than the Disclosing Party or any of its Representatives, provided that such source, to Receiving Party’s knowledge (after reasonable inquiry), is not subject to a confidentiality agreement with, or other obligation of secrecy owned to, the Disclosing Party, and/or (e) independently is developed by Receiving Party or any of its Representatives after the date hereof without relying on any Confidential Information and without otherwise violating Section 11.
+
+“Damages” means fees, losses, damages, liabilities, deficiencies, actions, judgments, interest, awards, penalties, fines, costs, settlements, disbursements, or expenses of whatever kind, including reasonable attorneys’ fees.
+
+“Documentation” shall mean all documents, regardless of form, relating to the Services.
+
+“Governmental Authority” means any federal, state, local or foreign government or political subdivision thereof, or any agency or instrumentality of such government or political subdivision, or any self-regulated organization or other non-governmental regulatory authority or quasi-governmental authority (to the extent that the rules, regulations or orders of such organization or authority have the force of law), or any public or state funded school or educational institution, arbitrator, mediator, court or tribunal of competent jurisdiction, or any entity exercising executive, legislative, judicial, regulatory, taxing or administrative functions of or pertaining to government.
+
+“Law” means any statute, law, ordinance, regulation, rule, code, order, constitution, treaty, common law, judgment, decree or other requirement of any Governmental Authority.
+
+“Material” shall mean any and all information and materials relating to a Party’s business given to the other Party from time to time for review, data processing, or for any other reason, and all copies thereof regardless of form or storage medium, including, but not limited to, documentation, notes, formulae, components, drawings, data, flow-charts, plans, specifications, techniques, processes, algorithms, inventions, prototypes, protocols, patent portfolio, contracts, marketing and other financial and business plans, business processes and methods of doing business and includes all confidential and proprietary information which is at any time so designated by either Party, either in writing or orally.
+
+“Person” means an individual, corporation, partnership, joint venture, sole proprietorship, limited liability Indemnifying Party, Governmental Authority, unincorporated organization, trust, association or other entity.
+
+“Representatives” means, with respect to any Person, such Person’s Affiliates and such Person’s and its Affiliates’ respective directors, partners, managers, managing members, officers, employees, agents and advisors, including bankers, auditors, attorneys, accountants and tax and financial advisors.
+
+“Restricted Period” shall mean a period, beginning on the Effective Date and ending on the second anniversary of this Agreement’s termination pursuant to, and in accordance with, Section 7 or Section 8.
+
+“Subsidiary” shall mean, with respect to any Person, any other Person that directly or indirectly, through one or more intermediaries, is controlled by such Person. The term “control” (including the terms “controlled by” and “under common control with”) means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise.
+
+“Third Party Claim” shall mean any Claim brought by a Person who is unaffiliated with (a) if any COBRA Indemnitee is the Indemnified Party, any COBRA Indemnitee and (b) if any BRIM Indemnitee is the Indemnified Party, any BRIM Indemnitee.
+
+2.    SCHEDULES
+
+The following Schedules are attached hereto and are hereby incorporated by reference and made part of this Agreement:
+
+Schedule A – Description of Services
+
+Schedule B – Fees and Payment
+
+3.    SERVICES
+
+COBRA will provide the services described in attached Schedule A (the “Services”) to BRIM according to the terms and conditions of this Agreement.
+
+4.    FEES AND EXPENSES
+
+4.1
+
+The fees and payment for COBRA’s Services shall be as specified in Schedule B. The fees set forth in Schedule B shall constitute the sole fees to be paid by BRIM for the services provided by COBRA under this Agreement unless the Parties mutually agree in writing to additional fees.
+
+4.2
+
+BRIM shall be responsible for all direct and fixed operating costs and administrative charges, including, without limitation, fuel, ground handling charges, any permits and clearances, travel related expenses, and office related expenses, as well as the cost of bank charges, and of database subscriptions, unless these costs or charges are incurred as a result of the negligence or misconduct of COBRA.
+
+4.3
+
+BRIM will pay interest on any overdue accounts at a rate of 3% per annum calculated monthly from the due date to the date of payment.
+
+5.    RELATIONSHIP OF THE PARTIES
+
+COBRA is undertaking to perform the Services for BRIM as an independent contractor and not as an employee, partner, or joint venture of BRIM, and COBRA will not participate in any of BRIM’s employee benefit plans nor receive any other compensation beyond that stated in such Schedule B. COBRA will not have any power or authority to bind BRIM or to assume or create any obligation or responsibility, express or implied, on BRIM’s behalf or in BRIM’s name, except as expressly authorized by Brim, and COBRA will not represent to any person or entity that COBRA has such power or authority.
+
+5A.
+
+COBRA EMPLOYEES AS FLIGHT CREW / OTHER COBRA EMPLOYEES
+
+Notwithstanding the foregoing, whenever COBRA’s employees are acting in the capacity of a required crewmember aboard Brim Aircraft, such employees shall be deemed to be agents of BRIM and at all times BRIM shall be in operational control of the Aircraft. While acting as an agent of BRIM, all such COBRA employees shall be under the command and control of BRIM and shall perform all flight crew duties in accordance with BRIM’s policies and procedures. Any COBRA employee who performs flight crew duties shall also execute a separate agency agreement with BRIM. BRIM is not responsible for verifying the existence or sufficiency of the qualifications, authorizations, permits or licenses of COBRA and/or COBRA’s employees, except as required by the applicable regulations in order for BRIM to exercise operational control of the Aircraft. COBRA represents and warrants that COBRA and any employees of COBRA are authorized to work and are not acting and will not act during the term of this Agreement in violation of any applicable laws or the regulations promulgated thereunder or any agreement it has entered into with a third party.
+
+6.    MATERIALS AND/OR SUPPLIES
+
+6.1
+
+COBRA shall be responsible for providing all necessary equipment, supplies, materials, man power and other resources necessary to perform the Services at its own expense, unless otherwise specifically agreed between the Parties.
+
+6.2
+
+In the event that any equipment, material, supply or other resource is provided by BRIM to COBRA, and unless otherwise expressly specified in this Agreement, such equipment, material, supply or other resource must be promptly returned to BRIM, upon request or upon expiry or termination of this Agreement for any reason. Such equipment, material, supply or other resource must be packaged appropriately to ensure its protection upon return to BRIM, and be returned in good working order and in an appropriate state of repair, taking into consideration normal wear and tear during the course of the performance of the Services. Should
+
+COBRA fail to fulfill its obligations under this Subsection 6.2, COBRA shall be liable for the cost of replacement of such equipment, material, supply or other resource in the condition such equipment, tool, material, supply or other resource would have been had these obligations been fulfilled.
+
+7.    TERM
+
+7.1
+
+Initial Term: This Agreement will come into force as of the Effective Date and will expire on the second anniversary of the Effective Date (the “Initial Term”), unless terminated by the Parties in accordance with the terms of this Agreement.
+
+7.2
+
+Renewal Terms: At the end of the Initial Term, this Agreement may be renewed for successive one year terms (each, a “Renewal Term”) upon the mutual agreement of both parties, at least 30 days in advance of the expiration of the then-current Term. In the event the parties do not reach an agreement regarding the Renewal Term, this Agreement shall terminate.
+
+8.    TERMINATION
+
+8.1
+
+Material Breach. If a Party commits a material breach of this Agreement or materially fails to perform any covenant or obligation set forth in this Agreement (including non-payment of fees when due) and such breach or failure to perform is not cured within 30 days of receipt of written notice thereof from the non-breaching Party, then on the expiration of such 30-day cure period, the non-breaching Party may terminate this Agreement immediately upon written notice to the other Party.
+
+8.2
+
+Force Majeure. BRIM may terminate this Agreement immediately upon written notice to COBRA if all, or a substantial portion, of the Services have been suspended due to Force Majeure (a) for 60 consecutive days in any 12-month period or (b) for 90 days, in the aggregate, in any 12-month period.
+
+8.3
+
+Insolvency Event. Upon the happening of any of the following events with respect to a Party (such Party, the “Insolvent Party”), the other Party may terminate this Agreement immediately upon written notice to the Insolvent Party: (a) the appointment of a trustee, receiver, custodian, liquidator or sequestrator to take possession of any assets of the Insolvent Party, or the making of an assignment for the benefit of creditors by the Insolvent Party, or the attachment, execution or other judicial seizure of all, or a substantial portion, of the Insolvent Party’s assets (which attachment, execution or seizure is not discharged within 30 days), (b) the Insolvent Party becoming a debtor, either voluntarily or involuntarily, under Title 7 or Title 11 of the United States Code or any other similar Law and, in the case of an involuntary proceeding, such proceeding not being dismissed within 30 days of the date of filing, or (c) the dissolution or termination of the existence of the Insolvent Party, whether voluntarily, by operation of law or otherwise.
+
+8.4
+
+Change of Control: Either Party may terminate this Agreement immediately upon written notice to the other Party in the event of a Change of Control of the other Party.
+
+8.5
+
+Without Cause: COBRA or BRIM may terminate this Agreement without cause upon at least 30 days’ advance written notice to the other party.
+
+9.    DUTIES AND OBLIGATIONS OF COBRA
+
+COBRA shall use commercially reasonable efforts, skill, and ability, and shall comply with all applicable laws, regulations, and rules, in performing the Services under this Agreement. COBRA agrees that its Representatives, when on the property of BRIM or when given access to any data, facilities, personnel and information of BRIM, shall conform to the policies and procedures of BRIM concerning health, safety and security that are made known to COBRA, in writing, in advance of such access.
+
+10.    DUTIES AND OBLIGATIONS OF BRIM
+
+BRIM shall make timely payments to COBRA for the Services in accordance with this Agreement. BRIM shall provide COBRA’s Representatives access to such data, facilities, personnel and information of BRIM (during normal business and operating hours of BRIM) as is reasonably required for COBRA to perform its obligations under this Agreement (including providing the Services).
+
+11.    CONFIDENTIALITY
+
+11.1
+
+Confidentiality. Each Party (in such capacity, the “Receiving Party”) agrees that, during the Restricted Period, it will, and will cause its Representatives to, maintain in confidence and not disclose any Confidential Information of the other Party (in such capacity, the “Disclosing Party”), other than information that (a) is disclosed in accordance with Section 11.2, (b) may be necessary or advisable to be disclosed to enforce any of the Receiving Party’s rights under this Agreement, (c) may be necessary or advisable to disclose for the Receiving Party or its Affiliates to perform their respective obligations under this Agreement or (d) is required or requested to be disclosed by applicable Law, legal proceeding or by any regulatory, governmental or self-regulatory authority with jurisdiction over the Receiving Party or any of its Representatives (each, a “Required Disclosure”), provided that, in the case of this clause (c), the Receiving Party, to the extent permitted by the applicable Required Disclosure, first notifies the Disclosing Party in writing of the existence, terms and circumstances surrounding such Required Disclosure, so that the Disclosing Party may, in its sole discretion, seek a protective order or other appropriate remedy and/or take steps to resist or narrow the scope of the disclosure sought by such Required Disclosure. In the event of any Required Disclosure, Receiving Party agrees to assist the Disclosing Party, at the Disclosing Party’s sole cost and expense, in seeking a protective order or other remedy if requested in writing by the Disclosing Party. If, in the event of any Required Disclosure, (a) the Disclosing Party waives Receiving Party’s obligations under this Section 11 or (b) a protective order or other remedy is not obtained in a reasonable amount of time and, in the advice of Receiving Party’s or its Representatives’ legal counsel (as applicable), disclosure is required, Receiving Party or its Representatives (as applicable) may make such Required Disclosure without liability under this Agreement, provided that Receiving Party or its Representatives (as applicable) (i) furnish only that portion of the Confidential Information that is legally required to be disclosed and (ii) if requested in writing by the Disclosing Party, use reasonable efforts, at the Disclosing Party’s sole cost and expense, to ensure that confidential treatment will be accorded to all such disclosed Confidential Information.
+
+11.2
+
+Representatives. During the Restricted Period, (a) Receiving Party and its Representatives shall use the Confidential Information solely for the purpose of performing the Receiving Party’s obligations, or receiving the Receiving Party’s benefits, under this Agreement, and (b) Receiving Party may permit its Representatives access to the Confidential Information only to the extent necessary to allow them to assist Receiving Party with such permitted purposes. Prior to granting any such Representatives access to the Confidential Information, Receiving Party will inform them of its confidential nature and of the terms of this Section 11. Receiving Party agrees to be responsible for any breach of this Section 11 by any of its Representatives.
+
+11.3
+
+Return or Destruction of Confidential Information. At the Disclosing Party’s written request, Receiving Party and its Representatives as promptly as practicable will destroy all tangible documents and materials (including all tangible copies or reproductions thereof) that constitute or contain Confidential Information, and neither Receiving Party nor its Representatives will retain any copy thereof; provided, that, Receiving Party and its Representatives may retain all electronic copies (if any) of any Confidential Information residing in the automatic backup systems of their respective computers and other electronic devices, and nothing contained herein shall prohibit Receiving Party or its Representatives from retaining copies of Confidential Information solely to the extent necessary to comply with law, regulation or any bona fide records retention policy. Any such copies shall be maintained in accordance with this Section 11 until such copies are destroyed in accordance with this Section 11.
+
+12.    LIMITATION OF LIABILITY
+
+12.1
+
+COBRA, in providing Services pursuant to this Agreement, shall not be responsible or liable for any acts, errors, omissions, delays, accidents, losses, injuries, deaths, property damage, or any indirect or consequential damages resulting therefrom, which may be the result of any action, inaction, default or insolvency of any other third party goods or service suppliers except in the case of gross negligence or willful misconduct by COBRA. COBRA does not give any representation or warranty with respect to any aspect of any third party supplier’s services. In the event of a third party supplier’s default with respect to all or any part of such supplier’s services, BRIM’s sole recourse shall be with the third party supplier and shall be subject to said supplier’s own terms and conditions.
+
+12.2
+
+Except in connection with a Party’s indemnification obligations under Section 14, neither Party shall be liable for any indirect, punitive, incidental, consequential or special damages, including loss of revenue, loss of profits or loss of opportunity, for any reason whatsoever arising out of, or relating to, this Agreement, even if a Party has been advised of the possibility of such Losses, whether arising out of breach of warranty, breach of condition, breach of contract, tort, civil liability or otherwise.
+
+12.3
+
+Except in connection with a Party’s indemnification obligations under Section 14, in addition to remedies under Section 17, COBRA’s absolute liability arising out of, or relating to, this Agreement, whether arising out of breach of warranty, breach of condition, breach of contract, tort, civil liability or otherwise, shall be limited to the dollar value of the Fees earned by COBRA under this Agreement, as provided in attached Schedule B, during the 6-month period immediately preceding such Claim(s). This limit is cumulative and the existence of more than one Claim will not enlarge the limit.
+
+12.4
+
+The Parties acknowledge that the limitations of liability and the allocation of risk set forth in this Section 12 are an essential element of the bargain between the Parties and part of the consideration for the agreed upon Fees, and in their absence, the Fees under this Agreement would be substantially different.
+
+13.    REPRESENTATIONS AND WARRANTIES
+
+13.1
+
+Mutual Representations and Warranties. Each Party represents and warrants to the other Party that (a) it has the requisite power and authority to enter into this Agreement; (b) the person entering into this Agreement on its behalf has been duly authorized to do so; (c) execution of this Agreement does not and will not violate any applicable Law and does not constitute a default or breach of such Party’s other obligations; and (d) there are no proceedings pending or, to such Party’s knowledge, threatened that would or reasonably would
+
+be likely to have a material adverse impact on this Agreement or the ability of such Party to perform its obligations under this Agreement.
+
+13.2
+
+Additional Representations and Warranties of Service Provider. COBRA hereby represents and warrants that it holds sufficient rights to use all equipment, materials, supplies and resources used for the performance of the Services under this Agreement, free and clear of any encumbrances.
+
+13.3
+
+Quality of Services. COBRA warrants that all Support Services will be performed in a good and workmanlike manner; that COBRA has adequate facilities in good working order and fully trained personnel capable of efficiently performing the Support Services to BRIM; that COBRA regularly conducts training programs; that all materials, equipment, goods, supplies or manufactured articles furnished by COBRA in the performance of the work or services shall be of suitable quality and workmanship for their intended purposes, in accordance with specifications, and free from defects; and that COBRA will not employ in any work for BRIM any employee whose employment violates applicable labor laws.
+
+13.1
+
+Disclaimer of Additional Warranties. EXCEPT FOR THE EXPRESS WARRANTIES STATED IN THIS SECTION 13, BOTH PARTIES DISCLAIM ALL OTHER WARRANTIES, WHETHER IMPLIED BY OPERATION OF LAW OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE. EXCEPT AS OTHERWISE PROVIDED IN THIS AGREEMENT, THE SERVICES ARE PROVIDED “AS IS”, “WHERE IS”. EXCEPT AS OTHERWISE PROVIDED IN THIS AGREEMENT, COBRA DOES NOT WARRANT THAT THE SERVICES WILL OPERATE UNINTERRUPTED OR ERROR-FREE.
+
+14.    INSURANCE AND INDEMNIFICATION
+
+14.1
+
+Insurance: During the term of this Agreement, each Party shall procure and maintain comprehensive general liability insurance, which shall include blanket broad form contractual liability coverage, with limits of not less than US$25,000,000.00 per occurrence for bodily injury and property damage, combined single limit. COBRA shall also procure and maintain worker’s compensation insurance in accordance with relevant provincial/state statutory limits, employer’s liability insurance with a limit of not less than US$1,000,000.00 per occurrence, automobile liability insurance covering all owned, hired and non-owned automobile equipment with limits of not less than US$1,000,000.00 per occurrence for bodily injury and property damage, combined single limit, professional liability insurance (errors & omissions) with a limit of not less than US$2,000,000.00) annual aggregate and excess liability, or umbrella insurance with a limit of not less than US$2,000,000.00 annual aggregate. Each Party shall, at the other Party’s request, provide the other Party with certificate(s) of insurance evidencing any such coverage described in this Subsection. BRIM shall require all of COBRA’s subcontractors retained in connection with this Agreement, if any, to provide the aforementioned coverage as well as any other insurance coverage BRIM may consider reasonably necessary. BRIM shall not obtain any workers’ compensation or insurance concerning COBRA or any of its employees. COBRA shall comply with workers’ compensation laws and, where applicable, upon BRIM’s request, shall provide BRIM with a certificate of workers’ compensation insurance. BRIM shall also procure and maintain “All Risk” Rotorcraft Hull & Liability Insurance, which shall include Third-Party War Risk Liability, Aviation Premises Liability, and Personal Injury Liability Coverage with limits not less than $25,000,000 per occurrence, and in the aggregate where applicable, for bodily injury and property damage, combined single limit.
+
+14.2
+
+[Reserved]
+
+14.3
+
+BRIM’s Indemnification Obligations: BRIM agrees to indemnify COBRA and its Representatives and its Representatives’ respective successors and permitted assigns (collectively, the “COBRA Indemnitees”) from and against any Third Party Claims and any Damages finally awarded by a court of competent jurisdiction in any Third Party Claim from which no further appeal is possible, in connection with, arising out of or relating to, BRIM’s or any of its Representatives’ (a) fraud, bad faith, gross negligence, willful misconduct or violation of Law in performing its obligations, or in receiving its benefits (including the Services), under this Agreement; (b) breach of Section 11 of this Agreement; or (c) combination of the Services with other products, processes or material not provided, or approved in writing, by COBRA; in each case, except to the extent such Third Party Claims and/or Damages result from the fraud, bad faith, gross negligence, willful misconduct or violation of Law of any COBRA Indemnitee or a breach by COBRA of any of its obligations under this Agreement.
+
+14.4
+
+COBRA’ Indemnification Obligations: COBRA agrees to indemnify BRIM and its Representatives and its Representatives’ respective successors and permitted assigns (collectively, “BRIM Indemnitees”) from and against any Third Party Claims and Damages finally awarded by a court of competent jurisdiction in any Third Party Claim from which no further appeal is possible, in connection with, arising out of or relating to, COBRA’s or any of its Representatives’ (a) fraud, bad faith, gross negligence, willful misconduct or violation of Law in performing its obligations under this Agreement; (b) breach of Section 11 of this Agreement; (c) not being authorized to perform all, or any part of, the Services, or (d) infringement or misappropriation, or alleged infringement or misappropriation, of any third party’s patent, copyright, trade secret or other proprietary right or intellectual property right as a result of use of the Services by BRIM in accordance with this Agreement; in each case, except to the extent such Third Party Claims and/or Damages result from the fraud, bad faith, gross negligence, willful misconduct or violation of Law of any BRIM Indemnitee or a breach by BRIM of any of its obligations under this Agreement.
+
+14.5
+
+Third Party Claim Procedures: Any Person seeking indemnification under this Section 14 (in such capacity, the “Indemnified Party”) in connection with any Third Party Claim shall notify, in writing, the Party from which indemnity is sought under this this Section 14 (in such capacity, the “Indemnifying Party”), as promptly as practicable after such Indemnified Party receives actual notice of the existence of, or its involvement in, such Third Party Claim. Failure to so notify the Indemnifying Party will not relieve the Indemnifying Party from liability that it may have to any Indemnified Party under this Section 14, except to the extent that the Indemnifying Party is materially prejudiced by such failure. The Indemnifying Party shall be entitled to assume the defense of all Indemnified Parties in connection with any Third Party Claim, including the employment of counsel reasonably satisfactory to Indemnified Parties. Notwithstanding the Indemnifying Party’s decision to assume the defense of any such Third Party Claim, the Indemnified Parties shall have the right to employ separate counsel and to reasonably participate in the defense of any such Third Party Claim. Such separate counsel shall be at the sole cost and expense of the Indemnified Parties, unless (a) the use of counsel chosen by the Indemnifying Party to represent the Indemnified Parties would be inappropriate under the applicable rules of professional responsibility, (b) the named parties to any Third Party Claim include both the Indemnifying Party and an Indemnified Party, there are defenses available to such Indemnified Party that are different from, or in addition to, the defenses available to the Indemnifying Party, and counsel appointed by the Indemnifying Party declines to raise such different or additional defenses on such Indemnified Party’s behalf, (c) the Indemnifying Party fails to assume the defense of such Third Party Claim or to employ counsel reasonably satisfactory to the Indemnified Party in a timely manner or (d) the
+
+Third Party Claim seeks, in addition to or in lieu of monetary damages, any injunctive or other equitable relief. In the event of any of clauses (a) through (d), all Indemnified Parties, at the Indemnifying Party’s expense, may employ separate counsel to represent or defend such Indemnified Parties in any such Third Party Claim or group of related Third Party Claims, provided, that, in no event shall the Indemnifying Party be liable for the reasonable fees and expenses of more than one separate firm of attorneys for all such Indemnified Parties in connection with any Third Party Claims (plus one firm of local counsel in each jurisdiction in which any such Third Party Claim is taking place). The Party controlling the defense of any Third Party Claim shall not compromise or settle such Third Party Claim without the other Party’s prior written consent, which shall not be unreasonably withheld, conditioned or delayed; provided, that, if the Indemnifying Party is controlling the defense of any Third Party Claim, the Indemnified Party’s consent shall not be deemed to have been unreasonably withheld, conditioned or delayed if, and the Indemnified Party may withhold its consent to, (a) any settlement that does not include a full general release of all the claims against the Indemnified Parties from all parties to the litigation, (b) any settlement that requires any Indemnified Party or any of its Affiliates to perform any covenant or refrain from engaging in any activity and (c) any settlement that includes any statement as to, or an admission of, fault, violation, culpability, malfeasance or nonfeasance by, or on behalf of, the Indemnified Party or any of its Affiliates.
+
+14.6
+
+Exclusive Remedy: This Section 14 will provide the exclusive remedy of each Party and its Representatives for any Third Party Claim arising out of, or relating to, this Agreement or any transaction contemplated hereby.
+
+15.    VERIFICATION
+
+To verify COBRA’s compliance with its obligations hereunder, at any time or from time to time during COBRA’s performance of Services, BRIM or a Representative designated by it and reasonably acceptable to COBRA may, upon reasonable notice and during regular business hours of COBRA, inspect and test the manner in which the Services are being performed. Such rights of inspection shall include visiting sites at which COBRA performs the Services, auditing selected records and databases containing data of BRIM, observing the performance of the Services or selected components thereof, and interviewing COBRA personnel familiar with, or responsible for, performing the Services. COBRA shall use commercially reasonable efforts to cooperate with BRIM Representatives in such inspections and to ensure that appropriate staff, computing and other resources are available as required in the course of such inspections.
+
+16.    NON-SOLICITATION
+
+Each Party (in such capacity, the “Soliciting Party”), on behalf of itself and its Affiliates, hereby agrees, during the Restricted Period, not to, directly or indirectly, solicit for employment or hire any director, manager, officer, senior management-level employee or other employee with which it has had direct contact in connection with the Services, in each case, of the other Party. Notwithstanding the foregoing, neither the Soliciting Party nor any of its Affiliates shall be prohibited from soliciting to hire or employing any such person (a) who contacts the Soliciting Party or any of its Affiliates in response to a published general solicitation not specifically targeted at such person, without any direct or indirect solicitation by the Soliciting Party or any of its Affiliates, (b) whose employment has been terminated prior to the initiation of employment-related discussion between the Soliciting Party or any of its Affiliates, or (c) who initiates employment-related discussions with the Soliciting Party or any of its Affiliates without any direct or indirect solicitation by the Soliciting Party or any of its Affiliates.
+
+17.    REMEDIES
+
+Each Party acknowledges that any violation of the terms of this Agreement may result in damages to the other Party, which may not be adequately compensated by monetary award alone. In the event of any violation or threatened violation by a Party of the terms of this Agreement, including Section 11, and in addition to all other remedies available at law and at equity, the non-breaching Party shall be entitled as a matter of right to apply to a court of competent jurisdiction for equitable relief, a restraining order, an injunction, a decree of specific performance or other remedy as may be appropriate to ensure the other Party’s compliance with the terms of this Agreement, without the requirement of proving actual damages or posting a bond or providing other security.
+
+18.    GENERAL PROVISIONS
+
+18.1
+
+Entire Agreement: This Agreement together with the Schedules hereto constitutes the entire agreement and understanding between the Parties relating to the subject matter hereof, and supersedes all other agreements, oral or written, made between the Parties with respect to such subject matter.
+
+18.2
+
+Notices: All notices, requests, consents, claims, demands, waivers and other communications hereunder shall be in writing and shall be deemed to have been given (a) when delivered by hand (with written confirmation of receipt); (b) when received by the addressee if sent by a nationally recognized overnight courier (receipt requested); (c) on the date sent by e-mail of a .pdf document (with confirmation of transmission) if sent during normal business hours of the recipient, and on the next day if sent after normal business hours of the recipient, or (d) on the third day after the date mailed, by certified or registered mail, return receipt requested, postage prepaid. Such communications must be sent to the Parties at the following addresses (or at such other address for a Party as shall be specified in a notice given in accordance with this Section 18.2):
+
+If to BRIM:
+
+Brim Equipment Leasing, Inc.
+
+Attention: Julie Brim, President
+
+Physical Address: 455 Dead Indian Memorial Rd, Ashland, OK 97520
+
+Mailing Address: PO Box 3009, Ashland, OR 97520
+
+email: Julie@brimaviation.com
+
+with a copy to Wexford Capital LP –
+
+411 West Putman Ave.
+
+Greenwich, CT 06830
+
+Attn: Legal
+
+email: legal@wexford.com
+
+If to COBRA:
+
+Cobra Aviation Services LLC
+
+4727 Gaillardia Parkway, Suite 200
+
+Oklahoma City, Oklahoma 73142
+
+E-mail: mlayton@mammothenergy.com
+
+Attention: Mark Layton
+
+with a copy to:
+
+Mammoth Energy Services, Inc.
+
+14201 Caliber Drive, Suite 300
+
+Oklahoma City, OK 73134
+
+E-mail: rlaforge@mammothenergy.com
+
+Attention: Rusty LaForge
+
+18.3
+
+Assignments; Third Party Beneficiaries: No Party may assign its rights or obligations hereunder (whether directly, indirectly, by operation of law or otherwise) without the prior written consent of the other Party, and any attempted assignment without such required consent shall be null and void ab initio; provided, that, COBRA may assign this Agreement and any or all rights or obligations hereunder to (a) any Affiliate of COBRA now in, or hereinafter to come into, existence (provided that, without BRIM’s prior written consent, no such assignment pursuant to this Section 18.3(a) shall relive COBRA of its obligations under this Agreement) or (b) with respect to any collateral assignment, any Person from which COBRA has borrowed money. Upon any such permitted assignment, the references in this Agreement to such assigning Party also shall apply to any such assignee unless the context otherwise requires. Except as provided in Section 14, this Agreement is for the sole benefit of the Parties and their respective successors and permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other Person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+
+18.4
+
+Incorporated by Reference: The Preamble and all Schedules attached hereto are hereby incorporated by reference and made a part of this Agreement.
+
+18.5
+
+Applicable law; Jurisdiction: This Agreement shall be governed by and construed in accordance with the internal laws of the State of Delaware without giving effect to any choice or conflict of law provision or rule (whether of the State of Delaware or any other jurisdiction) that would cause the application of Laws of any jurisdiction other than those of the State of Delaware. ANY LEGAL SUIT, ACTION OR PROCEEDING ARISING OUT OF OR BASED UPON THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY SHALL BE INSTITUTED IN THE COURTS OF THE
+
+STATE OF DELAWARE OR, IF SUCH COURTS LACK SUBJECT MATTER JURISDICTION, THE FEDERAL COURTS OF THE UNITED STATES OF AMERICA LOCATED IN THE STATE OF DELAWARE, AND EACH PARTY IRREVOCABLY SUBMITS TO THE EXCLUSIVE JURISDICTION OF SUCH COURTS IN ANY SUCH SUIT, ACTION OR PROCEEDING. SERVICE OF PROCESS, SUMMONS, NOTICE OR OTHER DOCUMENT IN ACCORDANCE WITH SECTION 18.2 SHALL BE EFFECTIVE SERVICE OF PROCESS FOR ANY SUIT, ACTION OR OTHER PROCEEDING BROUGHT IN ANY SUCH COURT. THE PARTIES IRREVOCABLY AND UNCONDITIONALLY WAIVE ANY OBJECTION TO THE LAYING OF VENUE OF ANY SUIT, ACTION OR ANY PROCEEDING IN SUCH COURTS AND IRREVOCABLY WAIVE AND AGREE NOT TO PLEAD OR CLAIM IN ANY SUCH COURT THAT ANY SUCH SUIT, ACTION OR PROCEEDING BROUGHT IN ANY SUCH COURT HAS BEEN BROUGHT IN AN INCONVENIENT FORUM. THE PARTIES HEREBY WAIVE THE RIGHT TO TRIAL BY JURY IN ANY LITIGATION ARISING OUT OF, OR RELATING TO, THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY.
+
+18.6
+
+Currency: All references to monetary amounts in this Agreement shall be to United States Dollars currency.
+
+18.7
+
+Survival: Notwithstanding anything to the contrary contained herein, the Parties agree that this Section 18 and Sections 5 and 17 (and any related definitional provisions) shall remain in full force and effect after the Term and shall survive the expiration or termination of this Agreement indefinitely.
+
+18.8
+
+Absence of Presumption: No presumption shall operate in favor of or against any Party hereto as a result of any responsibility that any Party may have had for drafting this Agreement.
+
+18.9
+
+Language: It is hereby agreed that both Parties specifically require that this Agreement and any notices, consents, authorizations, communications and approvals be drawn up in the English language.
+
+18.10
+
+Interpretation: The headings and section numbers appearing in this Agreement or any Schedule attached hereto are inserted for convenience of reference only and shall not in any way affect the construction or interpretation of this Agreement. For the purposes of this Agreement, (a) the words “include,” “includes” and “including” shall be deemed to be followed by the words “without limitation”; (b) the words “herein,” “hereof,” “hereby,” “hereto” and “hereunder” refer to this Agreement as a whole, and (c) when calculating the period of time before which, within which or following which any act is to be done or step taken pursuant to this Agreement, the date that is the reference date in calculating such period shall be excluded, and if the last day of such period is a non-Business Day, the period in question shall end on the next succeeding Business Day. For purposes of this Agreement, unless the context otherwise requires, references herein: (a) to Articles, Sections, Schedules and Exhibits, mean the Articles and Sections of, and Schedules and Exhibits attached to, this Agreement; (b) to an agreement, instrument or other document, mean such agreement, instrument or other document as amended, restated, supplemented or modified from time to time to the extent permitted by the provisions thereof, and (c) to a statute, mean such statute as amended from time to time and includes any successor legislation thereto and any regulations promulgated thereunder.
+
+18.11
+
+Severability: The provisions of this Agreement shall be deemed severable and the invalidity or unenforceability of any provision hereof shall not affect the validity or enforceability of the other provisions hereof. Whenever possible, each provision or portion of any provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable Law, but if any provision of this Agreement, or the application thereof to any Person or circumstance, is invalid or unenforceable, (a) a suitable and equitable
+
+provision shall be substituted therefor to carry out, so far as may be valid and enforceable, the intent and purpose of such invalid or unenforceable provision, and (b) the remainder of this Agreement and the application of such provision to other Persons or circumstances shall not be affected by such invalidity or unenforceability, nor shall such invalidity or unenforceability affect the validity or enforceability of such provision, or the application thereof, in any other jurisdiction; provided, that, if any one or more of the provisions contained in this Agreement shall be determined to be excessively broad as to subject, activity, duration or geographic scope, it shall be reformed by limiting and reducing it to the minimum extent necessary, so as to be enforceable under applicable Law, and shall thereafter be enforced.
+
+18.12
+
+Force Majeure: In the event that any Party hereto is delayed or hindered in the performance of any act required herein by reason of wars, fires, riots, strikes, earthquakes, epidemics, labor disputes, equipment failures, transporting difficulties, acts of God, acts of terrorism, changes in Law, acts or omissions of vendors or suppliers or other reasons of a like nature beyond the reasonable control of such Party (collectively, “Force Majeure”), then performance of such act shall be excused for the period of the delay and the period of performance of any such act shall be extended for a period equivalent to the period of such delay, up to a maximum of 60 days. The provisions of this Force Majeure clause shall not operate to excuse any Party from the payment of any fee or other payment when due.
+
+18.13
+
+Amendments; Waivers: Neither this Agreement nor any part of it may in any way be altered, amended, extended, waived, discharged or terminated except by a written agreement that specifically references this Agreement and the provisions to be so altered, amended, extended, waived, discharged or terminated is signed by each of the parties hereto and specifically states that it is intended to alter, amend, extend, waive, discharge or terminate this agreement or a provision hereof.  No acceptance by a Party of any payment or services by another Party, and no failure, refusal or neglect of any Party to exercise any right under this Agreement or to insist upon full compliance by the other Party with its obligations hereunder, shall constitute a waiver of any other provision of this Agreement or consent to any further or subsequent non-compliance with the same or any other provision.
+
+18.14
+
+Further Assurances: Each Party hereby covenants and agrees to execute and deliver such further and other agreements, assurances, undertakings, acknowledgments or documents, and other acts and things as may be necessary or desirable in order to give full effect to this Agreement and every part hereof.
+
+18.15
+
+Binding Nature: This Agreement shall inure to the benefit of and be binding upon the Parties hereto and their respective (as applicable) successors and assigns.
+
+18.16
+
+Time of Essence: Subject to Section 18.13 hereof, time shall be of the essence of this Agreement and of each and every part hereof.
+
+18.17
+
+Counterparts: This Agreement may be signed in counterparts, and by use of facsimile signatures, each of which when signed and delivered shall be deemed to be an original, but all such counterparts shall together constitute one and the same instrument.
+
+[Signature Page Follow]
+
+IN WITNESS WHEREOF, the Parties hereto have executed or caused this Aviation Support Services Agreement to be executed by their duly authorized officers as of the Effective Date.
+
+COBRA AVIATION SERVICES LLC
+
+BRIM EQUIPMENT LEASING, INC.
+
+/s/ Mark Layton
+
+/s/ Julie Brim
+
+Authorized Signature
+
+Authorized Signature
+
+Mark Layton
+
+Julie Brim
+
+Name
+
+Name
+
+Chief Financial Officer
+
+President
+
+Title
+
+Title
+
+SCHEDULE A
+
+Services
+
+Description and List of Services: COBRA duties/obligations shall include but not be limited to:
+
+(i)accounting, including without limitation general bookkeeping, bank account reconciliations, billing and collection of accounts receivable, processing and payment of accounts payable, monthly closing of Books in accordance with GAAP, Maintaining Fixed Asset Listings (ii)human resources, including without limitation management of payroll and benefits), (iii) information technology services, including without limitation, Network infrastructure management, email hosting and management, domain and web hosting, computer equipment and support, and mobile device management, (iv)internal legal counsel, (v)business development, (vi) corporate development, and (vii) other operational needs.
+
+SCHEDULE B
+
+Fees & Payment
+
+Description and Rates of Fees for Services:
+
+Cost + 10%
+
+Timing and Addressee for Invoice Issuance:
+
+Within 10 business following month end to:
+
+Cobra Aviation Services LLC
+
+14201 Caliber Drive, Suite 300
+
+Oklahoma City, OK 73134
+
+Terms and Timing of Payments:
+
+Net 30
+
+Bank Account/Address for Making Payments:
+
+IBC Bank
+
+ROUTING NUMBER XXXXXXXXX
+
+Account number XXXXXXXXXX
+
+Notes:
+
+Fees associated with the above will be subject to change on a case-by-case basis, subject to notice and mutual written consent of the Parties.

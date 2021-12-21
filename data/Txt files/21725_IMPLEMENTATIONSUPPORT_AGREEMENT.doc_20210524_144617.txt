@@ -1,0 +1,151 @@
+QuickLinks -- Click here to rapidly navigate through this document
+
+Exhibit 10.43
+
+IMPLEMENTATION/SUPPORT AGREEMENT
+
+Whereas Obagi Medical Products, Inc. (Obagi) desires to obtain software implementation and/or support, defined herein to include some or all of the following, but not limited to: design, implementing, documentation, development, interfacing, phone support, upgrades, data conversions, Electronic Data Interchange, training on Microsoft Business Solutions® Navision software; and whereas, Specialists in Custom Software, Inc., hereinafter referred to as "SCS," is a provider of such implementation/support and is a fully licensed and certified Microsoft Business Solution Center, it is hereby Obagi:
+
+1.0    SOFTWARE/SUPPORT—SCS will provide software implementation and support to Obagi as detailed in Exhibit A. It is understood and that software implementation/support may include: design, analysis, coding, implementation, data conversion, configuration, installation, documentation, debugging, training and phone support. Hours provided in Exhibit A or software quotations are only estimates.
+
+2.0    TERM—The term of this agreement shall be one (1) year from the date this agreement is signed by both parties. Obagi shall have the right to terminate this agreement, at no fault to either party, with a two-week written notice; such notice sent by certified mail.
+
+3.0    PERFORMANCE—SCS will provide to Obagi timely support for maintenance, training, phone support, implementation, design, debugging and installations. No work will be performed by SCS outside the Design document unless separately approved in a signed Work Order by Obagi. SCS provides live support via its Help Desk where there is normally no queue or wait or voice mail. At no time will SCS's response time to a support request from Obagi exceed one hour; and, in an emergency situation, as defined by Obagi, SCS's response will not exceed one hour. Personalizations, configurations and modifications will be provided to Obagi on an as-needed basis and in a timely fashion based on approved Design and/or Work Orders.
+
+3.1    Designs and modifications must be first separately approved by Obagi and signed as a completed Design document or a Work Order Request. Once signed, Work Order Requests become part of this agreement and subject to its terms and conditions thereof.
+
+3.2    RESPONSIBILITIES AGREEMENT
+
+SCS Services and Responsibilities
+
+•
+
+SCS will install the purchased Microsoft Business Solutions® Navision software and provide the corresponding services.
+
+SCS will provide implementation and project management assistance for the installation and configuration of Microsoft Business Solutions® Navision software. The overall scope of the project is to provide a live and functioning system, operating on a day-to-day basis with transactions being processed by Obagi personnel. . Based on SCS's best estimate, the parties have mutually agreed to the scope of work and number of hours for completion of the deliverables as set forth in Exhibit C to this agreement and incorporated herein by reference. Based on Exhibit C, SCS shall conduct an initial design phase of a maximum of 150 hours ("Design") followed by an implementation phase ("Implementation"). Once Design is completed, SCS shall provide a final schedule and time estimate for the Implementation ("Final Schedule") that shall not exceed the terms set forth in
+
+1
+
+Exhibit C by more than 10%. If the Final Schedule varies from Exhibit C by more than 10%, the parties agree to use good faith efforts to resolve any fee or cost issue in the Final Schedule. If despite the good faith efforts, the parties have not agreed to a mutually agreeable resolution, either party may immediately terminate this agreement upon written notice. If neither party terminates prior to the Implementation, the Final Schedule will be locked and fixed, and shall be approved in writing by the parties.
+
+•
+
+SCS will make every reasonable effort to complete the services according to the time schedule mutually agreed to by both parties. SCS understands and agrees that providing deliverables and milestones including implementation and support on agreed upon timetables between SCS and Obagi is of key importance. In the event SCS becomes aware, or is informed by Obagi, that an implementation or support deliverable or milestone is in jeopardy of falling short of an agreed upon timetable, SCS will immediately inform Obagi and provide a proposed plan to remedy. Any cost or time incurred by SCS to develop and propose such remedy will not be charged to Obagi. Obagi realizes that potential events beyond SCS's control may cause delays in implementing these services. Additionally, changes to the scope of services above and beyond the work described may cause further delays in project completion. All work will be completed on a best effort basis.
+
+Obagi Responsibilities
+
+The success of the project will greatly depend on Obagi's level of involvement. Some of the responsibilities expected to be performed by Obagi include:
+
+•
+
+Provide management support for the required resources and priorities to complete the project in a timely manner
+
+•
+
+Appoint an Obagi project manager, even if this is only a part-time duty.
+
+•
+
+Given the necessary framework and guidance from SCS, Obagi will take commercially reasonable efforts to assist in the design, compilation, review and final approval of design and enhancement specifications. Delays on the review of designs by Obagi can add considerable time to implementation schedules.
+
+•
+
+Verify proper internal controls are in place considering changes in process and software/hardware requirements
+
+•
+
+Ensure proper enterprise level system security with assistance from SCS
+
+•
+
+After initial implementation by SCS, Obagi will develop and train any additional, new Obagi staff on new processes and procedures, as needed. Obagi may request SCS to provide additional training.
+
+•
+
+Establish and maintain a stable technical infrastructure capable of running Navision
+
+•
+
+Provide reasonable access to staff and management during normal business hours
+
+•
+
+Prepare test scripts under the direction and guidance from SCS
+
+•
+
+After SCS's internal testing, Obagi will assist SCS, by testing system and validating performance from the user perspective
+
+•
+
+Secure ongoing support and Navision software maintenance at the completion of the project from SCS, or provided it does not violate any other terms of this agreement, another certified Microsoft Business Solutions' Navision partner. The lack of follow-up and ongoing support for the software can impact its efficiency.
+
+•
+
+Manage Obagi staff on a daily basis and supervise the operation of the system
+
+2
+
+•
+
+Complete assigned portions of the work plan
+
+Failure to fulfill these responsibilities in a timely manner may impair our ability to provide service.
+
+4.0    COMPENSATION—Obagi will pay SCS per attached Exhibits A and B. Exhibit B is a Help Desk option which does not have to be selected by Obagi until after live on Navision.
+
+4.1    Services and support time will be billed at normal support rates. Itemized invoices for software implementation and support will be provided by SCS to Obagi every week. Invoices will detail what exactly has been consumed in hours as well as any additional work orders and time incurred outside the original implementation design plan. Invoices are due on a thirty-day net basis or as otherwise agreed by Obagi. Obagi may purchase blocks of 100 hours in advance, at the reduced rate per Exhibit A, Plan B. Advance blocks of hours purchased are non-refundable. SCS's weekly invoices will detail implementation/support hours used against blocks of hours on Obagi's account. Should hours on account be exceeded, Obagi will have the option of either purchasing additional blocks of hours in advance or paying the normal implementation and support rates as contained in Exhibit A, Plan A.
+
+4.2    Local travel expenses will not be charged to Obagi. Should SCS and Obagi require additional, non-local, technical expertise for specific implementation/support issues, such reasonable travel expenses will be borne by Obagi but will require advanced, written approval for same by Obagi. In any case, such travel expenses are for the Obagi implementation are not to exceed $5,000.00 without mutual agreement by both parties.
+
+4.3    There are a number of items beyond SCS's and/or Obagi's control which can effect delivery of implementation/support, including but not limited to: hardware problems, labor strikes, equipment failures, acts of God, terrorist threats, increased scope from additional, signed Work Orders, package upgrades or mutually agreed changes in implementation by SCS and Obagi. These are normal and customary in software implementation, development and support. All SCS invoices and outstanding balances as contained herein are due and payable as received. Non-payment will be deemed cause for suspension of SCS services with no fault or liability to SCS.
+
+5.0    QUALITY ASSURANCE—SCS will test and debug all modified software. SCS will not bill Obagi for time required to debug any modifications authored by SCS. Correction of software bugs not authored by SCS will be at normal compensation rates pursuant to Exhibit A. Quality assurance does not extend to bugs in software outside Navision or caused by third party software other than Navision.
+
+6.0    COMPLIANCE WITH LAWS—Both parties hereby agrees to comply with all State and US Federal laws governing the customization, copyrights and licensing of software.
+
+7.0    WARRANTY—SCS warrants that personalizations, configurations, customizations and/or modifications made solely by SCS shall be free of defects for a period of one year from date of implementation. Customizations or program modifications made by SCS can be of such complexity that they may have errors. If such error is suspected, Obagi shall provide notice to SCS. Upon notice from Obagi, SCS shall take all steps necessary to mitigate the effects of the error. If such error(s) is not remedied within five (5) business days unless mutually agreed to by the parties, Obagi shall have the right to contract with third parties to mitigate any damages resulting from the error.
+
+7.1    SCS makes no representation, expressed or implied, to Obagi with respect to profit or loss, installation or any future modifications that may be made to the software, either by any third party software or another party. In the event that SCS materially breaches this Agreement, it shall be responsible for any special or consequential damages or lost profits occurring out of or in connection with the delivery, use or performance of software. Nothing herein waives liability for negligence of either party in the performance of this agreement.
+
+3
+
+7.2    The above express warranties are the only warranties made and shall be in lieu of any other warranty, expressed or implied. You are advised to test the software thoroughly before relying on it and assume the risk of using the software.
+
+8.0    SOURCE CODE—Navision and all source code to Navision including originals and any copies and all copyright, patent and trade secrets are the sole property of Microsoft Business Solutions® Navision. The software is provided to Obagi under license agreement from Microsoft Business Solutions® Navision US and used subject to Navision's standard terms and conditions. SCS is a licensed Microsoft Business Solutions® Center and as such is trained and licensed to perform modifications to Navision software. Modifications to Navision for Obagi are jointly held by SCS and Obagi.
+
+8.1    At all times, provided Obagi's Navision license is in force, copies of said modifications made for Obagi by SCS shall be provided to Obagi at no additional charge. All Source Code and Modifications are provided to Obagi electronically or on CD medium and periodically updated to the Source Code previously installed from said CD medium or similar electronic medium onto Obagi's Server and hard drive(s). Should Obagi terminate this agreement and request updated copies of all SCS modifications made for Obagi but not already installed on Obagi's Server, Obagi will be supplied these in a timely fashion by SCS, electronically or on CD medium and at no additional charge; the only provision being for non-payment of outstanding invoices by Obagi as pursuant to #4 herein.
+
+9.0    PERSONNEL—At no time during the term of this agreement and surviving for a period of two years after termination of this agreement, shall SCS or Obagi directly solicit any of the other party's employees or contracted consultants for the purpose of hiring, employing or in any way contracting them. SCS has invested considerable time and expense in the recruitment, training and certification of its personnel and to interfere in any way with these relationships would cause SCS serious harm.
+
+10.0    ENTIRE AGREEMENT—The parties acknowledge that this Agreement sets forth the complete, exclusive and integrated understanding of the parties which supersedes all proposals or prior agreements, oral or written including RFP's, sales presentations, and all other prior communications between parties relating to the subject matter of this Agreement.
+
+11.0    DEFAULT—In the event that Obagi fails to pay SCS for software support provided, Obagi agrees to pay any interest, and/or reasonable attorneys' fees accrued by SCS in the collection thereof. If litigation, arbitration or any other legal proceeding is commenced between the PARTIES to enforce the terms of this agreement, the prevailing party shall be entitled to reasonable attorneys' fees and costs in such proceeding. This agreement shall be governed by the laws of the State of California.
+
+12.0    COUNTERPARTS—This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which shall constitute one and the same agreement, and this Agreement shall only be effective if a counterpart is signed by SCS and Obagi.
+
+Agreed by:
+
+/s/ STEPHEN A. GARCIA
+
+Obagi Medical Products, Inc.
+
+6/24/08
+
+Date
+
+/s/ MICHAEL WISNER
+
+SCS, Inc.
+
+6/24/08
+
+Date
+
+4
+
+QuickLinks
+
+Exhibit 10.43
+
+IMPLEMENTATION/SUPPORT AGREEMENT

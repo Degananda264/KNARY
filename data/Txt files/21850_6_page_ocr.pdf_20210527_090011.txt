@@ -1,0 +1,299 @@
+
+HIPAA Business Associate Agreement
+
+This Business Associate Agreement (“Business Associate Agreement”) is entered into as of this
+13" day of June, 2018 by and between Team Health Holdings, Inc. (‘Company”), on behalf of its
+affiliates, subsidiaries and related entities, and CLM Matrix (“Contractor”). This Business Associate
+Agreement is effective as of the first date written above or when Contractor obtains Protected Health
+Information, as defined below, from or on behalf of Company, whichever is earlier. This Business
+Associate Agreement is intended to provide for the protection of the privacy and security of the Protected
+Health Information as defined below and disclosed by Company or any of its affiliates to Contractor, or
+created or accessed by Contractor for the purposes of performing Contractor's services under a services
+agreement ("Services Agreement") separately entered into by and between the parties as required by the
+Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) and regulations promulgated
+thereunder, and any subsequent amendments or modifications to such regulations including those
+implementing the requirements of Subtitle D of Title XIII of the American Recovery and Reinvestment Act
+of 2009 (“HITECH Act”) and applicable state privacy and security laws and regulations (collectively,
+“HIPAA Rules”).
+
+1. Definitions
+
+(a) Protected Health Information. “Protected Health Information” shall have the same meaning as
+the term “protected health information” in 45 CFR §160.103, limited to such information created,
+maintained or received on behalf of Company.
+
+ 
+
+(b) Privacy Rule. “Privacy Rule” shall mean the Standards for Privacy of Individually Identifiable
+Health Information at 45 CFR part 160 and part 164, as amended from time to time.
+
+(c) Individual. “Individual” shall have the same meaning as the term “individual” in 45 CFR §160.103
+and shall include a person who qualifies as a personal representative in accordance with 45 CFR
+§164.502(g).
+
+(d) Security Rule. “Security Rule” shall mean the Standards for Security of Electronic Protected
+Health Information at 45 CFR parts 160 and 164, subpart C, as amended from time to time.
+
+(e) Secretary. “Secretary” shal] have the same meaning as that terms as defined in 45 CFR 160.103,
+and means the Secretary of Health and Human Services or any other officer or employce of the
+Department of Health and Human Services to whom the authority has been delegated.
+
+(f) Secure. “Secure” shall mean to render unusable, unreadable or indecipherable to unauthorized
+individuals through the use of a technology or methodology specified by the Secretary in the
+guidance issued under section 13402(h)(2) of the HITECH Act.
+
+(g) Successful Security Incident, “Successful Security Incident” shall mean any Security Incident (as
+defined in 45 CFR 164.304) that results in the unauthorized use, access, disclosure, modification
+or destruction of electronic Protected Health Information or interference in a system holding
+electronic Protected Health Information.
+
+All capitalized terms used in this Business Associate Agreement and not defined elsewhere in this
+Business Associate Agreement or the underlying Services Agreement between the parties shall have the
+same meaning as those terms as used or defined in the HIPAA Rules.
+
+lof6
+
+2. Obligations of Contractor Regarding Permitted Uses and Disclosures of Protected Health
+Information.
+
+(a) Permitted Uses and Disclosures. Contractor agrees not to use or disclose Protected Health
+Information other than as permitted or required by this Business Associate Agreement or as
+Required by Law. Except as otherwise limited by this Business Associate Agreement, Contractor
+may use and disclose Protected Health Information in order to provide its services as described in
+the Services Agreement.
+
+(b) Use and Disclosure for Contractor’s Management and Legal Responsibilities. Except as
+otherwise limited in this Business Associate Agreement, Contractor may use Protected Health
+Information if necessary for its proper management and administration or to carry out its legal
+responsibilities. In addition, Contractor may disclose Protected Health Information for its proper
+management and administration or to carry out its legal responsibilities provided that: (i) any
+such disclosure is Required By Law; or (ii) (1) Contractor obtains reasonable assurances, in
+the form of a written agreement, from the person to whom the Protected Health Information is
+disclosed that it will be held confidentially and used or further disclosed only as Required By
+Law or for the purpose for which it was disclosed to the person; and (2) the person agrees to notify
+
+Contractor of any instances of which it is aware in which the confidentiality of the
+Protected Health Information has been breached.
+
+(c) De-identification. Contractor is not authorized to use or disclose Protected health Information to
+de-identify the information in accordance with 45 CFR 164.514(a)-(c), except as may be necessary
+to perform its services as provided in Section 2(a).
+
+3. Safeguards. Contractor shall implement reasonable and appropriate administrative, technical and
+physical safeguards to maintain the security and confidentiality of Protected Health Information, and shall
+comply with Subpart C of 45 CFR Part 164 with respect to electronic protected health information.
+Contractor agrees to Secure all electronic Protected Health Information transmitted through open networks
+and all electronic Protected Health Information placed or stored on portable devices.
+
+4, Mitigation. Contractor agrees to mitigate, to the extent practicable, any harmful effects of any use
+or disclosure of Protected Health Information by it or its agents or Subcontractors not provided for in this
+Business Associate Agreement of which it becomes aware.
+
+5. Reporting. Contractor agrees to report any use or disclosure of Protected Health Information not
+permitted by this Agreement and any Successfull Security Incident (cach a “Potential Breach”) to Company
+immediately, but in no event later than within two (2) business days, after it is discovered (within the
+meaning of 45 CFR 164.410(a)(2)) or such shorter period of time as required by applicable law. Such report
+shall be made in writing to Company’s Privacy Officer. Contractor shall provide the information concerning
+the Potential Breach as required by 45 CFR 164.410(c), and other available information reasonably required
+by Company to determine whether a Breach has occurred, including Contractor’s own risk assessment to
+determine whether a Breach has occurred. If such information is not available to Contractor at the time the
+Potential Breach is required to be reported to Company, Contractor shall provide such information to
+Company promptly as it becomes available. Company shall have the sole discretion to determine whether
+a Breach has occurred and, if so, whether the required notifications, including to media, as applicable, and
+the Secretary, as required under the HIPAA Rules, will be provided by Company or Contractor. If Company
+determines that notifications shall be made by Contractor, Contractor shall make such notifications in the
+time and manner specified by the HIPAA Rules and shall obtain Company’s prior approval of the contents
+of all such notifications before they are provided. Contractor shall maintain complete records regarding the
+
+2of6
+
+Potential Breach or actual Breach as and for the period required by 45 CFR 164.530(j) or such longer period
+required by state law, and shall make such records available to Company promptly upon request. Contractor
+shall be responsible for the reasonable costs incurred by Company associated with the Breach or Potential
+Breach, including but not limited to, notifications to individual, media, and government agencies and any
+reasonable and appropriate mitigation actions.
+
+6. Agreements with Subcontractors. Contractor agrees to ensure, through a written agreement, that
+any of its Subcontractors that receive or create any Protected Health Information, agree to the same terms
+and conditions that apply to Contractor under this Business Associate Agreement.
+
+7. Limitations on Use and Disclosure. Except as provided in Sections 2(b), Contractor shall not use
+or disclose Protected Health Information in any manner that would violate the Privacy Rule if done by
+Company, In addition, Contractor agrees to not use, disclose or request Protected Health Information in a
+manner inconsistent with the Minimum Necessary standard in the Privacy Rule. Contractor further agrees
+to comply with all applicable HIPAA Rules.
+
+8. Requests for Access. To the extent Contractor maintains Protected Health Information in a
+Designated Record Set on behalf of Covered Entity, within ten (10) business days after receipt of Covered
+Entity’s written request, Contactor agrees to make available such Protected Health Information to Covered
+Entity in accordance with 45 CFR 164.524, including the requirement to make such PHI available in
+electronic form to the extent required by the HITECH Act.
+
+9. Requests for Amendment. To the extent Contractor maintains Protected Health Information in a
+Designated Record Set on behalf of Covered Entity, within ten (10) business days after receipt of Covered
+Entity’s written request, Contractor agrees to make any amendment(s) to such PHI in accordance with 45
+CFR 164.526.
+
+10. Requests for Accounting of Information, Contractor agrees to document such disclosures of
+Protected Health Information made by it, and information related to such disclosures, as would be required
+for a Covered Entity to respond to a request by an Individual for an accounting of disclosures of Protected
+Health Information under 45 CFR 164.528, and to provide such information to Company within ten (10)
+business days of receipt of a request from Company. In the event any individual requests an accounting of
+disclosures of Protected Health Information directly from Contractor, Contractor shall within 5 business
+days of receipt thereof, forward such request to Company. Unless Company directs otherwise, any response
+to such requests shall be the responsibility of Company.
+
+11. Requests for Confidential Communications and Restrictions, Within ten (10) business days of
+receipt of a request from Company, Contractor agrees to comply with any request for confidential
+communication of, or restriction on the use or disclosure of, Protected Health Information held by it or any
+agent or Subcontractor as requested by Company and in accordance with 45 CFR 164,522
+
+12. Disclosure of Privacy and Security Practices to Authorities. Contractor agrees to make its
+internal practices, books, and records relating to the use and disclosure of Protected Health Information
+
+available to Company and the Secretary in a time and manner designated by the Secretary, for purposes of
+determining Company’s or Contractor’s compliance with the HIPAA Rules.
+
+13. Term and Termination.
+
+3 of 6
+
+(a) Term. The term of this Business Associate Agreement shall continue for so long as the Services
+Agreement remains in effect, except that Section 13(c) shall survive after the termination of the
+Services Agreement for as long as Contractor retains any Protected Health Information.
+
+(b) Termination. Upon Company’s determination that Contractor has violated or breached a material
+term of this Business Associate Agreement, Company may either: (1) provide an opportunity of
+twenty (20) business days for Contractor to cure the breach or end the violation, and terminate this
+Business Associate Agreement and the Services Agreement if Contractor does not cure the breach
+or end the violation within the time specified by Company; or (2) immediately terminate this
+Business Associate Agreement and the Services Agreement if it determines that Contractor has
+breached a material term of this Business Associate Agreement and cure is not possible.
+
+(c) Effect of Termination. (1) Except as provided in paragraph (2) of this Section 13(c), upon
+termination of the Services Agreement for any reason, Contractor shall, at the election of Company,
+return to Company or destroy all Protected Health Information in its possession. Contractor shall
+retain no copies of the Protected Health Information. (2) In the event that returning or destroying
+the Protected Health Information is infeasible because required for Contractor’s management and
+administration or to carry out its legal responsibilities, Contractor shall notify Company within ten
+(10) business days after termination of the Services Agreement. If Company agrees that return or
+destruction of the Protected Health Information is infeasible, Contractor may retain such Protected
+Health Information and will extend the protections, including but not limited to the safeguards in
+45 CFR Part 164, of this Business Associate Agreement to such Protected Health Information, and
+limit further uses and disclosures of it to those purposes that make the return or destruction
+infeasible, for so long as Contractor holds such Protected Health Information.
+
+14, Damages. The parties agree that the remedies at law for a breach by it of the terms of this Business
+Associate Agreement may be inadequate and that monetary damages resulting from such breach may not
+be readily measured. Accordingly, in the event of a breach by either party of the terms of this Business
+Associate Agreement, the other party shall be entitled to immediate injunctive relief. Nothing herein
+shall prohibit either party from pursuing any other remedies that may be available to cither to them for such
+breach.
+
+15. Indemnification. Contractor will indemnify and hold harmless Company and any of its officers,
+directors, employees, or agents from and against any claim, cause of action, liability, damage, cost or
+expense, including reasonable attorneys’ fees and court or proceeding costs, arising out of or in connection
+with any breach of the terms of this Business Associate Agreement or any failure to perform its obligations
+under this Business Associate Agreement by Contractor, it officers, employees, agents or any person or
+entity under Contractor's direction or control. Contractor shall also indemnify Company and its officers,
+directors, employees, or agents from and against any claim, cause of action, liability, damage, cost or
+expense, including notification and related costs, mitigation or remediation services (including credit
+monitoring services to the extent required by law or as reasonably determined to be appropriate by
+Company), reasonable attorneys’ fees and court or proceeding costs, arising out of or in connection with
+any Breach or Potential Breach of Protected Health Information under the control of Contractor or its agents
+or subcontractors.
+
+16. Delegation, To the extent Contractor carries out one or more obligation(s) for Company that
+Company has undertaken on behalf of covered entities under Subpart E of 45 CFR Part 164, Contractor
+agrees to comply with the requirements of Subpart E that apply to the covered entities in the performance
+of such obligation(s).
+
+4o0f6
+
+17. Data Breach Notification and Mitigation Under State Laws. Contractor agrees to implement
+reasonable systems for the discovery and prompt reporting of any breach of individually identifiable
+information accessed, maintained, created, transmitted, used or disclosed on behalf of Company (including,
+but not limited to, PHI and referred to in this Section 17 as “Individually Identifiable Information”) that, if
+misused, disclosed, lost or stolen, would trigger an obligation under one or more applicable State data
+breach notification laws (each a “State Breach”) to notify the individuals who are the subject of the
+Individually Identifiable Information. Contractor agrees that in the event any Individually Identifiable
+Information is the subject of a State Breach experienced by Contractor or its Subcontractors, Contractor
+shall promptly: (i) notify Company within two (2) business days (or such shorter time frame as required
+by applicable State law) of any State Breach; (ii) cooperate and assist Company with any investigation into
+any State Breach or alleged State Breach; (iii) cooperate and assist Company with any investigation into
+any State Breach or alleged State Breach conducted by any State Attorney General or State Consumer
+Affairs Department (or their respective agents); (iv) comply with Contractor’s obligations to mitigate to
+the extent practicable any potential harm to the individuals impacted by any State Breach; and (v) assist
+with the implementation of any decision by any State agency, including any State Attorney General or State
+Consumer Affairs Department (or their respective agents). This Section shall survive the expiration or
+termination of this Agreement and shall remain in effect for so long as Contractor maintains Individually
+Identifiable Information.
+
+ 
+
+18, Miscellaneous
+
+(a) Amendment. Contractor agrees to take such action as Company deems necessary to amend this
+Business Associate Agreement, as well as agreements with its subcontractors, from time to time to
+comply with the requirements of any of the HIPAA Rules.
+
+(b) Regulatory References. A reference in this Business Associate Agreement to a section in the Privacy
+Rule or Security Rule means the section as in effect, including any amendments.
+
+(c) Interpretation. Any ambiguity in this Business Associate Agreement shall be resolved to permit
+compliance with the HIPAA Rules.
+
+(d) Survival. The provisions of Sections 4, 5, 12, 13(c), 15, 17, 18(g) and 18(h) shall survive termination
+of this Business Associate Agreement.
+
+(e) Conflicts. The terms and conditions of this Business Associate Agreement shall override and control
+any conflicting term or condition of the Services Agreement. All non-conflicting terms and conditions
+of the Services Agreement remain in full force and effect.
+
+(f) Locus of Information. Contractor agrees that it currently does not, and in the future shall not,
+perform any of its services that involve the use or disclosure of Protected Health Information outside
+the United States, and neither has transferred, nor will it in the future, transfer or allow access to
+Protected Health Information outside the United States under any circumstances without the explicit
+prior written permission of Company.
+
+(g) Audits. Upon reasonable notice to Contractor, Company shall have the right to inspect and audit
+Contractor’s premises, books and records, including its privacy and security policies and procedures
+and other documentation, equipment and systems relating to Contractor’s compliance with the terms
+of this Business Associate Agreement and the HIPAA Rules.
+
+Sof6
+
+(h) Ownership of Data. All Protected Health Information shall, as between the parties to this Agreement,
+at all times be and remain the sole property of Company, and Contractor shall not have or obtain any
+rights therein except to use and disclose such information for the purposes stated herein.
+
+(i) Relationship of Parties. It is expressly agreed that Contractor, its divisions, and its affiliates,
+including its employees and any Subcontractors, are performing the services under this and the
+Services Agreement as independent contractors for Company. Neither Contractor nor of its affiliates,
+officers, directors, employees or Subcontractors is an employee or agent of Company. Nothing in
+this Agreement shall be construed to create (i) a partnership, joint venture or other joint business
+relationship between the parties or any of their affiliates, or (ii) an agency relationship for purposes
+of the HIPAA Rules.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Business Associate Agreement to
+be executed by their respective duly authorized officers or agents as of the date first above written.
+
+1 Digitally signed by
+CONTRACTOR Timothy Timothy B. Sparks Cr L
+° B Spa rks 2018.06.13 ~
+
+= 15:08:03 -05'00' By; Of
+By: Leino, Bus yoarke .
+Its: VE 1
+
+Its: CEO
+Date: G/ 13/18 v
+
+Date: June 13, 2018
+
+ 
+
+COMPANY
+
+6 of 6
+

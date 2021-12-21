@@ -1,0 +1,901 @@
+
+C-Lutions, LLC.
+C-Lutions End-User License Agreement
+
+You (“Licensee”) have licensed software set forth on Schedule A incorporated herein by this reference, (“Licensed
+Software”) or acquired a device (“Hardware”) incorporating software developed by C-Lutions, LLC (“C-Lutions”). These
+products, as well as associated media, printed materials and “online” or electronic documentation are protected by
+international intellectual property laws and treaties. The Licensed Software is licensed, not sold. All rights reserved.
+
+If you have employed/contracted a third party (“Third-Party Services Provider”) and/or individual to install and configure
+the Hardware and/or Licensed Software, then you hereby authorize the Third-Party Services Provider to accept this EULA
+on your behalf. Such acceptance occurs upon the installation and/or configuration of the Hardware and/or Licensed
+Software.
+
+IF YOU DO NOT AGREE WITH THIS END USER LICENSE AGREEMENT (“EULA”) DO NOT USE THE C-
+LUTIONS TECHNOLOGY (DEFINED BELOW). INSTEAD, PROMPTLY CONTACT C-LUTIONS FOR
+INSTRUCTIONS ON RETURN OF THE UNUSED C-LUTIONS TECHNOLOGY. ANY USE OF THE LICENSED
+SOFTWARE, INCLUDING BUT NOT LIMITED TO USE ON THE HARDWARE OR OTHER COMPUTING
+DEVICES, WILL CONSTITUTE YOUR AGREEMENT TO THIS EULA (OR RATIFICATION OF ANY
+
+PREVIOUS CONSENT).
+
+INTERPRETATION
+
+In this EULA, except where the context otherwise requires,
+the following words and phrases shall have the following
+meanings:
+
+"Agreement" this EULA, together with the Purchase Order
+attached hereto as Schedule A or other order form that
+specifies the prices for and use of the Hardware and the
+Licensed Software.
+
+“CLM Matrix Configuration Center” that part of the
+“Licensed Software” which is installed on computers and
+which is used to configure the Licensed Software residing
+upon the Hardware.
+
+"C-Lutions Technology" one unit of the Hardware and/or the
+Licensed Software, which may be sold as a single product
+unit.
+
+"Documentation" any documentation generally supplied to
+the customers of C-Lutions and to Licensee by C-Lutions
+during the term of this EULA which relates to the Hardware
+or Licensed Software.
+
+"Intellectual Property Rights" patents, trade marks, service
+marks, registered designs and applications for any of the
+foregoing, copyright, know-how, confidential information,
+trade or business names, design rights and any other similar
+rights protected in any country.
+
+"Object Code" the directly executable computer software
+program in binary code derived from Source Code using a
+compiler or otherwise.
+
+"Source Code" all material necessary to enable a programmer
+of reasonable skill and experience to maintain and enhance
+the Licensed Software, including but not limited to, logic,
+
+C-Lutions End-User License Agreement. Rev 01/2008
+Copyright © 2008 C-Lutions, LLC. All rights reserved.
+
+logic diagrams, flow charts, orthographic representations,
+algorithms, routines, sub-routines, utilities, modules, file
+structures, coding sheets, specifications and the program
+instructions.
+
+1. LICENSE
+
+1.1 License Grant. C-Lutions hereby grants to Licensee a
+perpetual, irrevocable, non-transferable (except as permitted
+herein), non-exclusive limited license to install and use the
+Licensed Software in Object Code form provided Licensee
+complies with all the terms and conditions as set forth in this
+Agreement. C-Lutions reserves all other rights. Use of the
+Licensed Software is solely for Licensee’s internal business
+purposes at a site owned or leased by Licensee and specified
+on the Schedule A of this Agreement, (each a “Site”). C-
+Lutions hereby grants to Licensee a perpetual, irrevocable,
+non-transferable (except as permitted herein), non-exclusive,
+limited license to use the Documentation. The
+Documentation may be copied and used at a Site as
+reasonably necessary in connection with Licensee’s
+authorized use of the respective C-Lutions Technology.
+
+1.2 License Scope. This Agreement only gives you rights to
+use the Licensed Software. C-Lutions reserves all other
+rights. Unless applicable law gives you more rights despite
+this limitation, you may use the Licensed Software only as
+expressly permitted in this Agreement. In doing so, you must
+comply with any technical limitations set forth in the
+Documentation in the Licensed Software that only allow you
+to use it in certain ways.
+
+1.3 Third-Party Software. Licensee is responsible for any
+additional third-party software licenses that may be required
+including but not limited to: Microsoft Office, SharePoint
+Server, SQL Server, Windows Server.
+
+Page | of 6
+
+1.4 License Restrictions. Except as otherwise permitted
+herein, Licensee may not: (a) modify, adapt, decompile,
+disassemble, reverse engineer, any C-Lutions Technology;
+(b) create derivative works based on any C-Lutions
+Technology; (c) make copies of any C-Lutions Technology,
+except for one copy of the Object Code of the Licensed
+Software for a pre-production environment and one copy
+solely for backup or archival purpose; (d) allow any third
+party to use or have access to any C-Lutions Technology or
+Documentation; (e) transfer or convey C-Lutions Technology
+to any other location not specified in this Agreement, or
+license or sublicense to any third party, any C-Lutions
+Technology or Documentation, or any part thereof; (f) use
+any C-Lutions Technology to perform Value Added Services
+(as defined below) without prior written permission from C-
+Lutions. Any copy of any C-Lutions Technology or
+Documentation made by Licensee, including any partial
+copy, is the property of C-Lutions. Licensee will include on
+each such copy all copyright, trademark and other proprietary
+rights notices included by C-Lutions on the originals. As
+used in this Agreement, “Value Added Services” means
+using the C-Lutions Technology in connection with
+providing services to any third party, including but not
+limited to consulting or commercial hosting services.
+
+1.5 Licensee may only use the “CLM Matrix Configuration
+Center” to modify the C-Lutions Technology.
+
+2. PROPERTY RIGHTS
+
+2.1 Ownership. Licensee acknowledges and agrees that: (a)
+the Licensed Software and Documentation are the property of
+C-Lutions or its licensors, and not Licensee, and (b) Licensee
+will use the C-Lutions Technology and Documentation only
+under the terms and conditions described herein.
+
+2.2 No Publication. The grant of the licenses hereunder and
+the carrying out of the transactions contemplated hereby shall
+not be deemed publication by either party of all or any
+portion of the C-Lutions Technology.
+
+2.3 Confidentiality.
+
+(a) Licensee acknowledges that the C-Lutions
+Technology and Documentation contain valuable proprietary
+information and trade secrets of C-Lutions and that it shall
+take reasonable measures to protect the secrecy of, and avoid
+disclosure and unauthorized use of, the C-Lutions
+Technology and Documentation. Without limiting the
+foregoing, Licensee agrees: (a) to take with respect to the C-
+Lutions Technology and Documentation at least those
+measures that it takes to protect its own confidential
+information; and (b) that the C-Lutions Technology and
+Documentation may not be disclosed, reproduced,
+summarized, distributed or used except as necessary to
+exercise the license granted hereunder.
+
+(b) C-Lutions shall hold confidential whether or not
+marked, and without regard to the manner disclosed, and
+shall not without Licensee’s prior written consent use, copy
+or disclose to any third party except its personnel with a need
+
+C-Lutions End-User License Agreement. Rev 01/2008
+Copyright © 2008 C-Lutions, LLC. All rights reserved.
+
+thererfor in the course of performance of C-Lutions’
+obligations hereunder, any designs, drawings, specifications,
+technical data, models, manufacturing processes or methods,
+trade secrets or other confidential or proprietary information
+or data which have been delivered or disclosed to C-Lutions
+by Licensee, its agents or personnel or any patient
+information to which C-Lutions, its agents and personnel
+may have access, and shall inform any person to whom any
+such information is disclosed of C-Lutions’ obligation of
+confidentiality and non-use with regard thereto. In addition
+C-Lutions shall not, without Licensee’s prior written consent,
+advertise, publish or release any statement mentioning
+Licensee or the fact that C-Lutions has furnished or
+contracted to furnish Licensee with the goods or services
+described herein or disclose to any third party any
+information related to the Agreement or the terms hereof.
+
+2.4 Trademarks.
+
+(a) Licensee acknowledges C-Lutions ownership of the
+trademark "C-Lutions” the C-Lutions Technology names, and
+all related trademarks and service marks. Licensee further
+acknowledges that it will acquire no interest in such
+trademarks and service marks by virtue of this Agreement or
+the performance by Licensee of its duties and obligations
+under this Agreement. Licensee agrees not to use the name
+"C-Lutions" or any of the C-Lutions Technology names or
+marks (or any confusingly similar name or symbol), in whole
+or in part, as part of Licensee's business or trade name.
+
+(b) C-Lutions grants to Licensee the non-exclusive,
+limited right to use the C-Lutions Technology names and
+marks solely in connection with the license, granted to
+Licensee under this Agreement.
+
+(c) Upon termination of this Agreement, Licensee
+agrees not to use C-Lutions proprietary names and marks..
+
+(d) C-Lutions may not use Licensee’s name, trade or
+service marks or logos except upon the prior written consent
+of a Licensee representative. All materials utilizing the
+Licensee name, trade cr service marks, or logos shall be
+submitted to Licensee for prior written consent. Licensee
+and C-Lutions shall agree upon procedures for the efficient
+processing of such requests
+
+3. TERM AND TERMINATION
+
+3.1 Term. This Agreement shall commence on the Effective
+Date and shall remain in effect unless terminated as provided
+herein. Termination of this Agreement, unless terminated for
+cause by C-Lutions under Subsection 3.2 below, shall not
+affect any perpetual licenses. Such perpetual licenses shall
+continue in effect and the terms and conditions contained in
+Subsection 3.3, Survival of Obligations, shall govern such C-
+Lutions Technology and Documentation.
+
+3.2 Termination for Cause. This Agreement shall terminate
+immediately if Licensee attempts to reverse engineer the C-
+Lutions Technology. Otherwise, this Agreement may be
+terminated by either party for a breach of any of its material
+
+Page 2 of 6
+
+terms, provided the non-breaching party provides to the
+breaching party 30 days written notice describing such
+breach and offering the breaching party an opportunity to
+cure. Failure to cure a material breach within the notice
+period shall result in automatic termination of this
+Agreement.
+
+3.3 Survival of Obligations. The obligations of the parties
+under this Agreement, which by their nature would continue
+beyond the termination, cancellation or expiration of this
+Agreement, shall survive termination, cancellation or
+expiration of this Agreement.
+
+3.4 Effect_of Termination. Upon the termination of this
+Agreement by C-Lutions due to a material breach by
+Licensee:
+
+(a) All unpaid, undisputed fees incurred by Licensee as
+of the date of termination will be immediately due and
+payable to C-Lutions;
+
+(b) All rights and licenses granted by C-Lutions to
+Licensee under this Agreement will terminate;
+
+(c) Licensee must immediately cease use of the C-
+Lutions Technology, remove the Licensed Software from all
+computers, servers and appliances, and return all copies of
+the C-Lutions Software and Documentation to C-Lutions, or,
+at C-Lutions option, destroy all copies of the C-Lutions
+Software and Documentation in any form;
+
+(d) Within five (5) business days of such termination,
+Licensee must certify to C-Lutions in writing that Licensee
+has complied with Section 3.4(c) above.
+
+4. INTELLECTUAL PROPERTY INDEMNITY
+
+4.1 Indemnity. Subject to the limitations of Sections 4.2,, C-
+Lutions will indemnify, hold Licensee harmless and defend at
+its own expense, any claim, suit, action or proceeding (each a
+“Claim”) brought against Licensee to the extent it is based
+upon a claim that any Licensed Software, Documentation or
+C-Lutions Technology licensed pursuant to this Agreement
+or provided by C-Lutions infringes upon any patent or any
+copyright, trade secret or other intellectual property or other
+proprietary right of any third party. Licensee agrees that it
+shall notify C-Lutions in writing of any such Claim and give
+C-Lutions reasonable information and assistance in
+connection therewith. C-Lutions shall have the sole right to
+control the defense of any such Claim and the sole right to
+settle or compromise any such Claim, provided that any such
+settlement or compromise that involves anything other than a
+cash payment by C-Lutions to the claimant shall not
+adversely affect the rights of Licensee as provided herein. C-
+Lutions will pay any and all damages, liabilities, costs and
+expenses (including reasonable attorneys’ fees) awarded to
+third parties against Licensee or incurred by Licensee in
+connection with such action (except as limited by Sections
+4.2). If the C-Lutions Technology, the Licensed Software or
+Documentation is, or in C-Lutions opinion might be, held to
+infringe the Intellectual Property Rights of a third party, as
+set forth above, C-Lutions may, at its option replace or
+
+C-Lutions End-User License Agreement. Rev 01/2008
+Copyright © 2008 C-Lutions, LLC. All rights reserved.
+
+modify such C-Lutions Technology so as to avoid
+infringement, or procure the right for Licensee to continue
+the use of such C-Lutions Technology. If neither of such
+alternatives is, in C-Lutions reasonable opinion,
+commercially reasonable, such C-Lutions Technology shall
+be returned to C-Lutions and C-Lutions shall refund any and
+all fees paid or payable by Licensee to C-Lutions in
+connection with the C-Lutions Technology.
+
+4.2 Limitations. C-Lutions will have no obligation to
+indemnify, defend and hold Licensee harmless against, any
+claim of infringement to the extent such Claim is based on (a)
+use of a C-Lutions Technology outside the scope of this
+Agreement; (b) use of a superseded or altered release of a C-
+Lutions Technology if the infringement would have been
+avoided by the use of a later unaltered release of the C-
+Lutions Technology provided to Licensee.; (c) the
+combination, operation, or use of a C-Lutions Technology
+with other software, hardware or other materials not
+approved by C-Lutions if such infringement would have been
+avoided by avoiding the use of the C-Lutions Technology
+with such software, hardware or other materials; ; (d) any
+modification of the C-Lutions Technology made by a third
+party; or (e) Licensee’s use of the C-Lutions Technology
+after C-Lutions notice that Licensee shall cease use of the C-
+Lutions Technology due to an infringement claim or action.
+
+4.3 Entire Liability. TO THE FULL EXTENT
+PERMITTED BY LAW, THE FOREGOING STATES THE
+ENTIRE LIABILITY OF C-LUTIONS TO LICENSEE
+CONCERNING INFRINGEMENT OF INTELLECTUAL
+PROPERTY RIGHTS, INCLUDING BUT NOT LIMITED
+TO PATENT, COPYRIGHT AND TRADE SECRET
+RIGHTS.
+
+5. WARRANTY
+
+5.1 Licensed Software Warranty. C-Lutions warrants that for
+a period of sixty (60) days from the date of delivery (the
+“Warranty Period”), the Licensed Software will operate
+substantially in accordance with the applicable
+Documentation. C-Lutions does not warrant that the
+functions contained in the C-Lutions Technology will meet
+Licensee’s requirements or that the operation of the C-
+Lutions Technology will be uninterrupted or error free. If,
+during the Warranty Period, the Licensed Software does not
+operate substantially in accordance with such
+Documentation, Licensee may so inform C-Lutions in
+writing and provide to it, such information and materials as
+C-Lutions may reasonably request to document and
+reproduce such problem and to verify whether any proposed
+solution corrects such problem. Such information may
+include a written explanation of such problem, a written
+description of the operating environment, and (if permitted) a
+copy of any software program used with the C-Lutions
+Technology. Following the receipt of such information and
+materials, if C-Lutions determines that the Licensed Software
+does not operate substantially in accordance with such
+Documentation, then C-Lutions will at its election, (a)
+modify the C-Lutions Technology so that it does operate
+
+Page 3 of 6
+
+substantially in accordance with such Documentation, (b)
+replace the Licensed Software with other C-Lutions products
+offering substantially similar functionality or, (c) if (a) or (b)
+is not commercially reasonable, refund any and all fees paid
+by Licensee to C-Lutions in connection with the C-Lutions
+Technology.. In the event C-Lutions furnishes a correction or
+cure pursuant to clause (a) or (b), C-Lutions shall warrant
+such correction or cure for the remainder of the original
+Warranty Period or thirty (30) days, whichever is longer.
+This Warranty shall not apply to Software that has been
+modified by a third party, used improperly or on an operating
+environment inconsistent with recommendations by C-
+Lutions set forth in the Documentation.
+
+5,2 If an implied warranty or condition is created by your
+state/jurisdiction and federal or state/provincial law prohibits
+disclaimer of it, you also have an implied warranty or
+condition, BUT ONLY AS TO DEFECTS DISCOVERED
+DURING THE PERIOD OF THIS LIMITED WARRANTY.
+AS TO ANY DEFECTS DISCOVERED AFTER THE
+SIXTY (60) DAY PERIOD, THERE IS NO WARRANTY
+OR CONDITION OF ANY KIND. Some states/jurisdictions
+do not allow limitations on how long an implied warranty or
+condition lasts, so the above limitation may not apply to you.
+Any supplements or updates to the Product, including
+without limitation, any (if any) service packs or hot fixes
+provided to you after the expiration of the sixty (60) day
+Limited Warranty period are not covered by any warranty or
+condition, express, implied or statutory.
+
+5.3 Exclusions. C-Lutions will have no responsibility,
+warranty or other obligations whatsoever with respect to: (a)
+the use of C-Lutions Technology in a manner inconsistent
+with the respective Documentation or this Agreement, (b)
+any C-Lutions Technology which has been modified by any
+third party, or (c) failure of a C-Lutions Technology as a
+result of Licensee’s gross negligence, accident, abuse or
+misapplication, or computer equipment malfunction.
+
+5.4 Limited Media Warranty. C-Lutions represents and
+warrants that the media, if any, on which the Licensed
+
+Software is furnished will be free from defects in material
+and workmanship under normal use for a period of sixty (60)
+days from the date of delivery of the C-Lutions Technology
+to Licensee.
+
+5.5 Licensed Hardware Warranty. C-Lutions warrants that
+for a period of one (1) year from the date of delivery (the
+“Licensed Hardware Warranty Period”), the Licensed
+Hardware (if applicable) licensed hereunder as part of the C-
+Lutions Technology will operate substantially in accordance
+with the respective Documentation, subject to the restrictions
+of Clauses 5.2 and 5.3.
+
+5.6 No Other Warranties. THE EXPRESS WARRANTIES
+IN THIS SECTION 5 ARE IN LIEU OF ALL
+WARRANTIES MADE BY C-LUTIONS FOR ARISING
+OUT OF OR IN CONNECTION WITH THE DELIVERY,
+USE OR PERFORMANCE OF THE LICENSED
+TECHNOLOGY OR DOCUMENTATION. C-LUTIONS
+
+C-Lutions End-User License Agreement. Rev 01/2008
+Copyright © 2008 C-Lutions, LLC. All rights reserved.
+
+EXPRESSLY DISCLAIMS, TO THE FULL EXTENT
+PERMITTED BY LAW, ALL OTHER WARRANTIES,
+EXPRESS OR IMPLIED, WITH REGARD TO THE
+LICENSED TECHNOLOGY OR DOCUMENTATION,
+INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE OR ARISING FROM THE
+COURSE OF DEALING BETWEEN THE PARTIES OR
+USAGE OF TRADE. THESE DISCLAIMERS OF
+WARRANTY AND LIMITATIONS OF LIABILITY
+CONSTITUTE AN ESSENTIAL PART OF THIS
+AGREEMENT.
+
+6. LIMITATION OF LIABILITY
+
+6.1 EXCEPT FOR C-LUTIONS OBLIGATIONS UNDER
+SECTION 5 ABOVE, LICENSEE AGREES THAT
+NEITHER PARTY’S LIABILITY UNDER THIS
+AGREEMENT SHALL EXCEED THE FEES PAID OR
+PAYABLE BY LICENSEE TO C-LUTIONS FOR THE
+PARTICULAR C-LUTIONS TECHNOLOGY INVOLVED.
+IN NO EVENT WILL EITHER PARTY BE LIABLE FOR
+COSTS OF PROCUREMENT OF SUBSTITUTE
+PRODUCTS OR SERVICES, LOST PROFITS, LOSS OF
+DATA OR ANY OTHER SPECIAL, INDIRECT,
+INCIDENTAL OR CONSEQUENTIAL DAMAGES OF
+WHATEVER NATURE ARISING OUT OF OR
+RELATING TO THIS AGREEMENT, THE C-LUTIONS
+TECHNOLOGY OR THE DOCUMENTATION, EVEN IF
+SUCH PARTY HAS BEEN NOTIFIED OF THE
+POSSIBILITY OF SUCH DAMAGES AND
+NOTWITHSTANDING THE FAILURE OF ESSENTIAL
+PURPOSE OF ANY LIMITED WARRANTY.
+
+THE LIMITATIONS ON LIABILITY SET FORTH IN THIS
+AGREEMENT SHALL NOT APPLY TO, OR LIMIT THE
+LIABILITY OF A PARTY OR ITS AFFILIATES FOR (A) A
+BREACH OF ITS CONFIDENTIALITY OR SECURITY
+OBLIGATIONS HEREUNDER; OR (B) ITS INDEMNIFICATION
+AND DEFENSE OBLIGATIONS HEREUNDER.
+
+7. GENERAL
+
+7A Fees. The fees for the license granted herein (the
+“License Fees”) shall be for the amount set forth in Schedule
+A and are due upon execution of this Agreement.
+
+7.2 Maintenance. C-Lutions shall provide Enhanced
+Maintenance and Support in accordance with the terms set
+forth on Schedule B, attached hereto and incorporated by this
+reference (“Maintenance and Support”). C-Lutions shall
+provide Maintenance and Support to Licensee for a term of
+one (1) year (the “Maintenance Term”) and shall
+automatically renew for subsequent one (1) year periods
+unless Licensee provides to C-Lutions written notice of its
+election to terminate Maintenance and Support at least thirty
+(30) days prior to the end of the then current term. C-Lutions
+represents that after the expiration of the Warranty Period
+and for so long as Licensee maintains Maintenance and
+Support, the Software shall operate substantially in
+accordance with the Documentation and C-Lutions shall
+
+Page 4 of 6
+
+correct any non-conformance in accordance with the terms
+set forth on Schedule B.
+
+7.3 Notices. All notices under this Agreement shall be sent
+to a party at the respective address indicated on Schedule A,
+or to such other address as such party shall have notified the
+other. All such notices so addressed shall be deemed duly
+given (a) upon delivery, if delivered by courier or by hand
+(against receipt); or (b) three days after posting, if sent by
+certified or registered mail, return receipt requested.
+
+7.4 Dispute Resolution. If a dispute arises out of this
+Agreement, the Parties will try to resolve it promptly by
+negotiation between executives. If the dispute has not been
+resolved by negotiation within thirty (30) days, the parties
+will try to settle the dispute through mediation. Any
+controversy that remains unresolved thirty (30) days after
+appointment of a mediator will go to arbitration under the
+rules of the American Arbitration Association , by which
+Licensee and C-Lutions agree to be bound. The place of
+arbitration will be Memphis, TN. Unless both parties agree
+otherwise, any award will be in writing and will state the
+reasons for the award. Judgment upon the award may be
+entered by any court having jurisdiction of the case.
+
+7.5 Choice of Law. This Agreement shall be construed and
+controlled by the laws of the State of Tennessee, without
+reference to conflicts of law principles.
+
+7.6 Export Controls. Licensee specifically acknowledges
+that the C-Lutions Technology and Documentation may be
+subject to United States and other country export control
+laws. Licensee shall comply strictly with all requirements of
+all applicable export control laws and regulations with
+respect to all such software and materials.
+
+7.7 Exclusion. C-Lutions represents and warrants that
+neither it nor any of its employees or agents providing
+services under this Agreement is currently or is about to be
+excluded from participation in any Federal Healthcare
+Programs. C-Lutions agrees to notify Licensee within one (1)
+business day of C-Lutions’s receipt of a notice of intent to
+exclude or actual notice of exclusion of C-Lutions or any of
+its agents or employees providing services hereunder from
+any such program. In the event that C-Lutions is excluded
+from any Federal Healthcare Program, the term of this
+Agreement shall immediately terminate. The term “Federal
+Healthcare Program” means the Medicare program, the
+Medicaid program, the Maternal and Child Health Services
+Block Grant program, the Block Grants for State for Social
+Services program, and state Children’s Health Insurance
+program, or any similar program.
+
+7.8 Restricted Rights. If Licensee is an agency, agent, unit,
+or instrumentality of the United States Government then use,
+duplication or disclosure of the C-Lutions Technology is
+subject to the restrictions set forth in subparagraphs (a)
+through (d) of the Commercial Computer-Restricted Rights
+clause at FAR 52.227-19 when applicable, or in
+subparagraph (c)(I)(ii) of the Rights in Technical Data and
+Computer Software clause at DFARS 252.227-7013, or at
+
+C-Lutions End-User License Agreement. Rev 01/2008
+Copyright © 2008 C-Lutions, LLC. All rights reserved.
+
+252.211-7015, or to C-Lutions standard commercial license,
+as applicable, and in similar clauses in the NASA FAR
+Supplement. Contractor/manufacturer is C-Lutions, LLC,
+Dallas, Texas.
+
+7.9 Severability. If any provision in this Agreement is found
+or held to be invalid or unenforceable, then the meaning of
+such provision shall be construed, to the extent feasible, so as
+to render the provision enforceable, and if no feasible
+interpretation would save such provision, it shall be severed
+from the remainder of this Agreement which shall remain in
+full force and effect unless the severed provision is essential
+and material to the rights or benefits received by either party.
+In such event, the parties shall use their best efforts to
+negotiate, in good faith, a substitute, valid and enforceable
+provision or agreement that most nearly affects their intent in
+entering into this Agreement.
+
+7.10No Waiver. A waiver of a breach or default under this
+Agreement shall not be a waiver of any other breach or
+default. Failure of either party to enforce compliance with
+any term or condition of this Agreement shall not constitute a
+waiver of such term or condition unless accompanied by a
+clear written statement that such term or condition is waived.
+
+7.11No_Assignment. This Agreement and the rights
+hereunder are not transferable or assignable without the prior
+written consent of the parties hereto, provided that Licensee
+may assign this Agreement and its rights hereunder without
+such consent to an affiliate or upon a merger, change of
+control or sale of all or substantially all of Licensee’s assets.
+
+7.12Force Majeure. Except for payments due under this
+Agreement, neither party will be responsible for any failure
+to perform due to causes beyond its reasonable control (each
+a "Force Majeure"), including, but not limited to, acts of
+God, war, riot, embargoes, acts of civil or military
+authorities, denial of or delays in processing of export license
+applications, fire, floods, earthquakes, accidents, strikes, or
+fuel crises.
+
+7.13 Entire Agreement; Modifications. This Agreement
+contains the entire understanding of the parties with respect
+to the matters contained herein. Any deviations from or
+additions to the terms of this Agreement must be in writing
+and will not be valid unless confirmed in writing by duly
+authorized officers of C-Lutions and Licensee.
+
+Page 5 of 6
+
+Agreed and accepted:
+
+C-Lutions, LLC
+
+ 
+  
+
+By:
+Printed Name: Timothy B. Sparks
+Title: CEO
+
+Date: O/{A f
+
+Phone:
+
+Fax:
+
+Address:
+
+7872604.3
+
+C-Lutions End-User License Agreement. Rev 01/2008
+Copyright © 2008 C-Lutions, LLC. All rights reserved.
+
+St. Jude Children’s Re: ospital
+
+   
+
+By;
+Printed Name; ol 0S
+Title: Ko
+
+Date: (q16}0%
+
+Phone:
+
+Fax:
+
+Address:
+
+Page 6 of 6
+
+This Schedule is attached to and
+
+C-LUTIONS EULA
+SCHEDULE A
+
+becomes, upon execution by both parties below, a part of the C-Lutions
+
+End User License Agreement between such parties dated June 18, 2009 and sets forth the specific terms
+and conditions relating to the Licensed Software listed below:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Effective Date Date of signature below
+Licensed Software CLM Matrix V7.x
+Software Format Object
+
+Operating Platform Microsoft
+
+License Type Single CPU
+
+License Term perpetual
+
+ 
+
+License Fee
+
+$121,000 is the adjusted license price for St. Jude. This price is for 15
+Full user seats and 400 Casual user seats. Also, St. Jude has protected
+additional seat pricing for 24 months from date of this agreement for Full
+user seats at $1,250 per seat and Casual user seats at $125 per seat;
+
+ 
+
+Number of Copies of Licensed
+Material
+
+2:
+1 for production use and 1 for test use
+
+ 
+
+Acceptance Testing
+
+Testing conducted throughout implementation
+
+ 
+
+Acceptance Period
+
+ 
+
+30 days post Go Live
+
+ 
+
+Initial Maintenance Fee
+
+20% of the adjusted license price $24,200
+
+ 
+
+Term of Maintenance
+
+1 year from date of license; annual renewal
+
+ 
+
+Export Control Restrictions
+
+US only
+
+ 
+
+To Be Delivered To
+
+Jason Williamson, Senior Director
+Enterprise Informatics, Information Sciences
+c/o St. Jude Children’s Research Hospital
+262 Danny Thomas Place
+
+Memphis, TN 38105
+
+ 
+
+Send Invoices To
+
+Accounts Payable
+
+c/o St. Jude Children’s Research Hospital
+262 Danny Thomas Place
+
+Memphis, TN 38105
+
+ 
+
+ 
+
+ 
+
+ 
+
+Training Services Not included with license; see Section 6, Master Consulting
+Agreement/SOW
+Professional Services Not included with license; see Section 6, Master Consulting
+
+Agreement/SOW
+
+ 
+
+ 
+
+AGREED:
+
+C-LuTIONS, LLC St. Jude Children’s Research Hospital
+
+By: “WB. Spot — By;
+Name(Mg HY B SPARKS Name; df ithael Cananos
+Tittle: CD Title: (Fo
+
+Date: oy 4) d Date: 1 [04
+
+7885223.1
+
+Schedule B
+
+(An attachment to the C-Lutions EULA)
+
+Enhanced Maintenance and Support
+
+Maintenance Fee and Term:
+a. The maintenance fee for the CLM solution covered by this EULA will be 20% of the list price for
+the Licensed Software and for the Term set forth in this Agreement.
+
+Maintenance Coverage:
+b. Under this Maintenance program the customer will receive the following product coverage
+(“Maintenance”):
+i. Access to all bug fixed releases for the product licensed, typically (but not definitively),
+these will be point.point releases (e.g. 7.x.x)
+ii. Access to all new functionality releases for the product licensed, typically (but not
+definitively), these will be point releases (e.g. 7.x)
+iii. Access to all new major releases for the product licensed, typically (but not definitively)
+these will be a major version number change (e.g., 7.x.x to 8.x.x)
+
+Problem reporting, severity levels and response times are defined below in Table 1. The assignment of
+severity levels shall be in the discretion of Licensee and C-Lutions shall commence commercially
+reasonable efforts to resolve any problem reported by Licensee in accordance with the severity levels
+and within the response times set forth below. Support coverage:
+
+Under this Maintenance program the customer will receive telephone support (“Support”) for
+the Licensed Software as per the Support SLA as defined in Table 2.
+
+Table 1 - Maintenance
+
+ 
+
+Standard Service Levels for Maintenance
+
+Licensed Software down Immediate upon notification
+
+B — Serious Development down or production Immediate upon notification
+impacted but not down
+C— Important Important problem that does not have | Within 4 hours or less
+
+D- Minor
+
+    
+  
+      
+
+          
+  
+
+  
+    
+     
+
+   
+  
+
+significant current productivity impact
+
+Minor problem that does not have | Within 6 hours or less
+impact on current development or
+productivity
+
+E - Monitor Issues requiring no further action | Within 8 hours or less
+beyond monitoring for follow-up as
+
+needed
+
+ 
+
+Table 2 - Support
+
+Post Implementation Support:
+
+Off-Site Support Support Availability
+
+‘elephone Support 9 hours by 5 days
+
+   
+
+ 
+
+Included in Maintenance
+Fees
+
+  
+  
+  
+
+     
+
+ 
+  
+    
+  
+
+    
+  
+   
+
+  
+
+8AM — 5PM CST Monday
+- Friday
+
+   
+ 
+
+   
+
+On-line
+$170/hour
+
+  
+   
+
+Out of hours support As requested
+
+     
+

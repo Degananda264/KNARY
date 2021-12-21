@@ -1,0 +1,1221 @@
+Exhibit 10.9
+
+Confidential Materials omitted and filed separately with the
+
+Securities and Exchange Commission. Double asterisks denote omissions.
+
+AMENDED AND RESTATED
+
+PHARMACEUTICAL MANUFACTURING AND
+
+EXCLUSIVE SUPPLY AGREEMENT
+
+By and Between
+
+LABORATORIOS ERN, S.A.
+
+and
+
+ZAVANTE THERAPEUTICS, INC.
+
+TABLE OF CONTENTS
+
+ARTICLE 1:
+
+DEFINITIONS
+
+1
+
+ARTICLE 2:
+
+DEVELOPMENT ACTIVITIES
+
+4
+
+ARTICLE 3:
+
+COORDINATORS; DIVESTMENT
+
+7
+
+ARTICLE 4:
+
+WARRANTIES; SPECIFICATIONS; QUALITY
+
+8
+
+ARTICLE 5:
+
+MILESTONE PAYMENT; QUARTERLY SALES REPORTING; ERN KNOWLEDGE PRICE
+
+8
+
+ARTICLE 6:
+
+REGULATORY
+
+9
+
+ARTICLE 7:
+
+TERM; TERMINATION
+
+10
+
+ARTICLE 8:
+
+INDEMNIFICATION OF THIRD PARTY CLAIMS
+
+12
+
+ARTICLE 9:
+
+CONFIDENTIALITY
+
+13
+
+ARTICLE 10:
+
+INTELLECTUAL AND INDUSTRIAL PROPERTY
+
+15
+
+ARTICLE 11:
+
+FORCE MAJEURE
+
+17
+
+ARTICLE 12:
+
+LEGAL COMPLIANCE; AUTHORIZATION
+
+17
+
+ARTICLE 13:
+
+PRESS RELEASES; USE OF NAMES
+
+18
+
+ARTICLE 14:
+
+DISPUTE RESOLUTION
+
+18
+
+ARTICLE 15:
+
+MISCELLANEOUS
+
+19
+
+AMENDED AND RESTATED
+
+PHARMACEUTICAL MANUFACTURING
+
+AND EXCLUSIVE SUPPLY AGREEMENT
+
+THIS AMENDED AND RESTATED PHARMACEUTICAL MANUFACTURING AND EXCLUSIVE SUPPLY AGREEMENT (this “Agreement”) is made on the Effective Date by and between Laboratorios ERN, S.A., a Spanish Company with a principal place of business at 499 Pedro IV, 08020 Barcelona, Spain, represented by David Solanes López in his capacity as General Manager (“ERN”) and Zavante Therapeutics, Inc., a Delaware corporation with a principal place of business at 11750 Sorrento Valley Road, Suite 250, San Diego, CA 92121, represented by Theodore R. Schroeder in his capacity as Chief Executive Officer (“Zavante”) (each individually a “Party” and collectively the “Parties”).
+
+W I T N E S S:
+
+WHEREAS, with regard to the definitions stated in Article 1 of this Agreement, Zavante is looking to obtain regulatory approval to market the Product in the Territory; and
+
+WHEREAS, ERN will provide certain necessary knowledge, professional expertise, intellectual property rights and trained, competent personnel to assist Zavante in obtaining regulatory approval to market the Product in the Territory;
+
+WHEREAS, Zavante desires to revise the original version of this Agreement to remove the responsibility for ERN to provide commercial Product to Zavante, and allow Zavante to take direct responsibility for the manufacture and supply of the commercial Product for the Territory, and ERN agrees with this change in obligations and responsibilities;
+
+WHEREAS, the above change of responsibility in relation to the manufacture and supply of the Commercial Product for the Territory requires also an amendment of the Three-Way Agreement signed by Laboratorios ERN, S.A., Ercros, S.A. and Zavante Therapeutics, Inc., effective as of 16 May 2014, which will result in an Amended and Restated Three-Way Agreement, without which the execution of this Agreement will not be valid and effective;
+
+NOW THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Parties agree as follows:
+
+ARTICLE 1:  DEFINITIONS
+
+The following terms, whether used in the singular or plural, shall have the meanings assigned to them below for purposes of this Agreement:
+
+1.1                               Active Pharmaceutical Ingredient/API.  “Active Pharmaceutical Ingredient” or “API” means the active pharmaceutical ingredient, sterile fosfomycin sodium.  The API shall meet European Pharmacopoeia 01/2008: 1329 monograph specifications and any other specifications that may be required by the FDA for approval in the Territory.
+
+1.2                               Adjacent Territory.  “Adjacent Territory” means Mexico and Canada.
+
+1
+
+1.3                               API Mixture.  “API Mixture” means the blend of fosfomycin sodium and succinic acid intended for use in preparing an intravenous formulation purchased by Zavante from Ercros.
+
+1.4                               Affiliate.  “Affiliate” shall mean any corporation or non-corporate entity that directly or indirectly controls, is controlled by, or is under common control with a Party.  A corporation or non-corporate entity shall be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation; or (a) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (b) in the case of a non-corporate entity, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable.
+
+1.5                               Agreement. “Agreement” shall mean this Amended and Restated Pharmaceutical Manufacturing and Exclusive Supply Agreement.
+
+1.6                               Business Day.  “Business Day” means a day other than a Saturday, Sunday or public holiday in the United States of America or Spain.
+
+1.7                               cGMP.  “cGMP” means those practices in the manufacture of pharmaceutical products that are recognized as the current good manufacturing practices by the FDA in accordance with FDA regulations, guidelines, other administrative interpretations, and rulings in connection therewith, including but not limited to those regulations cited in 21 C.F.R. parts 210 and 211, all as they may be amended from time to time.
+
+1.8                               Clinical Trial: Clinical studies of the Product required to obtain FDA approval.
+
+1.9                               Commercial Product.  “Commercial Product” shall mean Product sold or intended for commercial sale and/or human use.
+
+1.10                        Commercially Reasonable Efforts.  “Commercially Reasonable Efforts” is what a reasonable person would do in the individual circumstance, taking all factors into account, as judged by the standards of the applicable business, in this case pharmaceuticals, including reasonable consideration of its own business interests and the level of assumed risk and investment, relevant and in proportion to that party’s business expectations.  Commercially Reasonable Efforts should be consistent with good faith business judgments.
+
+1.11                        Drug Rights.”Drug Rights” shall mean the legal right to market, sell and distribute the final Product in the Territory.
+
+1.12                        Effective Date.  “Effective Date” shall mean the date of the last signature to this Agreement.
+
+1.13                        Ercros.  “Ercros” shall mean Ercros, S.A., a Spanish company with a principal place of business at Paseo del Deleite s/n, 28300 Aranjuez, Spain.
+
+1.14                        ERN Competitor.  “ERN Competitor” shall mean the companies listed on ANNEX 1.
+
+2
+
+1.15                        ERN Intellectual and Industrial Property.  “ERN Intellectual and Industrial Property” shall mean any Intellectual and Industrial Property, in any form whatsoever, which is provided to Zavante by, and/or on behalf of ERN, and which was owned by and/or licensed to ERN prior to being provided to Zavante including, without limitation, all information, formulations, know-how, and quality and manufacturing processes related to the finished Product and any General Developments or Product Developments supplied by ERN, directly or indirectly, and any Technical Documents and information related thereto.
+
+1.16                        ERN Knowledge Price.  “ERN Knowledge Price” shall mean the price listed on ANNEX 2.
+
+1.17                        FD&C Act.  “FD&C Act” shall mean the United States Federal Food, Drug and Cosmetic Act, as amended.
+
+1.18                        FDA.  “FDA” shall mean the United States Food and Drug Administration, or any successor entity.
+
+1.19                        First Commercial Sale.  “First Commercial Sale” shall mean the first sale or other commercial disposition by Zavante or any of Zavante’s Affiliates or licensees of Commercial Product for value in an arm’s length transaction with a Third Party for use by the general public.
+
+1.20                        General Developments.  “General Developments” means any and all inventions, discoveries, know-how, information, data, writings, and other Intellectual and Industrial Property, in any form whatsoever, both tangible and intangible, developed by ERN in the course of performance under this Agreement which do not specifically relate to the Product, the API, or the API Mixture.
+
+1.21                        Initial Term.  “Initial Term” shall have the meaning set forth in Section 7.1 hereof.
+
+1.22                        Intellectual and Industrial Property.  “Intellectual and Industrial Property” includes General Developments and Product Developments, and shall mean trademarks, service marks, trade names, domain names, trade dress, logos, patents, inventions, discoveries, technology, know-how, trade secrets, data, registered and unregistered design rights, copyrights, author rights, database and sui generis rights and all other similar rights in any part of the world including, where such rights are obtained or enhanced by registration, any registration of such rights and applications, and rights to apply for such registrations.
+
+1.23                        Milestone Payment. “Milestone Payment” shall have the meaning set forth in Section 5.1 hereof.
+
+1.24                        NDA or ANDA.  “NDA” shall mean New Drug Application for the Product, as filed with the FDA; “ANDA” shall mean the Abbreviated New Drug Application for the Product, as filed with the FDA, whichever is applicable.
+
+1.25                        Original ERN-Zavante Agreement.  “Original ERN-Zavante Agreement” shall have the meaning set forth in Section 2.1 hereof.
+
+3
+
+1.26                        Product.  “Product” shall mean fosfomycin sodium + succinic acid.
+
+1.27                        Product Approval.  “Product Approval” shall mean final FDA approval of Zavante’s New Drug Application (“NDA” or “ANDA”).
+
+1.28                        Product Developments.  “Product Developments” means any and all inventions, discoveries, know-how, information, data, writings and other Intellectual and Industrial Property, in any form whatsoever, both tangible and intangible, developed by ERN or by Zavante in the course of performance under this Agreement that specifically relate to the Product, the API, or the API Mixture.
+
+1.29                        Technical Documents.  “Technical Documents” shall mean such technical documentation and data as required by the ICH guidelines and the FDA for submission of an NDA or ANDA for the Product.
+
+1.30                        Term.  “Term” means any period described in Section 7.1.
+
+1.31                        Territory.  “Territory” shall mean the United States of America, and its territories and possessions.
+
+1.32                        Third Party.  “Third Party” or “Third Parties” shall mean any Party other than Zavante, ERN and their respective Affiliates.
+
+1.33                        Zavante Intellectual and Industrial Property.  “Zavante Intellectual and Industrial Property” shall mean any Intellectual and Industrial Property, in any form whatsoever, which is provided to ERN by and/or on behalf of Zavante, or which is used by ERN with respect to its performance hereunder, and which was owned by and/or licensed to Zavante prior to being provided to ERN.
+
+ARTICLE 2:  DEVELOPMENT ACTIVITIES
+
+2.1                               Status of Prior Agreements. The Parties agree to revise the original version of this Agreement to remove the responsibility for ERN to provide commercial Product to Zavante, and allow Zavante to take direct responsibility for the manufacture and supply of the commercial Product in the Territory.  As a result, this Agreement amends and restates, in its entirety, the Pharmaceutical Manufacturing and Exclusive Supply Agreement between the Parties, which was effective as of June 5, 2014, and amended on November 1, 2014 (the “Original ERN-Zavante Agreement”).
+
+For the avoidance of doubt the Original ERN-Zavante Agreement shall not have any further effect as from the date hereof. By virtue of this Agreement: (i) the Original ERN-Zavante Agreement shall be deemed fully terminated; (ii) the Parties thereto shall be relieved from full performance of any obligations incurred prior thereunder; and (iii) no indemnification obligations shall survive such termination.
+
+The Parties agree further that this Agreement shall only become valid and effective once the Amended and Restated Three-Way Agreement, by and between Laboratorios ERN, S.A., Ercros, S.A., and Zavante Therapeutics, Inc., is executed by all three parties thereto.
+
+4
+
+2.2                               Manufacture of the Product for Commercial Sales.
+
+2.2.1                     Notwithstanding the limitations contained in Section 5.3, Zavante agrees that ERN may contract with Zavante’s Third Party manufacturer of the Product for the manufacture and supply of the Product for distribution, sale or other use by ERN or its Affiliates outside the Territory and outside the Adjacent Territory; provided that any such agreement between ERN and Zavante’s Third Party manufacturer contains provisions granting Zavante priority of supply of the Product in the event of any capacity shortfall.
+
+2.2.2                     If ERN wishes to serve as a contract manufacturer of the Product for Zavante’s commercial sale in the Territory on terms and conditions to be negotiated between the Parties, ERN must obtain prior written approval from Zavante, such approval not to be unreasonably withheld. Notwithstanding the foregoing, any such agreement between ERN and Zavante must take into consideration any then-existing quantity commitments made by Zavante to other contract manufacturers.
+
+2.2.3                     Zavante will be responsible for ensuring that it amends the NDA for the Product in a timely manner in the event that it changes the designated contract manufacturer of the Product for commercial sale in the Territory, provided that such new contract manufacturer has obtained FDA approval of its facilities and quality systems.
+
+2.3                               Development Responsibilities.
+
+2.3.1                     Each Party will use Commercially Reasonable Efforts to complete certain development activities required for NDA submission and/or in connection with the commercialization of the Product within the Territory, as set forth in ANNEX 3 to this Agreement (the “Development Responsibilities”).  The Parties will mutually agree upon the protocols for the Development Responsibilities; however, in the event the Parties are unable to reach agreement, Zavante shall have final decision-making authority with respect to protocols for the Development Responsibilities.  Each Party will be responsible for completing its designated Development Responsibilities within the timeframes set forth in ANNEX 3, and shall bear all costs associated therewith, provided, however, that the Parties shall jointly complete and each Party shall bear half of the total costs associated with Development Responsibilities identified in ANNEX 3 as “shared.” In the event that FDA requires the completion of development activities that are not included in ANNEX 3 as part of the NDA approval process for the Product, ERN will cover the costs for such activities up to a cost of [**] euros (€[**]).
+
+2.3.2                     ERN has provided to Zavante its currently available part of the Technical Documentation for the IND to be approved by the FDA.  ERN will use know-how and provide to Zavante its part of the Technical Documentation for the NDA to be approved by the FDA.  ERN is performing a stability study according to ICH guidelines with Product produced at a cGMP-approved plant. The testing is being done partially with new NMR (Nuclear Magnetic Resonance) methodology, having no previous data about degradation products different from impurity A described
+
+5
+
+in the European Pharmacopoeia monograph for Disodium Fosfomycin. With this NMR methodology, ERN is detecting new degradation products that were not previously detected using prior methodology.  The chemical structure of some of these new degradation products cannot be identified by NMR identification techniques.  There is not an expectation of reducing degradation product content below the ICH standard identification threshold through changes in the manufacturing process of the Product. In order to perform its Commercially Reasonable Efforts for qualifying those degradation products in the Product, ERN will carry out with over-degraded drug product, the safety studies specifically listed in ANNEX 6, in order to try to qualify, at least, the degradation products level present in the drug product obtained in the cGMP-approved plant, after [**] at [**]. No other information will be provided by ERN in order to fulfill its obligations relative to section 4.2.3.7.6 Impurities.  Notwithstanding the foregoing, ERN will use Commercially Reasonable Efforts to assist Zavante in answering any questions FDA may have with regard to ERN’s information as listed in ANNEX 6.
+
+Zavante acknowledges that finalizing the characterization identification and qualification is a complex process for ERN with some uncertainty of result, and that ERN is only obliged to carry out its Commercially Reasonable Efforts during the process, and which, if it fails (for impossibility of achieving a technically acceptable result, or for the impossibility of ERN to act beyond its Commercially Reasonable Efforts), ERN will in no way be responsible for indemnifying Zavante for its investment in clinical studies for FDA approval, or in facilities or other kind of investment, which Zavante undertakes exclusively at its own risk and expense. In no case will ERN perform clinical studies for qualifying a degradation product.
+
+2.3.3                     All information, including reports and findings, and study results, are Intellectual and Industrial Property of ERN and ERN Confidential Information, and shall be disclosed to Zavante only for Zavante to disclose to the FDA as required for ERN and Zavante to perform their obligations hereunder and under the FD&C Act.  ERN will provide Zavante with updated reports of its findings and Zavante will provide that information to the FDA as part of Zavante’s ongoing IND submission process.
+
+2.3.4                     Zavante will provide ERN with [**] advance notice of the need for Technical Documentation for the NDA. Following such notice period, ERN will provide its part of the Technical Documentation (which will be considered as Intellectual Property of ERN and ERN Confidential Information) for the NDA to Zavante within [**] of Zavante’s written request.  Such Technical Documentation for the NDA will be in English and its content will be in accordance with the relevant sections of ANNEX 6, and its format will comply with ICH guidelines. Zavante will review the Technical Documentation for the NDA prior to submitting the NDA and will give its comments or acceptance to ERN in writing. If there is any insufficiency in the Technical Documentation, ERN will use Commercially Reasonable Efforts to update the Technical Documentation according to Zavante’s reasonable request as quickly as possible. FDA has the final approval of the Technical Documentation and ERN will use Commercially Reasonable Efforts to address any comments or requests from FDA regarding ERN’s part of the Technical Documentation for the NDA.
+
+6
+
+2.3.5                     The Technical Documentation for the NDA must include sterility and stability testing using final drug product assays for Phase 3 and for Commercial product, using cGMP and complying with ICH guidelines and FDA requirements for the designated facility that will make final Product.
+
+2.4                               Confirmation of Technical Documents:  Zavante will confirm in writing to ERN if, to the best of its knowledge, the Technical Documents delivered by ERN to Zavante for inclusion in the NDA are acceptable for that purpose. Notwithstanding any such confirmation by Zavante, if FDA does not find the Technical Documents to be acceptable, or if FDA asks for new or additional Technical Documents, ERN shall remain responsible for providing Technical Documents that meet FDA’s requirements at its sole expense, and the obligations of the Parties under ANNEX 3 shall remain unchanged.
+
+2.5                               Disclosure/Development of Health Risk Data.  Zavante agrees to disclose to ERN any information that is or becomes known by Zavante regarding health risks that may be involved in manufacturing the Product.  Such information shall include, without limitation, OSHA required information, information regarding occupational exposure limits, toxicology studies and reports, and other health-related data.  If reasonable industrial hygiene data is not available, ERN and Zavante will cooperate to develop necessary and reasonable data as mutually agreed.
+
+2.6                               Customs Documentation and Valuations.  For samples or documentation delivered hereunder, Zavante shall be responsible for arranging customs documentation and valuations directly or indirectly through its designated customs broker.  If Zavante requests ERN to assume these responsibilities and ERN agrees, ERN shall utilize its designated customs broker and shall state customs valuations that appropriately reflect contract costs.  ERN’s reasonable costs in providing such customs services shall be invoiced to, and reimbursed by Zavante.  Zavante shall be responsible for payment of all customs duties and related assessments.
+
+ARTICLE 3:  COORDINATORS; DIVESTMENT
+
+3.1                               Appointment of Coordinators.  Within [**] after the signing of this Agreement by both Parties, Zavante and ERN shall each appoint an authorized representative and a backup representative (“Coordinators”) for the exchange of all communications, other than legal notices, related to the development activities for the Product.  Each Party shall provide notice to the other Party as to the name and title of the individuals so appointed.  Each Party may replace its Coordinators at any time for any reason by providing written notice to the other Party in accordance with Section 15.13 hereof.
+
+3.2                               Divestment of Products.
+
+3.2.1                     If during the term of this Agreement, Zavante elects to divest to any Third Party its Drug Rights, Zavante shall so inform ERN of any such divestment. Zavante shall also provide ERN with a letter advising ERN that Zavante has informed such Third Party of the terms and conditions of this Agreement, and that the Third Party assumes all the rights and obligations assumed by Zavante under this Agreement.
+
+7
+
+This is without prejudice to Section 15.6 of this Agreement and the assignment will be effective unless ERN has exercised its right to reject the assignment because the Third Party is an ERN Competitor. For the avoidance of doubt, Zavante’s exercise of its right to sublicense its rights to the ERN Intellectual and Industrial Property and ERN Confidential Information to a Third Party, as permitted under Section 10.2 shall not be considered a “divestment” of Drug Rights under this Agreement.
+
+3.2.2                     Pending transfer of any Divested Product hereunder to a Third Party, Zavante agrees to be responsible for any payment obligations that have accrued hereunder in respect of such Divested Product.  Zavante also agrees to be responsible for FDA compliance with respect to any Divested Product until such time as Zavante and the Third Party have completed the transfer of this Agreement in accordance with Section 15.6 of this Agreement, that is, by formal written assignment that is in form acceptable to ERN, with such acceptance not to be unreasonably withheld.  It shall not be unreasonable to withhold consent for an assignment to an ERN Competitor.
+
+ARTICLE 4:  WARRANTIES; SPECIFICATIONS; QUALITY
+
+4.1                               Disclaimer by ERN.  ERN expressly disclaims (a) any warranty that the Products (i) will be fit for any particular purpose, or (ii) will not violate or infringe the patent or other Intellectual and Industrial Property rights of third Parties as to formulation or composition; (b) any other warranties with respect to the Product, express or implied, except as expressly stated in this Agreement; and (c) any warranties in respect of the formulation, composition, use, or distribution of the Product or in respect of the marketing and/or sale of the Product to third parties.
+
+4.2                               Mutual Warranties. Each Party hereby represents and warrants to the other (i) that all corporate action on the part of the Party, its officers and directors, necessary for the authorization, execution and delivery of this Agreement and the performance of all obligations of such Party under this Agreement has been taken; and (ii) that entering into this Agreement does not violate any other agreement or obligation binding upon the Party.
+
+4.3                               Limitation of Liability.  Notwithstanding the foregoing warranties and representations and the further obligations of the Parties hereunder, in no event shall either Party be liable to the other Party for incidental, indirect, special, consequential or punitive damages, including without limitation any claim for damages based upon lost profits or lost business opportunity.
+
+ARTICLE 5:  MILESTONE PAYMENT; QUARTERLY SALES REPORTING; ERN KNOWLEDGE PRICE
+
+5.1                               Milestone Payment.  Zavante shall notify ERN within [**] following: (a) Zavante’s receipt of written notification from FDA of the approval of the NDA; and (b) the date of the First Commercial Sale.  Zavante shall make a one-time payment to ERN of [**] dollars (US$[**]), as an initial ERN Knowledge Price, within [**] after the First Commercial Sale (the “Milestone Payment”) after receiving ERN’s invoice for such initial payment.
+
+8
+
+5.2                               [**] Sales Reporting; ERN Knowledge Price.  Zavante will provide a copy to ERN of each purchase order issued to Ercros for the purchase of API Mixture concurrently with issuing each such purchase order to Ercros.  Within [**] following the end of each [**] commencing after the [**], Zavante shall (a) provide to ERN a report summarizing the number of vials of the Product sold during such [**], and copies of all reports received by Zavante from its third party logistics providers showing the number of vials sold by such providers during the [**], and (b) pay to ERN the ERN Knowledge Price based on the number of vials sold during such [**] within [**] after receiving ERN’s invoice for each such payment. Additionally, commencing after the [**], Zavante shall periodically provide to ERN a copy of portions of Zavante’s audited [**] financial statements that show the number of vials of the Product sold to Third Parties during the respective audited period, if any. During the period commencing after the [**], and continuing through the Term, upon reasonable prior notice and not more than [**], ERN may have Zavante’s records audited by an independent certified public accountant selected by ERN and reasonably acceptable to Zavante for the sole purpose of verifying the accuracy of the ERN Knowledge Price under this Agreement. ERN shall bear the costs of any such audit.  All of the reports data and information regarding sales of the Product and purchases of the API Mixture shall be Confidential Information of Zavante.
+
+An example of the scheme of the information to be sent by Zavante is summarized in ANNEX 7.
+
+5.3                               ERN Obligations. ERN will send to Zavante an invoice for each ERN Knowledge Price payment and the Milestone Payment within [**] after receiving the relevant information from Zavante. Conditioned upon Zavante complying with the obligation to make the ERN Knowledge Price payments set forth in Section 5.2, neither ERN nor any of its Affiliates or licensees shall: (a) manufacture or supply API, API Mixture or Product to any Third Party for purposes of developing, testing, seeking regulatory approval for, marketing, selling or distributing the Product in the Territory, (b) disclose to any Third Party any information provided to ERN by or on behalf of Zavante in connection with this Agreement, (c) license, allow, enable, facilitate or assist in any way, directly or indirectly, any Third Party to use the API Mixture, or ERN Intellectual and Industrial Property, for purposes of developing, testing, seeking regulatory approval for, importing, marketing, selling or distributing the Product in the Territory, or (d) on its own behalf or on behalf of any Third Party, develop, test, obtain regulatory approval for, market, sell or distribute the Product in the Territory.  In the event that Zavante is in default of its obligation to pay the ERN Knowledge Payment as required under Section 5.2, ERN shall promptly provide written notice of such default to Zavante.
+
+ARTICLE 6:  REGULATORY
+
+ERN will provide Zavante with standard regulatory support as identified under the heading “Regulatory Support” in ANNEX 4 attached hereto.  Protocols and study designs for such Regulatory Support will be mutually agreed upon and must comply with applicable FDA requirements. ERN shall also make available to Zavante, at Zavante’s request and expense, additional regulatory services as identified in ANNEX 4 attached hereto.  Regulatory support
+
+9
+
+services that are identified in ANNEX 4, shall be [**] to Zavante; additional regulatory consulting services (not listed in ANNEX 4) shall be billed at ERN’s [**].  Additional regulatory services and/or documentation may be provided by ERN, subject to the agreement of the Parties and subject to [**].
+
+ARTICLE 7:  TERM; TERMINATION
+
+7.1                               Term.  Unless sooner terminated pursuant to the terms hereof, the term of this Agreement shall commence on the Effective Date and shall continue in force and effect until the ten (10) year anniversary of the Effective Date (the “Initial Term”).  Unless otherwise terminated pursuant to the terms hereof, this Agreement shall be automatically renewed for an additional two (2) year term after the end of the Initial Term (and for successive two (2) year renewal terms thereafter) unless either Party provides written notice of termination to the other at least eighteen (18) months prior to the end of the Initial Term or any renewal term, as applicable. The Initial Term, together with any renewal terms, shall be referred to herein as the “Term.”
+
+7.2                               Termination by Mutual Agreement.  This Agreement may be terminated at any time upon mutual written agreement between the Parties.
+
+7.3                               Termination for Default.  This Agreement may be terminated by either Party in the event of the material breach or default by the other Party of the terms and conditions hereof, provided that the non-breaching Party shall first give to the defaulting Party written notice of the proposed termination or cancellation of this Agreement, specifying the grounds therefor.  Upon receipt of such notice, the defaulting Party shall have [**] to respond by curing such default (or [**] with respect to a failure by Zavante to pay any amounts hereunder when due); or (other than with respect to Zavante’s failure to pay any amounts hereunder when due) by delivering to the other Party a certificate that such breach is not capable of being cured within such [**] and that the breaching Party is working diligently to cure such breach; but in no event shall the time period for curing such breach exceed an additional [**].  If the breaching Party does not so respond or fails so to work diligently and to cure such breach within the additional time set forth above, then the other Party may either suspend the Agreement indefinitely or terminate the Agreement.  Termination of this Agreement pursuant to this Section 7.2 shall not affect any other rights or remedies that may be available to the non-defaulting Party.
+
+7.4                               Bankruptcy; Insolvency.  Either Party may terminate this Agreement upon the occurrence of either of the following:
+
+7.4.1                     The entry of a decree or order for relief by a court having jurisdiction in respect of the other Party in an involuntary case under the Federal Bankruptcy Code, as now constituted or hereafter amended, or under any other applicable Spanish, federal or state insolvency or other similar law and the continuance of any such decree or order unstayed and in effect for a period of [**]; or
+
+10
+
+7.4.2                     The filing by the other Party of a petition for relief under the Federal Bankruptcy Code, as now constituted or hereafter amended, or any other applicable federal or state insolvency or other similar law.
+
+7.5                               Termination by Zavante.
+
+7.5.1                     If the Product(s) is withdrawn from the market in the Territory due to safety reasons, or if the Product(s) is not approved by the FDA, this Agreement may be terminated by Zavante immediately upon written notice.
+
+7.5.2                     If FDA has objections to the Technical Documentation supplied by ERN, ERN and Zavante will agree how to solve the objections.  If ERN is unwilling to address those objections in a timely manner, then Zavante may terminate this Agreement.
+
+7.6                               Termination by ERN.  If Zavante has not obtained Product Approval within three (3) years of submission of the NDA, provided such non-approval is not due to manufacturing problems of Ercros, ERN may terminate this Agreement without any right to claim from Zavante any compensation for termination, without prejudice to any rights that ERN may have against Zavante as a result of any problem attributable to the gross negligence of Zavante.
+
+7.7                               Expiration; Termination; Consequences.
+
+7.7.1                     Zavante will pay the Indemnification Payment set forth in Annex 5 in the event that ERN terminates this Agreement in accordance with Section 7.3 for an uncured breach by Zavante of its obligations: (a) to notify ERN of the approval of the NDA in accordance with Section 5.1(a) or the date of First Commercial Sale in accordance with Section 5.1(b); (b) to provide to ERN in accordance with the provisions of Section 5.2: (i) a copy of purchase orders issued to Ercros, (ii) [**] summarizing the number of vials sold during each [**], or (iii) copies of reports from third party logistics providers showing the number of vials sold by such provider during each [**]; or (c) to pay the ERN Knowledge Price in accordance with Section 5.2. Payment of the Indemnification Payment will be Zavante’s sole liability and ERN’s exclusive remedy for any such breach by Zavante, and Zavante shall not be required to pay the Indemnification Payment if this Agreement expires or is terminated for any reason other than those set forth in subsections (a), (b) or (c) of this Section 7.7.1.
+
+7.7.2                     Upon termination of this Agreement prior to the expiration date by Zavante in accordance with Sections 7.3, 7.4 or 7.5.2, the licenses granted to Zavante under Sections 10.1, 10.3 and 10.7 shall become perpetual and irrevocable.
+
+7.7.3                     Upon termination of this Agreement prior to the expiration date by ERN in accordance with Sections 7.3 or 7.4, the license granted to Zavante under Sections 10.1, 10.3 and 10.7, shall become non-exclusive.
+
+11
+
+7.7.4                     Upon expiration or termination of this Agreement, the obligations of confidentiality and restrictions on use of Confidential Information under Article 14 hereof shall survive for the period provided therein.
+
+ARTICLE 8:  INDEMNIFICATION OF THIRD PARTY CLAIMS
+
+8.1                               Indemnification by Zavante.  Zavante shall indemnify, defend and hold ERN, its Affiliates and their respective directors, officers, employees, agents, successors and assigns (collectively, the “ERN Indemnitees”), harmless from and against any damages, judgments, claims, suits, actions, liabilities, costs and expenses (including, but not limited to, reasonable attorneys’ fees) (collectively, “Losses”) to the extent directly attributable to (a) any Third Party claim of illness, injury, or death caused by the use of any Product manufactured by ERN hereunder in accordance with the Specifications; (b) any claim by any employee of ERN, its subcontractors, or any third party of illness, injury or death arising out of Zavante’s failure to inform ERN of health risks pursuant to Section 2.2 above; (c) any proceeding instituted by or on behalf of a Third Party based upon a claim that the manufacture, use or sale of the Product infringes a United States patent or any other proprietary rights utilized by ERN in in relation to the Product; (d) any Third Party (including patients and clinical trial participants) claims arising out of Zavante clinical trials or related to the FDA approval process as agreed to in this Agreement; (e) any claims brought by the FDA, the U.S. government or any U.S. agency arising out of the FDA approval process for the Product; (f) Third Party claims arising out of the commercial sale, distribution or use in the Territory of Product manufactured by ERN in accordance with the Specifications; or (g) gross negligence or willful misconduct by Zavante or its respective directors, officers, employees, agents, or representatives. Zavante’s indemnification obligations under this Section 8.1 will be reduced to the extent that indemnifiable Losses arise out of or in connection with any gross negligence, gross misconduct or material breach of this Agreement by an ERN Indemnitee.
+
+8.2                               Indemnification by ERN.  ERN shall indemnify and hold Zavante, its Affiliates and their respective directors, officers, employees, agents, successors and assigns (collectively, the “Zavante Indemnitees”) harmless from and against any Losses to the extent directly attributable to (a) any Third Party claim of illness, injury or death caused by the use of any Clinical Product manufactured by ERN which does not conform to the Clinical Product specifications; (b) gross negligence or willful misconduct by ERN or its respective directors, officers, employees, agents, or representatives; and (c) ERN’s material breach of this Agreement including, without limitation, Section 12.1.  ERN’s indemnification obligations under this Section 8.2 will be reduced to the extent that indemnifiable Losses arise out of or in connection with any gross negligence, gross misconduct or material breach of this Agreement by a Zavante Indemnitee.
+
+8.3                               Indemnification Procedures.  A Party (the “Indemnitee”) which intends to claim indemnification under this Article 8 shall promptly notify the other Party (the “Indemnitor”) in writing of any action, claim or other matter in respect of which the Indemnitee or any of its Affiliates, or any of their respective directors, officers, employees or agents intend to claim such indemnification; provided, however, the failure to provide such notice within a reasonable period of time shall not relieve the Indemnitor of any of its
+
+12
+
+obligations hereunder except to the extent the Indemnitor is prejudiced by such failure. The Indemnitee, its Affiliates, and their respective directors, officers, employees and agents shall, at its own expense, cooperate fully with the Indemnitor and its legal representatives in the investigation, negotiation, compromise, settlement and defense of any action, claim or other matter covered by this indemnification, including, without limitation, by providing information, documentation, access to witnesses for written or oral testimony that is or may reasonably be considered to be relevant to the subject of indemnification set forth in this Article 13 or the obligations of the Indemnitor under such Article.  The Indemnitor shall be in charge of and control of any such investigation, negotiation, compromise, settlement and defense, and shall have the right to select counsel with respect thereto, provided that the Indemnitor shall promptly notify the Indemnitee of all material developments in the matter.  In no event shall the Indemnitee compromise or settle any such matter without the prior written consent of the other Party, which consent shall not be unreasonably withheld or delayed; nor shall the non-consenting Party be bound by any such settlement in the absence of such consent.  The Indemnitee shall have the right, but not the obligation, to be represented by counsel of its own selection and at its own expense.
+
+When providing notice of an infringement claim, such notice shall (i) identify the nature of the claim with as much specificity as is reasonably available to the Indemnitee and (ii) identify, initially and on an on-going basis, any other person/entity having a potential indemnification obligation to the Indemnitee to whom the Indemnitee has provided notice of the Loss.  The Indemnitor shall not have any right, without the Indemnitee’s written consent, which consent shall not be unreasonably withheld, to settle any such claim if such settlement arises from or is part of any criminal action, suit or proceeding or contains a stipulation to or admission or acknowledgement of, any liability or wrongdoing (whether in contract, tort or otherwise) on the part of the Indemnitee, calls for or requires any performance by the Indemnitor over and above the amount for which the Indemnitee is responsible under this Article 8, or requires any specific performance or non-pecuniary remedy by the Indemnitor.  The Indemnitee shall have the right to participate in the defense of a claim with counsel of its choice at its own expense. Except in the case of a settlement having been entered into by the Indemnitor without the Indemnitee’s consent, the Indemnitor’s assumption of the defense of any claim asserted to be within the scope of the indemnity shall not prejudice the determination of whether a claim is properly subject to indemnification hereunder nor waive the Indemnitor’s right at any time to disclaim obligations under this Article 8.
+
+8.4                               Survival of Indemnification Obligations.  The provisions of this Article 13 shall survive the expiration or termination of this Agreement.
+
+ARTICLE 9:  CONFIDENTIALITY
+
+9.1                               During the term of this Agreement and for a period of [**] following termination of this Agreement, each of Zavante and ERN agrees not to publish, disclose or use for any purpose other than its performance hereunder, any information disclosed by the other Party which is ERN Intellectual and Industrial Property or Zavante Intellectual and Industrial Property, respectively, or which is designated as proprietary or confidential (“Confidential Information”), including, without limitation, information stored on audio or video tapes
+
+13
+
+and disks, or information or knowledge visually acquired by or generated by Zavante or ERN personnel in the form of written notes and memoranda memorializing information or knowledge acquired visually, aurally or orally in the course of either Party’s performance hereunder.
+
+9.2                               Each Party (the “Receiving Party”) shall limit disclosure of Confidential Information received hereunder from the disclosing party (the “Disclosing Party”) to only those officers and employees, and in the case of Zavante, consultants, of the Receiving Party (or its Affiliates’) who are directly concerned with the performance of this Agreement, on a need-to-know basis.  Each Party shall advise such officers or employees, and in the case of Zavante, consultants, upon disclosure of any Confidential Information to them of the confidential nature of the Confidential Information and the terms and conditions of this Article 14, and shall use all reasonable safeguards to prevent unauthorized disclosure of the Confidential Information by such officers and employees, and in the case of Zavante, consultants.
+
+9.3                               Both Parties agree that the following shall not be considered Confidential Information subject to this Agreement:
+
+9.3.1                     information that is in the public domain by publication or otherwise, provided that such publication is not in violation of this Agreement or any other confidentiality agreement to which one of the Parties is bound;
+
+9.3.2                     information that the Receiving Party can establish in writing was in the Receiving Party’s possession prior to the time of disclosure by the Disclosing Party and was not acquired, directly or indirectly, from the Disclosing Party, other than a disclosure that originated from the Disclosing Party without restriction on further disclosure;
+
+9.3.3                     information that the Receiving Party lawfully receives from a Third Party; provided, however, that such Third Party was not obligated to hold such information in confidence;
+
+9.3.4                     information that, prior to the Disclosing Party’s disclosure thereof, was independently developed by the Receiving Party without reference to any Confidential Information as established by appropriate documentation; and
+
+9.3.5                     information that the Receiving Party is compelled to disclose by a court, administrative agency, or other tribunal; provided however, that in such case the Receiving Party shall immediately give as much advance written notice as feasible to the Disclosing Party to enable the Disclosing Party to exercise its legal rights to prevent and/or limit such disclosure.  In any event, the Receiving Party shall disclose only that portion of the Confidential Information that, in the opinion of the Receiving Party’s legal counsel, is legally required to be disclosed and will exercise reasonable best efforts to ensure that any such information so disclosed will be accorded confidential treatment by said court, administrative agency or tribunal.
+
+14
+
+9.4                               All Confidential Information shall remain the property of the Disclosing Party.  Upon the termination of this Agreement, or at any time upon the request of the other Party, the Receiving Party shall immediately return or destroy any Confidential Information in the Receiving Party’s possession, custody or control, except that the Receiving Party may keep one (1) physical copy for archival purposes.  Confidential Information in digital form may be retained for archival and/or regulatory purposes only if stored in a way that restricts access to persons with a legitimate need to know and Commercially Reasonable Efforts are used to prevent additional copies from being made.  The Disclosing Party’s failure to request the return of Confidential Information shall not relieve the Receiving Party of its confidentiality obligations under this Agreement.
+
+9.5                               Each Party acknowledges and expressly agrees that the remedy at law for any breach by it of the terms of this Article 9 shall be inadequate and that the full amount of damages which would result from such breach are not readily susceptible to being measured in monetary terms.  Accordingly, in the event of a breach or threatened breach by either Party of this Article 9, the other Party shall be entitled to immediate injunctive relief prohibiting any such breach and requiring the immediate return of all Confidential Information. The remedies set forth in this Section 9.5 shall be in addition to any other remedies available for any such breach or threatened breach, including the recovery of damages from the breaching Party.
+
+9.6                               The terms and conditions of this Agreement, but not the fact of its existence, shall constitute Confidential Information of Zavante, except that either Party may disclose such terms and conditions to its Affiliates in accordance with Sections 9.2 and 13.2 hereof.
+
+ARTICLE 10:  INTELLECTUAL AND INDUSTRIAL PROPERTY
+
+10.1                        All ERN Intellectual and Industrial Property is the property of ERN. Zavante shall have, and ERN hereby grants to Zavante, an exclusive (even as to ERN and its Affiliates), non-transferable (except as permitted under Section 15.6), and without any right to sublicense (except as permitted under Section 10.3), license for the Territory to exploit, reproduce and distribute any ERN Intellectual and Industrial Property and ERN Confidential Information (including, for the avoidance of doubt, any copyrights included in the ERN Intellectual and Industrial Property), to the maximum extent permitted under law, as reasonably required by Zavante to obtain regulatory approval for and commercialize the Product in the Territory, which license shall include, without limitation, the right to disclose, report and include any ERN Intellectual and Industrial Property and any General Developments in any filings or regulatory submissions to FDA or any other regulatory bodies in the United States or elsewhere in connection with the Product including, without limitation, in order to obtain or extend marketing exclusivities and patent protection for the Product in the Territory. Except as set forth in Section 10.3, below, Zavante shall acquire no other right, title or interest in the ERN Intellectual and Industrial Property and Confidential Information as a result of its performance hereunder.
+
+10.2                        All Zavante Intellectual and Industrial Property shall be the property of Zavante.  ERN shall have, and Zavante hereby grants to ERN, a non-exclusive, non-transferable, and without any right to sublicense, license for the Territory to exploit, reproduce and distribute
+
+15
+
+any Zavante Intellectual and Industrial Property and Zavante Confidential Information solely to the extent necessary to assist ERN in its performance hereunder, and to the maximum extent permitted under law.  ERN shall acquire no other right, title or interest in the Zavante Intellectual and Industrial Property and Zavante Confidential Information as a result of its performance hereunder.
+
+10.3                        Zavante shall have the right to sublicense any of its rights granted under Section 10.1 to any of its Affiliates, and to any Third Party solely in connection with the manufacture of the Commercial Product to obtain Commercial Product Approval and for the importation, use, marketing, promotion, sale, and offer for sale of the Commercial Product by Zavante within the Territory during the Term.
+
+10.4                        License Limitations.  Except as set forth in Section 7.7, the licenses granted in Sections 10.1 and 10.3 shall be (i) limited in term to the Term of this Agreement; and (ii) royalty-free other than the ERN Knowledge Payments due under this Agreement.
+
+10.5                        General Developments.  General Developments shall remain the property of ERN, however Zavante shall have, and ERN hereby grants to Zavante, a non-exclusive, royalty-free license in the Territory to exploit, reproduce and distribute such General Developments, to the maximum extent permitted under law, in connection with the sale and distribution of the Product during the Term of this Agreement.
+
+10.6                        In the event that ERN decides to file one or more patent applications (or file any other exclusive rights, or otherwise constitute as exclusive rights) covering, partially or totally, a Product Development not belonging to ERN, or Zavante decides to file one or more patent applications (or file any other exclusive rights, or otherwise constitute as exclusive rights) covering, partially or totally, an ERN General or Product Development, as applicable, using Intellectual and Industrial Property (as defined in this Agreement) of the other Party, before the patent or any other exclusive rights or other constituted exclusive rights is filed, the Parties will negotiate in good faith how the rights that emanate from the patent or from the exclusive rights, or the newly constituted exclusive rights, will be shared.  In the event of lack of consent by the non-filing or non-constituting Party, which consent shall not be unreasonably withheld, no Party shall be entitled to file a patent (or an exclusive right, or constitute an exclusive right) using Intellectual and Industrial Property of the other Party.  In case of agreement, in the event of the application of a patent, the non-filing Party shall, at the filing Party’s request and expense, assist the first Party in the preparation and prosecution of such patent application(s) and shall execute all documents deemed necessary by the filing Party for the filing thereof.
+
+10.7                        The owner of such patents as described in Section 10.6 grants to the other Party a non-exclusive, royalty-free license to use such patents as necessary to comply with the Parties’ obligations under this Agreement and, in the case of Zavante, as reasonably required by Zavante to obtain regulatory approval for and commercialize the Product in the Territory.
+
+10.8                        In no circumstance without the written permission of ERN shall Zavante be entitled to reverse engineer the API, the API Mixture or the Product to circumvent ERN Intellectual and Industrial Property rights or ERN Confidential Information.
+
+16
+
+ARTICLE 11:  FORCE MAJEURE
+
+11.1                        Effects of Force Majeure.  Neither Party shall be held liable or responsible for failure or delay in fulfilling or performing any of its obligations under this Agreement in case such failure or delay is due to any condition beyond the reasonable control of the affected Party including, without limitation, Acts of God, strikes or other labor disputes, war, riot, earthquake, tornado, hurricane, fire, civil disorder, explosion, accident, flood, sabotage, lack of or inability to obtain adequate fuel, power, materials, labor, containers, transportation, supplies or equipment,  breakage or failure of properly maintained machinery or apparatus, national defense requirements, or supplier strike, lockout or injunction (a “Force Majeure Event”).  Such excuse shall continue as long as the Force Majeure Event continues, provided, however, that Zavante may cancel without penalty any and all Purchase Orders in the event ERN is unable to fulfill an outstanding Purchase Order within sixty (60) days of its scheduled delivery date due to a Force Majeure Event.  Upon cessation of such Force Majeure Event, such Party shall promptly resume performance on all Purchase Orders that have not been terminated.
+
+11.2                        Notice of Force Majeure Event.  In the event either Party is delayed or rendered unable to perform due to a Force Majeure Event, the affected Party shall give notice thereof and its expected duration to the other Party promptly after the occurrence of the force majeure event; and thereafter, the obligations of the affected Party will be suspended during the continuance of the Force Majeure Event.  The affected Party shall use Commercially Reasonable Efforts to remedy the Force Majeure Event with all reasonable dispatch, but such obligation shall not require the settlement of strikes or labor controversies on terms unfavorable to the affected Party.
+
+ARTICLE 12:  LEGAL COMPLIANCE; AUTHORIZATION
+
+12.1                        Legal Compliance.  Each Party shall comply in all material respects with all laws and regulations applicable to the conduct of its business pursuant to this Agreement, including, but not limited to, the FD&C Act and applicable EU and Spanish regulations.  In addition, both Parties shall comply with all anti-corruption and anti-bribery laws and regulations, including but not limited to, the U.S. Foreign Corrupt Practices Act (FCPA).  ERN and its respective officers, directors, employees, agents and representatives, represent that they have not and will not pay, offer or promise to pay or authorize the payment of any money, or give or promise to give, or authorize the giving of, any services or anything else of value, either directly or through a third party, to any official or employee of any governmental authority, or of a public international organization, or of any agency or subdivision thereof, or to any political party or official thereof or to any candidate for political office for the purpose of (i) influencing any act or decision of that person in his official capacity, including a decision to fail to perform his official functions with such governmental agency or such public international organization or such political party, (ii) inducing such person to use his influence with such governmental agency or such public international organization or such political party to affect or influence any act or decision thereof, or (iii) securing any improper advantage.
+
+17
+
+12.2                        Authorization.
+
+12.2.1              ERN hereby represents and warrants to Zavante that all corporate action on the part of ERN and its officers and directors necessary for the authorization, execution and delivery of this Agreement and the performance of all obligations of ERN hereunder has been taken.
+
+12.2.2              Zavante hereby represents and warrants to ERN that all requisite action on the part of Zavante and its officers and directors necessary for the authorization, execution and delivery of this Agreement and the performance of all obligations of Zavante hereunder has been taken.
+
+ARTICLE 13:  PRESS RELEASES; USE OF NAMES
+
+13.1                        Press Releases.  Any press release, publicity or other form of public written disclosure related to this Agreement prepared by one Party shall be submitted to the other Party prior to release for approval, which approval shall not be unreasonably withheld or delayed by such other Party.  Notwithstanding the foregoing, except as may be required by applicable law or regulations (including, without limitation, the rules of any public stock exchange if applicable to such Party), no Party shall issue any press release, publicity or other form of public written disclosure regarding this Agreement prior to Product Approval.
+
+13.2                        Use of Names.  Except as expressly provided or contemplated hereunder and except as otherwise required by applicable law, no right is granted pursuant to this Agreement to either Party to use in any manner the trademarks or name of the other Party, or any other trade name, service mark, or trademark owned by or licensed to the other Party in connection with the performance of this Agreement.  Notwithstanding the above, as may be required by applicable law, Zavante, ERN and their Affiliates shall be permitted to use the other Party’s name and to disclose the existence and terms of this Agreement in connection with securities or other public filings.
+
+ARTICLE 14:  DISPUTE RESOLUTION
+
+14.1                        Dispute Resolution.  The Parties recognize that a bona fide dispute as to certain matters may from time to time arise during the term of this Agreement that relates to either Party’s rights and/or obligations hereunder.  In the event of the occurrence of such a dispute, either Party may, by notice to the other Party, have such dispute referred to their senior officers as may be designated by each Party for attempted resolution by good faith negotiations to be held within [**] after such notice is received.  In the event that the dispute is unable to be resolved by such negotiations, the dispute shall be arbitrated in law under the arbitration rules of the International Chamber of Commerce by a tribunal of three (3) arbitrators under said rules, under Spanish law (as per Section 15.15).  The arbitrators shall have the power to allocate costs and to award a reasonable attorneys’ fee to the prevailing Party or Parties, including fees incurred in any judicial action taken in support of the arbitration.  The Parties agree to obey and accept the arbitration award as final and binding and waive their respective rights to resort to any other competent jurisdiction except in support of the arbitration.  The arbitration will take place in the English language, although the Parties are allowed to submit documents originally drafted in Spanish without translation, and the seat of the arbitration will be Barcelona, Spain.
+
+18
+
+ARTICLE 15:  MISCELLANEOUS
+
+15.1                        Insurance.  Zavante must include ERN as an additional insured on the Clinical Trial policy for all studies conducted by Zavante using the Product. The ERN coverage level will be the same as that for Zavante and with the same limits. With this inclusion, Zavante releases ERN for clinical claims that may arise during the clinical trials required to obtain approval of the NDA (or ANDA).
+
+15.2                        Once the Product is marketed by Zavante in the Territory, Zavante shall at all times maintain insurance coverage with sound and reputable independent insurers.  Zavante shall maintain appropriate liability coverage in the amount of at least [**] ($[**]) US dollars or [**]€) euros. Logically, such policy should include US sales. There is no requirement to include the other Party as Additional Insured once the Product is approved by the FDA.
+
+15.3                        Each Party shall, upon reasonable request of the other Party, produce satisfactory evidence that all insurance premiums have been paid and kept up to date and are kept in accordance with local insurance laws or regulations from time to time in force, or shall furnish appropriate certificates of insurance showing proof of coverage.
+
+15.4                        Independent Contractors.  The relationship between Zavante and ERN is that of independent contractors and nothing herein shall be deemed to constitute the relationship of partners, joint venturers, nor of principal and agent between Zavante and ERN.  Neither Party shall have any express or implied right or authority to assume or create any obligations on behalf of or in the name of the other Party or to bind the other Party to any contract, agreement or undertaking with any Third Party.
+
+15.5                        Mutual Assistance.  To assist the other Party in its performance of this Agreement, each Party shall provide the other Party upon request, in a timely fashion, with all relevant information, documentation and data relating to Product safety. If requested by the other Party, each Party shall provide such support or information (or an explanation of the legitimate reason for any delay and a projected date by which such support or information will be provided) within [**] of receipt of a written request from the other Party.  In the event a Party is requested to review or approve any information, documentation, data or samples prepared or supplied by or on behalf of the other Party, it shall complete such review and approval process within [**].
+
+15.6                        Assignment.  This Agreement may not be assigned or otherwise transferred, neither partially nor in full, by either Party without the prior written consent of the other Party, which consent shall not unreasonably be withheld, except (a) in connection with a merger, (b) in connection with the transfer of all or substantially all of a Party’s assets associated with this Agreement, or (c) to a Party’s Affiliate.  Any purported assignment in violation of the preceding sentence shall be void.  It shall not be unreasonable to withhold consent for an assignment to an ERN Competitor.  Any permitted assignee shall assume all obligations of its assignor under this Agreement, and the Agreement will continue for the duration of the Term under the existing terms and conditions.  No assignment shall relieve either Party of responsibility for the performance of any obligation that accrued prior to the effective date of such assignment.
+
+19
+
+15.7                        Continuing Obligations.  Termination, assignment or expiration of this Agreement shall not relieve either Party from full performance of any obligations incurred prior thereto.
+
+15.8                        Waiver.  Neither Party’s waiver of any breach or failure to enforce any of the terms and conditions of this Agreement, at any time, shall in any way affect, limit or waive such Party’s right thereafter to enforce and compel strict compliance with every term and condition of this Agreement.
+
+15.9                        Severability.  Each Party hereby expressly agrees that it has no intention to violate any public policy, statutory or common laws, rules, regulations, treaty or decision of any government agency or executive body thereof of any country or community or association of countries; that if any word, sentence, paragraph, clause or combination thereof in this Agreement is found by a court or executive body with judicial powers having jurisdiction over this Agreement or either Party hereto, in a final unappealed order, to be in violation of any such provisions in any country or community or association of countries, such words, sentences, paragraphs, clauses or combination shall be inoperative in such country or community or association of countries and the remainder of this Agreement shall remain binding upon the Parties, so long as enforcement of the remainder does not violate the Parties’ overall intentions in this transaction.
+
+15.10                 Headings.  The headings in this Agreement are for convenience of reference only and shall not affect its interpretation.
+
+15.11                 Construction.  This Agreement has been jointly prepared on the basis of the mutual understanding of the Parties and shall not be construed against either Party by reason of such Party’s being the drafter hereof or thereof.
+
+15.12                 Annexes, Schedules and Attachments.  Any and all annexes, schedules and attachments referred to herein form an integral part of this Agreement and are incorporated into this Agreement by such reference.
+
+15.13                 Notices.  All notices and other communications required or permitted to be given under this Agreement shall be in writing and shall be delivered personally or sent by an internationally-recognized courier service guaranteeing three (3) day delivery, charges prepaid, and shall be deemed to have been given upon mailing.  Any such notices shall be addressed to the receiving Party at such Party’s address set forth below, or at such other address as may from time to time be furnished by similar notice by either Party:
+
+If to ERN:
+
+Laboratorios ERN, S.A.
+
+499 Pedro IV st.
+
+08020 Barcelona, Spain
+
+Attn:  David Solanes López
+
+with a copy (receipt of which shall not constitute notice) to:
+
+20
+
+Laboratorios ERN, S.A.
+
+228 Perú st.
+
+08020 Barcelona, Spain
+
+Attn:  [**]
+
+If to Zavante:
+
+Zavante Therapeutics, Inc.
+
+11750 Sorrento Valley Road
+
+Suite 250, San Diego, CA 92121
+
+United States of America
+
+Attn:  Chief Executive Officer
+
+with a copy (receipt of which shall not constitute notice) to:
+
+Zavante Therapeutics, Inc.
+
+11750 Sorrento Valley Road
+
+Suite 250, San Diego, CA 92121
+
+United States of America
+
+Attn: Chief Operating Officer
+
+15.14                 Counterparts.  This Agreement and any amendment or supplement hereto may be executed in two counterparts and delivered via electronic means, and any Party hereto may execute any such counterpart, each of which when executed and delivered shall be deemed to be an original and all of which counterparts taken together shall constitute but one and the same instrument.  The execution of this Agreement and any such amendment or supplement by any Party hereto will not become effective until counterparts hereof have been executed by both Parties hereto.
+
+15.15                 Governing Law; Entire Agreement.  The validity, interpretation and performance of this Agreement shall be governed and construed in accordance with the laws of Spain, and with an express exclusion of the United Nations Convention on Contracts for the International Sale of Goods.  This Agreement constitutes the full understanding of the Parties and a complete and exclusive statement of the terms of their agreement and supersedes all prior agreements.  No terms, conditions, understanding, or agreement purporting to modify or vary the terms of this Agreement shall be binding unless hereafter made in writing and signed by the Party to be bound.  No modification to this Agreement shall be effected by the acknowledgment or acceptance of any Purchase Order or shipping instruction forms or similar documents containing terms or conditions at variance with or in addition to those set forth herein.
+
+15.16                 Annexes.  The following annexes are attached hereto and incorporated herein by reference:
+
+ANNEX 1:                                      ERN Competitors
+
+ANNEX 2:                                      ERN Knowledge Price
+
+ANNEX 3:                                      Development Responsibilities
+
+ANNEX 4:                                      Additional Regulatory Support
+
+ANNEX 5:                                      Indemnification Payment
+
+21
+
+ANNEX 6:                                      Safety Testing
+
+ANNEX 7:                                      Scheme of the information to be sent by Zavante
+
+[Signatures on following page]
+
+22
+
+IN WITNESS WHEREOF, the Parties have caused this Amended and Restated Pharmaceutical Manufacturing and Supply Agreement to be executed by their respective duly authorized representatives as of the Effective Date.
+
+Laboratorios ERN, S.A.
+
+By:
+
+/s/ David Solanes López
+
+Name: David Solanes López
+
+Title: General Manager
+
+Zavante Therapeutics, Inc.
+
+By:
+
+/s/ Theodore R. Schroeder
+
+Name: Theodore R. Schroeder
+
+Title: Chief Executive Officer
+
+ANNEX 1:  ERN COMPETITORS
+
+[**]
+
+ANNEX 2:  ERN KNOWLEDGE PRICE
+
+ERN Knowledge Price:  [**] Euros per vial of [**]g of Product sold by Zavante.
+
+If the final dosage of the Product is different than [**]g the parties will apply a direct calculation in the ERN Knowledge price per vial.  For example, if the vial contains [**]g of Product, the payment per vial will be [**] Euros (i.e. [**]).
+
+ANNEX 3:  DEVELOPMENT RESPONSIBILITIES
+
+ERN will be responsible to prepare and deliver to Zavante Module 2.3. and all of Module 3 in e-CTD format for the Product, including the information indicated below:
+
+Responsibility
+
+F = Financial
+
+T = Technical
+
+Estimated
+
+Completion
+
+Estimated
+
+Budget
+
+Item
+
+Zavante
+
+ERN
+
+Shared
+
+Date
+
+Cost
+
+Reference
+
+[**]
+
+FT
+
+[**]
+
+[**]
+
+[**]
+
+FT
+
+[**]
+
+[**]
+
+[**]
+
+T
+
+F
+
+[**]
+
+[**]
+
+[**]
+
+FT
+
+[**]
+
+[**]
+
+[**]
+
+[**]
+
+FT
+
+[**]
+
+[**]
+
+[**]
+
+FT
+
+[**]
+
+[**]
+
+FT
+
+[**]
+
+[**]
+
+[**][**][**]
+
+F
+
+T
+
+[**]
+
+[**]
+
+[**]
+
+FT
+
+[**]
+
+[**]
+
+[**]
+
+Zavante will be responsible to prepare and compile the full dossier for the Product in e-CTD format to submit to the FDA, including Modules 1, 2 (except 2.3.), 4, 5 and 6, and to add to this information Modules 2.3 and 3 prepared by ERN.
+
+ANNEX 4:  REGULATORY SUPPORT
+
+Zavante is responsible for submitting the registration package for regulatory agency approval in the Territory within a mutually agreed time from receipt of the package from ERN (data only package).  ERN will provide standard regulatory support for Commercial Product to include:
+
+                  ERN will provide to Zavante all required manufacturing-associated data to support Zavante’s filing of the Annual Product Review (APR) with the FDA
+
+                  Cooperation with regulatory agency for pre-approval inspections (PAI)
+
+ANNEX 5:  INDEMNIFICATION PAYMENT
+
+Year*
+
+Indemnification
+
+Payment
+
+(Euros)
+
+1
+
+10,300,000
+
+2
+
+10,250,000
+
+3
+
+10,100,000
+
+4
+
+9,350,000
+
+5
+
+7,350,000
+
+6
+
+5,850,000
+
+7
+
+5,850,000
+
+8
+
+5,850,000
+
+* Following the Effective Date.
+
+In the event the Agreement is terminated by ERN pursuant to Section 7.7.1 on any date other than on an anniversary of the Effective Date, the Indemnification Payment owed by Zavante will be prorated in accordance with the following example:
+
+If the termination date occurs 3 years and 115 days after the Effective Date, the Indemnification Payment will be € 9,863,698.63; i.e., the Year 4 Indemnification Payment amount set forth in the table above (€ 9,350,000) plus a pro-rated portion of the Year 3 Indemnification Payment (€513,698.63), calculated as follows: ((€10,100,000 — €9,350,000)/365)*(365-115)).
+
+ANNEX 6:  Safety Testing
+
+Accordingly with Option1 of ICH guideline S2 (R1) on genotoxicity testing and data interpretation for pharmaceuticals intended for human use, the ERN’s Commercially Reasonable Efforts for performing the qualification of degradation product profile of the Product will be:
+
+About genotoxicity,
+
+i.                                          A test for gene mutation in bacteria.
+
+OECD Test No. 471: Bacterial Reverse Mutation Test
+
+In parallel, one of the following tests:
+
+ii.                                       A cytogenetic test for chromosomal damage (the in vitro metaphase chromosome aberration test or in vitro micronucleus test), or an in vitro mouse lymphoma Tk gene mutation assay.
+
+Chromosome Aberration:  OECD Test No. 473: In vitro Mammalian Chromosome Aberration Test
+
+Micronucleus:  OECD Test No. 487: In Vitro Mammalian Cell Micronucleus Test
+
+MLA: OECD Test No. 476:  In vitro Mammalian Cell Gene Mutation Test
+
+In case the results would not be clearly negative:
+
+iii.                                    An in vivo test for genotoxicity, generally a test for chromosomal damage using rodent hematopoietic cells, either for micronuclei or for chromosomal aberrations in metaphase cells.
+
+Chromosome Aberration:  OECD Test No. 475: Mammalian Bone Marrow Chromosome Aberration Test
+
+Micronucleus: OECD Test No. 474:  Mammalian Erythrocyte Micronucleus Test
+
+About general toxicity,
+
+iv.                                   An Acute Oral Toxicity in rats (Limit dose): OECD Test No. 423. A comparative study of three arm single-dose intravenous toxicity study, with a 14-day observation period, should be performed.
+
+Depending on the results of the previous studies (genotoxicity and single-dose study), it could be necessary to perform a repeated dose study.
+
+ANNEX 7:  Scheme of the information to be sent by Zavante (for example only)
+
+Amendment No. 1 to
+
+AMENDED AND RESTATED
+
+PHARMACEUTICAL MANUFACTURING
+
+AND EXCLUSIVE SUPPLY AGREEMENT
+
+This Amendment No. 1 (this “Amendment”) to the Amended and Restated Pharmaceutical Manufacturing and Exclusive Supply Agreement, dated as of 28 July, 2016 (the “Agreement”), by and between Laboratorios ERN, S.A., a Spanish Company with a principal place of business at 499 Pedro IV, 08020 Barcelona, Spain (“ERN”) and Zavante Therapeutics, Inc., a Delaware corporation with a principal place of business at 11750 Sorrento Valley Road, Suite 250, San Diego, CA 92121, will be effective as of December 1, 2016 (the “Amendment Effective Date”).
+
+W I T N E S S:
+
+WHEREAS, the Parties have entered into and now desire to amend the Agreement to add an additional study to Annex 3;
+
+NOW THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Parties agree as follows:
+
+1.                                      Definitions.  Capitalized terms used and not defined in this Amendment have the respective meanings assigned to them in the Agreement.
+
+2.                                      Amendments to the Agreement.  As of the Amendment Effective Date (defined below), the Agreement is hereby amended or modified as follows:
+
+(a)                                 Annex 3(1), “Addendum to Development Responsibilities,” attached hereto shall be added to Annex 3 of the Agreement.  All other elements of Annex 3 shall remain unchanged.
+
+3.                                      Date of Effectiveness; Limited Effect.  Except as expressly provided in this Amendment, all of the terms and provisions of the Agreement are and will remain in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have caused this Amendment to be executed by their respective duly authorized representatives as of the Amendment Effective Date.
+
+Laboratorios ERN, S.A.
+
+Zavante Therapeutics, Inc.
+
+By:
+
+/s/David Solanes Lopez
+
+By:
+
+/s/Theodore R. Schroeder
+
+Name: David Solanes Lopez
+
+Name: Ted R. Schroeder
+
+Title: General Manager /s/5/12/2016
+
+Title: CEO
+
+ANNEX 3(1):  Addendum to DEVELOPMENT RESPONSIBILITIES
+
+Responsibility
+
+F = Financial
+
+T = Technical
+
+Estimated
+
+Estimated
+
+Item
+
+Zavante
+
+ERN
+
+Shared
+
+Completion Date
+
+Cost
+
+Budget Reference
+
+[**]
+
+T
+
+T
+
+F
+
+[**]
+
+[**]
+
+[**]
+
+Amendment No. 2 to
+
+AMENDED AND RESTATED
+
+PHARMACEUTICAL MANUFACTURING
+
+AND EXCLUSIVE SUPPLY AGREEMENT
+
+This Amendment No. 2 (this “Amendment”) to the Amended and Restated Pharmaceutical Manufacturing and Exclusive Supply Agreement, dated as of 28 July, 2016 as amended on December 5, 2016 (the “Agreement”), by and between Laboratorios ERN, S.A., a Spanish Company with a principal place of business at 499 Pedro IV, 08020 Barcelona, Spain (“ERN”) and Zavante Therapeutics, Inc., a Delaware corporation with a principal place of business at 11750 Sorrento Valley Road, Suite 250, San Diego, CA 92121, will be effective as of March 1, 2017 (the “Amendment Effective Date”).
+
+W I T N E S S:
+
+WHEREAS, the Parties have entered into and now desire to further amend the Agreement to add an additional study to Annex 3;
+
+NOW THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Parties agree as follows:
+
+1.                                      Definitions.  Capitalized terms used and not defined in this Amendment have the respective meanings assigned to them in the Agreement.
+
+2.                                      Amendments to the Agreement.  As of the Amendment Effective Date (defined below), the Agreement is hereby amended or modified as follows:
+
+(a)                                 Annex 3(2), “Addendum to Development Responsibilities,” attached hereto shall be added to Annex 3 of the Agreement.  All other elements of Annex 3 shall remain unchanged.
+
+3.                                      Date of Effectiveness; Limited Effect.  Except as expressly provided in this Amendment, all of the terms and provisions of the Agreement are and will remain in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have caused this Amendment to be executed by their respective duly authorized representatives as of the Amendment Effective Date.
+
+Laboratorios ERN, S.A.
+
+Zavante Therapeutics, Inc.
+
+By:
+
+/s/David Solanes Lopez
+
+By:
+
+/s/Theodore R. Schroeder
+
+Name: David Solanes Lopez
+
+Name: Ted R. Schroeder
+
+Title: General Manager
+
+Title: CEO
+
+ANNEX 3(2): Addendum to DEVELOPMENT RESPONSIBILITIES
+
+Responsibility
+
+F = Financial
+
+T = Technical
+
+Estimated
+
+Estimated
+
+Item
+
+Zavante
+
+ERN
+
+Shared
+
+Completion Date
+
+Cost
+
+Budget Reference
+
+[**]
+
+T
+
+T
+
+F
+
+[**]
+
+[**]
+
+[**]
+
+Amendment No. 3 to
+
+AMENDED AND RESTATED
+
+PHARMACEUTICAL MANUFACTURING
+
+AND EXCLUSIVE SUPPLY AGREEMENT
+
+This Amendment No. 3 (this “Amendment”) to the Amended and Restated Pharmaceutical Manufacturing and Exclusive Supply Agreement, dated as of 28 July, 2016 as amended on December 1, 2016 and on March 1, 2017 (the “Agreement”), by and between Laboratorios ERN, S.A., a Spanish Company with a principal place of business at 499 Pedro IV, 08020 Barcelona, Spain (“ERN”) and Zavante Therapeutics, Inc., a Delaware corporation with a principal place of business at 11750 Sorrento Valley Road, Suite 250, San Diego, CA 92121, will be effective as of May 1, 2017 (the “Amendment Effective Date”).
+
+W I T N E S S:
+
+WHEREAS, the Parties have entered into and now desire to further amend the Agreement to add two additional studies to Annex 3;
+
+NOW THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Parties agree as follows:
+
+1.                                      Definitions.  Capitalized terms used and not defined in this Amendment have the respective meanings assigned to them in the Agreement.
+
+2.                                      Amendments to the Agreement.  As of the Amendment Effective Date (defined below), the Agreement is hereby amended or modified as follows:
+
+(a)                                 Annex 3(2), “Addendum to Development Responsibilities,” attached hereto shall be added to Annex 3 of the Agreement.  All other elements of Annex 3 shall remain unchanged.
+
+3.                                      Date of Effectiveness; Limited Effect.  Except as expressly provided in this Amendment, all of the terms and provisions of the Agreement are and will remain in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have caused this Amendment to be executed by their respective duly authorized representatives as of the Amendment Effective Date.
+
+Laboratorios ERN, S.A.
+
+Zavante Therapeutics, Inc.
+
+By:
+
+/s/David Solanes Lopez
+
+By:
+
+/s/Theodore R. Schroeder
+
+Name: David Solanes Lopez
+
+Name: Ted R. Schroeder
+
+Title: General Manager
+
+Title: CEO
+
+ANNEX 3(3): Addendum to DEVELOPMENT RESPONSIBILITIES
+
+Responsibility
+
+F = Financial
+
+T = Technical
+
+Estimated
+
+Estimated
+
+Item
+
+Zavante
+
+ERN
+
+Shared
+
+Completion Date
+
+Cost
+
+Budget Reference
+
+[**]
+
+T
+
+T
+
+F
+
+[**]
+
+[**]
+
+[**]
+
+[**]
+
+T
+
+T
+
+F
+
+[**]
+
+[**]
+
+[**]
+
+Amendment No. 4 to
+
+AMENDED AND RESTATED
+
+PHARMACEUTICAL MANUFACTURING
+
+AND EXCLUSIVE SUPPLY AGREEMENT
+
+This Amendment No. 4 (this “Amendment”) to the Amended and Restated Pharmaceutical Manufacturing and Exclusive Supply Agreement, dated as of 28 July, 2016, as amended on December 1, 2016, March 1, 2017, and May 1, 2017 (the “Agreement”), by and between Laboratorios ERN, S.A., a Spanish Company with a principal place of business at 499 Pedro IV, 08020 Barcelona, Spain (“ERN”) and Zavante Therapeutics, Inc., a Delaware corporation with a principal place of business at 11750 Sorrento Valley Road, Suite 250, San Diego, CA 92121 (“Zavante”), will be effective as of December, 20th, 2017 (the “Amendment Effective Date”).
+
+W I T N E S S:
+
+WHEREAS, the Parties desire to amend the Agreement to replace Annex 3 of the Agreement with a new version of Annex 3, and to revise the financial responsibilities of the Parties for the Development Responsibilities (as defined in Section 2.3.1. of the Agreement) set forth therein;
+
+NOW THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Parties agree as follows:
+
+1.                                      Definitions.  Capitalized terms used and not defined in this Amendment have the respective meanings assigned to them in the Agreement.
+
+2.                                      Amendments to the Agreement.  As of the Amendment Effective Date (defined below), the Agreement is hereby amended or modified as follows:
+
+(a)                                 ANNEX 3, “Development Responsibilities’” of the Agreement is hereby superseded and replaced, in its entirety, with the version of ANNEX 3 attached to this Amendment.  As referenced in Section 15.12 of the Agreement, the attached version of ANNEX 3 shall form an integral part of the Agreement and is incorporated therein by this reference.
+
+(b)                                 Section 2.3.1 of the Agreement is hereby amended to read, in its entirety (and in substitution of the original Section 2.3.1 of the Agreement), as follows:
+
+2.3.1                     Development Responsibilities.  Each Party will use Commercially Reasonable Efforts to complete certain development activities required for NDA submission and/or in connection with the commercialization of the Product within the Territory, as set forth in ANNEX 3 to this Agreement (the “Development Responsibilities”) according to the following provisions:
+
+2.3.1.1                       Each Party will be responsible for completing its designated Development Responsibilities (as set forth in ANNEX 3), and shall bear [**] costs associated therewith, provided, however, that the Parties shall jointly complete and each Party shall bear [**] of
+
+the total costs associated with Development Responsibilities identified in ANNEX 3 as “shared” (the “Shared Development Responsibilities”).
+
+2.3.1.2                       The Parties will mutually agree upon the protocols and costs for the Development Responsibilities and Zavante shall confer with ERN on any change to the Development Responsibilities listed in ANNEX 3, or to any new activities required by the FDA that Zavante intends to include as new Development Responsibilities under this Agreement.  Notwithstanding the foregoing, but subject to Sections 2.3.1.3 and 2.3.1.4, and to Section 2.3.1.5 with respect to Shared Development Responsibilities, in the event the Parties are unable to reach agreement on such protocols and costs, Zavante shall have final decision-making authority with respect to protocols and costs for the Development Responsibilities.
+
+2.3.1.3                       Notwithstanding the foregoing, ERN’s share of the total costs associated with the Development Responsibilities (including amounts reimbursed to Zavante prior to the Amendment Effective Date) shall not exceed [**] U.S. Dollars (USS $[**]), even if the actual costs of the Development Responsibilities exceed the estimated amounts in ANNEX 3.  This amount shall be understood to be the total amount to be paid by ERN for all Development Responsibilities (including, without limitation, Shared Development Responsibilities), independently of ownership of any Intellectual and Industrial Property Rights related thereto, which shall be governed by Section 10.8.
+
+2.3.1.4                       For the avoidance of doubt, and without prejudice to the obligations that Zavante decides to assume on its own behalf due to Zavante’s final decision-making authority under Section 2.3.1.2, neither Party shall have any financial or technical obligation with respect to any Development Activity that is not included in ANNEX 3 unless an amendment to the Agreement incorporating such Development Activity is executed by authorized representatives of both Parties.
+
+2.3.1.5                       Shared Development Responsibilities - Procedures.
+
+2.3.1.5.1             The Parties will agree in writing as to which Party will be the “Lead Party” with respect to the preparation, execution, monitoring, contracting and paying the selected service provider for each of the Shared Development Responsibilities initiated following the Amendment Effective Date.
+
+2.3.1.5.2             The Lead Party for each Shared Development Responsibility will be responsible for developing the protocol and, unless a budget is already included in ANNEX 3, a budget of estimated costs for such Shared Development Responsibility.
+
+2.3.1.5.3             If requested in writing by the other Party, the Lead Party shall endeavor to obtain [**] budget quotes from qualified service providers.
+
+2.3.1.5.4             The other Party shall notify the Lead Party in writing of any objections within [**] after receiving a copy of the protocol and budget estimate.  Failure to provide any objection within such three-day period shall be deemed to be approval of such protocol and budget estimate.  The Lead Party and the other Party shall work together in good faith to resolve any such objections in a timely manner.
+
+2.3.1.5.5             Subject to Section 2.3.1.3, the other Party agrees to reimburse the Lead Party for its [**] of the costs for each Shared Development Responsibility within [**] of receiving an invoice from the Lead Party.  With each such invoice, the Lead Party shall include copies of all invoices and receipts from service providers for the Shared Development Responsibilities.
+
+(c)                                  Section 10 of the Agreement is hereby amended to include the following new Section 10.9:
+
+10.9            Developed Intellectual Property and Confidential Information.  As between the Parties and subject to the terms of this Agreement, each Party shall jointly own all right, title and interest in and to all Intellectual and Industrial Property and all other information, reports and findings, methods, procedures, study results and inventions developed as a result or in the course of completing the Development Responsibilities (including Shared Development Responsibilities), whether completed before the Amendment Effective Date or afterwards and irrespective of inventorship (“Developed Intellectual Property”).  Additionally, all Developed Intellectual Property shall be considered Confidential Information of both Parties.
+
+10.9.1              Each Party will have the right, subject to the terms of this Agreement, to make, have made, use, offer to sell, sell and import Products incorporating the Developed Intellectual Property and freely exercise, transfer, assign, license, encumber, enforce and otherwise exploit (“Exploit”) its rights in the Developed Intellectual Property without the consent, joinder, or participation of, or payment or accounting, to the other Party, provided, that, Zavante’s rights to Exploit the Developed Intellectual Property shall apply only within the Territory, and ERN’s rights to
+
+Exploit the Developed Intellectual Property shall apply only outside of the Territory.  For the avoidance of doubt, ERN shall have no right to Exploit the Developed Intellectual Property within the Territory, and Zavante shall have no right to Exploit the Developed Intellectual Property outside of the Territory.  Each Party will, and hereby does, assign, license and otherwise transfer, and shall cause its Affiliates to assign, license and otherwise transfer, to the other Party and its permitted successors and assigns, without requirement of additional consideration, all such right, title and interest in and to the Developed Intellectual Property as is necessary to fully effect the provisions of this Section 10.9.
+
+10.9.2              Each Party shall promptly disclose to the other Party all such information, reports and findings, methods, procedures, study results and inventions developed as a result or in the course of completing the Development Responsibilities (including Shared Development Responsibilities), whether developed prior to or after the Amendment Effective Date.
+
+10.9.3              Without prejudice to the agreements contained in this Section 10.9, all Developed Intellectual Property and Developed Confidential Information shall be subject to Zavante’s rights under Sections 10.1, 10.3 and 10.7 of the Agreement, and to ERN’s rights under Section 10.2.
+
+10.9.4              The Parties shall use commercially reasonable efforts to address all issues concerning the inventorship, or ownership of, or any rights to, Developed Intellectual Property, in a fair and equitable manner and in accordance with the requirements of applicable patent law to achieve the goals of this Agreement.  If a dispute arises concerning the Developed Intellectual Property, it shall be resolved in accordance with Article 14 of the Agreement.
+
+3.                                      Date of Effectiveness; Limited Effect.  Except as expressly provided in this Amendment, all of the terms and provisions of the Agreement are and will remain in full force and effect.
+
+In the event of any conflict between the terms of the Agreement or the amendments thereto stated herein, the amendments will prevail.
+
+IN WITNESS WHEREOF, the Parties have caused this Amendment to be executed by their respective duly authorized representatives as of the Amendment Effective Date.
+
+Laboratorios ERN, S.A.
+
+Zavante Therapeutics, Inc.
+
+By:
+
+/s/David Solanes Lopez
+
+By:
+
+/s/Theodore R. Schroeder
+
+Name: David Solanes Lopez
+
+Name: Ted R. Schroeder
+
+Title: General Manager
+
+Title: CEO
+
+ANNEX 3: DEVELOPMENT RESPONSIBILITIES
+
+Zavante will be responsible to prepare and compile the full dossier for the Product in e-CTD format to submit to the FDA, including Modules 1, 2, 4, 5 and 6.  ERN will be responsible to review Module 2.3 and all of Module 3 prepared by Zavante in e-CTD format for the Product.
+
+Development Activity
+
+Responsibility
+
+T=Technical
+
+F=Financial
+
+ERN
+
+payment
+
+received(2)
+
+Budget
+
+[**]
+
+Shared T & F
+
+[**]
+
+[**]
+
+[**]
+
+Shared T & F
+
+[**]
+
+[**]
+
+[**]
+
+Shared T & F
+
+[**]
+
+[**]
+
+[**]
+
+Zavante T & F
+
+Shared T&F
+
+[**]
+
+[**]
+
+[**]
+
+Shared T&F
+
+[**]
+
+[**]
+
+[**]
+
+Shared T&F
+
+[**]
+
+[**]
+
+Shared T&F
+
+[**]
+
+[**]
+
+Shared T&F
+
+[**]
+
+[**]
+
+Shared T, ERN F
+
+[**]
+
+Total Development Estimate
+
+[**]
+
+[**]
+
+Note [**]
